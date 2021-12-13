@@ -1,3 +1,6 @@
-rowordnet
-pandas
+transformers
+torch
+nltk
+datasests
+scikit-lean
 numpy
