@@ -1,0 +1,118 @@
+Scenariul de Securitate la Incendiu
+2020-11-24 1671 0
+Scenariul de Securitate la Incendiu infografic cu pasii pentru intocmirea acestuia
+Logistica întocmirii unui proiect care implică Autorizare sau Avizare la ISU s-a complicat după dorința ISU pentru modificarea procedurii de întocmire și completare la Scenariul de Securitate la Incendiu. (SSI)
+
+Dacă nu era suficient de complicată procedura, acum s-a complicat și mai mult cu prezenta pandemie în care documentele printate au potențial real de contaminare.
+
+
+Ne dorim simplificare, eficientizare și digitalizare în contextul prezentei sau posibilelor viitoare crize sanitare.
+
+Încă se păstrează proceduri neschimbate pentru acest document plimbat inutil și ineficient prin zeci de mâini.
+
+Rezultă o prelungire și întârziere și mai mare din cauza carantinării’ documentației combinată cu traseului deja anevoios între proiectanți-verificatori-client-curier/ghișeu-autorități.
+
+Procedura era (prea?) simplificată
+Scenariul de Securitate la Incendiu era mult mai succint, cu date mai mult despre arhitectură și referiri minime despre instalații.
+
+Era întocmit de către arhitect, prelua anumite sau o parte din datele de instalații în format digital, primite punctual de la ingineri sau extrase din memoriile lor tehnice.
+
+Printat, semnat și ștampilat de către arhitect sau verificatorul arhitectului.
+
+Documentația scrisă, cu datele complete despre instalații, era cuprinsă în memoriile tehnice atașate/aferente planșelor de instalații.
+
+Toată această documentație a inginerilor, compusă din planșe și memorii tehnice de instalații, împreună cu SSI-ul și cu planșele de arhitectură pentru predare erau făcute pachet de către arhitect și trimise la autorizare sau avizare.
+
+Acum, este complicată procedura
+S-a dorit ca acest document să fie printat, semnat și ștampilat cu toate ștampilele de către arhitect împreună cu inginerii de instalații, ca și cum am lucra, într-un mod idealizat, în același birou, cu toții, la un loc, ca într-o firma de mare prestigiu sau într-o corporație mică sau medie.
+
+Din păcate sau din fericire, în perioada asta, multă lume lucrează de acasă sau în efective foarte reduse și, în anumite zile, când e cazul, pe la birou.
+
+De ce s-a schimbat procedura
+Din ce am înțeles, pe surse, pentru ordonarea și centralizarea părților scrise SSI arhitectura și memorii instalații într-un singur document (ele se depuneau in același pachet/dosar dar amestecate printre planșe) și:
+
+Pentru ergonomia procesului de studiere și analiză a dosarului din partea autorităților.
+
+S-a dorit și disciplinarea proiectanților care întocmesc scenariul cu date neactualizate sau eronate primite de la ingineri, care la rândul lor nu verificau versiunea finală preparată de arhitect.
+
+Cum se naște acum Scenariul de Securitate la Incendiu
+Scenariul de Securitate la Incendiu începe cu scrierea datelor din proiect pe un fișier digital de tip word, de obicei pe un model de la un proiect anterior din care mai lipsesc capitole sau sunt amestecate aceste capitole, bineînțeles, fără intenție.
+
+De cele mai multe ori, se lucrează pe un document word neformatat, cu fonturi pestrițe și multiple, cu numerotări manuale ale capitolelor și subcapitolelor.
+
+În acest fișier, arhitectul este primul care ia inițiativa și începe, cu foarte multă atenție, să completeze date esențiale din proiect care țin de partea de arhitectură.
+
+Zona din fișier dedicată părților de instalații va fi lăsată liberă pentru pentru completarea datelor de instalații.
+
+Scenariul de Securitate la Incendiu va fi semnat de toate specialitățile (arhitectură și instalații), la sfârșitul documentului/scenariului, pe o singură foaie/filă (toate semnăturile pe aceeași foaie.)
+
+Normele metodologice de întocmire pentru Scenariul de Securitate la Incendiu
+Normele metodologice privind avizarea și autorizarea de securitate la incendiu și protecție civilă din 25.08.2016: https://lege5.ro/Gratuit/gezdmojyguya/normele-metodologice-privind-avizarea-si-autorizarea-de-securitate-la-incendiu-si-protectie-civila-din-25082016
+
+Plimbarea 1 digitală în Scenariul de Securitate la Incendiu
+Arhitectul introduce datele care țin de arhitectura (Rezistențe la Foc pereți, stâlpi, uși, plafoane, lungimi de evacuare, prevederi specifice și alte calcule extrem de laborioase, șamd) și apoi este trimis SSI-ul în două zări:
+
+1. către verificatorul părții de arhitectură
+
+2. zarea către inginer sau către reprezentantul inginerilor.
+
+Pe fișierul digital primit de la arhitect, ingineri introduc și ei, pe rând sau dintr-o bucată, datele în acest fișier.
+
+Fișierul, tot în format digital, este trimis de inginerii de instalații către verificatorul sau verificatorii dânșilor de instalații.
+
+Verificatorul de instalații aduce observații și poate completa cu date suplimentare în punctele cu date de instalații.
+
+Proiectanții de instalații preiau completările și modificările de la verificatorul lor și le trimit completate în cadrul aceluiași fișier către Arhitect.
+
+Arhitectul sau verificatorul, în multe cazuri, completează aceste date de instalații din fișierul de la ingineri.
+
+Scenariul trimis în primă fază/zare, trimis către verificatorul pe datele de arhitectură, este completat cu celelalte date extrase din fișierul primit de la inginerii de instalații.
+
+Într-un final, arhitectul sau verificatorul poate printa Scenariul de Securitate la Incendiu în formă finală.
+
+Scenariul în format digital
+Link one drive (actualizat mai des): https://1drv.ms/w/s!Al2Eq6nKnaKglsx2vm16PwH_k4OXzQ?e=84YIke
+
+Link de descărcare de pe site:
+
+Icon
+Model Scenariul de Securitate la Incendiu
+ 1 file(s)  54.20 KB
+https://www.urbanambition.ro/download/model-scenariul-de-securitate-la-incendiu/
+
+Scenariul de Securitate la Incendiu Preview Cuprins
+Preview Cuprins Scenariul de Securitate la Incendiu
+Plimbarea 2 nedigitală cu Scenariul de Securitate la Incendiu
+Scenariul printat este ștampilat și semnat de verificatorul arhitectului.
+
+Scenariul final printat este trimis la echipa de ingineri sau la unul din ingineri, urmând ca acesta să trimită la următorul inginer, și tot așa până la ultimul inginer care va trimite către arhitect scenariul ștampilat, semnat de ei și de toți verificatorii lor.
+
+Arhitectul preia, într-un final, prețiosul Scenariu pe care pune și el ștampilele și semnătura.
+
+Împreună cu toată documentația aferentă avizării sau autorizării, scenariul este trimis către beneficiar sau se depune către autorități.
+
+Echipa de proiectanți sau Proiectanți echipați
+Dacă echipa proiectanților de instalații este împărțită în mai multe locuri sau proiectanții au birouri separate, efortul logistic și plimbarea hârtiilor se intensifică.
+
+Ar fi mai simplu de revenit la situația inițială sau o variantă simplificată și îmbunătățită în același timp?
+E nevoie de analiză și de gândirea unui mecanism pentru simplificarea procedurilor, reducerea hârtiilor și a traseului pentru Scenariul de Securitate la Incendiu.
+
+Ce se întâmplă acum e o pierdere de energie și risc epidemiologic și neurologic.
+
+Cum se Poate simplifica
+Scenariul de Securitate la Incendiu ar putea fi împărțit/modulat în părți aferente fiecărei specialități, la fel ca planșele, cu semnătura fiecărei specialități la finalul modulului/pachetului de pagini/file aferent fiecăruia.
+
+Practic, fiecare proiectant de specialitate ar transmite către arhitect partea/filele printate din partea lor de SSI, ștampilate de ei și de verificatorii lor specializați strict pe instalații.
+
+Ca proiectant general sau “arhitect șef de proiect”, aș primi și aș pune împreună, în același pachet SSI, toate aceste file/părți printate de inginerii de instalații ca parte a lor din SSI pentru a alcătui, împreună cu partea mea de SSI-arhitectură, un volum unic “SSI final” semnat pe fila ultimă a părții de arhitectură, doar cu semnătura și ștampila mea.
+
+Singurul loc unde ar putea apărea toți proiectanții la un loc, ar fi o filă sub foaia de capăt, fără nicio ștampilă și nicio semnătură.
+
+Ideea ar fi de centralizare, dar cu module de la specialități care se adaugă în funcție de cerințe, module care vor alcătui un document unic SSI final, fără să treacă prin toate plimbările digitale și nedigitale descrise mai sus.
+
+Nu în ultimul rând: Responsabilizarea proiectanților generali prin respectarea procedurilor privind actualizarea versiunilor finale ale de date tehnice scrise în scenariu primite de la toți proiectanților.
+
+Cum se Poate Complica și mai Mult (Așa Nu)
+Se pregătea sau se poate pregăti o inițiativă legislativă în care să existe obligativitatea ca inclusiv Memoriul Tehnic să fie obligatoriu de predat lângă SSI sau, chiar cred, dacă există voință și hărnicie din partea legiferatorilor, se poate complica, în mod inutil, și mai mult treaba cu obligativitatea:
+
+Centralizarea și a Memoriului Tehnic, la fel ca SSI-ul, cu toate datele la grămadă, arhitectură și instalații, semnat și acest Memoriu Tehnic de absolut toți proiectanții care au participat la proiectul respectiv.

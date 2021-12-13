@@ -1,0 +1,85 @@
+Zidarie Portanta Centuri sau Stâlpi Grinzi
+2021-09-07 440 0
+zidarie portanta vs cadre
+Ce este o zidarie portanta . Diferența între o structură pe cadre cu cofrare individuală pe toate laturile la fiecare stâlp/grindă și o structură de stâlpișori și centuri cofrate și sprijinite pe zidăria din BCA sau cărămidă.
+
+Majoritatea caselor din zidărie cu beton armat, construite la noi în țară, sunt alcătuite cu structura de beton cu zidărie neportantă – majoritatea acestor alcătuiri și structuri sunt neconforme în combinații cu zidării slab portante sau neportante.
+
+În cazul structurilor pe cadre, zidăria este realizată ulterior acestei structuri stâlp – grinzi. Pentru structurile cu ” zidarie portanta “, stâlpii (stâlpișorii/sâmburii) de beton armat sunt cofrați și turnați după realizarea parțială sau totală a zidăriei.
+
+Pereți insuficient armați și tensionați
+Rezulta niște pereți insuficient armați, rezulta pereți de zidărie tensionați și supraîncărcați cu greutatea centurii si a planșeului.
+
+Această situație improvizată este tolerată și, în loc să se găsească o soluție simplificată dar mai aproape de conformitate structurală, fiecare meșter sau conducător de construcție în regie proprie se descurcă cum poate.
+
+În acest articol am scris despre cum se face în realitate construcția cu structură “simplificată”, despre problematica calității materialelor de armare, posibile soluții de conformare care să fie eficiente în execuție, rezistente la cutremure, la uzura și oboseala/îmbătrânirea materialelor.
+
+Stasuri și normative care se aplică doar la o parte din construcții și clădiri.
+Toate aceste normative și stasuri se aplică la toate clădirile din categoria de importanță B, pentru o parte la cele din categoria C și aproape la niciuna din categoria D. (Despre categoriile și clasele de importanță am scris aici: (https://www.urbanambition.ro/clasa-de-importanta-a-constructiilor/)
+
+Cele realizate cu fonduri structurale locale sau europene, chiar dacă sunt în categoria C sau D, structurile și elementele de rezistență sunt realizate cu complicata și costisitoarea respectare a normativelor în vigoare.
+
+Cum se face o casă cu structură “simplificată” de beton armat și zidarie portanta
+Pentru cei mai mulți, cu resurse foarte limitate, pentru case din mediul rural dar și din cel urban sau periurban, se construiește după o rețetă simplificată, în sistem cu zidărie de 25 de cm, cu stâlpișori de 25×25 cm înglobați și cofrați simplu pe două laturi între pereții de zidărie.
+
+În locul grinzilor sunt turnate centuri cu secțiune pătrată așezate pe pereți de zidărie neportantă. (sau foarte slab portantă).
+
+Fundația și soclul
+Proiectul de autorizație și cel tehnic au prevederi doar legate de fundații și soclu armat, în marea majoritate a cazurilor nerespectându-se desenul din proiect (dimensiuni și armături prevăzute) al fundației și nici adâncimea săpăturii pentru aceasta
+
+Placa de beton peste parter cu zidarie portanta
+Placa de beton peste parter se armează dublu sau chiar triplu dacă nu există o claritate privind diverșii furnizorii de fier cu proveniență neclară.
+
+Tot felul de tehnici cu cofraje de lemn pierdute și profile metalice la fel de pierdute în cofrajul planșeului pentru eliminarea decofrărilor și a popilor din parter, pentru eliminarea timpului de așteptare la întărirea plăcii. Cu acest sistem, a treia zi de la turnarea plăcii se poate trece la operațiunea zidăriilor și stâlpilor pentru etaj sau mansarda.
+
+Stâlpii pătrați de 30 de centimetri
+Conform ultimelor prevederi din normativ nu mai sunt acceptați stâlpi de 25x25cm
+
+Cei 30×30 de centimetri (obligatorii din norme) încurcă și fac imposibilă cofrarea “simplificată” și turnarea pentru pereți exteriori și interiori cu grosimi de 24 sau 25 de cm.
+
+O soluție ar fi folosirea de zidărie de 30 de cm grosime, dar asta înseamnă costuri ridicate pentru zidărie și grosimi exagerate pentru pereții interiori.
+
+Pentru eficiență în execuție, cei 25 de cm sunt folosiți și la grosimea zidăriei de interior. Rezultă o izolare fonică solidă și niște pereți de interior un pic supradimensionați ca grosime.
+
+O soluție bună: Modulul de 25 de cm în combinație cu cel de 40
+zidarie portanta stalpi si grinzi
+Erata:stalpul in T din axul vertical va avea latura tot de 40×40 cm
+zidarie portanta stalpi si grinzi animatie 3D
+zidarie portanta stalpi si grinzi etape 3D
+Pentru pereții de 25 de centimetri, situația poate fi salvată structural de modulul de 40 de cm.
+
+Se recomandă în locul stâlpilor de 25×25 cm, stâlpi (diafragme) de 25x40cm
+
+În loc de centuri sunt recomandate grinzi (nu centuri) cu înălțimea de minim 40 de cm înălțime.
+
+Pentru stâlpii izolați care nu sunt înglobați în zidărie, se pot cofra cu dimensiunile de 30×30 cm sau tot cu modul de 25×40.
+
+Colțurile clădirii vor fi cu diafragme de 40×40 cu 25 grosime.
+
+Supradimensionarea armăturii VS Proiect Structură
+Veți subdimensiona sau supradimensiona armătura dacă nu aveți proiect de structură. Un proiect de structură vă calculează strictul necesar și rezistența optimă. Acest proiect vă poate costa mult mai puțin față de armătura suplimentară.
+
+În lipsa unei certificări și a siguranței privind fabricarea și calitatea fierului beton (la fier beton sunt probleme nu la beton), veți supradimensiona structura chiar și peste prevederile proiectului. Constructorul poate să depășească cerințele proiectului și să armeze suplimentar în special plăcile de beton armat dar și toată structura în general.
+
+Ce este o zidarie portanta
+Zidăria care se fabrică în zilele noastre este cel mult autoportantă, cu anumite limite de înălțime.
+
+Rolul acestei zidării trebuie să fie strict pentru umplerea zidului și, cel mult, în cazul sistemului cu stâlpișori și centuri, doar cu rol de cofrare și de susținere temporară a grinzii sau centurii de beton armat în curs de întărire/uscare.
+
+Zidăria are rol de susținere la împingere și lovituri, nu rol de structură.
+
+O zidarie portanta este un zid plin de centuri, stâlpi sau stâlpișori. Zidăria singură doar cu mortar cu blocuri din BCA sau cărămidă nu este portantă.
+
+Zidăria este portantă dacă va fi țesută sau consolidată cu plase de armare metalice și beton în urma unui calcul structural.
+
+O zidărie amplasată între cadre sistem stâlpi și grinzi turnate în prealabil, va avea nevoie în anumite cazuri de alți stâlpișori și centuri de beton armat pentru fixarea acestei zidării în cadrul de beton armat.
+
+Pentru casele pe parter și maxim etaj, o soluție poate fi turnarea de stâlpișori suplimentari în dreptul șpaleților ușilor și ferestrelor (dacă soluția de plan este clasică cu ferestre pe mijloc, nu cu ferestre pe colț și alte fantezii arhitecturale costisitoare)
+
+zidarie portanta stalpisori si centuri
+O soluție conformă cu armarea corespunzătoare la zidaria portanta . În acest caz se poate păstra o centură cu înălțimea de cca 25 cm. Stâlpii (stâlpișorii) de 25×25 cm vor fi în număr suficient de mare pentru armarea zidăriei dar și pentru participarea la rezistența structurală totală a clădirii. Dispunerea lor va ține cont de eventualele ferestre și goluri.
+zidarie portanta stalpisori centuri stalpi si grinda
+Combinație între sistem stâlpișor centură cu stâlpi grindă. Pentru o cameră cu deschideri mari, la o clădire cu stâlpișori și centuri, se poate folosi un cadru cu stâlpi în T sau diafragme de 25x40cm și grindă de 50-60 cm înălțime.
+Zidăria portantă e un subiect extrem de detaliat în normative și coduri de proiectare de 280 de pagini de pe site-ul unui minister (în stadiu de draft).
+
+În legătură cu durabilitatea unei clădiri de locuit sau a unei anexe, în acest articol despre ce este o Constructie Provizorie și Documentație simplificată de autorizare.

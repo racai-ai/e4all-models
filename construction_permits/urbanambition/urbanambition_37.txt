@@ -1,0 +1,176 @@
+POT si CUT
+Ce este SC, SU, SCD, Aria nivelului
+
+2019-07-03 76953 0
+Ce este pot si cut infografic 3D
+Ce este POT si CUT – cum se calculează, ce este Suprafața Construită Desfășurată, ce intră și ce nu intră în Suprafața Utilă?
+
+Un “labirint” de pereți și spații care sunt sau poate nu sunt utile sau locuibile.
+
+Legat de acești termeni, foarte multe neclarități și confuzii se fac în rândul clienților dar și în rândul proiectanților sau al autorităților care eliberează avize.
+
+POT și CUT sunt dictate de Certificatul de Urbanism, conform cu indicii urbanistici specificați în Planurile De Urbanism PUG, PUZ sau PUD
+
+Procentul de Ocupare a Terenului (POT), Coeficientul de Utilizare a Terenului (CUT) sunt strâns legate de termenii SC (Suprafața Construită) și SCD (Suprafața Construită Desfășurată)
+
+Voi explica cât mai simplu ce este POT si CUT , voi explica fiecare termen și cum poate fi calculat foarte simplu POT/CUT existent sau propus.
+
+Puteți descărca fișierul Excel apăsând pe butonul de mai jos:
+
+Voi atașa, în această postare, un tabel excel pe care îl puteți folosi pentru calculul POT și CUT propus și existent, pentru unul sau mai multe corpuri de clădire.
+
+Ce este POT (Procentul de ocupare al Terenului) ?
+Nu vă repet ce este POT si CUT definiția din legea 350, o găsiți aici și peste tot pe internet. Voi detalia în articol și ce înseamnă SC, SCD și alte “S-uri” care definesc și condiționează POT-ul.
+
+Procentul de ocupare poate fi aflat folosind tabelul atașat (mai jos, spre finalul articolului) sau, la fel de simplu:
+
+Puneți Suprafața Construită (SC) împărțită la Suprafața Terenului.
+Rezultatul de la punctul 1 îl înmulțiți apoi cu 100
+Rezultatul de la punctul 2 îi puneți semnul % și, gata, ați aflat POT-ul.
+ce este pot si cut formula de calcul POT 
+Rezultatul se înmulțește cu 100 și avem rezultat POT în procente
+Exemplu cu un teren de 500 mp și o clădire de 100 mp
+POT = 100/500= 0,2
+0,2 înmulțit cu 100 = 20
+Rezultă POT = 20 %
+infografic cu exemplificare studiu de caz teren si cladire pot 20% si pot 0%
+Varianta cu clădire pe teren în stânga și POT 20%. În dreapta, teren fără clădire pe el, teren cu POT 0%.
+pot cut casa zburatoare
+Daca ai o casă zburătoare, procentul de ocupare al terenului va fi de 0 %.
+Ce este Suprafața Construită a unei clădiri
+Sunt doua tipuri de Suprafețe Construite:
+
+Suprafața Construită Generală (SCG) a parterului care ține strict de conturul exterior al pereților Parterului. Această Suprafață SCG este folosită, în primul rând, pentru pentru proiectul tehnic dar și pentru determinarea Suprafeței Construite Desfășurate (SCD) pe care o voi descrie mai jos, în articol
+Suprafața Construită (SC) pentru determinare POT, suprafață care ține cont de conturul pereților Parterului dar și de cel al conturului Etajelor superioare ieșite în consolă peste conturul parterului.
+Prima “cunoscută” pentru calculul POT este Suprafața Construită (SC)
+
+Confuzii și interpretări privind POT
+Dacă ai parterul retras, etaje în consolă sau clădire “stil ciupercă” nu ar trebui să păcălești pe nimeni la primărie cu “balcoane” pe care le transformi apoi în camere de locuit, am scris despre asta și în articolul “Mințire POT și Retrageri”: https://www.urbanambition.ro/mintire-pot-retrageri
+
+bloc umbreste cladire vecina
+bloc vedere din balcon in curtea vecina
+cladire la care se inchid balcoanele si se transforma in spatiu de locuit
+Conform legii dar și de bun simț, suprafața Construită este și ar trebui să fie proiecția celui mai ieșit “în afară” etaj sau balcon, (conform cu schițele de mai sus) indiferent că declari balconul ca fiind “deschis”.
+
+Pentru clădiri pe parter sau cu mai multe niveluri care nu au balcoane dar au o streașină ieșită în consolă (în afară), aceste streașine sau plăci ieșite în consolă nu intră în conturul din suprafața construită (nu sunt luate în considerare la SC.)
+
+Suprafața construită se calculează pe conturul care trece la exteriorul peretelui exterior, la fața termoizolației și la fața exterioară a finisajului termoizolației.
+
+Ce intră în calcul pentru POT
+Intră Suprafețele Construite descrise mai sus
+Etajele superioare ieșite în consolă sau
+Conturul Parterului dacă nu există etaje superioare și console la etajele superioare
+Ariile Curților interioare cu suprafața mai mică de 4 mp.
+Ariile Curților exterioare cu suprafața mai mică de 4 mp (“Curți Engleze”)
+Ce NU intră în calcul pentru POT
+Terasele descoperite ale parterului care depășesc conturul etajelor superioare
+Terasele descoperite ale parterului care depășesc linia fațadelor din conturul parterului
+Platforme betonate sau pavate din incintă
+Scările de acces din beton armat sau din alte materiale neacoperite și neînchise
+Ariile Curților interioare cu suprafața mai mare de 4 mp
+Ariile Curților exterioare cu suprafața mai mare de 4 mp (“Curți Engleze”)
+Ce înseamnă POT mic și ce Înseamnă POT mare
+Un POT mic înseamnă o clădire mică pe un anumit teren.
+
+Un POT mare înseamnă o clădire mare pe un anumit teren.
+
+O clădire de 100 mp SC pe un teren de 500 poate fi considerat ca un POT mic.
+
+O clădire de 300 mp SC pe un teren de 500 poate fi considerat ca un POT mare.
+
+Ce este CUT (Coeficientul de utilizare al Terenului)
+ce este pot si cut formula de calcul CUT infografic 
+La fel ca POT-ul, CUT-ul este necesar și el pentru încadrarea în indicii Urbanistici. Fără respectarea acestor indici, un proiect nu poate fi aprobat de către autorități.
+
+Înainte de a vorbi despre CUT, trebuie sa explic ce este SCD (Suprafața Construită Desfășurată)
+
+SCD pentru determinare CUT este diferită de SCD “generală” (SCDG)
+SCDG include absolut toate elementele construite din fiecare etaj al unei clădiri și este folosită pentru calcularea suprafețelor din cadrul Proiectelor Tehnice și pentru Devizul General.
+
+SCD pentru determinare CUT este Suprafața Construită Desfășurată a nivelurilor și elementelor care se iau în calcul strict pentru Autorități (CUT Pentru indici Urbanistici)
+
+O parte din elemente, sau niveluri cu anumite funcțiuni nu se iau în calcul la calculul CUT, acestea intră doar pe lista de suprafețe pentru SCDG descrisă și mai sus. Vom detalia în cadrul articolului aceste niveluri și funcțiuni speciale care nu intră în CUT.
+
+Ce este SCD pentru determinare CUT
+ce este pot si cut exemplificare Suprafete construite si suprafete utile infografic
+Dacă Suprafața Construită este reprezentată de un singur contur maxim al parterului și al proiecției etajelor superioare, dacă avem mai mult de un nivel, SCD este reprezentată de suma a mai multor contururi de la fiecare nivel în parte.
+
+infografic exemplificare scd egal cu sc si CUT 0,2 la un teren de 500 mp si cladire de 100 mp
+infografic exemplificare CUT pentru cladire cu parter si etaj
+Ce este pot si cut infografic 3D
+Ce înseamnă CUT mic și ce Înseamnă CUT mare
+Un CUT mic înseamnă clădiri cu puține etaje sau clădiri doar cu parter.
+
+Un CUT mare înseamnă clădiri cu unul sau mai multe multe etaje.
+
+Suprafețe care intră în calcul pentru CUT
+Aceleași Suprafețele care intră în calcul pentru SC (Suprafața Construită descrisă mai sus)
+Suprafața Construită a fiecărui nivel
+Suprafețele următoarelor elemente NU intră în calcul pentru CUT
+Suprafața subsolurilor care au înălțimea liberă de maxim 1,8 metri
+***Subsolurile cu destinația de garare/parcare
+***Spațiile tehnice
+Spațiile cu destinația protecției civile Apărare Locală Antiaeriană (ALA)
+***Suprafața balcoanelor și a logiilor
+Terasele deschise și neacoperite
+Terasele și copertinele necirculabile
+Podurile neamenajabile
+Aleile de acces pietonal/carosabil în incintă
+Scările exterioare
+Trotuare de protecție (cu condiția ca acestea să nu fie acoperite de etajele ieșite în consolă)
+***Am marcat, mai sus, cu trei steluțe, elemente pe care le-aș interpreta, în anumite cazuri, ca suprafață utilă/utilizabilă, construită și, automat, suprafață SCD de introdus în CUT. Am scris despre asta în articolul “Mințire POT și Retrageri”: https://www.urbanambition.ro/mintire-pot-retrageri
+
+Interpretări și Lacune Legislative / Administrative
+Aceste elemente de determinare a ceea ce este POT si CUT (marcate cu steluță, mai sus) sunt speculate de proiectanți, care, la presiunea clienților, le prevăd pentru alte destinații decât cele din proiect. Mai jos, explic pentru fiecare element în parte.
+
+Definirea Suprafeței Construite pentru POT se bate “cap în cap” cu excluderea din CUT a suprafeței Balcoanelor și Logiilor
+Pentru Logii și Balcoane, o mare parte sunt închise, transformate după sau înainte de autorizare, cu panouri ușoare, zidării sau tâmplării. Aceste “Logii” și “Balcoane” se transformă în corpuri de etaj ieșit în consolă, corpuri care ar trebui să dicteze POT-ul dar CUT-ul.
+
+Un alt argument suplimentar, balcoanele și logiile, dacă nu sunt transformate în camere de locuit, sunt amenajate ca terase circulabile, rezultă terase acoperite și închise, care, conform legii dar și bunului simț logic, intră la CUT. vedeți și articolul “Mințire POT și Retrageri”: https://www.urbanambition.ro/mintire-pot-retrageri
+
+Pentru Subsolurile cu destinația de parcare și Spațiile Tehnice,
+O mare parte din aceste spații sunt transformate în spații de depozitare, ateliere, magazii, locuire ori spații de închiriat pentru locuit sau alte activități comerciale declarate sau nedeclarate ulterior.
+
+Subsolurile, declarate ca locuri de parcare și transformate, ulterior, în alte funcțiuni, pe lângă modificarea planificării imobilului, modifică parametrii Urbanistici, modifică CUT-ul inițial. Acest lucru se făcea și cred că încă se mai face, într-un mod bizar, posibil ilegal, prin schimbarea în/prin cadastru a funcțiunii, fără să treacă prin proces de autorizare/avizare a spațiilor respective. Modificările, în pripă, aduse la Legea 50/1991 prevăd posibilitatea shimbării destinației în anumite condiții pe care le-am analizat aici: https://www.urbanambition.ro/legea-autorizatiei-de-construire/
+
+Ce este Suprafața Utilă
+infografic cu exemplificarea Suprafetei utile vs suprafata Construita
+Suprafața utilă nu include Pereții
+Dacă luăm exemplul unei clădiri cu două camere/încăperi, Suprafața Construită (SC) include spațiile utilizabile dar și pereții exteriori sau interiori. Suprafața Utila (SU) nu trebuie să includă pereții exteriori.
+
+Se fac multe confuzii între suprafețele Construite, Ariile Nivelurilor, Suprafețele Utile și suprafețele Locuibile sau Utilizabile (utilizabile pentru anumite activități comerciale/industriale).
+
+Aceste confuzii pot fi speculate neintenționat sau cu bună știință de agenții imobiliare sau dezvoltatori. Privind suprafața reală utilizabilă a spațiilor din proiect sau a spațiilor deja amenajate, se poate face transmiterea de specificații amăgitoare sau neclare pentru clienți.
+
+Tipuri de Suprafețe Utile
+Subliniez trei tipuri principale de suprafețe:
+
+Aria Nivelului – necesară pentru Proiectul Tehnic dar și pentru evaluarea SU
+Aria Apartamentului/Compartimentului din cadrul unei clădiri, aceasta este un fel de “Suprafață Construită” a Apartamentului/Compartimentului
+Suprafața Utilă – suprafață pe care încercăm să o definim aici. Suprafața Utilă poate fi comună sau aferentă unei proprietăți/apartament.
+Aria Nivelului (AN)
+Include conform stas nr 4908-85 dar și conform legii 350 o serie de spații care, după cum am scris și mai sus, ar trebui să fie luate în considerare la calculul CUT (mă refer în special la logii și balcoane).
+
+Un ghid destul de complex, privind și alte tipuri de Suprafețe, este realizat de Asociaţia Naţională a Evaluatorilor Autorizaţi din România (ANEVAR)
+În acest ghid, printre altele, se face referire la același stas menționat mai sus dar și la alte stasuri la fel de neactualizate și “ne-reeditate”, ghiduri sub forma de fișiere pdf scanate cu schițe și desene destul de ilizibile și neactualizate din anii 80…
+
+În Ghidul realizat de ANEVAR, voi extrage câteva denumiri de suprafețe/arii: Arie Comercială, Arie Auxiliară, Arie de Exploatare, Arie de Depozitare, șamd.
+
+Ce consider că trebuie inclus în Spațiul Util (SU)
+Un bun Profesor spunea că “Un spațiu util este un spațiu pe care îl poți mobila”
+
+Voi include în spațiile utile următoarele: Camerele, balcoanele, logiile, terasele închise și acoperite. Da, logia și balconul este un spațiu aproape la fel de util cum poate fi o cameră închisă, în special când acestea sunt închise parțial sau total cu tâmplării sau pereți.
+
+Ce consider că NU trebuie inclus în Spațiul Util (SU)
+Casa scării, Curțile interioare, spațiile de sub scară și camerele cu înălțimea mai mica de 1,8 m. Stâlpii interiori, ghene de instalții
+
+O concluzie temporară
+Nu este clar pentru proiectanți și nici pentru autorități dacă spațiile Utile trebuie să fie delimitate de pereți sau daca acestea pot fi delimitate intre ele ca “zone” fară pereți și nu ca încăperi cu pereți.
+
+În evaluarea suprafețelor unei clădiri, discuția este nuanțată
+Atunci când se discută despre anumiți pereți interiori mai mult sau mai puțin amovibili (pereți ușori din panori și pereți din gips carton) și anumite zone din încăpere/clădire care pot sau nu pot intra în Suprafața Utilă.
+
+În funcție de specificul activității din clădirea existentă sau propusă, proiectantul trebuie sa evalueze cât mai just spațiile interioare care intră în Suprafața Utilă.
+
+Evaluarea se face pe baza experienței specificului funcțiunii arhitecturale sau a fluxurilor tehnologice dar și cu ajutorul Stasurilor, normativelor de Exploatare și a legislației.
+Evaluarea se face pe baza experienței specificului funcțiunii arhitecturale sau a fluxurilor tehnologice dar și cu ajutorul Stasurilor, normativelor de Exploatare și a legislației.

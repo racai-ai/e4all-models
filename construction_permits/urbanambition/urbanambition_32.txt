@@ -1,0 +1,168 @@
+Regulamentul General de Urbanism
+2020-01-09 6766 0
+
+Regulamentul General de Urbanism și codul civil sunt bazele elaborării planurilor urbanistice și de amenajare a teritoriului PUD, PUZ, PUG, și a Regulamentelor Locale Aferente.
+
+Regulamentul de Urbanism este de tip General și Local.
+
+Găsiți în acest link Regulamentul General de Urbanism
+
+Regulament General (RGU) și Regulament Local (RLU), de exemplu, Regulament local Urbanism PUG București.
+
+Ghidul pentru Elaborarea Regulamentelor Locale de Urbanism
+Pentru întocmirea Regulamentelor Locale de Urbanism există acest ghid elaborat de Ministerul Lucrărilor Publice.
+
+(Am fost nevoit să descarc ghidul de pe site-ul ministerului care dădea erori de securitate și l-am pus pe acest link.
+
+Pe baza Regulamentului General de Urbanism este realizat Fiecare Regulament local de Urbanism aferent Documentațiilor de Urbanism.
+
+RGU, prin RLU stabilește Procentul de ocupare al Terenului, Coeficientul de Utilizare al Terenului dar și alte norme privind reguli de ocupare a terenului și amplasarea a construcțiilor.
+
+Deși aceste norme sunt menționate ca fiind obligatorii, ele pot fi modificate prin Planuri de Urbanism Zonale (PUZ), în funcție de cerințele locuitorilor și ale celor care solicită aceste PUZ-uri.
+
+Regulamentul se Aplică și are prevederi pentru Intravilan (în localități) dar și în extravilan (în afara localităților).
+
+Întrebări și răspunsuri:
+Am voie să construiesc în extravilan?
+Conform art. 4, se pot realiza contrucții în extravilan doar cu realizarea documentațiilor de tip PUZ sau doar pentru anumite obiective de interes general, pentru echipamente și clădiri pentru rețele edilitare.
+
+Am voie să construiesc în pădure?
+Conform art. 5, este interzisă executarea sau amplasarea construcțiilor în interiorul pădurilor.
+
+Sunt acceptate clădiri cu destinație turistică (cabane, hoteluri, etc) la marginea pădurilor. Trasarea Distanței intre clădire/construcție și marginea pădurii este neclară, nu este pichetată și nici inserată în sistem GIS.
+
+De multe ori am văzut clădiri care nu par a fi în margine, clădiri cu totul înconjurate de pădure sau clădiri în pădure.
+
+Observații pe marginea unor articole esențiale din regulament
+In zonele cu valoare peisagistică și zone natural protejate
+(La articolul 8, alin. 1) se interzice deprecierea valorii și peisajului prin folosirea arhitecturii sau a elementelor arhitecturale/constructive care au un aspect conformare volumetrică inestetice. Subiectivitatea evaluărilor date de acest articol poate fi ajutată doar de ghidurile de arhitectura. Nu cunosc o listă cu zonele cu “valoare peisagistică”, zonele protejate presupun că au toate valoare peisagistică în integralitatea lor.
+
+Zonele construite Protejate
+Sunt delimitate clar prin documentațiile de urbanism aferente Regulament Local de Urbanism, prin PUG sau PUZ.
+
+Pentru a construi în aceste zone, o să aveți nevoie de un aviz de la Ministerul Culturii care durează în eliberare destul de mult (art. 9). Pentru clădiri monument sau clădiri în apropierea monumentelor, la fel.
+
+Asigurarea echipării edilitare
+Dacă investiția este prea mare și autoritatea nu are bani de canalizare și alte rețele, nu se permite autorizarea construirii.
+
+Dar, dacă se semnează un “contract”, dacă autoritatea dorește să condiționeze prin acest contract efectuarea totală sau parțială a lucrărilor pe cheltuiala investitorilor. (art. 13)
+
+În realitate, la presiunea și disperarea investitorilor/cetățenilor, avizele se dau indiferent de nivelul de echipare edilitară, în zone cu echipare edilitară slabă sau în zone fără echipare edilitară completă.
+
+Avem multe exemple de zone urbane în care rețeaua publică de canalizare și electrică nu au ținut pasul cu dezvoltările investitorilor privați, ansambluri rezidențiale, deja construite, fără canalizare sau fără curent electric.
+
+O mare problemă este cea a lipsei inexplicabile de rețele complete în cadrul Orașelor, zone unde nici măcar nu există studii de dezvoltare și termene concrete de construire a acestor rețele.
+
+Investitorii primesc Certificat de Urbanism pe aceste terenuri, pot începe documentații de Urbanism dar nu pot primi Autorizații de Construire și nici finaliza documentații de Urbanism.
+
+Asigurarea compatibilității funcțiunilor (art. 14)
+Nu există nicio compatibilitate a funcțiunilor deoarece nu s-a pus problema compatibilității acestora în conducerea urbanistică a orașelor. Ateliere auto și depozite pe malul lacurilor, salbe de lacuri urbane folosite pe post de baltă de pescuit rural. Mini blocuri caraghioase și insalubre amplasate arbitrar între locuințe individuale/case. Fațade și forme stridente, cât mai strălucitoare, multă sticlă, mult inox, mult rece.
+
+Orientarea față de puntele cardinale (art. 17) se va face cu recomandările anexei nr 3 la prezentul regulament
+În anexa 3 (in josul documentului, prezentului regulament) Sunt recomandări pentru categorii principale de construcții, recomandări privind însorirea sau evitarea însoririi excesive pentru anumite funcțiuni sau anumite încăperi/zone funcționale din construcția respectivă.
+
+Voi menționa doar prevederile pentru locuințe: nu se recomandă orientarea spre nord a dormitoarelor. Am scris în acest articol despre așezarea casei pe teren: https://www.urbanambition.ro/asezarea-casei-pe-teren/
+
+Sfatul meu este, dacă nu aveți de ales, poziționați pe nord doar camera de oaspeți sau dormitorul pe care îl folosiți cel mai puțin. pe nord se poate amplasa o cameră care este folosită ca birou sau ca atelier de lucru/studiu.
+
+Veți găsi, tot în anexa 3 din cadrul regulamentului, recomandări pentru clădiri de birouri, învățământ, sănătate, comerț, etc.
+
+Amplasarea față de drumuri publice
+Dacă ați cumpărat un teren sau aveți un teren cu acces din drum județean sau Drum Național, există o serie de restricții și retrageri pentru amplasarea construcțiilor (inclusiv a gardurilor) față de drum, după cum am scris și în articolul despre Categorii de Strazi si Drumuri
+
+Retrageri și restricții plus avize suplimentare vor fi și pentru terenurile din zona de protecție a Căilor Ferate (art. 20). Zonă de protecție de 100 de m de la limita cadastrală a CFR.
+
+Amplasarea față de aeroporturi
+În zona aeroporturilor, în funcție de distanța față de culoarele de zbor, vor fi restricții privind înălțimea clădirilor. (art. 21)
+
+Majoritatea aeroporturilor nu au zone de protecție tratate corespunzător (perdele verzi forestiere) și construcții amplasate la o distanță mică. În funcțiile de valorile de trafic, disconfortul prevenit de la poluarea aerului poate fi destul de amplificat. Mai este și poluarea fonică, în special de cei aflați pe zona culoarului de zbor.
+
+Amplasarea față de aliniament (art.23)
+Construcțiile se vor alinia obligatoriu la aliniamentul clădirilor vecine existente.
+
+Se permit anumite retrageri care să fie corelate cu alte retrageri dintr-un scenariu urbanistic de ritmare sau rupere a monotoniei frontului construit față de stradă, scenariu ales de arhitect și urbanist. Aliniamentul este linia care separă proprietatea privată de domeniu public.
+
+Am scris despre aliniament și aliniere în acest articol: https://www.urbanambition.ro/aliniament-aliniere-retragere/.
+
+Amplasarea în interiorul parcelei (art.24)
+În prezentul articol și regulament se invocă prevederile Codului Civil.
+
+În Codul Civil sunt prevăzute distanțele minime, ale liniilor pereților dar și ale balcoanelor către vecini: art 612, 613 și 614; este vorba de anumite retrageri de 60 și 190 cm, retrageri care nu sunt sporite în toate Regulamentele Locale de Urbanism. În documentațiile de Urbanism și RLU, se impun retrageri laterale de minim 3 metri și posterioare de minim 5 metri, după cum am scris și schițat in desenele din acest articol: https://www.urbanambition.ro/aliniament-aliniere-retragere/
+
+La litera b din articolul 24, sunt menționate distanțele minime necesare intervențiilor în caz de incendiu.
+
+În articolul Blocuri între case am subliniat o serie de aspecte îngrijorătoare privind lipsa autorizării și avizării ISU pentru locuințele colective mici.
+
+Accese carosabile și Pietonale (art 25 și art 26)
+Trebuie să aveți acces carosabil direct sau prin servitute la terenul dvs. Accesul trebuie să permită accesul mijloacelor de stingere a incendiilor.
+
+Accesul pietonal va lua în considerare accesul facil și pentru persoanele cu dizabilități conform normativului NP 051-2012 dar și pentru biciclete sau cărucioare pentru copii.
+
+Racordarea la rețelele publice de echipare edilitară existente (art 27)
+Dacă nu aveți canalizare, se admit doar bazine etanșe vidanjabile, nu mai sunt permise mini-stații de epurare cu dispersie în sol.
+
+Dacă nu aveți rețea de alimentare cu apă, orice puț forat se va realiza doar cu acord de la Apele Române.
+
+La articolul 28 nu este prevăzută nicio obligație pentru autoritatea publică locală pentru extinderea sau realizarea de rețele edilitare, investitorii nu au alte lucruri de făcut decât să construiască sau să extindă rețele edilitare publice parțial sau total pe cheltuiala lor.
+
+Dacă executați rețele edilitare, acestea intră în proprietate publică art 23, alin. 3.
+
+Parcelarea (și asigurarea soluției de echipare colectivă)
+La alin. 1, art. 30, se menționează o prevedere bună dar care este incomplet susținută de alte măsuri.
+
+Prevederea bună impune ca pentru autorizarea unui număr de mai mare de 12 loturi se impune adoptarea de soluții de echipare colectivă. Din articol deducem că este vorba de un teren care are parcele pentru locuințe individuale în regim cuplat, înșiruit sau izolat.
+
+Sistemul de încălzire
+Ce înseamnă soluția de echipare colectivă? Se referă la rețelele edilitare de pe stradă sau străzile interioare, se referă la asigurarea punctului comun de racordare la energia electrică (Post trafo sau BMPT), zonă comună pentru depozitare deșeuri/reciclare, punct de acces rețea de gaze, acces cabluri de date? Ce se întâmplă cu sistemul de încălzire? intră și sistemul de încălzire în termenul de echipare colectivă?
+
+Pentru locuințele individuale, chiar dacă sunt grupate pe loturi, într-un ansamblu, se poate implementa mai greu un sistem de încălzire colectiv, presupunem că se vor încălzi cu sobe/centrale alimentate cu lemne sau peleți/brichete, pompe de căldură sau centrale electrice.
+
+Ce prevederi sunt luate pentru locuințele colective noi, în ansambluri de dimensiuni similare cu cele minim 12 loturi de locuințe individuale (art 30, alin. 1)? Nu se impune și nu se detaliază niciun fel de modalitate de asigurare colectivă a agentului termic pentru încălzire.
+
+In cazul majorității locuințelor colective noi mici (dar și pentru cele mari descrise mai sus), sunt prevăzute sisteme de încălzire individuala.. cu centrale pe gaz, cu contoarele și țevile aferente pe fațade și prin clădiri, cu mentenanța si verificarea aferentă multiplelor centrale amplasate într-o scară de bloc.
+
+Sistemul de încălzire centralizat
+Sunt și cazuri de locuințe colective medii, noi sau vechi, cu proprietari uniți în asociații pentru implementarea de sistem centralizat (de scară sau de bloc), sistem centralizat însoțit de panouri termice și solare.
+
+Dacă pentru locuințele colective mari și medii se pot implementa sisteme parțiale sau total centralizate, o mare scăpare o reprezintă locuințele colective mici care se construiesc aleatoriu și arbitrar pe loturi foarte mici, pe foste loturi de case, între case, între locuințe individuale existente.
+
+Pentru aceste locuințe “Mini-blocuri” dispersate haotic prin țesutul urban existent, nu se pot asigura eficient sisteme de încălzire centralizată, proprietarii preferând metoda centralei de apartament “pe gaz”.
+
+Construcțiile colective mici dispersate aleatoriu/negrupat printre locuințele individuale, pe loturi și intre loturi de foste locuințe/case individuale sunt o eroare urbanistică majoră, după cum am exemplificat în schițele din articolul despre “Blocuri intre Case”.
+
+regulamentul General de urbanism locuinte-colective-densificare-corecta
+Lățimea/deschiderea terenurilor la stradă
+La art 30, alin. 2 Sunt permise deschideri de 8 metri pentru clădiri înșiruite și de minim 12 m pentru clădiri izolate sau cuplate.
+
+Majoritatea Regulamentelor Locale de Urbanism ne sugerează să nu realizăm locuințe izolate pe loturi de 12 metri.
+
+Consider că și pe loturi de 15 metri deschidere este o variantă mai bună sistemul cuplat deoarece se câștigă o curte mult mai mare și mai eficientă pe latura laterală liberă, după cum am scris și în articolul despre Parcelare Terenuri cu Lățimi Înguste https://www.urbanambition.ro/parcelare-terenuri-cu-latimi-inguste/
+
+Suprafața minimă construibilă este de 150 mp
+
+Înălțimea construcțiilor
+La art 31, alin. 1 se inchide și apoi se deschide ușa haosului urbanistic în care se cere păstrarea înălțimii medii a clădirilor învecinate și apoi sunt permise clădiri care pot depăși cu două niveluri clădirile învecinate.
+
+Se poate merge chiar mai sus cu ajutorul art. 3 și al unui PUZ abuziv
+
+Aspectul exterior al construcțiilor (art 32)
+Fac din nou referire la extrem de necesarele ghiduri de arhitectură
+
+Acest articol este nerespectat cu desăvârșire, ținând cont de peisajul construit dominant depreciază aspectul general al zonei, conformarea volumetrică și aspectul exterior intră în contradicție și depreciază valorile acceptate ale urbanismului și arhitecturii.
+
+Conform legislației, arhitectul Șef și comisia de Urbanism au rol decorativ și consultativ, deci dacă doriți să construiți urât, inestetic, împotriva a absolut tot ce scrie în art. 32, nu vă poate opri nimeni, vă poate opri doar conștiința și bunul simț propriu.
+
+Reguli cu privire la amplasarea de parcaje, spații verzi și împrejmuiri
+Majoritatea locuințelor colective nu au numărul de parcări cerute prin lege. Despre parcaje am vorbit în acet link: https://www.urbanambition.ro/parcaje-stationare-oprire/
+
+Mini-blocuri între Case
+În special, locuințele colective mici împrăștiate prin cartiere, aceste locuințe profită și ocupă spațiul public la mica înțelegere sau neînțelegere cu locatarii din locuințele individuale după cum voi scrie în articolul “Blocuri între case“
+
+Împrejmuiri
+Ghidurile de arhitectură prevăd și soluții pentru împrejmuiri.
+
+Regulamentele Locale dar și Certificatele de urbanism ne roagă să folosim, pentru locuințe, spre strada, garduri cu soclu de 60 de cm și plase transparente dublate de gard viu, ansamblu de gard cu înălțimi de 1,80 – 2 metri.
+
+Din păcate, din diverse motive care țin și de securitatea anumitor zone urbane sau rurale, majoritatea gardurilor dinspre stradă sunt adevărate ziduri de apărare inestetice.
+
+Către vecini (lateral și spate) este chiar indicat prin regulament să aveți garduri opace pentru protecție vizuală și fonică.

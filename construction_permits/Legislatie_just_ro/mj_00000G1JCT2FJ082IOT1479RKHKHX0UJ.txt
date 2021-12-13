@@ -1,0 +1,575 @@
+
+METODOLOGIE din 8 aprilie 2003(*actualizată*)
+privind iniţierea, programarea, achiziţia, elaborarea,avizarea, aprobarea şi valorificarea reglementarilor tehnice şi a rezultatelor activităţilor specifice în construcţii, amenajarea teritoriului, urbanism şi habitat
+(actualizată până la data de 15 iulie 2016*)
+
+
+  Notă 
+
+ 
+──────────
+*) Aprobată de ORDINUL nr. 542/2003, publicat în Monitorul Oficial nr. 269 din 17 aprilie 2003.
+──────────
+
+  Notă 
+
+ 
+──────────
+Potrivit art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, în tot cuprinsul Metodologiei privind iniţierea, programarea, achiziţia, elaborarea, avizarea, aprobarea şi valorificarea reglementărilor tehnice şi a rezultatelor activităţilor specifice în construcţii, amenajarea teritoriului, urbanism şi habitat, aprobată prin Ordinul ministrului lucrărilor publice, transporturilor şi locuinţei nr. 542/2003, cu modificările şi completările ulterioare, următoarele sintagme se înlocuiesc astfel:
+ 
+a) "Ministerul Lucrărilor Publice, Transporturilor şi Locuinţei" şi "M.L.P.T.L." cu "Ministerul Dezvoltării Regionale şi Administraţiei Publice", respectiv cu "M.D.R.A.P.";
+  
+ 
+b) "ministrul lucrărilor publice, transporturilor şi locuinţei" cu "ministrul dezvoltării regionale şi administraţiei publice";
+  
+ 
+c) "Direcţia generală tehnică în construcţii" şi "D.G.T.C." cu "Direcţia generală dezvoltare regională şi infrastructură", respectiv cu "D.G.D.R.I.";
+  
+ 
+d) "Direcţia generală economică şi relaţii bugetare" şi "D.G.E.R.B." cu "Direcţia generală management financiar, resurse umane şi achiziţii", respectiv cu "D.G.M.F.R.U.A.";
+  
+ 
+e) "Direcţia generală juridică şi contencios" şi "D.G.J.C." cu "Direcţia generală juridică şi relaţia cu Parlamentul", respectiv cu "D.G.J.R.P.". ──────────
+  
+Capitolul I
+ Prevederi generale
+Articolul 1
+Activitatea de reglementare în construcţii, urbanism, amenajarea teritoriului şi habitat, denumita în continuare activitate de reglementare, potrivit prevederilor Legii nr. 10/1995 privind calitatea în construcţii, cu modificările ulterioare, precum şi ale Regulamentului privind tipurile de reglementări tehnice şi de cheltuieli aferente activităţii de reglementare în construcţii, urbanism, amenajarea teritoriului şi habitat, aprobat prin Hotărârea Guvernului nr. 203/2003, denumit în continuare Regulament, cuprinde:
+- elaborarea de reglementări tehnice în domeniul construcţiilor, urbanism, amenajarea teritoriului şi habitat, denumite în continuare reglementări tehnice;
+- efectuarea/realizarea unor activităţi specifice de reglementare în domeniile menţionate - cercetări, testări, documentaţii, studii, audit, bănci de date, precum şi realizarea prototipurilor necesare fundamentării reglementărilor specifice domeniului, denumite în continuare activităţi specifice de reglementare, aşa cum sunt definite în Regulament.
+Articolul 2
+ 
+(1) Reglementările tehnice se redactează structurat pe titluri, capitole, secţiuni şi articole, după caz, în termeni clari şi precişi, fără posibilităţi de interpretare.
+  
+ 
+(2) În cazul în care în cadrul reglementării tehnice se fac referiri la alte acte normative, inclusiv reglementări tehnice în vigoare, se va evita reproducerea de articole ori preluarea de texte din acestea, indicându-se numai actul, capitolul şi/sau articolul de referinţă.
+  
+ 
+(3) Explicitarea prevederilor se face prin comentarii, exemple de aplicare, pachete de programe de calcul şi materiale ilustrative - figuri, desene, planşe, scheme -, după caz.
+  
+ 
+(4) La finalul reglementării tehnice se menţionează lista actelor normative şi standardelor conexe şi glosarul de termeni specifici domeniului reglementat.
+  
+ 
+(5) Standardele prevăzute în reglementările tehnice sunt documente normative de referinţă.
+  
+
+Alin. (5) al art. 2 a fost introdus prin art. I din ORDINUL nr. 1.410 din 10 august 2004 publicat în MONITORUL OFICIAL nr. 782 din 25 august 2004.
+Articolul 3
+ 
+(1) Dreptul de proprietate asupra reglementărilor tehnice, pe toată durata elaborării acestora, se exercită de Ministerul Dezvoltării Regionale şi Administraţiei Publice, denumit în continuare M.D.R.A.P.
+  
+ 
+(2) Reglementările tehnice intră în proprietatea publică a statului şi devin texte oficiale de natura normativă la data intrării în vigoare a ordinului ministrului dezvoltării regionale şi administraţiei publice prin care au fost aprobate.
+  
+ 
+(3) Dreptul de proprietate asupra rezultatelor activităţilor specifice de reglementare - cercetări, testări, documentaţii, studii, audit, bănci de date şi realizarea prototipurilor necesare fundamentării reglementărilor specifice domeniului - se exercită de M.D.R.A.P.
+  
+
+Art. 3 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+Articolul 4
+ 
+(1) Sub autoritatea M.D.R.A.P. funcţionează Comitetul tehnic de coordonare generală, denumit în continuare CTCG, şi comitetele tehnice de specialitate, denumite în continuare CTS, organisme consultative şi de avizare în activitatea de reglementare.
+  
+ 
+(2) Modul de organizare şi funcţionare a CTCG şi CTS se aprobă prin ordin al ministrului dezvoltării regionale şi administraţiei publice.
+  
+
+Art. 4 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+Capitolul II
+ Atribuţii şi responsabilităţi privind activitatea de reglementare
+Secţiunea 1
+ Autoritatea contractantă
+Articolul 5
+Potrivit prevederilor Legii nr. 10/1995
+, cu modificările ulterioare, şi ale Hotărârii Guvernului nr. 203/2003
+, M.D.R.A.P. are atribuţii privind iniţierea, programarea, achiziţia, elaborarea, avizarea, aprobarea şi valorificarea reglementărilor tehnice şi a rezultatelor activităţilor specifice de reglementare.
+
+Art. 5 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+Articolul 6
+ 
+(1) Direcţia generală dezvoltare regională şi infrastructură, denumită în continuare D.G.D.R.I., coordonează activitatea de reglementare.
+  
+
+Alin. (1) al art. 6 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) D.G.D.R.I. administrează fondurile necesare activităţii de reglementare, împreună cu Direcţia generală management financiar, resurse umane şi achiziţii, scop în care:
+  
+
+Alin. (2) al art. 6 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+a) întocmeşte bugetul de venituri şi cheltuieli al activităţii de reglementare;
+  
+ 
+b) propune componenţa nominală a CTCG şi CTS, care se aprobă prin ordin al ministrului dezvoltării regionale şi administraţiei publice;
+  
+
+Lit. b) a alin. (2) al art. 6 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+c) elaborează împreună Direcţia generală management financiar, resurse umane şi achiziţii şi cu consultarea CTCG, CTS şi/sau a autorităţilor publice proiecte de programe privind activitatea de reglementare, pe care le înaintează spre aprobare ordonatorului de credit, la propunerea secretarului de stat coordonator;
+  
+
+Lit. c) a alin. (2) al art. 6 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+d) promovează proiectul ordinului de aprobare al fiecărei reglementări tehnice, însoţit de reglementarea tehnică respectiva şi, acolo unde este cazul, de eventualele avize ale autorităţilor împuternicite prin lege să desfăşoare activitate în domeniul reglementării tehnice respective;
+  
+ 
+e) organizează programarea, contractarea, avizarea şi valorificarea activităţii de reglementare;
+  
+ 
+f) tine registrul de evidenta a reglementărilor tehnice prin care se aloca fiecărei noi reglementări câte un indicativ (vezi anexa nr. I.5);
+  
+ 
+g) verifica din punct de vedere tehnic contractele privind elaborarea reglementărilor tehnice şi activităţilor specifice de reglementare;
+  
+ 
+h) organizează achiziţiile publice de prestări de servicii pentru elaborarea reglementărilor tehnice/activităţilor specifice de reglementare;
+  
+ 
+i) actualizează anual lista reglementărilor tehnice în vigoare din domeniul construcţiilor, pe care o transmite spre publicare pe pagina de internet a Ministerului Dezvoltării Regionale şi Administraţiei Publice, la secţiunea «Construcţii», în vederea asigurării accesului liber şi neîngrădit la informaţiile de interes public.
+  
+
+Lit. i) a alin. (2) al art. 6 a fost modificată de pct. 1 al art. I din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016.
+Articolul 7
+Direcţia generală management financiar, resurse umane şi achiziţii, denumită în continuare D.G.M.F.R.U.A.:
+
+Partea introductivă a art. 7 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+a) verifică, avizează şi urmăreşte execuţia bugetului de venituri şi cheltuieli al activităţii de reglementare, din fondul constituit din venituri proprii la M.D.R.A.P. în baza prevederilor art. 40 alin. 1 lit. a) din Legea nr. 10/1995
+  
+, cu modificările ulterioare;
+
+Lit. a) a art. 7 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+b) verifică utilizarea, în condiţiile legii, a fondurilor pentru activitatea de reglementare;
+  
+ 
+c) verifică partea financiară a contractelor de elaborare a reglementărilor tehnice şi activităţilor specifice de reglementare şi solicită elaboratorului, după caz, introducerea corecţiilor necesare;
+  
+ 
+d) acordă viza de control financiar preventiv intern, semnează şi tine evidenta contractelor aferente activităţii de reglementare;
+  
+ 
+e) asigură decontarea lucrărilor contractate, conform prevederilor contractuale.
+  
+Articolul 8
+Direcţia generală juridică şi relaţia cu Parlamentul, denumită în continuare D.G.J.R.P.
+
+Partea introductivă a art. 8 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+a) verifică legalitatea şi conformitatea proiectelor de contract prezentate cu contractul-cadru prevăzut în anexa nr. II;
+  
+ 
+b) vizează contractele aferente activităţii de reglementare;
+  
+ 
+c) asigura transmiterea ordinelor de aprobare a reglementărilor tehnice spre publicare în Monitorul Oficial al României, Partea I.
+  
+Articolul 9
+ 
+(1) Responsabilul de tema este un specialist din cadrul M.D.R.A.P., care are responsabilitatea urmăririi elaborării reglementării tehnice, respectiv a efectuării/realizării activităţilor specifice de reglementare, începând de la faza de pregătire a achiziţiei până la valorificarea acesteia.
+  
+
+Alin. (1) al art. 9 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) Responsabilul de tema este nominalizat din cadrul direcţiei generale în al carei profil de activitate se regăseşte reglementarea tehnica respectiva, o dată cu elaborarea programului privind activităţile de reglementare.
+  
+ 
+(3) Responsabilul de tema are următoarele atribuţii:
+  
+ 
+a) întocmeşte caietul de sarcini pentru elaborarea reglementărilor tehnice şi a activităţilor specifice de reglementare;
+  
+ 
+b) răspunde la clarificările privind elementele cuprinse în acesta, solicitate de potenţialii ofertanţi la D.G.D.R.I.;
+  
+
+Lit. b) a alin. (1) al art. 9 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+c) asigură pregătirea documentelor necesare contractării lucrărilor de elaborare a reglementării tehnice sau, după caz, a realizării activităţii specifice de reglementare şi verifica conformitatea proiectului de contract cu prevederile actelor normative în vigoare;
+  
+ 
+d) îndrumă şi coordonează din punct de vedere tehnic, în toate fazele, elaborarea reglementării tehnice sau, după caz, a realizării activităţii specifice de reglementare;
+  
+ 
+e) aduce la cunoştinţa D.G.D.R.I. eventualele neconcordante cu prevederi ale altor reglementări tehnice - semnalate de elaborator - şi face propuneri privind armonizarea acestora;
+  
+
+Lit. e) a alin. (1) al art. 9 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+f) analizează lucrarea predată/activitatea realizată şi întocmeşte referatul de analiza prin care propune, după caz, avizarea favorabilă - fără condiţii/cu condiţii pentru faza următoare - sau reavizarea ca urmare a necesităţii refacerii/revizuirii;
+  
+ 
+g) stabileşte, împreună cu secretarul CTS, data şedinţei de avizare, participa la avizarea lucrării şi susţine în faţa comitetului referatul de analiza;
+  
+ 
+h) întocmeşte referatul de aprobare a proiectului de ordin privind aprobarea reglementării tehnice de care răspunde;
+  
+ 
+i) participă în comisia de recepţie în calitate de membru;
+  
+ 
+j) verifică şi răspunde de îndeplinirea obligaţiei elaboratorului de a prezenta pe suport magnetic - CD-ROM -, în 3 exemplare, textul reglementării tehnice/activităţii specifice de reglementare, precum şi materialele grafice, după caz, în redactarea finala pentru care s-a obţinut viza "Bun de tipar".
+  
+Secţiunea a 2-a
+ Organismele consultative şi de avizare
+Articolul 10
+ 
+(1) CTCG prevăzut la art. 4 este format din specialişti din cadrul M.D.R.A.P., din institute de profil aflate sub autoritatea sau în subordinea M.D.R.A.P., cadre didactice din învăţământul superior, alţi specialişti cu activităţi recunoscute în domeniu.
+  
+
+Alin. (1) al art. 10 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) CTCG are următoarele atribuţii:
+  
+ 
+a) avizează - cu menţiunea "Bun de tipar" - şi propune spre aprobare prin ordin al ministrului dezvoltării regionale şi administraţiei publice reglementările tehnice elaborate în redactarea a II-a, avizate în prealabil - fără condiţii - de CTS, potrivit prevederilor prezentei metodologii;
+  
+
+Lit. a) a alin. (2) al art. 10 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+b) mediază şi/sau, după caz, arbitrează divergenţele care pot apărea în procesul de avizare a reglementărilor tehnice şi/sau de realizare a activităţilor specifice de reglementare, în toate fazele de elaborare a acestora.
+  
+Articolul 11
+ 
+(1) CTS prevăzute la art. 4 sunt formate din specialişti din cadrul M.D.R.A.P., din institute de profil aflate sub autoritatea sau în subordinea M.D.R.A.P., cadre didactice din învăţământul superior, alţi specialişti cu activităţi recunoscute în domeniu.
+  
+
+Alin. (1) al art. 11 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) CTS au următoarele atribuţii:
+  
+ 
+a) întocmesc, prin grija secretarilor acestora, propuneri de elaborare sau actualizare a reglementărilor tehnice şi/sau realizarea de activităţi specifice de reglementare;
+  
+ 
+b) analizează şi avizează, în toate fazele, reglementările tehnice şi/sau rezultatele activităţilor specifice de reglementare prezentate, în concordanta cu reglementările tehnice şi cu celelalte acte normative în vigoare;
+  
+ 
+c) propun avizarea finala în CTCG a reglementărilor tehnice, în vederea promovării acestora spre aprobare prin ordin al ministrului dezvoltării regionale şi administraţiei publice.
+  
+
+Lit. c) a alin. (2) al art. 11 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) În cazul reglementărilor tehnice şi/sau activităţilor specifice de reglementare cu caracter multidisciplinar, în vederea analizării şi avizării pe faze de elaborare, a asigurării conţinutului tehnic, precum şi a formei de prezentare corespunzător domeniilor respective, funcţionează comitete tehnice de specialitate reunite - formate din membri ai comitetelor tehnice al căror profil se regăseşte în lucrările respective.
+  
+Secţiunea a 3-a
+ Entitatea contractantă
+Articolul 12
+ 
+(1) Entitatea contractantă este instituţia publică sau agentul economic care elaborează, pe baza de contract încheiat cu M.D.R.A.P., reglementări tehnice şi/sau realizează activităţi specifice de reglementare.
+  
+
+Alin. (1) al art. 12 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) Entitatea contractantă menţionată la alin. (1) are următoarele obligaţii:
+  
+ 
+a) elaborează reglementările tehnice şi/sau realizează activităţile specifice de reglementare în toate fazele, la termenele şi în condiţiile de calitate, tehnice şi financiare, potrivit contractului;
+  
+ 
+b) sesizează responsabilului de tema în coordonarea căruia se afla orice neconcordante cu prevederi ale altor reglementări tehnice ori cu acte normative în vigoare şi face propuneri privind armonizarea acestora;
+  
+ 
+c) răspunde de prevederile reglementărilor tehnice elaborate, respectiv de rezultatele obţinute ca urmare a efectuării/realizării activităţilor specifice de reglementare, în ceea ce priveşte asigurarea cerinţelor de calitate prevăzute în Legea nr. 10/1995, cu modificările ulterioare.
+  
+Capitolul III
+ Organizarea activităţii de reglementare tehnică
+Secţiunea 1
+ Programarea
+Articolul 13
+ 
+(1) Reglementările tehnice, precum şi activităţile specifice de reglementare se contractează în baza programelor aprobate de conducerea M.D.R.A.P.
+  
+
+Alin. (1) al art. 13 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) Programele se întocmesc de D.G.D.R.I. împreună cu D.G.M.F.R.U.A., conform anexei nr. I.1, se vizează de preşedinţii CTS şi se aprobă de ordonatorul de credit, la propunerea secretarului de stat coordonator.
+  
+
+Alin. (2) al art. 13 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) Programele pot fi completate sau modificate, în condiţiile alin. (2), în funcţie de disponibilităţile financiare şi/sau de priorităţile ce apar ca urmare a unor necesităţi ulterioare elaborării şi aprobării lui.
+  
+Articolul 14
+La elaborarea programelor se au în vedere:
+ 
+a) strategia M.D.R.A.P. în domeniul activităţii de reglementare;
+  
+
+Lit. a) a art. 14 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+b) priorităţile integrării europene;
+  
+ 
+c) programele-pilot, cercetările, testările, documentaţiile, studiile care pot fundamenta elaborarea unor noi reglementări tehnice sau revizuirea celor existente;
+  
+ 
+d) propunerile făcute de CTS, CTCG, autorităţi ale administraţiei publice centrale/locale, institute de cercetare-dezvoltare, institute de proiectare, instituţii de învăţământ superior, agenţi economici, asociaţii profesionale sau persoane fizice;
+  
+ 
+e) constatările Inspectoratului de Stat în Construcţii ca urmare a controalelor efectuate în teritoriu, precum şi sesizările primite din partea autorităţilor administraţiei publice centrale şi/sau locale referitor la activităţi în domeniul construcţiilor, amenajării teritoriului, urbanism şi habitat.
+  
+Secţiunea a 2-a
+ Cerinţele activităţilor de reglementare
+Articolul 15
+La elaborarea reglementărilor tehnice, precum şi la realizarea activităţilor specifice de reglementare se are în vedere asigurarea cerinţelor de calitate stabilite prin Legea nr. 10/1995, cu modificările ulterioare, care să conducă la:
+ 
+a) armonizarea cu prevederile reglementărilor tehnice din Uniunea Europeană;
+  
+ 
+b) valorificarea rezultatelor obţinute în urma cercetărilor, programelor-pilot, testărilor şi studiilor;
+  
+ 
+c) asigurarea unui nivel corespunzător al calităţii construcţiilor şi, după caz, al activităţilor de amenajare a teritoriului, urbanism şi habitat, în vederea satisfacerii cerinţelor utilizatorilor, ale societăţii, precum şi pentru protecţia mediului.
+  
+Secţiunea a 3-a
+ Fazele elaborării reglementărilor tehnice, efectuării/realizării activităţilor specifice de reglementare
+Articolul 16
+ 
+(1) Elaborarea reglementărilor tehnice cuprinde, de regulă, următoarele faze:
+  
+ 
+a) redactarea I, ancheta şi sinteza observaţiilor la anchetă;
+  
+ 
+b) redactarea a II-a - finala (bun de tipar).
+  
+ 
+(2) În cazuri bine justificate reglementările tehnice se pot elabora într-o singură fază sau în mai multe faze, în funcţie de complexitatea materialului documentar existent, cu avizul comun al CTS, CTCG, precum şi de existenta unui consens al specialiştilor cu activităţi recunoscute în domeniu.
+  
+Articolul 17
+ 
+(1) Faza "redactarea I, ancheta şi sinteza observaţiilor la ancheta" constă în parcurgerea următoarelor etape:
+  
+ 
+a) elaborarea textului reglementării tehnice într-o primă formă, în baza lucrărilor de fundamentare, a rezultatelor cercetărilor ştiinţifice utilizate, a analizei comparative a prevederilor din reglementările tehnice internaţionale sau naţionale din care s-au preluat unele prevederi, precum şi a materialelor dezbătute în cadrul unor întâlniri naţionale sau internaţionale, după caz. Fiecare relaţie de calcul sau formula prezentată şi reţinută va fi comentată, indicându-se explicit sursa;
+  
+ 
+b) ancheta, care constă în transmiterea lucrării elaborate în conformitate cu prevederile lit. a) tuturor factorilor potenţial interesaţi în domeniul reglementat şi, în mod obligatoriu, autorităţilor publice centrale şi/sau locale şi altor instituţii publice cu atribuţii în domeniu, pentru a fi analizată şi a se formula eventuale observaţii;
+  
+ 
+c) sinteza observaţiilor la anchetă, care constă în redactarea sintetică a observaţiilor primite, cu menţionarea celui care le-a formulat, precum şi rezultatul analizei fiecărei observaţii, precizându-se, după caz, însuşirea acestora sau motivaţiile pentru care acestea nu au fost însuşite;
+  
+ 
+d) redactarea I, care consta în amendarea textului elaborat conform prevederilor lit. a), cu acele observaţii primite în urma anchetei şi însuşite de elaborator.
+  
+ 
+(2) Faza "redactarea I, ancheta şi sinteza observaţiilor la ancheta" se preda la beneficiar în minimum 12 exemplare.
+  
+Articolul 18
+ 
+(1) La faza "redactarea a II-a - finala" se revizuieşte conţinutul lucrării în conformitate cu dispoziţiile din avizul CTS, formulate la avizarea fazei "redactarea I, ancheta şi sinteza observaţiilor la anchetă", realizându-se forma finală a textului.
+  
+ 
+(2) Redactarea a II-a finală va fi însoţită, acolo unde este cazul, de avizele favorabile ale autorităţilor publice cu activitate în domeniu, altele decât M.D.R.A.P., interesate de elaborarea reglementării tehnice respective, obţinute anterior prin grija elaboratorului.
+  
+
+Alin. (2) al art. 18 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) Redactarea a II-a - finală se predă la beneficiar în minimum 12 exemplare.
+  
+ 
+(4) După avizarea fără condiţii în CTCG, elaboratorul va preda la beneficiar, înregistrat pe suport magnetic - CD-ROM - (formatul cerut de beneficiar prin contract), în 3 exemplare, textul redactării a II-a - finale pentru care s-a obţinut viza "Bun de tipar" însoţit, după caz, de materialul ilustrativ în original (pe folii transparente, clişeele fotografiilor etc.); programele de calcul se vor prezenta pe suport magnetic - CD-ROM -, însoţit de manualul de utilizare.
+  
+Articolul 19
+ 
+(1) Efectuarea/realizarea activităţilor specifice de reglementare se face, de regulă, într-una sau mai multe faze, după caz.
+  
+ 
+(2) Lucrarea se predă la beneficiar în minimum 12 exemplare.
+  
+ 
+(3) În cazul realizării de testări şi/sau în prototipuri în condiţii reale de exploatare, lucrările efectuate se recepţionează în situ, pe baza documentaţiilor specifice şi cu respectarea prevederilor legale.
+  
+Secţiunea a 4-a
+ Avizarea lucrărilor privind activitatea de reglementare
+Articolul 20
+ 
+(1) Reglementările tehnice, precum şi rezultatele activităţilor specifice de reglementare se avizează după cum urmează:
+  
+ 
+a) de către CTS în domeniu, pentru toate fazele contractuale;
+  
+ 
+b) de către CTS reunite în situaţiile în care, ca urmare a complexităţii reglementării tehnice, aceasta este de competenţa de analiză şi avizare a două sau mai multe CTS;
+  
+ 
+c) de către CTCG pentru viza finala "Bun de tipar" a redactării a II-a a reglementărilor tehnice avizate favorabil fără condiţii în CTS.
+  
+ 
+(2) Se supun avizării toate fazele de elaborare prevăzute prin contract, numai dacă acestea sunt însoţite de referatul de analiză întocmit de responsabilul de temă din cadrul M.D.R.A.P.
+  
+
+Alin. (2) al art. 20 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) La avizarea fazelor beneficiarul asigură participarea reprezentanţilor autorităţilor publice cu activitate în domeniul reglementărilor tehnice respective, altele decât M.D.R.A.P., interesate în elaborarea reglementărilor tehnice.
+  
+
+Alin. (3) al art. 20 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(4) Formularele pentru procesele-verbale de avizare sunt prezentate în anexele nr. I.2 şi I.3.
+  
+Articolul 21
+ 
+(1) Avizarea în CTS, respectiv în CTCG, se poate desfăşura numai în prezenţa a cel puţin doua treimi din numărul membrilor respectivului comitet, în care nu pot fi incluşi membrii comitetului care au participat direct la elaborarea reglementării tehnice şi/sau la efectuarea activităţii specifice de reglementare care se avizează.
+  
+ 
+(2) Concluziile avizării se consemnează în procesul-verbal al şedinţei de avizare.
+  
+ 
+(3) Ca urmare a analizei pe faze a reglementărilor tehnice/activităţilor specifice de reglementare, în cazul unor modificări ale textului, noua formulare adoptată se consemnează în procesul-verbal al şedinţei de avizare şi se înscrie în aviz la rubrica "Condiţii".
+  
+ 
+(4) Divergenţele care pot apărea pe parcursul avizării se consemnează în procesul-verbal - însoţite de motivarea scrisă a celui care le-a formulat - şi se soluţionează de CTCG în termen de cel mult 5 zile lucrătoare de la data comunicării.
+  
+Secţiunea a 5-a
+ Aprobarea reglementărilor tehnice
+Articolul 22
+ 
+(1) Reglementările tehnice se aprobă prin ordin al ministrului dezvoltării regionale şi administraţiei publice, la propunerea D.G.D.R.I., cu avizul favorabil al secretarului de stat coordonator.
+  
+
+Alin. (1) al art. 22 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(2) Reglementările tehnice care au aplicabilitate şi în domeniile de activitate ale altor ministere sau organisme ale administraţiei publice centrale se aproba prin ordin comun al ministrului dezvoltării regionale şi administraţiei publice şi al conducătorilor respectivelor organisme.
+  
+
+Alin. (2) al art. 22 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) Ordinul de aprobare al fiecărei reglementări tehnice conţine şi precizări privind publicarea acestuia.
+  
+Secţiunea a 6-a
+ Valorificarea activităţii de reglementare
+Articolul 23
+ 
+(1) Valorificarea reglementărilor tehnice se face prin publicarea acestora, în conformitate cu prevederile ordinului de aprobare, şi pe pagina de internet a Ministerului Dezvoltării Regionale şi Administraţiei Publice, la secţiunea «Construcţii», în vederea asigurării accesului liber şi neîngrădit la informaţiile de interes public.
+  
+
+Alin. (1) al art. 23 a fost modificat de pct. 2 al art. I din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016.
+ 
+(2) Valorificarea activităţilor specifice de reglementare se face prin constituirea fondului naţional de documentare-informare, în cadrul autorităţii cu atribuţii în domeniu din subordinea/autoritatea M.D.R.A.P. şi, după caz, prin punerea la dispoziţie autorităţilor administraţiei publice centrale şi/sau locale şi celorlalte instituţii interesate.
+  
+
+Alin. (2) al art. 23 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+(3) Lucrările ce fac obiectul activităţilor specifice de reglementare şi care sunt legate de programele prioritare ale M.L.P.T.L. pot fi tipărite şi difuzate prin grija autorităţilor cu atribuţii în domeniu din subordinea/autoritatea M.D.R.A.P.
+  
+
+Alin. (3) al art. 23 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+Capitolul IV
+ Finanţarea activităţii de reglementare
+Articolul 24
+ 
+(1) Din fondurile constituite din venituri proprii la M.D.R.A.P., în baza prevederilor art. 40 alin. 1 lit. a) din Legea nr. 10/1995
+  
+, cu modificările ulterioare, se efectuează cheltuieli curente - cheltuieli de personal, cheltuieli materiale şi servicii - şi cheltuieli de capital privind:
+
+Alin. (1) al art. 24 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+a) plata contravalorii contractelor de elaborare a reglementărilor tehnice/activităţilor specifice de reglementare;
+  
+ 
+b) retribuirea, în condiţiile legii, a membrilor CTCG şi ai CTS, alţii decât salariaţii M.D.R.A.P.;
+  
+
+Lit. b) a alin. (1) al art. 24 a fost modificată de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+ 
+c) achiziţionarea de documentaţii, cărţi, reviste, publicaţii de specialitate etc. din ţara şi din străinătate;
+  
+ 
+d) realizarea de traduceri necesare activităţilor specifice domeniului;
+  
+ 
+e) cheltuieli generate de diseminarea reglementărilor tehnice, precum şi culegerea de informaţii privind modul de implementare a acestora, inclusiv publicarea lucrărilor;
+  
+ 
+f) participarea la simpozioane şi întâlniri ştiinţifice din ţară şi din străinătate, în condiţiile legii;
+  
+ 
+g) achiziţionarea de materiale, consumabile, echipamente, piese de schimb şi software;
+  
+ 
+h) alte dotări necesare bunei desfăşurări a activităţii de reglementare;
+  
+ 
+i) cheltuieli pentru întreţinerea şi repararea echipamentelor;
+  
+ 
+j) cheltuieli pentru acţiuni de reprezentare şi protocol, în conformitate cu prevederile legale;
+  
+ 
+k) orice alte cheltuieli necesare pentru realizarea activităţii de reglementare.
+  
+ 
+(2) Cheltuielile prevăzute la alin. (1) se fac în limita fondurilor constituite şi prevăzute în bugetul de venituri şi cheltuieli.
+  
+Capitolul V
+ Decontarea lucrărilor de elaborare a reglementărilor tehnice şi a activităţilor specifice de reglementare
+Articolul 25
+ 
+(1) Decontarea lucrărilor de elaborare a reglementărilor tehnice, precum şi a rezultatelor activităţilor specifice de reglementare se face pe faze, în baza facturii emise de executant şi însoţite de procesul-verbal de recepţie, redactat conform anexei nr. I.4, cu menţiunea SE RECEPŢIONEAZĂ şi vizat de conducerile celor doua părţi în contract.
+  
+ 
+(2) Procesul-verbal de recepţie a fazei "redactarea a II-a finala" se întocmeşte numai după obţinerea avizului "Bun de tipar" de la CTCG.
+  
+ 
+(3) Elaboratorul va emite factura numai după comunicarea procesului-verbal de recepţie a fazei.
+  
+Capitolul VI
+ Achiziţia
+Articolul 26
+ 
+(1) Activitatea de elaborare a reglementărilor tehnice şi activităţilor specifice de reglementare este de natura serviciilor de cercetare-dezvoltare remunerate integral de către autoritatea contractantă şi ale căror rezultate nu sunt necesare autorităţii contractante în propriul beneficiu.
+  
+ 
+(2) În condiţiile dezvoltării sistemului concurenţial, contractele de prestări de servicii pentru elaborarea de reglementări tehnice şi activităţi specifice de reglementare se atribuie în conformitate cu procedurile din Ordonanţa de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice, aprobată şi modificată prin Legea nr. 212/2002, şi cu actele normative emise în aplicarea acesteia, respectiv Hotărârea Guvernului nr. 461/2001 pentru aprobarea normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 60/2001 privind achiziţiile publice şi Ordinul ministrului lucrărilor publice, transporturilor şi locuinţei şi al ministrului finanţelor publice nr. 1.013/873/2001 privind aprobarea structurii, conţinutului şi modului de utilizare a Documentaţiei standard pentru elaborarea şi prezentarea ofertei pentru achiziţia publică de servicii.
+  
+Articolul 27
+Contractele pentru elaborarea reglementărilor tehnice/activităţilor specifice de reglementare se întocmesc în conformitate cu prevederile contractului-cadru prevăzut în anexa nr. II.
+Capitolul VII
+ Dispoziţii finale şi tranzitorii
+Articolul 28
+Prin ordin al ministrului dezvoltării regionale şi administraţiei publice se stabilesc condiţiile de remunerare, potrivit legii, a membrilor CTCG şi CTS, alţii decât angajaţii M.D.R.A.P.
+
+Art. 28 a fost modificat de art. II din ORDINUL nr. 979 din 6 iulie 2016 publicat în MONITORUL OFICIAL nr. 532 din 15 iulie 2016, prin înlocuirea unor sintagme.
+Articolul 29
+Reglementările tehnice/activităţile specifice de reglementare aflate în curs de elaborare la data intrării în vigoare a prezentei metodologii se vor definitiva pe baza prevederilor legale în vigoare la data contractării.
+Articolul 30
+Art. 7. - Modificările de program (termene, valori, grup de lucru, colaboratori) pot fi efectuate prin acte adiţionale la prezentul contract, care se depun pentru semnare la beneficiar cu minimum 15 zile calendaristice înaintea termenului de predare a fazei respective şi care vor fi avizate de comitetul tehnic de specialitate.
+Art. 8. - Îndeplinirea condiţiilor rezultate din avizări şi/sau a recomandărilor din anchetele la factorii interesaţi se va face prin grija executantului, în cadrul valorii totale a contractului.
+Art. 9. - Decontarea se face pentru fiecare fază, pe baza facturii emise de executant, însoţită de procesul-verbal de recepţie fără obiecţiuni.
+III. Documentele contractului
+Art. 10. - Fac parte integrantă din prezentul contract următoarele anexe:
+Anexa nr. 1 - Fişa reglementării tehnice/activităţii specifice de reglementare
+Anexa nr. 2 - Devizul de cheltuieli
+Anexa nr. 2.a - Detaliere art. Materiale
+Anexa nr. 2.b - Detaliere art. Manopera
+Anexa nr. 2.c - Detaliere art. Alte cheltuieli directe (pe faze)
+Anexa nr. 3 - Tema reglementării tehnice/activităţii specifice de reglementare.
+IV. Obligaţiile părţilor contractante
+IV.a) Obligaţii ale ambelor părţi
+Art. 11. - Predarea fiecărei faze la beneficiar - Direcţia generală dezvoltare regională şi infrastructură - se face pe baza adresei de înaintare emise de executant, vizată de primire de către responsabilul de tema şi înregistrată la registratura generală a Ministerului Dezvoltării Regionale şi Administraţiei Publice.
+IV.b) Obligaţiile executantului
+Art. 12. - Executantul declara pe propria răspundere că nu a mai contractat alte lucrări finanţate din fonduri publice şi având acelaşi conţinut cu cel al prezentului contract.
+Art. 13. - În situaţiile în care specificul reglementării tehnice/activităţii specifice de reglementare o impune, după avizarea favorabilă a ultimei faze, executantul va obţine avizele organelor administraţiei publice centrale/locale în al căror domeniu de autoritate reglementarea tehnică poate produce efecte.
+Art. 14. - Executantul va preda fazele la termenele stabilite prin prezentul contract şi în condiţii bune de grafică şi redactare.
+Art. 15. - Lucrarea se preda la beneficiar într-un număr de 12 (douăsprezece) exemplare, pentru fiecare fază.
+Elaboratorul va preda la beneficiar, înregistrat pe CD-ROM - 3 exemplare -, în formatul cerut de beneficiar, textul redactării a II-a - finale pentru care a obţinut de la beneficiar viza "Bun de tipar", însoţit, după caz, de materialul ilustrativ în original (pe folii transparente, clişeele fotografiilor etc.).
+În cazul reglementărilor tehnice elaborate sau însoţite de programe de calcul, o dată cu redactarea a II-a se vor preda la M.D.R.A.P. programul sursa, programul de calcul şi manualul de utilizare, înregistrate pe CD-ROM.
+Art. 16. - Întârzierile de predare a fazelor de contract se penalizează cu 0,3% din valoarea totală a contractului, pentru fiecare zi de întârziere, dar nu mai mult decât valoarea fazei asupra căreia este aplicată penalizarea.
+Art. 17. - Executantul va introduce observaţiile rezultate în urma şedinţelor de avizare în termenul stabilit prin procesul-verbal de avizare - de regula fără afectarea termenelor de predare a fazelor următoare - şi în cadrul valorii fazei prevăzute în contract.
+Art. 18. - Executantul răspunde, în calitate de autor, de prevederile reglementării tehnice, respectiv de calitatea şi/sau rezultatele lucrării care face obiectul prezentului contract, inclusiv pentru părţile elaborate de colaboratori, pe care şi le-a însuşit prin avizarea interna.
+IV.c) Obligaţiile beneficiarului
+Art. 19. - Beneficiarul va asigura avizarea fiecărei faze în comitetul tehnic de specialitate, în termen de cel mult 30 de zile de la data predării acestora.
+Art. 20. - În situaţia în care, ca urmare a formulării unor condiţii necesare a fi introduse în faza analizata, prin procesul-verbal de avizare se face recomandarea de a nu se recepţiona faza, executantul are obligaţia de a prezenta lucrarea la reavizare în termenul prevăzut prin procesul-verbal de avizare.
+V. Dispoziţii finale
+Art. 21. - În cazul în care predarea primei faze nu are loc în cel mult 15 zile lucrătoare de la termenul prevăzut, inclusiv termenul prevăzut în procesul-verbal de avizare pentru refacerea lucrării, prezentul contract se considera reziliat de drept.
+Art. 22. - În cazul în care la avizare lucrarea primei faze este respinsă de comitetul tehnic de specialitate fără menţiuni de refacere, beneficiarul îşi rezerva dreptul ca, în termen de 10 zile de la data avizării, să notifice executantului rezilierea unilaterala a contractului.
+Art. 23. - Reglementarea tehnica/activitatea specifica de reglementare care face obiectul prezentului contract este în proprietatea beneficiarului - Ministerul Dezvoltării Regionale şi Administraţiei Publice - începând cu decontarea primei faze.
+La data publicării ordinului de aprobare a reglementării tehnice în Monitorul Oficial al României, Partea I, reglementarea tehnică devine bun public.
+Art. 24. - Contractul se consideră stins o data cu recepţia ultimei faze contractuale şi cu decontarea acesteia de către beneficiar.
+Art. 25. - Situaţiile de forţa majoră - calamitaţi naturale sau antropice, stare de război - se comunică în maximum 5 zile calendaristice de la producerea lor, dovada cazului de forţa majoră urmând a fi făcută în termen de 15 zile calendaristice de la data declanşării stării de forţa majoră.
+În aceste situaţii termenele contractuale se vor prelungi cu perioada de întrerupere efectivă datorată motivelor menţionate, părţile având obligaţia de a încheia un proces-verbal în care se vor consemna perioada de întrerupere şi cauza care a determinat-o.
+Art. 26. - Eventualele neînţelegeri dintre părţi, ivite pe parcursul derulării contractului, se vor soluţiona pe cale amiabilă, iar în caz de litigii părţile se vor adresa organelor de justiţie competente.
+Art. 27. - Prezentul contract s-a încheiat în 5 (cinci) exemplare, din care 2 (doua) exemplare pentru executant şi 3 (trei) exemplare pentru beneficiar, şi intra în vigoare la data semnării lui de către ambele părţi.

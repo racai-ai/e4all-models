@@ -1,0 +1,328 @@
+
+NORME TEHNICE din 4 decembrie 2008 (*actualizate*)
+pentru elaborarea Registrului local al spaţiilor verzi din intravilanul localităţilor
+(actualizate până la data de 3 iunie 2010*)
+-
+*) Textul iniţial a fost publicat în MONITORUL OFICIAL nr. 829 din 10 decembrie 2008. Aceasta este forma actualizată de S.C. "Centrul Teritorial de Calcul Electronic" S.A. Piatra-Neamţ până la data de 3 iunie 2010, cu modificările şi completările aduse de ORDINUL nr. 1.466 din 17 mai 2010.
+NORME TEHNICE
+pentru elaborarea Registrului local al
+spaţiilor verzi din intravilanul localităţilor
+Capitolul I
+Dispoziţii generale
+I.1. Cadrul legal
+Articolul 1
+În conformitate cu prevederile art. 1 şi ale art. 16 alin. (1) din Legea nr. 24/2007
+privind reglementarea şi administrarea spaţiilor verzi din intravilanul localităţilor, republicată, denumită în continuare Lege, autorităţile administraţiei publice locale au obligaţia să ţină evidenţa spaţiilor verzi din intravilanul localităţilor, prin constituirea registrelor locale ale spaţiilor verzi, pe care le actualizează ori de câte ori intervin modificări.
+Articolul 2
+ 
+(1) Prezentele norme tehnice se referă la constituirea unui set de date, informaţii şi planuri privind identificarea terenurilor definite ca spaţii verzi şi a celor degradate, posibil a fi reabilitate ca spaţii verzi, cu identificarea stării de viabilitate a vegetaţiei de pe aceste terenuri, a caracteristicilor ei, a indicilor de cantitate şi calitate aferenţi.
+  
+ 
+(2) Datele, informaţiile şi planurile menţionate mai sus vor fi cuprinse într-un registru, numit Registrul local al spaţiilor verzi din intravilanul localităţilor, aferent teritoriului intravilan al localităţii pentru care se întocmeşte.
+  
+I.2. Obiectivele Registrului local al spaţiilor verzi din intravilanul localităţilor
+Articolul 3
+Obiectivele ce se asigură prin elaborarea registrelor locale ale spaţiilor verzi din intravilanul localităţilor sunt:
+ 
+a) protecţia şi conservarea spaţiilor verzi pentru menţinerea biodiversităţii lor;
+  
+ 
+b) menţinerea şi dezvoltarea funcţiilor de protecţie a spaţiilor verzi privind apele, solul, schimbările climatice, menţinerea peisajelor în scopul ocrotirii sănătăţii populaţiei, protecţiei mediului şi al asigurării calităţii vieţii;
+  
+ 
+c) regenerarea, extinderea, ameliorarea compoziţiei şi a calităţii spaţiilor verzi;
+  
+ 
+d) elaborarea şi aplicarea unui complex de măsuri privind aducerea şi menţinerea spaţiilor verzi în starea corespunzătoare funcţiilor lor;
+  
+ 
+e) identificarea zonelor deficitare şi realizarea de lucrări pentru extinderea suprafeţelor acoperite cu vegetaţie;
+  
+ 
+f) extinderea suprafeţelor ocupate de spaţii verzi, prin includerea în categoria spaţiilor verzi publice a terenurilor cu potenţial ecologic sau sociocultural.
+  
+Articolul 4
+Registrul local al spaţiilor verzi din intravilanul localităţilor va determina o bună gestionare a potenţialului spaţiilor verzi cu implicaţii asupra siguranţei şi calităţii vieţii, asigurând crearea unui sistem de monitorizare a spaţiilor verzi şi a terenurilor degradate ce pot fi recuperate ca spaţii verzi, în vederea asigurării calităţii factorilor de mediu şi stării de sănătate a populaţiei.
+Capitolul II
+Domeniul de aplicare şi definiţii
+II.1. Domeniul de aplicare
+Articolul 5
+Domeniul de aplicare a prezentelor norme tehnice cuprinde:
+ 
+a) spaţiile verzi situate pe terenurile aparţinând domeniului public/privat din intravilanul localităţii;
+  
+ 
+b) terenurile proprietate publică, degradate, din intravilanul localităţii, posibil să fie reabilitate şi reamenajate ca spaţii verzi;
+  
+ 
+c) arbori izolaţi (diametru, înălţime) plantaţi pe lângă arterele de circulaţie, pe terenurile instituţiilor de învăţământ, ansamblurilor de locuinţe, lăcaşurilor de cult, cimitirelor şi altora asemenea;
+  
+ 
+d) arbori ocrotiţi, indiferent de starea de sănătate şi de dimensiunile acestora.
+  
+II.2. Definiţii
+Articolul 6
+ 
+(1) Sunt considerate spaţii verzi următoarele tipuri de terenuri existente în intravilanul localităţilor:
+  
+ 
+a) spaţii verzi publice cu acces nelimitat: parcuri, grădini, scuaruri, fâşii plantate;
+  
+ 
+b) spaţii verzi publice cu folosinţă specializată;
+  
+ 
+c) spaţii verzi pentru agrement: baze de agrement, poli de agrement, complexuri şi baze sportive;
+  
+ 
+d) spaţii verzi pentru protecţia lacurilor şi cursurilor de apă;
+  
+ 
+e) culoare de protecţie faţă de infrastructura tehnică;
+  
+ 
+f) păduri de agrement.
+  
+ 
+(2) În sensul prezentelor norme tehnice, spaţii verzi publice cu folosinţă specializată sunt:
+  
+ 
+a) grădini botanice şi zoologice, muzee în aer liber, parcuri expoziţionale, zone ambientale şi de agrement pentru animalele dresate în spectacolele de circ;
+  
+ 
+b) cele aferente dotărilor publice: creşe, grădiniţe, şcoli, unităţi sanitare sau de protecţie socială, instituţii, edificii de cult, cimitire;
+  
+ 
+c) baze sau parcuri sportive pentru practicarea sportului de performanţă.
+  
+ 
+(3) Definiţiile spaţiilor verzi nominalizate la alin. (1) şi (2) sunt prevăzute la art. 4 din Lege.
+  
+II.3. Respectarea prevederilor planurilor urbanistice generale, ale regulamentelor de urbanism şi ale sistemelor informaţionale specifice
+Articolul 7
+ 
+(1) Registrul local al spaţiilor verzi din intravilanul localităţilor se constituie ca o componentă a unui sistem informaţional de evidenţă şi inventariere sistematică a terenurilor din intravilanul localităţilor definite ca spaţii verzi conform Legii şi art. 6 din prezentele norme tehnice.
+  
+ 
+(2) Inventarierea se realizează sub aspect tehnic, economic şi juridic, precum şi sub aspectul descrierii şi stabilirii caracteristicilor cantitative şi calitative ale vegetaţiei de pe aceste terenuri.
+  
+Articolul 8
+Registrul local al spaţiilor verzi din intravilanul localităţilor trebuie corelat cu prevederile planurilor urbanistice generale şi ale regulamentelor de urbanism întocmite conform Legii nr. 350/2001
+privind amenajarea teritoriului şi urbanismul, cu modificările şi completările ulterioare.
+Articolul 9
+Executarea lucrărilor de identificare, măsurare şi reprezentare a spaţiilor verzi din intravilanul localităţilor se va face pe planuri topografice, cadastrale, hărţi sau ortofotoplanuri georeferenţiate, ce se pun la dispoziţie de către oficiile de cadastru şi publicitate imobiliară judeţene şi al municipiului Bucureşti, în format analogic sau digital, cu plata tarifelor legale.
+Articolul 10
+ 
+(1) În localităţile unde s-a executat sau este în curs de execuţie realizarea Sistemului informaţional specific domeniului imobiliar-edilitar şi băncilor de date urbane (SISDIEBDU) se pot utiliza datele şi informaţiile puse la dispoziţie de acesta sau, după caz, se pot actualiza.
+  
+ 
+(2) Datele şi informaţiile cuprinse în SISDIEBDU sunt în administrarea autorităţilor administraţiei publice locale.
+  
+Capitolul III
+Date şi informaţii specifice pentru realizarea Registrului local al spaţiilor verzi din intravilanul localităţilor
+III.1. Date şi informaţii specifice - definirea conţinutului de informaţii specifice
+Articolul 11
+ 
+(1) Activităţile care se vor întreprinde de către autorităţile administraţiei publice locale în vederea constituirii Registrului local al spaţiilor verzi din intravilanul localităţilor sunt următoarele:
+  
+ 
+a) inventarierea şi transpunerea pe planuri şi hărţi, în format digital, a terenurilor definite ca spaţii verzi;
+  
+ 
+b) constituirea unui sistem informaţional specific, cuprinzând date şi informaţii specifice privind speciile de arbori şi vegetaţia existentă, cu determinarea indicilor calitativi şi cantitativi;
+  
+ 
+c) elaborarea unor planuri sau hărţi în format digital, la nivelul intravilanului localităţii;
+  
+ 
+d) exploatarea şi actualizarea informaţiilor din planurile sau hărţile digitale privind spaţiile verzi, arborii izolaţi şi terenurile degradate, în scopul gestionării eficiente a acestora;
+  
+ 
+e) constituirea unei evidenţe a tuturor documentelor emise de autorităţile administraţiei publice locale şi de autorităţile din domeniul protecţiei mediului privind documentaţiile de urbanism, certificatele de urbanism, autorizaţiile de construire, avizele de tăiere şi toaletare a arborilor, documentele de control şi stabilire a contravenţiilor, precum şi orice alte documente care au efecte asupra stării spaţiului verde.
+  
+ 
+(2) Planurile sau hărţile în format digital prevăzute la alin. (1) lit. c) trebuie să cuprindă:
+  
+ 
+a) terenurile definite ca spaţii verzi;
+  
+ 
+b) distribuţia arborilor izolaţi şi ocrotiţi;
+  
+ 
+c) terenurile degradate care pot fi transformate în spaţii verzi.
+  
+Articolul 12
+ 
+(1) Principalele operaţiuni pentru constituirea Registrului local al spaţiilor verzi din intravilanul localităţilor sunt:
+  
+ 
+a) delimitarea spaţiului verde ce urmează a fi cadastrat şi marcarea limitei acestuia;
+  
+ 
+b) identificarea tipului de proprietate şi a proprietarilor spaţiilor verzi;
+  
+ 
+c) identificarea reglementărilor din documentaţiile de urbanism avizate şi aprobate conform legii;
+  
+ 
+d) completarea datelor conţinute în Fişa spaţiului verde, conform anexei care face parte integrantă din prezentele norme tehnice;
+  
+ 
+e) informaţii de detaliu privind vegetaţia existentă, speciile, numărul şi tipul de arbori, indici cantitativi şi indici calitativi;
+  
+ 
+f) actualizarea planurilor sau hărţilor digitale, care vor constitui suportul de bază al lucrărilor de identificare şi inventariere a spaţiilor verzi.
+  
+ 
+(2) Datele şi informaţiile privind suprafaţa, categoria de folosinţă şi proprietarul spaţiului verde sunt cele existente în evidenţele documentelor de cadastru general şi în SISDIEBDU, în cazul în care aceste spaţii au fost identificate, măsurate şi reprezentate pe planuri şi hărţi şi sunt cuprinse în registre cadastrale.
+  
+Articolul 13
+ 
+(1) Registrul local al spaţiilor verzi din intravilanul localităţilor va fi împărţit pe categorii astfel:
+  
+ 
+a) spaţiile verzi, definite conform art. 6;
+  
+ 
+b) arbori izolaţi;
+  
+ 
+c) arbori ocrotiţi;
+  
+ 
+d) terenuri degradate, proprietate publică, ce pot fi reabilitate ca spaţii verzi.
+  
+ 
+(2) Pentru categoria prevăzută la alin. (1) lit. a), datele şi informaţiile specifice necesare sunt:
+  
+ 
+a) amplasament;
+  
+ 
+b) suprafaţă;
+  
+ 
+c) categorie de folosinţă;
+  
+ 
+d) regimul juridic;
+  
+ 
+e) reglementare urbanistică;
+  
+ 
+f) specii de arbori existenţi, pentru care se va detalia numărul unic de identificare şi se vor determina amplasamentul, specia, diametrul, înălţimea, evaluarea stării de viabilitate, evaluarea gradului de întreţinere.
+  
+ 
+(3) Pentru categoriile prevăzute la alin. (1) lit. b) şi c), datele şi informaţiile specifice necesare sunt:
+  
+ 
+a) număr unic de identificare;
+  
+ 
+b) amplasament;
+  
+ 
+c) specie;
+  
+ 
+d) diametru;
+  
+ 
+e) înălţime;
+  
+ 
+f) evaluarea stării de viabilitate;
+  
+ 
+g) identificarea riscurilor potenţiale.
+  
+ 
+(4) Pentru categoria prevăzută la alin. (1) lit. d), datele şi informaţiile specifice necesare sunt:
+  
+ 
+a) amplasament;
+  
+ 
+b) suprafaţă;
+  
+ 
+c) categorie de folosinţă;
+  
+ 
+d) specii de arbori;
+  
+ 
+e) evaluarea gradului de întreţinere.
+  
+III.2. Întreţinerea şi actualizarea Registrului local al spaţiilor verzi din intravilanul localităţilor
+Articolul 14
+ 
+(1) Sistemul informaţional al spaţiilor verzi se realizează ca urmare a efectuării lucrărilor de identificare, măsurare, inventariere şi cartare a terenurilor definite ca spaţii verzi, precum şi a culegerii informaţiilor specifice privind speciile de arbori şi vegetaţia existentă, cu determinarea indicilor cantitativi şi calitativi.
+  
+ 
+(2) Sistemul informaţional al spaţiilor verzi reprezintă un ansamblu de baze de date grafice şi textuale, concepute unitar, întreţinute independent şi exploatate împreună.
+  
+Articolul 15
+Pe baza datelor şi informaţiilor din Registrul local al spaţiilor verzi din intravilanul localităţilor se generează şi se vizualizează planuri şi hărţi tematice, rapoarte statistice, diagrame şi altele asemenea, în scopul:
+ 
+a) întreţinerii şi actualizării Registrului local al spaţiilor verzi din intravilanul localităţilor;
+  
+ 
+b) asigurării suportului decizional al autorităţii administraţiei publice în activitatea de reglementare urbană şi în gestionarea fondului verde al localităţii (tăieri, toaletări, replantări etc.).
+  
+Articolul 16
+ 
+(1) Verificarea şi actualizarea Registrului local al spaţiilor verzi din intravilanul localităţilor se face permanent, în funcţie de modificările survenite în teren ale spaţiilor verzi.
+  
+ 
+(2) Schimbările produse în evidenţele spaţiilor verzi se actualizează pe planuri şi hărţi, cu respectarea normelor şi instrucţiunilor emise de Agenţia Naţională de Cadastru şi Publicitate Imobiliară.
+  
+ 
+(3) Actualizarea setului de date şi informaţii specifice privind starea terenului, vegetaţia existentă, indicii calitativi şi cantitativi se efectuează cu respectarea normelor şi instrucţiunilor din domeniul mediului.
+  
+ 
+(4) Actualizarea datelor referitoare la reglementarea urbanistică se efectuează cu respectarea normelor din domeniul urbanismului.
+  
+Articolul 17
+ 
+(1) Finanţarea activităţilor de realizare a registrelor locale ale spaţiilor verzi din intravilanul localităţilor se asigură de către autorităţile administraţiei publice locale din fondurile pentru îndeplinirea obligaţiilor privind spaţiile verzi prevăzute în bugetele proprii.
+  
+ 
+(2) Realizarea şi actualizarea lucrărilor de identificare, măsurare, inventariere şi reprezentare pe planuri şi hărţi a spaţiilor verzi se fac de către persoane autorizate, cu drept de semnătură, în condiţiile prevăzute de lege.
+  
+III.3. Verificarea şi recepţia lucrărilor
+Articolul 18
+Toate lucrările tehnice (geodezice, topografice, de cartare a spaţiilor verzi) necesare pentru întocmirea planurilor şi hărţilor şi a Fişei spaţiului verde, precum şi pentru constituirea seturilor de date şi informaţii specifice privind speciile de arbori şi vegetaţia existentă, cu determinarea indicilor calitativi şi cantitativi etc., se verifică de către beneficiarul lucrărilor, pe toată perioada desfăşurării lor şi ori de câte ori este necesar.
+Articolul 19
+ 
+(1) Verificarea lucrărilor privind realizarea Registrului local al spaţiilor verzi din intravilanul localităţilor se face de către o comisie constituită la nivelul fiecărei autorităţi a administraţiei publice locale, alcătuită din experţi din domeniul mediului, urbanismului, cadastrului, serviciilor comunitare, precum şi alte persoane cu experienţă, sub conducerea primarului sau a unuia dintre viceprimari.
+  
+ 
+(2) Comisia este numită prin decizie a primarului localităţii pentru care se realizează Registrul local al spaţiilor verzi din intravilanul localităţilor.
+  
+Articolul 20
+Verificarea se execută cu scopul de a se constata îndeplinirea condiţiilor tehnice referitoare la fazele de lucrări ce au fost executate. Verificarea se execută pentru cel puţin 15% din lucrare/fază, în funcţie de natura lucrărilor, efectuându-se în principal următoarele activităţi:
+ 
+a) confruntarea datelor şi informaţiilor culese din teren cu cele înscrise pe planuri sau hărţi şi fişe;
+  
+ 
+b) verificării redactării planurilor sau hărţilor digitale şi a conţinutului lor, conform cerinţelor;
+  
+ 
+c) înscrierea corectă a datelor în Fişa spaţiului verde şi, respectiv, în Registrul local al spaţiilor verzi din intravilanul localităţilor.
+  
+Articolul 21
+ 
+(1) Constatările verificărilor se vor consemna într-un referat de verificare şi recepţie lucrări, care se anexează la documentaţia aferentă constituirii Registrului local al spaţiilor verzi din intravilanul localităţilor.
+  
+ 
+(2) Referatul va cuprinde procentul verificat, elementele importante urmărite, constatări pozitive, constatări negative, corectarea lipsurilor, termene de remediere etc.
+  
+ 
+(3) Pe baza acestui referat întocmit şi semnat de membrii comisiei de verificare şi recepţie lucrări, beneficiarul îşi însuşeşte lucrarea.
+  
+ 
+(4) În cazul în care se constată deficienţe şi diferenţe majore, lucrările greşite se refac pe cheltuiala executantului.
+  

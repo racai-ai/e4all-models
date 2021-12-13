@@ -1,0 +1,463 @@
+
+NORME METODOLOGICE din 2 aprilie 2003
+privind exigenţele minime de conţinut ale documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele de riscuri naturale
+Publicat în 
+ 
+MONITORUL OFICIAL nr. 263 din 16 aprilie 2003
+Capitolul 1
+ Dispoziţii generale
+Articolul 1
+Normele metodologice privind exigenţele minime de conţinut ale documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele de riscuri naturale, denumite în continuare norme metodologice, sunt un instrument de determinare a cerinţelor suplimentare ce se impun cu privire la elaborarea planurilor de urbanism şi amenajare a teritoriului, referitoare la riscurile naturale.
+Articolul 2
+Normele metodologice sunt complementare reglementărilor tehnice privind conţinutul-cadru al documentaţiilor de amenajare a teritoriului şi de urbanism şi constituie suportul procedural pentru integrarea acestora în conţinutul-cadru al documentaţiilor de urbanism şi amenajare a teritoriului.
+Articolul 3
+Normele metodologice au următoarele obiective:
+ 
+a) să ofere o modalitate de determinare a exigenţelor minime de conţinut ale documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele cu riscuri naturale;
+  
+ 
+b) sa pună în concordanta aceste cerinţe suplimentare cu conţinutul-cadru al documentaţiilor de amenajare a teritoriului şi de urbanism.
+  
+Articolul 4
+Normele metodologice sunt elaborate pentru cele două categorii de documentaţii, respectiv urbanism şi amenajare a teritoriului:
+ 
+a) planuri de amenajare a teritoriului;
+  
+ 
+b) planuri de urbanism.
+  
+Articolul 5
+Modul de abordare a problematicii riscurilor naturale se face în funcţie de categoria documentaţiei, mărimea şi complexitatea teritoriului şi de scara de aprofundare a planurilor de urbanism şi a planurilor de amenajare a teritoriului.
+Articolul 6
+La nivelul fiecărui consiliu judeţean structurile specializate ale administraţiei publice judeţene împreună cu instituţiile specializate întocmesc Studiul judeţean al factorilor de risc natural, document cu caracter sintetic, ce conţine piese scrise şi piese desenate (harti de risc natural) cu privire la riscurile naturale existente pe teritoriul judeţului respectiv.
+Articolul 7
+La nivelul fiecărei unităţi administrativ-teritoriale de baza (municipiu, oraş, comuna) structurile specializate ale administraţiei publice locale împreună cu instituţiile specializate întocmesc Studiul local al factorilor de risc natural, ce conţine piese scrise şi desenate (harti de risc) cu privire la riscurile naturale existente.
+Articolul 8
+Studiile prevăzute la art. 6 şi 7 sunt făcute publice şi constituie documentaţii consultative puse la dispoziţie elaboratorilor de documentaţii de urbanism şi amenajare a teritoriului.
+Articolul 9
+Studiul judeţean şi Studiul local al factorilor de risc natural cuprind:
+ 
+a) elemente de informare generală asupra factorilor de risc;
+  
+ 
+b) descrierea fiecărui factor de risc natural: definire, localizare, amploare, efecte asupra mediului natural şi construit, efecte asupra locuitorilor;
+  
+ 
+c) clasificarea şi cartografierea riscurilor naturale existente pe teritoriul judeţului sau unităţilor administrative de baza.
+  
+Capitolul 2
+ Metodologia de elaborare a documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele de riscuri naturale
+Articolul 10
+Elaborarea documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele de riscuri naturale se realizează în doua etape, după cum urmează:
+Etapa I - Culegerea şi interpretarea datelor, care consta în:
+ 
+a) valorificarea rezultatelor obţinute în urma studiilor şi cercetărilor specifice elaborate de instituţiile de specialitate şi a observaţiilor din teren;
+  
+ 
+b) analiza hartilor de risc natural;
+  
+ 
+c) armonizarea cu prevederile reglementărilor tehnice din Uniunea Europeană.
+  
+Etapa a II-a - Redactarea pieselor scrise şi întocmirea pieselor desenate, care va avea următorul conţinut:
+ 
+a) piesele scrise - date şi informaţii relevante cu privire la riscurile naturale, adaptate şi inserate în continutulcadru al documentaţiilor de amenajare a teritoriului şi de urbanism;
+  
+ 
+b) piesele desenate - planuri întocmite la scara documentaţiei de baza sau cartograme pentru probleme relevante privind riscurile naturale.
+  
+Articolul 11
+Stabilirea exigenţelor minime de conţinut ale documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele cu riscuri naturale se face pe baza Studiului judeţean sau local al factorilor de risc natural, pe baza schemei prevăzute în anexa nr. 1, utilizând termenii din anexa nr. 2 şi matricele-cadru prezentate în anexele nr. 3-5, în raport cu tipul factorilor de riscuri naturale.
+Articolul 12
+Pentru zonele de riscuri naturale, corelarea exigenţelor minime de conţinut ce se impun în cadrul documentaţiilor de amenajare a teritoriului şi de urbanism cu conţinutul general al acestora se face în fiecare caz la nivelul fiecărui tip de documentaţie.
+Capitolul 3
+ Exigente minime de conţinut ale documentaţiilor de amenajare a teritoriului şi de urbanism
+DOCUMENTAŢII DE AMENAJARE A TERITORIULUI
+Articolul 13
+Planurile de amenajare a teritoriului judeţean şi planurile de amenajare a teritoriului zonal, care au acelaşi grad de detaliere pentru zonele de riscuri naturale, vor cuprinde şi următoarele exigente minime de conţinut:
+A. Diagnoza - se analizează principalele probleme rezultate din analiza situaţiei existente referitoare la riscurile naturale şi se va structura astfel:
+1. Cadrul natural/mediul:
+- identificarea, definirea zonelor de riscuri naturale şi a cauzelor producerii dezastrelor:
+ 
+a) cutremure de pământ: fenomene de faliere a scoartei terestre;
+  
+ 
+b) inundaţii: ploi torentiale, topiri bruste de zapada; accidente produse la lucrările existente pe cursurile râurilor rupturi de baraje, diguri, canale, deteriorarea regularizării cursurilor de apa - sau erori umane legate de exploatarea construcţiilor hidrotehnice şi de obturarea albiei râurilor prin depozitarea de diverse materiale, amplasări necorespunzătoare de construcţii noi etc.;
+  
+ 
+c) alunecări de teren: precipitatii atmosferice care pot provoca reactivarea unor alunecări vechi şi apariţia alunecarilor noi, eroziunea apelor curgătoare cu acţiune permanenta la baza versantilor, acţiunea apei subterane, acţiunea inghetului şi a dezghetului, acţiunea cutremurelor care reactiveaza alunecarile vechi sau declanseaza alunecări primare, săpături executate pe versanţi sau la baza lor; defrişarea abuzivă a plantaţiilor şi a pădurilor, care produce declanşarea energiei versantilor.
+  
+2. Tipologia fenomenelor de risc natural:
+ 
+a) cutremure de pământ: superficiale, intermediare, de profunzime; magnitudinea pe scara Richter, intensitatea seismică pe scara MSK conform STAS 11.100/1993; parametri de zonare a seismicitatii teritoriului studiat conform normativului P 100/92; perioada medie de revenire a cutremurelor cu intensitatea mai mare de 6 grade;
+  
+ 
+b) inundaţii: revarsarea cursurilor de apa datorită capacităţii insuficiente de scurgere a albiilor minore; blocarea cu zapoare sau plutitori a cursurilor de apa, a secţiunilor subdimensionate a podurilor şi podetelor; depăşirea capacităţii de tranzitare a acviferelor în zone fără drenaj natural sau cu drenaj natural insuficient; distrugerea lucrărilor hidrotehnice (baraje, diguri) din cauza exploatării incorecte; vanturi puternice în zona litorala sau a malurilor unor lacuri;
+  
+ 
+c) alunecări de teren: active, care se desfăşoară în urma declanşării unei alunecări primare; reactive, care sunt declansate, dar au perioade de stabilitate şi acalmie; inactive, care pot fi latente şi se pot activa oricând; abandonate, la care cauzele producerii au fost inlaturate; stabilizate prin metode de remediere.
+  
+B. Reţeaua de localităţi, infrastructurile tehnice ale teritoriului şi activităţile afectate de riscuri naturale - se analizează riscul producerii unor dezastre şi/sau efectele lor, delimitarea şi ierarhizarea arealelor şi va conţine:
+1. Delimitarea şi ierarhizarea zonelor de risc natural - se face pe baza hartilor de risc natural:
+ 
+a) cutremure de pământ: conform zonelor de intensitate seismică pe scara MSK şi perioada medie de revenire;
+  
+ 
+b) inundaţii: zona frecvent inundabila, zona potenţial inundabila;
+  
+ 
+c) alunecări de teren: conform potenţialului de producere, respectiv zone cu potenţial scăzut de alunecare, zone cu potenţial mediu de alunecare, zone cu potenţial ridicat de alunecare.
+  
+2. Efectele riscurilor naturale:
+ 
+a) cutremure de pământ: avarii la structurile de rezistenta ale clădirilor şi/sau distrugeri parţiale sau totale ale unor clădiri, pierderi de vieţi omeneşti;
+  
+ 
+b) inundaţii: obiective afectate - drumuri, poduri şi podeţe, reţele tehnico-edilitare, baraje, diguri, cai ferate, suprafeţe agricole, pierderi de vieţi omeneşti etc;
+  
+ 
+c) alunecări de teren: obiective afectate - reţele tehnico-edilitare, poduri, podeţe, drumuri, cai ferate, suprafeţe agricole etc.
+  
+C. Strategia de dezvoltare - se formulează propuneri cu caracter director care vizează prevenirea, atenuarea/eliminarea şi/sau acceptarea riscurilor naturale, în concordanta cu obiectivele de dezvoltare din documentaţiile de amenajare a teritoriului, şi se va structura astfel:
+1. Cutremure de pământ:
+- informare cu privire la perioada medie de revenire a cutremurelor de o intensitate mai mare de VI grade şi iniţierea unor măsuri în caz de urgenta.
+2. Inundatii:
+ 
+a) acţiuni privind amenajarea bazinelor hidrografice prin lucrări structurale din albia raului şi de pe versanţi în scopul reducerii elementelor caracteristice ale viiturilor;
+  
+ 
+b) acţiuni privind combaterea inundaţiilor prin lucrări de indiguire a scurgerii pe versanţi, împăduriri, reducerea suprafeţelor impermeabile;
+  
+ 
+c) definirea zonelor care trebuie scoase de sub inundaţii şi a zonelor a căror inundare are un rol util;
+  
+ 
+d) renunţarea la unele zone inundabile şi reactivarea unora dintre acestea;
+  
+ 
+e) necesitatea încheierii unor convenţii de asigurare;
+  
+ 
+f) schimbarea modului de folosinţă a terenului şi lăsarea terenului în regim liber de inundare.
+  
+3. Alunecări de teren:
+ 
+a) acţiuni privind amenajarea teritoriului cu risc de alunecare prin împăduriri, schimbarea culturilor, modificări în utilizarea terenurilor etc.;
+  
+ 
+b) acţiuni privind combaterea alunecarilor de teren prin lucrări specifice;
+  
+ 
+c) necesitatea încheierii unor convenţii de asigurare;
+  
+ 
+d) schimbarea modului de folosinţă a terenului.
+  
+DOCUMENTAŢII DE URBANISM
+Articolul 14
+Pentru zonele de riscuri naturale, categoriile de planuri urbanistice vor cuprinde şi următoarele exigente minime de conţinut:
+I. Planul urbanistic general
+A. Stadiul actual şi de dezvoltare urbanistica - se analizează principalele probleme rezultate din analiza situaţiei existente referitoare la riscurile naturale şi se va structura astfel:
+1. Cadrul natural: zonele expuse la riscuri naturale - se identifica şi se definesc riscurile naturale existente şi cauzele producerii dezastrelor:
+ 
+a) cutremure de pământ: fenomene de faliere a scoartei terestre;
+  
+ 
+b) inundaţii: ploi torentiale, topiri bruste de zapada, accidente produse la lucrările existente pe cursurile râurilor rupturi de baraje, diguri, canale, deteriorarea regularizării cursurilor de apa şi/sau erori umane legate de exploatarea construcţiilor hidrotehnice şi de obturarea albiei râurilor prin depozitarea de diverse materiale etc.;
+  
+ 
+c) alunecări de teren: precipitatii atmosferice care pot provoca reactivarea unor alunecări vechi şi apariţia alunecarilor noi; eroziunea apelor curgătoare cu acţiune permanenta la baza versantilor; acţiunea apelor subterane; acţiunea inghetului şi a dezghetului; acţiunea cutremurelor care reactiveaza alunecarile vechi şi declanseaza alunecări primare; săpături executate pe versanţi sau la baza lor; defrişarea abuzivă a plantaţiilor şi a pădurilor, care produce declanşarea energiei versantilor.
+  
+2. Tipologia fenomenelor:
+ 
+a) cutremure de pământ: superficiale, intermediare, de profunzime, magnitudinea pe scara Richter, intensitatea seismică pe scara MSK conform STAS 11.100/1993, parametrii de zonare a seismicitatii teritoriului studiat conform normativului P 100/92, perioada medie de revenire a cutremurelor cu intensitatea mai mare de 6 grade;
+  
+ 
+b) inundaţii: revarsarea cursurilor de apa datorită capacităţii insuficiente de scurgere a albiilor minore; blocarea cu zapoare sau plutitori a cursurilor de apa, a secţiunilor subdimensionate a podurilor şi podetelor; depăşirea capacităţii de tranzitare a acviferelor în zone fără drenaj natural sau cu drenaj natural insuficient; distrugerea lucrărilor hidrotehnice (baraje, diguri) din cauza exploatării incorecte; vanturi puternice în zona litorala sau a malurilor unor lacuri;
+  
+ 
+c) alunecări de teren: active, care se desfăşoară în urma declanşării unei alunecări primare; reactive, care sunt declansate, dar au perioade de stabilitate şi acalmie; inactive, care pot fi latente şi se pot activa oricând, abandonate, la care cauzele producerii au fost inlaturate, stabilizate prin metode de remediere.
+  
+B. Intravilanul, activităţile şi echiparea edilitara: riscul producerii unor dezastre şi/sau efectele lor, delimitarea şi ierarhizarea arealelor
+1. Efecte:
+ 
+a) cutremure de pământ: avarii la structurile de rezistenta ale clădirilor şi/sau distrugeri parţiale sau totale ale unor clădiri, pierderi de vieţi omeneşti;
+  
+ 
+b) inundaţii: obiective afectate - clădiri, drumuri, poduri, podeţe, cai ferate, reţele tehnico-edilitare, baraje, diguri, suprafeţe din intravilan şi extravilan, pierderi de vieţi omeneşti;
+  
+ 
+c) alunecări de teren: obiective afectate - reţele tehnico-edilitare, poduri, podeţe, drumuri, cai ferate, suprafeţe din intravilan şi extravilan.
+  
+2. Delimitarea şi ierarhizarea arealelor conform hartilor de risc natural:
+ 
+a) cutremure de pământ: conform zonelor de intensitate seismică pe scara MSK şi perioada medie de revenire;
+  
+ 
+b) inundaţii: calea viiturii, zona frecvent inundabila, zona potenţial inundabila;
+  
+ 
+c) alunecări de teren: conform potenţialului de producere, respectiv zone cu potenţial scăzut de alunecare, zone cu potenţial mediu de alunecare, zone cu potenţial ridicat de alunecare.
+  
+C. Reglementările specifice zonelor de riscuri naturale:
+1. Zone afectate de cutremure de pământ:
+ 
+a) stabilirea limitei intravilanului în funcţie de condiţiile geotehnice ale terenului;
+  
+ 
+b) stabilirea modului de utilizare a terenurilor din intravilan (construcţii, spaţii plantate amenajate), suprafeţe destinate amenajărilor spaţiilor verzi, locuri de joaca pentru copii, parcaje necesare locuirii, dacă pot servi ca loc de refugiu în caz de seism;
+  
+ 
+c) precizarea condiţiilor de amplasare şi conformare a construcţiilor în raport cu gradul de seismicitate (POT), distanţe între clădiri, regim de înălţime, sistem tehnic constructiv privind structura de rezistenta a clădirii, sisteme de fundare;
+  
+ 
+d) precizări cu privire la proiectarea şi construirea antiseismica se regăsesc în cadrul prevederilor actelor normative în vigoare P 100/92 şi Ordonanţa Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcţiilor existente, republicată;
+  
+ 
+e) identificarea zonelor ce necesita măsuri de reducere a riscului la seisme, în cadrul fondului construit existent (consolidări, subzidiri);
+  
+ 
+f) îmbunătăţirea şi/sau înlocuirea infrastructurii tehnico-edilitare depreciate din punct de vedere fizic şi moral, corelate cu sisteme de avertizare specifice.
+  
+2. Zone afectate de inundaţii:
+ 
+a) stabilirea limitei intravilanului şi a modului de utilizare a terenurilor, în funcţie de condiţiile hidrologice şi hidrogeologice locale;
+  
+ 
+b) stabilirea zonelor inundabile cu interdicţie temporară de construire până la elaborarea documentaţiilor de specialitate;
+  
+ 
+c) stabilirea zonelor frecvent inundabile cu interdicţie definitivă de construire care pot fi amenajate cu vegetaţie hidrofila, suprafeţe lacustre;
+  
+ 
+d) promovarea unor programe, studii şi proiecte privind măsurile de eliminare a cauzelor (îndiguiri, regularizări);
+  
+ 
+e) informarea populaţiei din zonele inundabile asupra riscului potenţial la care este expusă şi obligativitatea autorităţilor publice locale de a aplica măsuri operative în caz de inundaţii;
+  
+ 
+f) precizarea condiţiilor elementare de realizare şi de conformare a construcţiilor în raport cu gradul de inundabilitate (sisteme constructive şi fundaţii specifice);
+  
+ 
+g) îmbunătăţirea/înlocuirea infrastructurii tehnico-edilitare depreciate şi situate în zonele inundabile;
+  
+ 
+h) dezafectarea unităţilor poluante şi a oricăror surse de poluare (depozite, reziduuri) din zonele inundabile;
+  
+ 
+i) evitarea amplasarii unităţilor poluante şi a oricăror surse de poluare (depozite, reziduuri) în zonele inundabile;
+  
+ 
+j) demolarea fondului construit din zonele frecvent inundabile şi reamplasarea lui pe zone neinundabile din intravilan.
+  
+3. Zone afectate de alunecări de teren:
+ 
+a) stabilirea limitei intravilanului şi a modului de utilizare a terenurilor în funcţie de condiţiile geotehnice şi hidrogeologice stabilite prin studii de fundamentare de specialitate;
+  
+ 
+b) instituirea interdicţiei temporare de construire în zone în care s-au produs alunecări de teren, până la elaborarea documentaţiilor de specialitate;
+  
+ 
+c) instituirea interdicţiei definitive de construire, după caz;
+  
+ 
+d) promovarea unor programe, studii şi proiecte privind măsuri concrete de stopare a fenomenului de alunecare de teren (împăduriri, consolidări versanţi);
+  
+ 
+e) precizarea condiţiilor elementare de amplasare şi conformare a construcţiilor şi amenajărilor în funcţie de potenţialul de producere a alunecarilor de teren;
+  
+ 
+f) îmbunătăţirea/înlocuirea şi chiar devierea reţelelor tehnico-edilitare amplasate în zone cu potenţial mare de producere a alunecarilor de teren;
+  
+ 
+g) informarea populaţiei asupra riscului producerii alunecarilor de teren, după caz, pe grade de potenţial al producerii alunecarilor de teren;
+  
+ 
+h) dezafectarea unităţilor productive cu grad ridicat de poluare şi periculozitate, amplasate în zone expuse alunecarilor de teren;
+  
+ 
+i) demolarea fondului construit din zonele cu potenţial ridicat de alunecare şi reamplasarea lui pe rezerva funciară de utilitate publică.
+  
+II. Planul urbanistic zonal
+A. Stadiul actual şi de dezvoltare urbanistica - se analizează principalele probleme rezultate din analiza situaţiei existente referitoare la riscurile naturale şi se va structura astfel:
+1. Cadrul natural - identificarea zonelor expuse la riscuri naturale, definirea riscurilor naturale existente şi cauzele producerii dezastrelor:
+ 
+a) cutremure de pământ: fenomene de faliere a scoartei terestre;
+  
+ 
+b) inundaţii: ploi torentiale, topiri bruste de zapada, accidente produse la lucrările existente pe cursurile râurilor - rupturi de baraje, diguri, canale, deteriorarea regularizării cursurilor de apa şi/sau erori umane legate de exploatarea construcţiilor hidrotehnice şi de obturarea albiei râurilor prin depozitarea de diverse materiale;
+  
+ 
+c) alunecări de teren: precipitatii atmosferice care pot provoca reactivarea unor alunecări vechi şi apariţia alunecarilor noi, eroziunea apelor curgătoare cu acţiune permanenta la baza versantilor, acţiunea apelor subterane, acţiunea inghetului şi a dezghetului, acţiunea cutremurelor care reactiveaza alunecarile vechi sau declanseaza alunecări primare, săpături executate pe versanţi sau la baza lor, defrişarea abuzivă a plantaţiilor şi a pădurilor, care produce declanşarea energiei versantilor.
+  
+2. Tipologia fenomenelor de risc natural:
+ 
+a) cutremure de pământ: superficiale, intermediare, de profunzime; magnitudinea pe scara Richter; intensitatea seismică pe scara MSK conform STAS 11.100/1993; parametrii de zonare a seismicitatii teritoriului studiat conform normativului P 100/92; perioada medie de revenire a cutremurelor cu intensitatea de 6 grade;
+  
+ 
+b) inundaţii: revarsarea cursurilor de apa datorită capacităţii insuficiente de scurgere a albiilor minore; blocarea cu zapoare sau plutitori a cursurilor de apa, a secţiunilor subdimensionate a podurilor şi podetelor; depăşirea capacităţii de tranzitare a acviferelor în zone fără drenaj natural sau cu drenaj natural insuficient; distrugerea lucrărilor hidrotehnice (baraje, diguri) din cauza exploatării incorecte; vanturi puternice în zona litorala sau a malurilor unor lacuri;
+  
+ 
+c) alunecări de teren: active, care se desfăşoară în urma declanşării unei alunecări primare; reactive, care sunt declansate, dar au perioade de stabilitate şi acalmie; inactive, care pot fi latente şi se pot activa oricând, abandonate, la care cauzele producerii au fost inlaturate, stabilizate prin metode de remediere.
+  
+3. Efectele fenomenelor de risc natural asupra construcţiilor şi echiparilor edilitare:
+ 
+a) cutremure de pământ: avarii la structurile de rezistenta ale clădirilor şi/sau distrugeri parţiale sau totale ale unor clădiri, pierderi de vieţi omeneşti;
+  
+ 
+b) inundaţii: obiective afectate - clădiri, drumuri, poduri, podeţe, cai ferate, reţele tehnico-edilitare, baraje, diguri, suprafeţe din intravilan şi extravilan, pierderi de vieţi omeneşti;
+  
+ 
+c) alunecări de teren: obiective afectate - clădiri, reţele tehnico-edilitare, poduri, podeţe, drumuri, cai ferate, suprafeţe din intravilan şi extravilan.
+  
+4. Delimitarea şi ierarhizarea zonelor de riscuri naturale conform hartilor de risc natural:
+ 
+a) cutremure de pământ: conform zonelor de intensitate seismică pe scara MSK şi perioada medie de revenire;
+  
+ 
+b) inundaţii: calea viiturii, zona frecvent inundabila, zona potenţial inundabila;
+  
+ 
+c) alunecări de teren: conform potenţialului de producere, respectiv zone cu potenţial scăzut de alunecare, zone cu potenţial mediu de alunecare, zone cu potenţial ridicat de alunecare.
+  
+B. Reglementări urbanistice specifice zonelor de riscuri naturale:
+1. Cutremure de pământ:
+ 
+a) precizarea condiţiilor de amplasare şi conformare a construcţiilor în raport cu gradul de seismicitate (POT - procent de ocupare a terenurilor), distanţe între clădiri, regim de înălţime, sistem tehnic constructiv privind structura de rezistenta a clădirii, sisteme de fundare, precizându-se retragerea, alinierea, distanţele minime obligatorii dintre construcţii, terenurile non aedificandi;
+  
+ 
+b) precizări cu privire la proiectarea şi construirea antiseismica se regăsesc în cadrul prevederilor actelor normative în vigoare P 100/92 şi Ordonanţa Guvernului nr. 20/1994, republicată.
+  
+2. Inundatii:
+ 
+a) delimitarea zonelor inundabile cu interdicţie totală sau temporară de construire până la elaborarea unor documentaţii, studii de specialitate;
+  
+ 
+b) definirea mijloacelor de protecţie şi a lucrărilor hidroedilitare necesare pentru completarea, întreţinerea şi redimensionarea reţelelor existente;
+  
+ 
+c) măsuri specifice de protecţie necesare pentru asigurarea condiţiilor de construire;
+  
+ 
+d) precizarea condiţiilor de amplasare şi conformare a construcţiilor în raport cu gradul de inundabilitate (sistem constructiv, regim maxim de înălţime, POT);
+  
+ 
+e) alte reglementări privind redimensionarea reţelelor hidroedilitare, îndiguiri, taluzari, regularizarea cursurilor de apa;
+  
+ 
+f) precizarea funcţiunilor interzise în zonele de risc la inundaţii.
+  
+3. Alunecări de teren:
+ 
+a) delimitarea zonelor expuse la alunecări de teren, cu interdicţie totală sau temporară de construire până la elaborarea unor documentaţii, studii de specialitate;
+  
+ 
+b) delimitarea zonelor expuse riscului la alunecări de teren, cu diferentierea, după caz, pe grade cu potenţial diferit de alunecare;
+  
+ 
+c) precizarea condiţiilor de amplasare şi conformare a construcţiilor sistem constructiv, regim maxim de înălţime admisă, pozitionarea constructivă în raport cu curbele de nivel, POT;
+  
+ 
+d) definirea mijloacelor de stabilizare a terenurilor (plantari, ranforsari);
+  
+ 
+e) microzonarea de criterii de securitate pe baza studiilor geotehnice şi hidrogeologice.
+  
+III. Planul urbanistic de detaliu
+A. Situaţia existenta - se analizează principalele probleme rezultate din analiza situaţiei existente referitoare la riscurile naturale şi se va structura astfel:
+1. Evaluarea riscurilor naturale:
+- identificarea, definirea riscurilor naturale şi a cauzelor producerii dezastrelor:
+ 
+a) cutremure de pământ: fenomene de faliere a scoartei terestre;
+  
+ 
+b) inundaţii: ploi torentiale, topiri bruste de zapada, accidente produse la lucrările existente pe cursurile râurilor - rupturi de baraje, diguri, canale, deteriorarea regularizării cursurilor de apa şi/sau erori umane legate de exploatarea construcţiilor hidrotehnice şi de obturarea albiei râurilor prin depozitarea de diverse materiale;
+  
+ 
+c) alunecări de teren: precipitatii atmosferice care pot provoca reactivarea unor alunecări vechi şi apariţia alunecarilor noi, eroziunea apelor curgătoare cu acţiune permanenta la baza versantilor, acţiunea apelor subterane, acţiunea inghetului şi a dezghetului, acţiunea cutremurelor care reactiveaza alunecarile vechi sau declanseaza alunecări primare, săpături executate pe versanţi sau la baza lor, defrişarea abuzivă a plantaţiilor şi a pădurilor, care produce declanşarea energiei versantilor.
+  
+2. Tipologia fenomenelor:
+ 
+a) cutremure de pământ: superficiale, intermediare, de profunzime; magnitudinea pe scara Richter; intensitatea seismică pe scara MSK conform STAS 11.100/1993; parametrii de zonare a seismicitatii teritoriului studiat conform normativului P 100/92; perioada medie de revenire a cutremurelor cu intensitatea de 6 grade;
+  
+ 
+b) inundaţii: revarsarea cursurilor de apa datorită capacităţii insuficiente de scurgere a albiilor minore; blocarea cu zapoare sau plutitori a cursurilor de apa, a secţiunilor subdimensionate a pădurilor şi podetelor; depăşirea capacităţii de tranzitare a acviferelor în zone fără drenaj natural sau cu drenaj natural insuficient; distrugerea lucrărilor hidrotehnice (baraje, diguri) din cauza exploatării incorecte; vanturi puternice în zona litorala sau a malurilor unor lacuri;
+  
+ 
+c) alunecări de teren: active, care se desfăşoară în urma declanşării unei alunecări primare; reactive, care sunt declansate, dar au perioade de stabilitate şi acalmie; inactive, care pot fi latente şi se pot activa oricând, abandonate, la care cauzele producerii au fost inlaturate, stabilizate prin metode de remediere.
+  
+3. Efecte asupra fondului construit:
+ 
+a) cutremure de pământ: avarii la structurile de rezistenta ale clădirilor şi/sau distrugeri parţiale sau totale ale unor clădiri, pierderi de vieţi omeneşti;
+  
+ 
+b) inundaţii: obiective afectate - clădiri, drumuri, poduri, podeţe, reţele tehnico-edilitare, pierderi de vieţi omeneşti;
+  
+ 
+c) alunecări de teren: obiective afectate - clădiri, drumuri, poduri, podeţe, reţele tehnico-edilitare, pierderi de vieţi omeneşti.
+  
+B. Reglementările specifice vizează relaţia dintre riscurile naturale şi nivelul de permisivitati şi constrângeri urbanistice privind volumele construite şi amenajările.
+1. Cutremure de pământ:
+ 
+a) precizarea condiţiilor de amplasare şi conformare a construcţiilor în raport cu gradul de seismicitate (POT - procent de ocupare a terenurilor), distanţe între clădiri, regim de înălţime, sistem tehnic constructiv privind structura de rezistenta a clădirii, sisteme de fundare, precizându-se retragerea, alinierea, distanţele minime obligatorii dintre construcţii, terenurile non aedificandi;
+  
+ 
+b) recomandări cu privire la proiectarea şi construirea antiseismica conform prevederilor actelor normative în vigoare P 100/92 (revizuită în 1996) şi Ordonanţa Guvernului nr. 20/1994, republicată.
+  
+2. Inundatii:
+ 
+a) delimitarea zonelor inundabile cu interdicţie totală sau temporară de construire până la elaborarea unor documentaţii, studii de specialitate;
+  
+ 
+b) delimitarea zonelor expuse riscului la inundaţii, cu diferentierea, după caz, pe grade de inundabilitate;
+  
+ 
+c) definirea mijloacelor de protecţie şi a lucrărilor hidroedilitare necesare pentru completarea, întreţinerea şi redimensionarea reţelelor existente;
+  
+ 
+d) măsuri specifice de protecţie necesare pentru asigurarea condiţiilor de construire;
+  
+ 
+e) precizarea condiţiilor de amplasare şi conformare a construcţiilor în raport cu gradul de inundabilitate (sistem constructiv, regim maxim de înălţime, POT, CUT);
+  
+ 
+f) alte reglementări privind redimensionarea reţelelor hidroedilitare, îndiguiri, taluzari, regularizarea cursurilor de apa;
+  
+ 
+g) precizarea funcţiunilor interzise în zonele de risc la inundaţii.
+  
+3. Alunecări de teren:
+ 
+a) delimitarea zonelor expuse la alunecări de teren, cu interdicţie totală sau temporară de construire până la elaborarea unor documentaţii, studii de specialitate;
+  
+ 
+b) delimitarea zonelor expuse riscului la alunecări de teren, cu diferentierea, după caz, pe grade cu potenţial diferit de alunecare;
+  
+ 
+c) precizarea condiţiilor de amplasare şi conformare a construcţiilor, sistem constructiv, regim maxim de înălţime admisă, pozitionarea constructivă în raport cu curbele de nivel, POT;
+  
+ 
+d) definirea mijloacelor de stabilizare a terenurilor (plantari, ranforsari);
+  
+ 
+e) microzonarea pe criterii de securitate pe baza studiilor geotehnice şi hidrogeologice.
+  
+Articolul 15
+Zonele expuse riscurilor naturale cu intensitate şi frecventa ridicate pot fi asimilate în cadrul documentaţiilor de amenajare a teritoriului şi de urbanism zonelor fragile ecologic determinate de factori naturali şi se supun în cadrul acestor documentaţii modului de gestiune a zonelor fragile ecologic, conform Ghidului privind protecţia şi revitalizarea zonelor fragile ecologic, care se aproba prin ordin al ministrului lucrărilor publice, transporturilor şi locuinţei.
+Capitolul 4
+ Dispoziţii finale
+Articolul 16
+Anexele nr. 1-5 fac parte integrantă din prezentele norme metodologice.
+Articolul 17
+Semnele convenţionale de reprezentare şi elementele grafice ce vor fi utilizate în cadrul pieselor desenate ale documentaţiilor de amenajare a teritoriului şi de urbanism pentru zonele de riscuri naturale se vor aproba prin ordin al ministrului lucrărilor publice, transporturilor şi locuinţei.
+
+GLOSAR DE TERMENI
+Documentaţii de amenajare a teritoriului - ansamblul de piese scrise şi desenate referitoare la un teritoriu determinat, cuprinzând analiza situaţiei existente şi propuneri de dezvoltare, cu caracter director (Legea nr. 350/2001 privind amenajarea teritoriului şi urbanismul).
+Documentaţii de urbanism - ansamblul de piese scrise şi desenate referitoare la o unitate administrativ-teritorială de baza sau la o zona a ei, cuprinzând analiza situaţiei existente şi propuneri de dezvoltare. Toate au caracter de reglementare, cu excepţia PUG, care are în plus şi caracter director (Legea nr. 350/2001).
+Caracter director - însuşire a unei documentaţii aprobate de a stabili cadrul general de amenajare a teritoriului şi de dezvoltare urbanistica a localităţilor prin coordonarea acţiunilor specifice. Caracterul director este specific documentaţiilor de amenajare a teritoriului (Legea nr. 350/2001).
+Caracter de reglementare - însuşire a unei documentaţii aprobate de a impune anumiti parametri soluţiilor promovate. Este specific documentaţiilor de urbanism (Legea nr. 350/2001).
+Calea viiturii - corespunde unei viituri a carei probabilitate de depasire a debitului maxim anual este mai mare de 50%.
+CUT - coeficientul de utilizare a terenului, care exprima raportul dintre suma suprafeţelor desfăşurate ale tuturor clădirilor şi suprafaţa terenului considerat.
+POT - procentul de ocupare a terenului, care exprima raportul dintre suprafaţa ocupată la sol de clădiri şi suprafaţa terenului considerat.
+Zona frecvent inundabila - corespunde unei viituri a carei probabilitate de depasire a debitului maxim anual este între 10-50%.
+Zona potenţial inundabila - corespunde unei viituri a carei probabilitate de depasire a debitului maxim anual este până la 10%.

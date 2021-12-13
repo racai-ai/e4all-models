@@ -1,0 +1,502 @@
+
+REGLEMENTARE TEHNICĂ din 30 octombrie 2008 
+„Procedură privind controlul de stat la producerea și livrarea betonului”, indicativ PCC 022/2008
+Publicat în 
+ 
+MONITORUL OFICIAL nr. 816 din 5 decembrie 2008
+ 
+
+  Notă 
+
+ 
+*) Aprobată prin ORDINUL nr. 1.392/2.815/D.M./2008, publicat în Monitorul Oficial nr. 816 din 5 decembrie 2008.
+ 
+1.
+Scop
+Realizarea controlului de stat al calității în construcții la operatorii economici deținători de stații de betoane, după o procedură unitară pentru aplicarea prevederilor legale în domeniul calității construcțiilor.
+  
+ 
+2.
+Domeniul de aplicare
+Procedura se aplică în exercitarea controlului de stat de către Inspectoratul de Stat în Construcții, denumit în continuare I.S.C, prin reprezentanții săi, la operatorii economici deținători de stații de betoane.
+  
+ 
+3.
+Cadrul legal
+La baza prevederilor cuprinse în prezenta procedură au stat următoarele acte normative:
+● Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare;
+● Legea nr. 608/2001 privind evaluarea conformității produselor, republicată;
+● Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare;
+● Regulamentul privind controlul de stat al calității în construcții, aprobat prin Hotărârea Guvernului nr. 272/1994;
+● Hotărârea Guvernului nr. 622/2004 privind stabilirea condițiilor de introducere pe piață a produselor pentru construcții, republicată;
+● Hotărârea Guvernului nr. 766/1997 pentru aprobarea unor regulamente privind calitatea în construcții, cu modificările ulterioare;
+● Regulamentul de organizare și funcționare a Inspectoratului de Stat în Construcții - I.S.C., aprobat prin Decizia primului-ministru nr. 164/2008;
+● Regulamentul privind atestarea conformității produselor pentru construcții, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.558/2004, cu modificările și completările ulterioare;
+● Normativ pentru producerea betonului și executarea lucrărilor din beton, beton armat și beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2007, aprobat prin Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 577/2008;
+● Standardul SR EN 206-1:2002 "Beton. Partea 1: Specificație, performanță, producție și conformitate", cu amendamentele SR EN 206-1: 2002/A1: 2005 și SR EN 206-1: 2002/A2: 2005 și erata SR EN 206-1: 2002/C91: 2008;
+● Standardul SR 13510: 2006 "Beton. Partea 1: Specificație, performanță, producție și conformitate. Document național de aplicare a SR EN 206-1: 2002", cu erata SR 13510: 2006/C91: 2008;
+● Cod de practică pentru producerea betonului, indicativ CP 012/1-2007, prevăzut de Ordinul ministrului dezvoltării, lucrărilor publice și locuințelor nr. 577/2008 și publicat în Buletinul Standardizării, editat de Asociația de Standardizare din România, și în Buletinul Construcțiilor, editat de Institutul Național de Cercetare-Dezvoltare în Construcții și Economia Construcțiilor - INCERC București;
+● Standardul SR EN ISO/CEI 17025: 2005 "Cerințe generale pentru competența laboratoarelor de încercări și etalonări".
+  
+ 
+4.
+Definiții
+ 
+4.1.
+Definiții
+În contextul prezentei proceduri, termenii, prescurtările și simbolurile utilizate cu referire la beton (specificație, performanță, producție și conformitate) sunt cele definite Ia pct. 3 din Codul de practică pentru producerea betonului, indicativ CP 012/1-2007, denumit în continuare Cod.
+În contextul prezentei proceduri, termenii, prescurtările și simbolurile utilizate cu referire la activitatea de control de stat sunt definiți după cum urmează:
+ 
+4.1.1.
+Control de stat - verificare periodică sau excepțională la operatorii economici care produc beton, în scopul verificării respectării reglementărilor legale și tehnice în vigoare privind:
+ 
+a)
+cerințele generale privind funcționarea stației de betoane;
+  
+ 
+b)
+calitatea materialelor componente utilizate în producția de betoane;
+  
+ 
+c)
+conformitatea cu reglementările în vigoare ale echipamentelor și instalațiilor de depozitare, manipulare, producție și transport;
+  
+ 
+d)
+evaluarea conformității betonului proiectat în vederea atingerii cerințelor de clasă și durabilitate;
+  
+ 
+e)
+realizarea controlului procesului de producție și al proprietăților betonului, inclusiv ocuparea postului de responsabil cu controlul producției;
+  
+ 
+f)
+realizarea controlului de conformitate a betonului;
+  
+ 
+g)
+livrarea betonului;
+  
+ 
+h)
+laboratorul de analize și încercări care asigură verificarea calității materialelor componente și a betonului;
+  
+ 
+i)
+sistemul de management al calității privind producerea și livrarea betonului.
+  
+  
+ 
+4.1.2.
+Controlul de stat se efectuează sub formă de:
+ 
+1.
+control periodic, care are drept scop verificarea respectării condițiilor prevăzute de reglementările legale și tehnice în domeniile enunțate la 
+pct. 4.1.1
+ 
+a)
+anual - pentru stațiile de betoane care dețin certificatul de conformitate a controlului producției, în conformitate cu prevederile Codului;
+  
+ 
+b)
+trimestrial - pentru stațiile care nu au obținut certificatul de conformitate a controlului producției, în conformitate cu prevederile Codului, sau acesta a fost retras de organismul de certificare;
+  
+  
+ 
+2.
+control excepțional, care se efectuează:
+ 
+a)
+în cazul modificării condițiilor de producție (locație, echipamente, dotări), la solicitarea operatorului economic deținător al stației de betoane;
+  
+ 
+b)
+ca urmare a unor sesizări fundamentate privind producerea și/sau livrarea de betoane neconforme;
+  
+ 
+c)
+la reluarea procesului de producție după o întrerupere de cel puțin 6 luni.
+  
+  
+  
+ 
+4.1.3.
+Reprezentant I.S.C. - reprezentantul legal al Inspectoratului de Stat în Construcții în teritoriu.
+  
+  
+  
+ 
+5.
+Responsabilități
+ 
+5.1.
+Reprezentanții I.S.C. au următoarele responsabilități:
+ 
+a)
+planifică controalele periodice la stațiile de betoane;
+  
+ 
+b)
+efectuează controalele periodice și excepționale la stațiile de betoane, în conformitate cu prevederile prezentei proceduri și ale legislației în vigoare;
+  
+ 
+c)
+întocmesc procesul-verbal de control, cu menționarea eventualelor neconformități, cu precizarea termenelor de soluționare, convenite de comun acord cu operatorul economic deținător al stației de betoane;
+  
+ 
+d)
+aplică sancțiuni în conformitate cu prevederile legale;
+  
+ 
+e)
+verifică la termenele scadente ducerea la îndeplinire a măsurilor dispuse;
+  
+ 
+f)
+întocmesc informări interne asupra stării de funcționare a stațiilor de betoane.
+  
+  
+ 
+5.2.
+Stațiile de betoane
+Responsabilitățile care revin operatorilor economici deținători de stații de betoane sunt următoarele:
+ 
+a)
+să permită accesul în vederea efectuării controlului de stat, în conformitate cu prevederile prezentei proceduri și ale legislației în vigoare;
+  
+ 
+b)
+să desemneze o persoană din partea societății care să participe la efectuarea controlului împreună cu reprezentanții I.S.C.;
+  
+ 
+c)
+să pună la dispoziția reprezentanților I.S.C. documentele și informațiile necesare efectuării controlului, în conformitate cu prevederile prezentei proceduri și ale legislației în vigoare;
+  
+ 
+d)
+să stabilească și să aplice măsurile corective pentru soluționarea neconformităților precizate în procesul-verbal de control, forma finală rezultată după rezolvarea eventualelor contestații;
+  
+ 
+e)
+să comunice reprezentantului I.S.C, cu cel puțin 5 zile înainte de reluarea procesului de producție, modificările constructive, tehnologice sau de altă natură aduse condițiilor de producție;
+  
+ 
+f)
+să anunțe în maximum 5 zile I.S.C. în cazul retragerii certificatului de conformitate a controlului producției de către organismul de certificare.
+  
+  
+  
+ 
+6.
+Procedura de control
+ 
+6.1.
+Efectuarea controlului
+ 
+6.1.1.
+La prezentarea în societate, reprezentantul I.S.C. se va legitima cu legitimația de control.
+  
+ 
+6.1.2.
+Controlul periodic va fi anunțat în scris operatorului economic deținător al stației de betoane, cu cel puțin 5 zile lucrătoare înainte de efectuarea acestuia.
+  
+ 
+6.1.3.
+Controlul se va face de către reprezentantul I.S.C, în prezența persoanei desemnate din partea stației pentru a participa la control.
+  
+ 
+6.1.4.
+Controlul va consta în verificări pe teren, verificarea documentelor și înregistrărilor care demonstrează și susțin respectarea cerințelor prevăzute de lege și reglementările tehnice în vigoare privind producerea și livrarea betonului și controlul producției de beton.
+  
+ 
+6.1.5.
+Controlul va avea în vedere verificarea cerințelor definite la 
+pct. 6.2
+ 
+1.
+Controlul periodic implică verificarea următoarelor:
+ 
+a)
+documentele prevăzute de legislația în vigoare privind funcționarea stației de betoane, în conformitate cu prevederile 
+pct. 3
+  
+ 
+b)
+existența și respectarea procedurilor de producție, cu precizarea că pentru stațiile care au obținut certificatul de conformitate a controlului producției, în conformitate cu prevederile Codului, se verifică doar existența procedurilor de producție;
+  
+ 
+c)
+planul de eșantionare și încercări, cu respectarea frecvenței prelevărilor și încercărilor reglementate prin Cod;
+  
+ 
+d)
+înregistrarea datelor conform prevederilor pct. 9.3 și tabelului 20 din Cod;
+  
+ 
+e)
+respectarea cerințelor privind verificarea sau etalonarea, inspecția și întreținerea echipamentului de producție și livrare și, respectiv, a echipamentelor de măsurare și încercări;
+  
+ 
+f)
+respectarea cerințelor minime reglementate privind avizul de însoțire a mărfii sau bonul de livrare și declarația de conformitate.
+  
+  
+ 
+2.
+Controlul excepțional implică verificarea parțială sau totală a respectării condițiilor reglementate pentru producerea și livrarea betonului și controlul producției, în funcție de specificul situației care a determinat efectuarea controlului excepțional.
+În cazul controalelor excepționale generate de sesizări, reprezentantul I.S.C. va prezenta operatorului economic deținător al stației de betoane, înainte de începerea controlului, sesizarea/reclamația respectivă.
+  
+  
+  
+ 
+6.2.
+Cerințele controlului
+ 
+6.2.1.
+Cerințe generale privind funcționarea stației ele betoane:
+ 
+a)
+existența autorizației de construire;
+  
+ 
+b)
+existența unei scheme de organizare, aprobată în conformitate cu prevederile legale - alocarea atribuțiilor, responsabilităților și competențelor pentru personalul implicat în conducerea, producerea și livrarea betonului și controlul procesului de producție;
+  
+ 
+c)
+dotarea cu echipamente de producție, mijloace de măsurare și control necesare;
+  
+ 
+d)
+existența nomenclatorului de betoane produse de stația de betoane;
+  
+ 
+e)
+existența certificatului de conformitate a controlului producției, dacă este cazul;
+  
+ 
+f)
+existența unui laborator propriu de încercări și/sau a unui contract cu un laborator de încercări pentru asigurarea efectuării verificărilor și încercărilor specifice:
+– 
+producerii betonului proiectat și/sau cu compoziție prescrisă;
+  
+– 
+controlului procesului de producție;
+  
+– 
+conformității betonului proiectat și/sau cu compoziție prescrisă.
+  
+  
+  
+ 
+6.2.2.
+Cerințe de control privind materialele componente:
+ 
+a)
+recepția calitativă a materialelor componente; existența documentelor care atestă calitatea materialelor, în conformitate cu reglementările tehnice și prevederile legale în vigoare;
+  
+ 
+b)
+conformitatea spațiilor de depozitare cu cerințele reglementate specifice fiecărui material;
+  
+ 
+c)
+existența posibilităților de manipulare a materialelor componente, astfel încât să nu se producă amestecarea sau alterarea acestora;
+  
+ 
+d)
+existența utilităților necesare întreținerii spațiilor de depozitare la parametrii funcționali conformi cu cerințele furnizorilor de materiale;
+  
+ 
+e)
+existența documentelor și înregistrărilor care atestă realizarea tipului, frecvenței inspecțiilor și încercărilor asupra materialelor componente prevăzute în tabelul 22 din Cod.
+  
+  
+ 
+6.2.3.
+Cerințe de control privind echipamentele de depozitare, sortare, dozare, cântărire, manipulare, producție și transport:
+ 
+a)
+asigurarea și menținerea toleranțelor echipamentului de dozare potrivit prevederilor pct. 9.7 din Cod;
+  
+ 
+b)
+conformitatea exactității echipamentului de cântărire potrivit prevederilor pct. 9.6.2.2 din Cod;
+  
+ 
+c)
+existența documentelor care dovedesc verificarea metrologică a echipamentului;
+  
+ 
+d)
+asigurarea cerințelor prevăzute pentru malaxoare potrivit prevederilor pct. 9.6.2.3 din Cod;
+  
+ 
+e)
+existența unui plan periodic de verificare și întreținere a echipamentului de producție - cu respectarea cel puțin a frecvenței minime și inspecțiilor/încercărilor prevăzute în tabelul 23 din Cod;
+  
+ 
+f)
+existența înregistrărilor care dovedesc realizarea planului de verificare și întreținere a echipamentului.
+  
+  
+ 
+6.2.4.
+Cerințe de control privind proiectarea compoziției betonului:
+ 
+a)
+evaluarea conformității betonului proiectat în vederea atingerii cerințelor de clasă și durabilitate, în conformitate cu prevederile Codului;
+  
+ 
+b)
+existența rețetelor de betoane pentru toate tipurile de beton incluse în nomenclatorul declarat al stației, elaborate în conformitate cu prevederile Codului;
+  
+ 
+c)
+existența înregistrărilor care dovedesc actualizarea rețetelor în funcție de caracteristicile materialelor componente și clasele de expunere;
+  
+ 
+d)
+existența documentelor și înregistrărilor care dovedesc realizarea încercărilor inițiale/preliminare pentru verificarea caracteristicilor betonului proiectat și/sau cu compoziție prescrisă, în conformitate cu prevederile pct. 5.2.1, pct. 5.2.5.1, pct. 6.1, pct. 9.5 și anexei A la Cod.
+  
+  
+ 
+6.2.5.
+Cerințe de control privind producerea betonului proiectat șî/sau cu compoziție prescrisă:
+– 
+existența documentelor și înregistrărilor care dovedesc realizarea încercărilor inițiale pentru verificarea caracteristicilor betonului proiectat și/sau cu compoziție prescrisă, în conformitate cu prevederile pct. 5.2.1, pct. 6.1, pct. 9.5 și anexei A la Cod.
+  
+  
+ 
+6.2.6.
+Cerințe de control privind controlul producției și proprietăților betonului:
+– 
+existența documentelor și înregistrărilor care dovedesc realizarea controlului producției și al proprietăților betonului, incluzând producția, transportul până la locul de descărcare și livrare, în conformitate cu prevederile pct. 9.9 și tabelului 24 din Cod.
+  
+  
+ 
+6.2.7.
+Cerințe de control privind controlul de conformitate a betonului proiectat și/sau cu compoziție prescrisă:
+– 
+existența documentelor care dovedesc efectuarea controlului de conformitate a betoanelor produse de stație, în conformitate cu prevederile pct. 8 din Cod.
+  
+  
+ 
+6.2.8.
+Cerințe de control privind livrarea betonului proaspăt:
+– 
+existența documentelor și înregistrărilor de la utilizatorul betonului pentru producător și, respectiv, de la producător către utilizator, care dovedesc respectarea prevederilor pct. 7 din Cod.
+  
+  
+ 
+6.2.9.
+Cerințe de control privind personalul stației de betoane:
+ 
+a)
+existența unei scheme de organizare și funcționare a stației de betoane, astfel încât să fie bine definite sarcinile, responsabilitățile și competențele personalului implicat în conducerea, producerea și livrarea, după caz, a betonului și controlul procesului de producție a betonului;
+  
+ 
+b)
+existența responsabilului pentru controlul producției, numit prin decizie internă a operatorului economic deținător al stației de betoane, cu respectarea cerințelor privind calificarea și experiența profesională prevăzute în anexa O la Cod;
+  
+ 
+c)
+nominalizarea responsabililor privind verificarea metrologică și întreținerea echipamentelor de producție și a mijloacelor de măsurare;
+  
+ 
+d)
+existența unui plan anual de instruire a personalului implicat în procesul de producție și controlul procesului de producție a betonului;
+  
+ 
+e)
+existența înregistrărilor care dovedesc realizarea planului anual de instruire.
+  
+  
+ 
+6.2.10.
+Cerințe de control privind laboratorul de analize și încercări pentru producția de beton și controlul producției:
+ 
+a)
+respectarea cerințelor generale pentru competența laboratoarelor de încercări și etalonări prevăzute de standardul SR EN ISO/CEI 17025:2005;
+  
+ 
+b)
+respectarea cerințelor prevăzute în Cod cu privire Ia eșantionarea și încercarea probelor de beton proaspăt și/sau întărit.
+  
+  
+ 
+6.2.11.
+Cerințe de control privind sistemul de management ai calității pentru producerea șî livrarea betonului:
+ 
+a)
+existența unui sistem documentat de control al producției, care să răspundă cerințelor prevăzute Ia pct. 9 din Cod, în principal:
+– 
+manualul de control al producției;
+  
+– 
+sistemul de proceduri și instrucțiuni privind: organizarea, managementul producției, inspecții și încercări, înregistrări, controlul produsului neconform, organizarea, amenajarea și întreținerea spațiilor de depozitare și producție, livrarea șî transportul produselor, instruirea personalului;
+  
+  
+ 
+b)
+disponibilitatea documentelor sistemului la persoanele cu responsabilități și competențe în aplicarea acestora;
+  
+ 
+c)
+existența înregistrărilor care dovedesc funcționarea sistemului;
+  
+ 
+d)
+obiecții ale operatorului economic deținător al stației de betoane.
+  
+  
+  
+  
+ 
+7.
+Dispoziții finale
+ 
+7.1.
+În baza constatărilor făcute la fața locului, a analizei documentelor și înregistrărilor prezentate, inspectorul de specialitate întocmește un proces-verbal de control, al cărui model este prevăzut în anexa care face parte integrantă din prezenta procedură și care va cuprinde:
+ 
+a)
+date generale;
+  
+ 
+b)
+constatări în teren, cu menționarea observațiilor și neconformităților cu privire la nerespectarea prevederilor legislației și reglementărilor tehnice în vigoare;
+  
+ 
+c)
+termene pentru remedierea neconformităților constatate. Termenele se vor aplica proporțional cu gradul de neconformitate constatat și se vor încadra între 5 și 90 de zile.
+
+Pct. 7.1. a fost modificat de pct. 1 al art. I din ORDINUL nr. 253 din 15 martie 2012, publicat în MONITORUL OFICIAL nr. 250 din 13 aprilie 2012.
+  
+  
+ 
+7.2.
+Procesul-verbal de control se încheie având ca semnatari reprezentanții operatorului economic deținător al stației de betoane și reprezentanții I.S.C. în cazul în care reprezentanții operatorului economic nu sunt de acord cu neconformitățile semnalate în procesul-verbal de control, aceștia pot depune o contestație la inspectoratul teritorial în construcții pe raza căruia funcționează stația de betoane, în termen de 5 zile lucrătoare. În cazul în care nu sunt necesare teste suplimentare de laborator, răspunsul la contestație va fi dat în maximum 10 zile lucrătoare de la primirea acesteia.
+  
+ 
+7.3.
+Conducerea stației de betoane are obligația să informeze în scris reprezentantul I.S.C. în teritoriu asupra modului de ducere la îndeplinire a măsurilor dispuse prin procesele-verbale de control la termenele scadente.
+  
+ 
+7.4.
+în cazul în care neconformitățile constatate privind:
+ 
+a)
+conformitatea betonului produs cu proprietățile specificate;
+  
+ 
+b)
+realizarea controlului procedurilor de producție și al proprietăților betonului nu sunt soluționate la termenele stabilite prin procesele-verbale de control, reprezentantul I.S.C. va dispune oprirea temporară a funcționării stației până la stingerea completă a neconformităților.
+  
+  
+ 
+7.5.
+Reluarea procesului de producție se va face ca urmare a unui control excepțional efectuat de reprezentantul I.S.C, la solicitarea conducerii stației de betoane, care va constata corectarea completă a neconformităților și implementarea măsurilor necesare eliminării cauzelor neconformităților constatate.
+  
+ 
+7.6.
+Încălcarea de către operatorul economic deținător al stației de betoane a reglementărilor tehnice privind producerea și livrarea betonului, organizarea necorespunzătoare și/sau neaplicarea unui sistem propriu de conducere și de asigurare a calității pentru producerea și livrarea betonului, precum și interzicerea sau obstrucționarea efectuării controlului de stat se sancționează în conformitate cu prevederile art. 33 pct. II lit. d), ale art. 33 pct. III lit. b) și h) și ale art. 33 pct. V lit. f) din Legea nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare.

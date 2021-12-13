@@ -1,0 +1,65 @@
+Tablou de Tamplarie
+Tablou sau liste in Excel?
+
+2019-06-07 2286 0
+sevalet pictura cu o fereastra pe el
+Desenam o serie de planșe sub forma acestui tablou de tamplarie așa cum am învățat în birourile de Proiectare pe unde am lucrat, desenam și “pictam tablouri”, până de curând, mimetic și mecanic, fără să mă gândesc dacă există și o metodă mai bună de lucru.
+
+Tâmplării cu dimensiuni standard pentru Ferestre?
+În contextul folosirii cat mai larg a elementelor prefabricate și standardizate, pentru eficiență în costuri, se folosesc uși cu dimensiuni standard. Din categoriile tâmplăriilor folosite în proiect, o mare parte din tâmplării ar fi bine să fie prevăzute cu dimensiuni standard.
+
+De ce să nu folosim, în proiectarea clădirii, geamuri standard la fel cum folosim ușile standard, ar trebui să fie mai practic și mai eficient pentru un Tablou de Tamplarie “Reinventat”
+
+De ce să nu folosim, pentru măcar o parte din ferestre, tâmplării cu dimensiuni standard pe care să le prevedem în plan, la fel cum facem și cu ușile (gol ușă de 80, de 90, de 100 cm, șamd.)
+
+De la această nedumerire, am pornit o analiză privind forma și modul în care edităm planșele despre tâmplării și cum le putem edita mai bine.
+
+Ce este un Tablou de Tamplarie și la ce se folosește acesta.
+tablou de tamplarie model perete cortina vedere tamplarie in plan si fatada
+Tablou de Tamplarie model perete cortina. Vedere tamplarie in plan si fatada
+Ne-am obișnuit să realizăm, mecanic, planșele în care sunt descrise tâmplăriile, sub denumirea și forma binecunoscută de ” Tablou de Tamplarie “, așa cum sunt folosite în multe ateliere de proiectare.
+
+Denumirea și “Pictarea” acestui “Tablou” folosită pentru planșe destul de tehnice este folosită și pentru ceea ce se numește “Tablou Electric”.
+
+“Tabloul” poate fi folosit justificat pentru exprimări artistice chiar și sub forma unei rame goale sau rupte, încadrând un graffitii sau o piesă bizară, expuse pe un perete sau atârnate într-un muzeu de artă contemporană. Denumirea folosită pentru Panouri Electrice dar și pentru tâmplării, (uși, ferestre, pereți cortină, vitrine) poate fi destul de anacronică, nepotrivită cu sistemele moderne de proiectare și de generare/extragere a informațiilor din cadrul unui proiect.
+
+Tabloul de Tâmplării, așa cum îl știu proiectanții, nu are o încadrare și un conținut standard. Probabil că undeva prin vreun sertar există un Stas prăfuit.
+
+Descrierea planșelor pe care sunt prezentate Tâmplăriile în forma Clasicului “Tablou”
+Un Tablou de Tamplarie este desenat pe planșe de hârtie format A4, A3 sau de format hârtie atipic (în funcție de imprimanta sau plotterul ales) pentru pereți cortină, vitrine interioare sau exterioare, ansambluri mai mari de tâmplărie care nu încap pe planșe de dimensiuni obișnuite, ansambluri de tâmplării care nu pot fi segmentate eficient în mai multe planșe.
+
+Desenul conține vederea frontală și în plan a ferestrelor sau a ușilor, cu marcarea deschiderii, cote, etc. Alături de desenele tâmplăriei, sunt desenate în tabele simple descrieri cu dimensiune, metri pătrați, amplasare, bucăți, număr total, etc.
+
+Dezavantajele desenului în tabloul (Clasic) de Tamplarii și posibile adaptări
+tablou de tamplarie in tabel pentru usile tip pentru tamplarii standard
+Toate ușile, chiar și cele standard sunt desenate întins, răsfirat, acestea putând fi listate într-un tabel excel care să conțină absolut toate aceste informații desenate redundant.
+
+Geamurile standard, la fel, sunt desenate redundant, acestea putând avea o singură schiță generică cu toate specificațiile generale care să fie însoțită de un tabel excel cu toate detaliile (dimensiuni, culoare, amplasare, suprafață, specificații punctuale)
+
+Tabelele sunt desenate manual, linie cu linie, completate și adunate manual. Acestea pot fi integrate și însumate mai ușor folosind un program tip excel.
+
+Pentru Clădiri / obiective de mari dimensiuni, desenarea / “Pictarea” acestui tablou este ineficient, datele și informațiile sunt greu de extras și de vizualizat în ansamblu.
+
+Culmea este faptul că anumite programe moderne, pe care se lucrează direct în 3D, generează semiautomat aceste tablouri de tâmplării întinse care se făceau și încă sunt făcute manual de către proiectanți.
+
+Cum putem prezenta unui client datele și cantitățile tâmplăriilor și altfel decât sub forma “pictată” a clasicului tablou de tamplarii
+Pentru ușile interioare și exterioare standard, cu înălțime standard (mă refer la ușile care se montează în goluri existente sau noi, nu la cele care se montează în cadrul vitrinelor sau pereților cortină.) Folosirea strict a tabelelor tip excel, aceste tabele se vor imprimă pe hârtie A4 și maxim A3. Separat, în continuarea acestor Planșe/file cu tabele, va urma planșa/planșele cu desenul/desenele și specificațiile detaliate ale tâmplăriei standard la care se face referire în coloanele din tabelele excel.
+Tabele tip excel alături de planșele cu tâmplării tip perete cortină și vitrine , pentru ferestrele standard sau atipice.
+Am atașat un fișier pe One Drive. Fisierul poate fi folosit pentru tabelele de uși standard:
+
+https://1drv.ms/f/s!Al2Eq6nKnaKgi5A3xQWk_H193XTPNg
+
+poza cu vedere tablou de tamplarie usi standard
+Poza cu vedere Tablou de Tamplarie usi standard
+Tabel Tâmplărie Uși
+Categoriile principale ale segmentării planșelor de tamplarie
+Tâmplărie exterioară standard (uși metalice, uși rezistente la foc, PVC termoizolante, uși prevăzute cu vitraj sau cu panou plin)
+Tamplarie interioară standard (uși metalice, PVC, lemn, etc) prevăzute cu vitraj sau cu panou plin)
+Geamuri/ferestre exterioare și vitraje / geamuri în cadrul golurilor pereților interiori.
+Geamuri/ferestre în cadrul golurilor pereților interiori.
+Pereți de compartimentare prefabricați, cu elemente vitrate, cu sau fără elemente pline
+Perete cortină autoportant pe parter sau pe mai multe niveluri.
+Perete exterior realizat din ansamblu de tâmplării ranforsate cu structură suplimentară.
+Vitrine Exterioare
+Vitrine interioare.
+Usile din cadrul unui perete cortina se descriu și sunt cuprinse in cadrul acelui perete cortina.

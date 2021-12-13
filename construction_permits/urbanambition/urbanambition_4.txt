@@ -1,0 +1,107 @@
+Cadastru Intabulare Ridicare Topografica
+2019-07-24 13715 0
+Cadastru Intabulare Ridicare Topografica
+Cadastru Intabulare, Ridicare Topografică Stereo 70, Schița cadastrala a imobilului, Schița cadastrală a terenului, Extras de Carte funciară, Fișa bunului imobil.
+
+Situația cadastrală incompletă, netransparentă și neintegrată cu planurile dinamice Generale de Urbanism (viitoarele PUG-uri digitalizate in sistem GIS) duc la o improvizație permanentă în care derogările și consiliile locale sporesc haosul urbanistic. Traseul și răspunsurile / comunicarea între instituțiile statului sunt greoaie. Informația “hărților” urbane este împrăștiată în multiple instituții și locații, o parte digitalizat dinamic, o parte digitalizat scanat nedinamic și o foarte mare parte prin sertare și dosare.
+
+Ce înseamnă toate aceste denumiri, ce rol au acestea, care este legătura între ele și unde este bine sa le folosim pe fiecare în parte sau separat.
+
+Ce înseamna cadastru ? Ridicarea topografică Stereo 70? Este schița blocului, schița casei sau a apartamentului?
+
+Cum și unde sunt folosite aceste planuri atunci când se întocmește proiectul sau cadastrul unei clădiri sau al unei amenajări.
+
+Conform legii 7/1996 din acest link, cadastrul este un sistem de importanță națională. Conform cu ritmul de cadastrare și digitalizare actual nu pare un sistem atât de important. Este o muncă titanică și, din anumite surse, lucrările de cadastrare gratuită sunt plătite foarte slab și nu sunt multe firme interesate să participe la acest program de cadastrare gratuită prezentat cu optimism în acest link: http://www.ancpi.ro/pnccf/
+
+Cadastrul este esențial pentru realizarea Planurilor de Urbanism Generale sau Locale (Zonale și de Detaliu) după cum am scris în articolul despre PUG PUZ și PUD https://www.urbanambition.ro/pug-puz-pud/. Cadastrul este obligatoriu pentru realizarea oricărui tip de proiect care ajunge la autorități pentru avizare sau autorizare.
+
+Cadastru (Cadastrul)
+Cadastrul ne arată limita de proprietate, forma clădirii, planul clădirii sau al apartamentului și a spațiilor comune dacă e vorba de spațiu într-un condominiu (locuință colectivă – bloc/case colective).
+
+Fiecare teren are alocat un număr cadastral. Fiecare corp de clădire de pe teren are alocat o extensie a aceluiași număr derivat din numărul cadastral al terenului.
+
+De unde se pot elibera Planșele de Cadastru ?
+Pentru Cadastru nu se poate, momentan, online. Trebuie să vă deplasați la sediul-oficiile de care aparțineți și să faceți acolo o mică cerere și să plătiți o taxă. Pentru Județe și Ilfov se cere, suplimentar, față de București, copie după actele de proprietate.
+
+Conținut esențial Planșe Cadastru pentru Apartamente în Blocuri
+Fișa bunului imobil (poate îngloba sau nu planul de amplasament)
+Releveu apartament sau scara 1:50 sau 1:100 realizat de persoană autorizată
+Plan de amplasament și delimitare a bunului imobilul scara 1:500, 1:1000, 1:2000 (1:5000, sau 1:10000)
+Pentru blocuri se includ și trotuarele de protecție (trotuarele de gardă). Se va calcula și cota indiviză aferentă fiecărui apartament.
+
+Conținut Planșe pentru Terenuri care au sau nu Construcții pe ele
+La fel, fișa bunului imobil (înglobează, desenat pe fișă, planul de încadrare)
+Plan de încadrare în zonă dar, un pic, la alte scări 1:2.000, 1:10.000 sau 1:25.000
+Inventar de coordonate (care este relevant doar pentru terenuri și nu pentru apartamente).
+Releveul (schiță cu măsurători spații interioare) în cazul construcțiilor noi.
+Carte Funciară și extras de Carte funciară (CF)
+Anumite imobile au numere cadastrale dar pot să nu fie înscrise în Cartea Funciară
+
+Deschiderea nedefinitivă a Cărții Funciare a unui teren care are sau nu construcții pe el se face face cu punerea la dosar a Fișei Bunului Imobil și a planului de Amplasament (sau Încadrare).
+
+Extrasele de carte funciară au rolul de a prezenta informații succinte și esențiale despre imobil/teren: Teren intravilan sau extravilan (adică dacă e în oraș sau în afara orașului – “pe câmp”), adresa, numărul cadastral și topografic (de obicei au același număr cu numărul cărții Funciare), suprafața terenului, tabele cu lista construcțiilor de pe teren cu descrierea lor și suprafața utilă a camerelor componente.
+
+Extrasul C.F. nu include Cadastrul, include doar anumite informații din cadastru și o schiță extrem de schematică cu forma terenului.
+
+Extrasele C.F. “expiră” și nu pot fi folosite pentru documentații de avizare și autorizare dacă depășesc un anumit timp, în jur de o lună sau să fie în luna curentă, în funcție de solicitarea autorității avizatoare.
+
+Extras C.F. Pentru credit bancar
+Primul lucru pe care trebuie să-l duceți la bancă, pentru un credit imobiliar, este Extrasul de Carte Funciară. Anumite litigii pot sau nu pot fi trecute în extrasul de Carte Funciară, dacă sunteți hotărâți pentru un teren casă sau apartament, verificați suplimentar dacă există litigii care nu apar din posibile erori in Extrasul C.F.
+
+Hartă cu numere Cadastrale (pentru a scoate extras CF de mai jos)
+
+http://geoportal.ancpi.ro/geoportal/imobile/Harta.html
+
+De unde se pot elibera Extrasele de Carte Funciară?
+Aceste extrase se pot descărca și plăti online la adresa: https://epay.ancpi.ro/epay/SelectProd.action?prodId=1420. Trebuie să vă faceți un cont online și apoi puteți plăti și descărca orice Carte Funciară pentru informare.
+
+Intabularea
+Intabularea este înscrierea în Cartea Funciara a dreptului de proprietate. Lipsa unei intabulări înseamnă imobilul nu are setul actelor de proprietate complete și nu poate fi vândut, cumpărat sau disponibil pentru alte operațiuni privind dreptul de proprietate al acestuia. (dreptul de proprietate, superficie, uzufruct, dreptul de uz, abitaţie, servitute, administrare, concesiune, folosință și drepturile reale de garanție).
+
+Pericole privind Intabularea
+Când cumpărați o casă nouă sau un apartament nou, dacă faceți intabularea pe numele dvs., să verificați dacă există Autorizație de Construire și proces verbal de recepție finală a clădirii. Dacă nu faceți acest lucru, e posibil să “moșteniți” viitoare probleme la recepția clădirii sau reautorizare din nerespectarea proiectului din Autorizația de Construire.
+
+Pentru clădirile și apartamentele vechi, comparați schița cadastrală a imobilului sau apartamentului cu situația actuală din teren.
+
+Mare atenție privind HG nr. 343/2017 care lasă anumite portițe privind recepții parțiale. Nu acceptați achiziționarea unei case sau apartament în baza acestei ordonanțe și acestui tip de recepție nefinală. Se pot plăti bani în avans cu clauze condiționate de buna recepție finală a clădirii de care trebuie să se ocupe dezvoltatorul/constructorul nu dvs. E ca și cum ați trece pe numele dvs o mașină cu trei roți și fără faruri. Plătiți doar un avans cu clauze solide în contract și apoi treceți-o după ce aveți toată “mașina de locuit” construită și recepția finală cum că a fost construită conform proiect.
+
+Apelați la o consultanță cu un arhitect chiar dacă locuința este deja construită, nouă sau veche. Lista Arhitecților este la acest link: https://www.oar-bucuresti.ro/tabloul/
+
+Ridicarea Topo Stereo 70
+Ridicarea Topo Stereo 70 este ca o hartă GPS exactă, o măsurătoare care arată, de sus, fiecare element din terenul și clădirile dvs sub formă de linii, texte, hașuri și puncte. Pe lângă dimensiunea acestor elemente este marcată și cota de nivel (înălțimea terenului față de nivelul mării). Din anul 1970 avem implementată trasarea terenurilor și a clădirilor în sistem de coordonate “Proiecție Stereografică 1970” (Stereo 70).
+
+Cu ajutorul ridicării topo Stereo 70 sunt realizate toate planurile de cadastru vechi și noi. Se pot cuprinde străzi, trotuare, stâlpi, cămine canal, gaz, garduri, clădiri, dealuri, ape, arbori, căi ferate, etc.
+
+Utilizare în proiectarea modernă a sistemului Stereo 70
+După apariția computerelor în proiectare, acest sistem Stereo 70 poate fi suprapus digital în calculator cu orice teren sau clădire pe care doriți să o măsurați sau să o construiți/extindeți.
+
+După începutul erei computerizate, aceste planuri pot fi suprapuse exact cu planurile inginerilor și ale arhitecților pentru a trasa exact clădirile existente, clădirile propuse, trasarea fundațiilor și a amenajării incintei pentru alei și spații verzi.
+
+Pentru Clădiri noi este obligatorie ca realizarea planurilor de situație să fie întocmite pe suportul topografic Stereo 70.
+
+La amenajări interioare și recompartimentări, ridicarea topo nouă nu are nicio utilitate. Se pot folosi planurile cadastrale cu delimitarea bunului imobil și releveul spațiilor interioare. Doar pentru amenajări interioare ample care necesită fundații și structură interioară pentru realizarea de etaje intermediare sau supante (etaj intermediar deschis).
+
+Pentru amenajări exterioare și intervenții la fațade pentru schimbare accese sau ferestre noi, ridicarea topo poate fi cerută în relația cu alte accese de la spațiile / clădirile vecine și amenajarea incintei.
+
+Planurile Cadastrale în București 1:500 și 1:2000
+despre cadastru bucuresti planul este foarte incarcat si greu de citit sau lucrat pe el
+Despre Cadastru Bucuresti. Încarcat si greu de citit sau lucrat pe el pentru planuri de Situație și Amplasament
+La București, pentru zonele cu țesut urban constituit (zone cu case și străzi existente vechi sau mai puțin vechi) planurile cadastrale eliberate de ANCPI sunt planuri vechi de acum 50 de ani peste care angajații de la oficiu de cadastru au trasat cu contur albastru limitele de proprietate și contur roșu pentru marcarea stadiului terenurilor și clădirilor cuprinse în documentațiilor cadastrale avizate.
+
+Din păcate, toate aceste planșe cadastrale sunt suprapuse pe planurile de acum 50 de ani neactualizate și suprapuse cu marcarea contur albastru pentru limitele de proprietate și contur roșu pentru clădirile introduse în cadastru centralizat.
+
+Teoretic, aceste planuri le consider ca fiind interne, ale lor, de lucru, cu marcarea celor doua contururi (roșu și albastru plus textele cu numerele cadastrale) în baza lor de date. Aceste planuri ar trebui să fie eliberate și separat de către Oficiul de Cadastru, “curate” fără aceste marcaje colorate care fac planul aglomerat și greu de desenat peste acesta.
+
+Din această cauză, pentru arhitecți și urbaniști este extrem de greu de lucrat planuri de situație și amplasament pe aceste planșe care devin ilizibile din atâtea suprapuneri (planuri vechi, contururile roșii, contururile albastre).
+
+De cele mai multe ori nu am desenat pe planurile primite de la cadastru, am desenat combinând planurile lor cu planurile curate (cele de acum 50 de ani) pe care putem desena frumos și curat planurile de amplasament și planurile de situație. Aceste planuri pot fi vizualizate și descărcate de la acest link: https://cadastral.carto.com/builder/7657626a-ba68-11e6-a24f-0e05a8b3e3d7/embed
+
+Linkuri legislație:
+Legea cadastrului și a publicității imobiliare nr. 7/1996
+Legea nr. 150/2015 pentru modificarea și completarea Legii cadastrului și a publicității imobiliare nr. 7/1996
+LEGEA fondului funciar nr. 18 din 19 februarie 1991
+INSTRUCŢIUNI din 12 octombrie 2000 privind întocmirea documentaţiei cadastrale
+LEGE Nr. 196/2018 din 20 iulie 2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor
+ORDIN nr. 700 din 9 iulie 2014 Regulamentului de avizare, recepţie şi înscriere în evidenţele de cadastru şi carte funciară
+Receptie parțială: HG nr. 343/2017 – modificarea HG nr. 273/1994 privind aprobarea Regulamentului de recepţie a lucrărilor de construcţii și instalaţii aferente acestora
+Legea 50/1991 privind autorizarea executării lucrărilor de construcții

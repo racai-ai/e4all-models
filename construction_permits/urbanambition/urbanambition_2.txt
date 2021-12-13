@@ -1,0 +1,100 @@
+În acest articol denumit Clasa de Importanta a Constructiilor am încercat să-mi clarific cei doi termeni Clasa și Categoria.
+
+Destul de confuză formularea din art4, reg. 1997 în care regulamentul definește încadrarea categoriilor construcțiilor în (alte) categorii dar și în clase.
+
+În Imaginea principală din acest articol am schițat un infografic cu cele două încadrări de importanță Globală și Specifică.
+
+După abrogarea Reg. din 08.06.1994, a dispărut lista cu exemplificările clădirilor din categorii și, cu aprobarea P 100-1/2013 (2019) din 08.08.2013 (Modificare finală cu Ordinul nr. 2956 în 2019), s-au trecut alte exemplificări, mai detaliate, în încadrarea Claselor din P 100-1/2019.
+
+Am cuprins în articol și lista exemplificărilor pentru Categorii din regulamentul 1994 abrogat dar și lista cu exemplificările în vigoare pentru Clase din P 100-1/2013 (P 100-1/2019)
+
+Construcțiile se încadrează, după importanța lor, în două părți principale:
+1. Categoria de Importanță este o încadrare globală care privește întreaga construcție sub toate aspectele.
+
+2. Clasa de Importanță este o încadrare specifică care privește întreaga construcție sau părți ale acesteia, sub anumite aspecte.
+
+Clasa de importanță este o încadrare mai complexă față de Categoria de Importanță.
+
+Clasa de Importanta a Constructiilor cuprinde ca principale două aspecte: rezistența la cutremur și prăbușire corelate cu importanța și complexitatea funcțiunilor.
+
+Un exemplu simplist: un spital va fi încadrat într-un grad (clasă) superior față de o hală de depozitare materiale de construcții. Spitalul ca funcțiune complexă va fi corelat cu aspectul privind rezistența la cutremur, gradul de rezistență la foc dar și cu numărul de persoane prevăzute a fi adăpostite în acesta.
+
+Clasele de importanță se corelează cu categoriile de importanță de către proiectant, la construcțiile noi, și/sau de către expertul tehnic atestat, la construcțiile existente, în scopul stabilirii condițiilor de aplicare a componentelor sistemului calității. (art.9, reg. 1997)
+
+Investitorii sau proprietarii pot să prevadă prin clauze contractuale cu proiectanții cerințe superioare celor corespunzătoare categoriei sau clasei de importanță a construcției. (art.11, reg. 1997)
+
+Categoria de Importanță Clasificarea în categorii de importanță a construcțiilor se face în funcție de complexitate, destinație, mod de utilizare, grad de risc sub aspectul siguranței, precum și după considerente economice. (art. 4, Lg. 10/1995)
+
+Categoria de importanță se calculează și evaluează cu ajutorul Normei Metodologice de stabilire a Categoriei de Importanță a Constructiilor.
+
+Metodologia este la acest link: https://bit.ly/academia-edu-norme-categorie-importanta Și conform cu Regulamentul din 21.11.1997 (reg. 1997) din acest link: https://lege5.ro/Gratuit/geztcojq/regulamentul-privind-stabilirea-categoriei-de-importanta-a-constructiilor-din-21111997
+
+Acest regulament (reg. 1997) face parte ca anexa nr 3 la Hotărârea nr. 766/1997 pentru aprobarea unor regulamente privind calitatea în construcții https://lege5.ro/Gratuit/geydinrw/hotararea-nr-766-1997-pentru-aprobarea-unor-regulamente-privind-calitatea-in-constructii
+
+Alte observații despre Categoria și Clasa de Importanta a Constructiilor:
+Categoria și clasa de importanță stabilite pentru o construcție nu se vor modifica decât la schimbarea destinației sau în alte condiții care impun aceasta, prin documentații motivate. (art.10, reg. 1997)
+
+Obligațiile proiectanților
+Proiectanții de construcții răspund de precizarea prin proiect a categoriei de importanță a construcției (art. 22, Lg. 10/1995).
+
+Neprecizarea se sancționează cu amendă de la 1.500 lei la 5.000 lei (art. 33, alin III. a, Lg. 10/1995)
+
+Categoria de Importanță este împărțită în patru tipuri:
+construcții de importanță excepțională (A)
+de importanță deosebită (B)
+de importanță normală (C)
+construcții de importanță redusă (D).
+Cerințele și obligațiile persoanelor vor ține cont de trei aspecte (reg. din din 21.11.1997, art 5, lit a, b și c)
+afectarea naturii, societății și riscurile asupra sănătății și siguranței
+obligații privind integrarea socio-economic, destinația și modul de utilizare
+caracteristici proprii construcțiilor și alte aspecte economice care țin de complexitatea construcțiilor
+Lista exemplificativă dintr-un regulament abrogat (Reg. 08.06.1994) cu tipuri de construcții încadrate în tipul de Categorie de Importanță
+Construcții de importanță excepțională (A) Construcții cu funcțiuni deosebit de importante, a căror neîndeplinire implică riscuri majore pentru societate și natură, pe zone foarte extinse.
+
+Exemple: reactoare nucleare, baraje înalte sau amplasate pe terenuri dificile, cu zone intens populate în aval.
+
+Construcții cu caracter de unicat, cu valoare deosebită de patrimoniu.
+
+Exemple: ansambluri și clădiri de cult sau alte monumente de arhitectură propuse pentru a fi înscrise în patrimoniul cultural mondial. (articol abrogat, exemplificare)
+
+De importanță deosebită (B) Construcții cu funcții importante, a căror neîndeplinire implică riscuri majore pentru societate și natură, pe zone limitate.
+
+Exemple: construcții din industria chimică; căi ferate, șosele, poduri, porturi și aeroporturi de interes național; baraje pentru acumulări mari de apă construcții social-culturale cu aglomerări mari de oameni; stații de emisie de radio și televiziune.
+
+Construcții cu valoare deosebită de patrimoniu sau care adăpostesc asemenea valori.
+
+Exemple: monumente de arhitectură, situri istorice, muzee, arhive și biblioteci de importanță națională (articol abrogat, exemplificare)
+
+De importanță normală (C) Construcții cu funcții obișnuite, a căror neîndeplinire nu implică riscuri majore pentru societate și natură.
+
+Exemple: clădiri de locuințe cu mai mult de două niveluri; construcții industriale și agrozootehnice curente; construcții social-culturale care nu intră în categoriile de importanță A și B.
+
+Construcții cu caracteristici și funcțiuni obișnuite, dar cu valori de patrimoniu.
+
+Exemple: clădiri de cult; muzee de importanță locală. (articol abrogat, exemplificare)
+
+Construcții de importanță redusă (D).Construcții cu funcții obișnuite, a căror neîndeplinire afectează un număr redus de oameni.
+
+Exemple: clădiri de locuințe parter sau parter și un etaj; dependințe gospodărești; construcții provizorii. (articol abrogat, exemplificare)
+
+Clasa de importanță
+Se stabilește prin reglementări tehnice și are la bază criterii specifice.
+
+După cum am scris și la începutul articolului, Clasa de Importanță este o încadrare mult mai complexă față de Categoria de Importanță.
+
+Am încercat să sintetizez definiția încadrării Clasei ca fiind o încadrare specifică care privește întreaga construcție sau părți ale acesteia, sub anumite aspecte.
+
+În tabelul de jos, veți găsi tipuri de clădiri și clasa de importanță aferentă extras din P 100-1/2013 modificat de Ordinul nr. 2956/2019 a rezultat P 100-1/2019
+
+Clasa de Importanță I (1)
+Clasa de Importanta a Constructiilor 1
+Clasa II (2)
+Clasa de Importanta a Constructiilor 2
+Erata: (k) Clădiri având înălțimea totală supraterană cuprinsă între 28 și 45 m
+și alte clădiri de aceeași natură
+https://lege5.ro/Gratuit/gm2tembrgmzq/ordinul-nr-2956-2019-pentru-modificarea-si-completarea-reglementarii-tehnice-cod-de-proiectare-seismica-partea-i-prevederi-de-proiectare-pentru-cladiri-indicativ-p100-1-2013-aprobata-prin-ordinul-vice
+acest ordin Ordinul nr. 2956/2019 aduce modificare la Modificare la litera Erata: (k) Clădiri având înălțimea totală supraterană cuprinsă între 28 și 45 m_
+Clasa III (3)
+Clasa de Importanta a Constructiilor 3
+Clasa de Importanță IV (4)
+Clasa de Importanta a Constructiilor 4

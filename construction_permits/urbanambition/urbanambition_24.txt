@@ -1,0 +1,74 @@
+Gradul de Rezistenta la Foc
+2020-10-28 6328 0
+tabel cu gradul de rezistenta la foc
+Gradul de Rezistenta la Foc are o importanță deosebită pentru o mare parte din clădirile obișnuite dar și pentru clădirile deosebite/speciale.
+
+Pentru locuințe individuale/unifamiliale Gradul de Rezistenta la Foc are importanță și semnificație doar dacă respectiva locuință este în apropierea altor construcții cu importanță mai mare față de această locuință individuală. Voi explica în cadrul articolului.
+
+Marea majoritate a construcțiilor obișnuite se încadrează în următoarele grade și categorii
+Gradul de Rezistenta la Foc II (GRF II) sau III (GRF III)
+Categoria de importanță normală C sau Categoria de importanță redusă D și în
+Clasa de Importanță III sau în Clasa II, după cum am scris și în articolul despre Clasa și Categoria de Importanta a Constructiilor
+Fără scenariu și aviz de securitate la incendiu pentru o casă
+Pentru locuințe individuale și pentru locuințe colective mici nu sunt solicitate avize și scenarii de securitate la incendiu. Cu toate acestea, sunt recomandate o serie de măsuri de prevenție în momentul în care se aleg materialele de separare între apartamente, pereții de la calcanele către vecini, ferestre/goluri spre alte clădiri vecine care au un grad redus de rezistenta la foc.
+
+Riscul de transmitere a incendiului
+O casă construită parțial sau total cu paie sau lemn va avea Gradul de Rezistenta la Foc diferit de o casă construită cu zidărie sau beton armat.
+
+Locuințele individuale izolate pe lot față de locuințele cuplate sau înșiruite au un regim mai relaxat privind gradul de rezistență la foc.
+
+Construcțiile cu locuințele cuplate și înșiruite au un risc mai mare de transmitere a incendiului de la unitate de locuit la alta și este recomandată amplasarea între locuințe, chiar dacă avizatorul nu o cere, de pereți rezistenți la foc care să treacă de învelitoare sau să existe învelitoare rezistentă la foc.
+
+Locuințele colective realizate cu structuri din beton armat, planșee din beton armat și zidării au un grad sporit de rezistență la foc. Aceste clădiri pot fi prevăzute, încă din faza de proiect sau în fază ulterioară, cu un etaj suplimentar realizat din materiale mediu și ușor inflamabile.
+
+Este recomandat ca între apartamentele din cadrul acestui etaj să existe pereți rezistenți la foc.
+
+Apartamentele din lemn construite în mansarde
+O mare problemă o reprezintă apartamentele construite în mansardele blocurilor noi sau vechi.
+
+Între apartamentele de la etajele inferioare (de la blocurile vechi și noi) sunt constituite o serie de măsuri prin natura elementelor de construcție (pereți din zidării și planșee din beton armat), majoritatea acestor apartamente de la “mansardă” nu sunt realizate cu elemente de separare rezistente sau nici măcar etanșe la foc.
+
+Dacă apartamentele din etajele inferioare sunt realizate cu o durată normală de timp, apartamentele din mansarde sunt realizate, de cele mai multe ori, în grabă și cu materiale structurale de slabă calitate. (lemn netratat și compartimentări din gips carton, termoizolații și hidroizolații de calitate îndoielnică).
+
+Mare atenție atunci când cumpărați acest tip de apartament realizat în mansardă. Atenție la documentații. la certificarea lucrărilor, la transparență execuției și la seriozitatea constructorului.
+
+Lemn sau Beton
+O casă cu structură din lemn, realizată din materiale cu rezistență scăzută la foc poate avea avantajul unei execuții mai rapide, rezistență mai bună la cutremur, un confort higrotermic sporit și un posibil design mai aproape de natură și de condițiile de recuperare, reciclare și reutilizare.
+
+“Comparativ cu metalul, lemnul se comportă mai bine în timpul unui incendiu. Când este expus la foc, un element structural din lemn îşi păstrează capacitatea portantă un timp mai îndelungat decât metalul. Un element din metal neprotejat îşi pierde repede capacitatea şi cedează în urma încărcărilor, în timp ce lemnul îşi pierde capacitatea portantă treptat, odată cu micşorarea secţiunii ca urmare a carbonizării.”
+
+Universitatea Tehnică „Gheorghe Asachi” din Iaşi https://www.tuiasi.ro/ D. Diaconu. Prelegerea 4 performanţa produselor pentru construcții cu rol în securitatea la incendiu
+
+Măsuri Active sau Pasive de prevenție
+O casă vulnerabilă la incendiu poate fi protejată de măsuri din proiectare privind instalațiile electrice, protejarea temeinică a coșurilor de la sobe, centrale sau șeminee folosite ocazional, dar și măsuri active de monitorizare centralizată cu senzori de temperatură și fum, senzori optici, ventilații și automatizări în camerele cu risc mai mare de pornire a incendiilor.
+
+Pentru clădiri de importanță și complexitate sporită
+Gradul de rezistență la foc și toate prevederile privind siguranță la incendiu pentru clădiri mai complexe (de producție, clădiri altele decât cele colective și individuale de locuit) sunt cuprinse extrem în Normativul de siguranță la foc al construcțiilor și în alte normative aferente fiecărui tip de funcțiune și destinație.
+
+Verificator + Proiectanți + Scenariu + Normative și Legislație
+Pentru aceste clădiri mai complexe, cu ajutorul Verificatorilor Atestați, a Arhitectului, Inginerilor de Structură și Instalații, aceste normative împreună cu Scenariile de siguranță la foc vor trata exact toate prevederile necesare pe care trebuie să le îndeplinească spațiul sau clădirea pe care doriți să o amenajați sau pe care doriți să o construiți.
+
+Gradul de Rezistenta la Foc
+Gradul de Rezistenta la Foc este dat de tipul materialelor de construcție prin rezistența lor la foc și de modul în care aceste materiale sunt dispuse în alcătuirea unei clădiri.
+
+Materialele de construcție care alcătuiesc clădirea, materialele depozitate, mobilierul, măsurile active de reducere a riscului de incendiu pot influența Gradul de Rezistență la foc.
+
+Tabele Utile
+clasa de reactie la foc tabel 
+Înlocuirea claselor de combustibilitate cu clase de reacție la foc. Regulament aferent Ordinul nr. 1822/2004
+densitatea sarcinii termice si rezistenta la foc a pereților tabel
+Densitatea sarcinii termice si rezistenta la foc a pereților Normativ P118-99
+distante de siguranta fata de constructii in functie de gradul de rezistenta la foc
+Distanțe de siguranță față de construcții în funcție față de gradul de rezistență la foc Normativ P118-99
+Termeni despre Rezistența la Foc
+
+Gradul de Rezistenta la Foc (GRF). Este capacitatea globală a construcției sau a compartimentului de incendiu de a răspunde la acțiunea unui incendiu standard, indiferent de destinația sau funcțiunea acestuia.
+Densitatea Sarcinii Termice (DST)
+Categoriile de Pericol de Incendiu (CPI). Sunt luate în considerare doar pentru construcții de producție și/sau depozitare.
+Clasele de Periculozitate (CP). Sunt date de materialele și substanțele ce se depozitează în construcția sau în compartimentului de incendiu.
+Clasele de Combustibilitate (CC). În funcție de comportarea la foc, materialele și elementele de construcții, pot fi incombustibile C0 (CA1) sau combustibile.
+Risc de incendiu (RI). Probabilitatea izbucnirii incendiilor în spații încăperi, construcții sau compartimente de incendiu ori instalații cu funcțiuni civile.
+Rezistență la foc (RF). Aptitudinea unor părți sau elemente de construcție de a-și păstra, într-un timp determinat, capacitatea portantă, izolarea termică și etanșeitatea, stabilite prin încercări standardizate
+Antifoc (AF).
+Rezistente la explozie (RE).
+Etanșe la foc (EF) sau (EI).

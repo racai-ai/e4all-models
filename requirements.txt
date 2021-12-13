@@ -1,0 +1,3 @@
+rowordnet
+pandas
+numpy

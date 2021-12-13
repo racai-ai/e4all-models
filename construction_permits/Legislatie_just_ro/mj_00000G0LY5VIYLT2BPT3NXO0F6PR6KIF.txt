@@ -1,0 +1,608 @@
+NORME METODOLOGICE din 26 februarie 2016
+de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism
+Publicat în 
+MONITORUL OFICIAL nr. 199 din 17 martie 2016
+  Notă 
+Aprobate prin Ordinul nr. 233 din 26 februarie 2016, publicat in Monitorul Oficial al Romaniei, Partea I, nr. 199 din 17 martie 2016.
+PREAMBUL
+În cuprinsul prezentelor norme metodologice, Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare, este denumită în continuare Lege. Pentru celelalte acte normative menționate se specifică numărul și titlul acestora.
+Capitolul I
+ Dispoziții generale
+Articolul 1
+(1) Prezentele norme metodologice sunt elaborate în scopul aplicării unitare a prevederilor Legii, precum și în corelare cu prevederile aplicabile în domeniul amenajării teritoriului și urbanismului ale altor acte normative în vigoare.
+(2) Formularele utilizate în cadrul procedurii de eliberare a avizelor de oportunitate prevăzute la art. 32 din Lege și modelul de aviz pentru Planul urbanistic zonal și pentru Planul urbanistic de detaliu sunt prezentate în 
+anexa nr. 1
+Articolul 2
+În vederea asigurării dezvoltării echilibrate, coerente și durabile a teritoriului național, autoritățile administrației publice locale își armonizează deciziile în domeniul planificării teritoriale, prin corelarea activităților de utilizare și planificare a teritoriului de la etapa de inițiere a documentațiilor până la etapa de implementare, aplicare și monitorizare și prin consultarea reciprocă a autorităților administrației publice locale învecinate cu privire la proiectele de planuri de amenajare a teritoriului sau de urbanism pentru proiectele care au ca scop dezvoltarea de investiții pe zone aflate la limita unității administrativ-teritoriale.
+Articolul 3
+(1) Elaborarea strategiilor de dezvoltare (prin direcționarea globală pe termen lung sau sectorială a acțiunilor), a politicilor de dezvoltare (ca mijloace politico-administrative, organizatorice și financiare utilizate în scopul realizării strategiei), a programelor de dezvoltare (ca ansamblu de obiective concrete propuse pentru realizarea politicilor), precum și a documentațiilor de amenajare a teritoriului și de urbanism (ca instrumente de aplicare și control al dezvoltării) impune constituirea, întreținerea, extinderea și dezvoltarea bazei de date urbane și teritoriale în domeniul specific.
+(2) La elaborarea documentațiilor de amenajare a teritoriului și de urbanism se utilizează limitele unităților administrativ-teritoriale disponibile în geoportalul Infrastructurii naționale pentru informații spațiale (INIS), gestionat de către Agenția Națională de Cadastru și Publicitate Imobiliară, care poate fi accesat la adresa http://geoportal.gov.ro/Geoportal_INIS/catalog/main/home.page.
+(3) În situația existenței unor litigii cu privire la limitele administrativ-teritoriale, zonele aflate în litigiu se evidențiază explicit în planșele componente ale documentațiilor de amenajare a teritoriului și de urbanism și vor fi prevăzute cu interdicție de construire până la reglementarea situației juridice. În cadrul documentațiilor de amenajare a teritoriului și urbanism, pentru asigurarea coerenței dezvoltării spațiale vor fi cuprinse prevederi cu caracter indicativ cu privire la modul de ocupare și utilizare a terenurilor și prioritățile de dezvoltare și pentru zonele aflate în litigiu.
+Capitolul II
+ Documentații de amenajare a teritoriului și de urbanism
+Secţiunea 1
+ Planul de amenajare a teritoriului zonal regional
+Articolul 4
+(1) Planul de amenajare a teritoriului zonal regional, denumit în continuare P.A.T.Z.R., reprezintă documentul de planificare strategică teritorială, care stabilește cadrul general de dezvoltare spațială pe termen lung, prin care se corelează investițiile publice sectoriale în plan teritorial, la nivel regional. Nivelul regional este stabilit prin Legea nr. 315/2004 privind dezvoltarea regională în România, cu modificările și completările ulterioare.
+(2) Prevederile P.A.T.Z.R. se corelează cu planurile de dezvoltare regională, cu secțiunile Planului de amenajare a teritoriului național, cu programele guvernamentale sectoriale și altele asemenea.
+(3) Prevederile P.A.T.Z.R. sunt obligatorii pentru documentațiile de amenajare a teritoriului de nivel inferior și pentru documentațiile de urbanism, precum și pentru fundamentarea, din punct de vedere teritorial, a investițiilor publice de interes regional.
+(4) Prin P.A.T.Z.R. se identifică și se stabilesc măsuri privind:
+a) păstrarea echilibrului între necesitățile de dezvoltare economică și socială la nivelul fiecărei regiuni, cu protejarea, utilizarea durabilă și valorificarea resurselor disponibile;
+b) identificarea oportunităților de cooperare între județele ce compun regiunea și parteneriatele privind dezvoltarea interregională, regională și locală;
+c) soluționarea problematicilor identificate privind profilul socioeconomic și zonificarea teritoriului, în funcție de posibilitățile de dezvoltare pentru teritorii, grupate în zone cu caracteristici comune, geografice, economice și/sau de altă natură;
+d) corelarea proiectelor amplasate pe teritoriul mai multor județe componente sau care traversează și regiuni vecine sau părți ale acestora;
+e) structurarea unei rețele policentrice a sistemului de localități și promovarea cooperării dintre mediul urban-urban, urban-rural și rural-rural;
+f) asigurarea coeziunii teritoriale și dezvoltarea echilibrată a regiunilor din România;
+g) identificarea proiectelor cu relevanță regională.
+Articolul 5
+P.A.T.Z.R. este compus din secțiuni specializate, respectiv: căi de comunicație, apa, zone protejate, rețeaua de localități, zone de risc natural și tehnologic, turismul, dezvoltarea rurală, infrastructura socială și de educație.
+Articolul 6
+(1) Pentru fiecare secțiune specializată, P.A.T.Z.R. este structurat după cum urmează:
+a) o componentă integrată cu toate regiunile de dezvoltare, ce va cuprinde elementele prezentate la 
+alin. (2) (3) b) câte o componentă detaliată pentru fiecare regiune de dezvoltare, ce va cuprinde elementele prezentate la 
+alin. (2) (3) (2) P.A.T.Z.R. se organizează pe părți, după cum urmează:
+a) partea I:
+● analiza situației existente;
+● identificarea elementelor care condiționează dezvoltarea, cu evidențierea problemelor, disfuncționalităților și tendințelor;
+● identificarea peisajelor naturale și culturale;
+b) partea a II-a: diagnosticul prospectiv;
+c) partea a III-a: schema de dezvoltare teritorială regională;
+d) partea a IV-a: politici publice teritoriale, programe, proiecte.
+(3) P.A.T.Z.R. conține piese scrise și desenate, pentru toate cele 4 părți, părțile desenate fiind întocmite la o scară adecvată reprezentării lizibile a elementelor studiate și propuse din teritoriul zonal regional, atât pentru secțiunea integrată, cât și pentru secțiunile aferente regiunilor de dezvoltare.
+(4) P.A.T.Z.R. va include o bază de date geospațială realizată în format GIS, pe straturi tematice, în sistem de proiecție stereografică 1970.
+Articolul 7
+Autoritatea administrației publice centrale responsabilă cu domeniul amenajării teritoriului și urbanismului inițiază și coordonează elaborarea P.A.T.Z.R. și propune aprobarea acestuia prin hotărâre a Guvernului, în condițiile legii.
+Secţiunea a 2-a
+ Planul de amenajare a teritoriului județean și planurile de amenajare a teritoriului zonale intercomunale, interorășenești și interjudețene
+Articolul 8
+(1) Planul de amenajare a teritoriului județean, denumit în continuare P.A.T.J., este structurat pe părți, după cum urmează:
+a) partea 1:
+● analiza situației existente;
+● identificarea elementelor care condiționează dezvoltarea, cu evidențierea problemelor, disfuncționalităților și tendințelor;
+● identificarea zonelor cu potențial natural sau cultural;
+b) partea a 2-a: diagnostic prospectiv și general;
+c) partea a 3-a: strategia de dezvoltare teritorială a județului;
+d) partea a 4-a: planul de acțiune pentru implementarea prevederilor planului - politici publice teritoriale, programe și proiecte.
+(2) P.A.T.J. va include o baza de date geospațială realizată în format GIS, pe straturi tematice, în sistem de proiecție stereografică 1970.
+Articolul 9
+Partea 1 a P.A.T.J. are următorul conținut-cadru:
+1.
+structura teritoriului:
+1.1.
+localizare geografică;
+1.2.
+cadrul natural/mediul;
+1.3.
+patrimoniul natural și construit, peisaje;
+1.4.
+rețeaua de localități;
+1.5.
+infrastructurile tehnice majore;
+1.6.
+zonificarea teritoriului;
+2.
+structura sociodemografică:
+2.1.
+evoluția populației și potențialul demografic;
+2.2.
+resursele umane;
+2.3.
+infrastructura socială (educație, infrastructura medicală);
+3.
+structura activităților economice (conform clasificării CAEN);
+4.
+contextul teritorial interjudețean, regional și național:
+4.1.
+coridoare de transport, orașe-poartă;
+4.2.
+structura policentrică, poli de creștere și de dezvoltare, centre urbane;
+4.3.
+zone de cooperare transfrontalieră, sisteme urbane transfrontaliere;
+4.4.
+zone metropolitane, periurbane, zone urbane funcționale.
+Articolul 10
+(1) Partea a 2-a a P.A.T.J. cuprinde diagnosticul prospectiv al dezvoltării teritoriale a județului, pe domeniile-țintă și componentele acestora, elaborat în baza problemelor, disfuncționalităților și tendințelor majore identificate în partea 1.
+(2) Prin diagnosticul prospectiv se urmăresc investigarea și estimarea evoluțiilor viitoare ale fenomenelor și proceselor din domeniile-țintă diagnosticate, pentru evidențierea problemelor și oportunităților legate de desfășurarea acestora, raportate la necesitățile și obiectivele colectivităților.
+(3) Diagnosticul general are ca scop integrarea rezultatelor analizelor în vederea evidențierii principalelor aspecte negative care afectează structurile teritoriale, sociale și economice ale județului, precum și a potențialului de care acesta beneficiază. Diagnosticul general stabilește relațiile dintre diferitele domenii, în scopul formulării sintetice a problemelor identificate și al stabilirii ierarhiei priorităților de soluționare, în funcție de complexitatea problemelor.
+Articolul 11
+(1) Partea a 3-a a P.A.T.J. cuprinde strategia de dezvoltare teritorială a județului cu direcțiile și prioritățile de dezvoltare a județului în plan teritorial, stabilite în baza diagnosticului prospectiv, urmărind să se asigure eliminarea/reducerea decalajelor de dezvoltare.
+(2) În situația existenței unei strategii de dezvoltare socioeconomică a județului, strategia de dezvoltare teritorială transpune în plan teritorial prevederile acesteia și o completează cu obiective și măsuri specifice.
+(3) Pentru o structurare mai bună a propunerilor de dezvoltare, pot fi elaborate secțiuni pe teme sectoriale și fișe detaliate pe unități administrativ-teritoriale ale componentelor, pentru a fi preluate în planurile urbanistice generale și în planurile de investiții.
+Articolul 12
+Partea a 4-a a P.A.T.J. cuprinde măsuri de organizare în timp, precizarea responsabilităților și a surselor de finanțare, a politicilor publice, programelor și proiectelor de investiții publice necesare dezvoltării durabile și competitive a teritoriului.
+Articolul 13
+(1) Planurile de amenajare a teritoriului zonale intercomunale, interorășenești și interjudețene se întocmesc pentru soluționarea unor probleme specifice apărute în zone ce cuprind, parțial sau în întregime, teritoriul administrativ al mai multor unități administrativ-teritoriale.
+(2) În cazul acestor tipuri de documentație, domeniile-țintă se tratează în mod diferențiat în funcție de obiectivele propuse și se completează cu un capitol specific privind cooperarea intercomunală, interorășenească sau interjudețeană.
+(3) În cazul în care teritoriul care face obiectul planului de amenajare a teritoriului este situat într-o regiune frontralieră, se va pune accentul și pe cooperarea transfrontalieră, ca modalitate complementară de dezvoltare socioeconomică în profil teritorial.
+Secţiunea a 3-a
+ Strategia de dezvoltare teritorială zonală periurbană/metropolitană
+Articolul 14
+(1) Strategia de dezvoltare teritorială zonală periurbană/metropolitană urmărește utilizarea optimă și responsabilă a resurselor umane și de mediu, maximizând oportunitățile pentru o mai bună echitate spațială și sustenabilitate în dezvoltare.
+(2) Strategia de dezvoltare teritorială zonală periurbană/metropolitană cuprinde următoarele capitole:
+– 
+analiza și diagnosticul situației existente;
+– 
+viziune de dezvoltare integrată;
+– 
+obiective strategice și direcții de acțiune;
+– 
+politici publice locale;
+– 
+programe și proiecte teritoriale;
+– 
+planul de acțiune;
+– 
+elemente strategice și operaționale ce trebuie preluate în cadrul planurilor de urbanism general;
+– 
+indicatori de monitorizare.
+Secţiunea a 4-a
+ Planul de mobilitate urbană
+Articolul 15
+(1) Conform prevederilor din Lege, Planul de mobilitate urbană, denumit în continuare P.M.U., reprezintă o documentație complementară strategiei de dezvoltare teritorială periurbană/metropolitană și Planului urbanistic general (P.U.G.) și constituie instrumentul de planificare strategică teritorială prin care este corelată dezvoltarea spațială a localităților și a zonei periurbane/metropolitane a acestora cu nevoile de mobilitate și transport ale persoanelor și mărfurilor.
+(2) Planul de mobilitate urbană are ca țintă principală îmbunătățirea accesibilității localităților și a relației între acestea, diversificarea și utilizarea sustenabilă a mijloacelor de transport (aerian, acvatic, feroviar, auto, velo, pietonal) din punct de vedere social, economic și de mediu, precum și buna integrare a diferitelor moduri de mobilitate și transport.
+(3) Planul de mobilitate urbană se adresează tuturor formelor de mobilitate și transport, incluzând transportul public și privat, de marfă și pasageri, motorizat și nemotorizat, în mișcare sau în staționare.
+(4) P.M.U. este realizat pentru unitatea administrativ-teritorială inițiatoare și poate fi realizat și pentru teritoriul unităților administrativ-teritoriale aflate în zona periurbană sau metropolitană, care este deja instituită sau care poate fi delimitată printr-un studiu de specialitate.
+(5) P.M.U. este corelat în mod direct cu propunerile de dezvoltare spațială aferente P.U.G. ale unităților administrativ-teritoriale din zona de studiu, de către echipe de lucru pluridisciplinare ce vor cuprinde specialiști în domeniul urbanismului atestați conform art. 38 din Lege, precum și specialiști în domeniul mobilității, traficului și în domenii conexe dezvoltării urbane.
+(6) Procesul de elaborare a P.M.U. va fi structurat în trei etape distincte:
+(i) etapa 1 - strategică;
+(ii) etapa 2 - operațională;
+(iii) etapa 3 - de monitorizare.
+(7) Pe baza referatelor elaborate de către structura de specialitate în domeniul amenajării teritoriului și urbanismului și de către structura de specialitate în domeniul transportului, P.M.U. se analizează în cadrul unei ședințe comune la care participă Comisia tehnică de amenajarea teritoriului și urbanism, Comisia de circulații/Comisia de siguranță rutieră și fluidizare a traficului, organizate conform Legii la nivelul primăriilor sau consiliilor județene, și se aprobă de către consiliile locale. În situația în care P.M.U. a fost realizat pe teritoriul unei structuri asociative a unităților administrativ-teritoriale, documentația se avizează de către acestea și se aprobă de către structura asociativă, dacă are stabilită această competență în statut. Pentru P.M.U. realizat pentru toate localitățile din județul Ilfov, documentația se aprobă de către Consiliul Județean Ilfov, pe baza avizelor tuturor localităților.
+(8) Având în vedere complementaritatea prevederilor din cadrul P.U.G. și P.M.U., se recomandă elaborarea lor concomitentă, aplicând o viziune de dezvoltare integrată la nivelul teritoriului studiat, iar în acest sens autoritățile publice locale vor organiza grupuri de lucru comune - sau succesiv atunci când există deja un P.U.G. în vigoare, fiind necesară preluarea/aplicarea viziunii de dezvoltare propusă prin P.U.G.
+(9) Culegerea de date privind caracteristicile actuale ale mobilității pentru persoane și marfă se face prin preluarea/integrarea/analizarea datelor din toate sursele existente, inclusiv de la ultimul recensământ al populației și locuințelor și din P.U.G., la nivel de unitate administrativ-teritorială și la nivel de unitate teritorială de referință, necesare în vederea realizării prognozei distribuției în profil spațial a populației și locurilor de muncă, precum și prin:
+a) efectuarea interviurilor privind mobilitatea populației (eșantion minim 1% din numărul total al populației UAT sau a zonei periurbane/metropolitane care este subiectul P.M.U.);
+b) realizarea recensămintelor de circulație în intersecțiile principale și la intrările în localitate;
+c) realizarea anchetelor privind originea/destinația deplasărilor în trafic la intrările în localitate și în interiorul localităților, la nivel de unitate teritorială de referință.
+(10) Documentul se elaborează în format tipărit (piese scrise și desenate) și în format digital (GIS).
+(11) Piesele desenate se constituie din planșe, scheme și grafice; planșele pot fi elaborate la scara 1: 20.000, 1: 10.000, 1: 5.000 sau 1: 2.000, după caz, pe suport topografic realizat în sistem de proiecție stereografică 1970.
+(12) P.M.U. se elaborează printr-o abordare transparentă și participativă. În toate etapele de elaborare a P.M.U. vor fi consultați toți actorii relevanți, cetățeni și reprezentanți ai societății civile, operatori de transport public și operatori economici din teritoriul studiat care au potențial major de atragere și generare a traficului.
+(13) P.M.U. are rolul de planificare și modelare a mobilității în raport cu nevoile și prioritățile de dezvoltare spațială de la nivelul unității administrativ-teritoriale și urmărește următoarele 5 obiective:
+a) îmbunătățirea eficienței serviciilor și infrastructurii de transport;
+b) reducerea necesităților de transport motorizat, reducerea impactului asupra mediului și reducerea consumului de energie pentru activitățile de transport;
+c) asigurarea unui nivel optim de accesibilitate în cadrul localității și în cadrul zonelor metropolitane/periurbane;
+d) asigurarea unui mediu sigur pentru populație;
+e) asigurarea accesibilității tuturor categoriilor de persoane, inclusiv pentru persoanele cu dizabilități.
+(14) P.M.U. utilizează măsuri organizaționale, operaționale și de infrastructură pentru atingerea celor 5 obiective, luând în considerație următoarele arii de intervenție:
+a) corelarea modalităților de transport cu densitatea urbană;
+b) crearea unor artere ocolitoare localităților și închiderea inelelor rutiere principale;
+c) promovarea și crearea rețelelor de infrastructuri și servicii pentru bicicliști și pentru trafic nemotorizat;
+d) reorganizarea arterelor de circulație în raport cu cerințele de trafic, cu cerințele transportului public, ale deplasărilor nemotorizate și cu exigențe de calitate a spațiului urban;
+e) organizarea staționării și a infrastructurilor de staționare;
+f) organizarea intermodalității și a polilor de schimb intermodal;
+g) stabilirea zonelor cu restricții de circulație (limitări ale vitezei, limitări și/sau taxări ale accesului, restricționarea accesului vehiculelor poluante, prioritate acordată deplasărilor motorizate etc.);
+h) restructurarea mobilității în zonele centrale istorice și în zona gărilor, autogărilor și aerogărilor;
+i) dezvoltarea rețelelor de transport public;
+j) valorificarea, utilizarea infrastructurilor de transport abandonate (trasee feroviare dezafectate, zone logistice etc.) și integrarea acestora în rețeaua majoră de transport public de la nivelul localităților și al zonelor periurbane ale acestora pentru asigurarea serviciilor de transport metropolitan;
+k) dezvoltarea de politici și infrastructură pentru a susține siguranța pietonilor;
+l) îmbunătățirea condițiilor pentru transport și pentru livrarea mărfurilor, organizarea transportului de mărfuri și a logisticii urbane;
+m) utilizarea sistemelor de transport inteligent pentru infrastructura de transport, de parcare și pentru transportul public.
+Articolul 16
+Conținutul-cadru al P.M.U. este:
+(1) P.M.U. - componenta de nivel strategic (corespunzătoare etapei I) 1.
+introducere
+1.1.
+scopul și rolul documentației;
+1.2.
+încadrarea în prevederile documentelor de planificare spațială;
+1.3.
+încadrarea în prevederile documentelor strategice sectoriale;
+1.4.
+preluarea prevederilor privind dezvoltarea economică, socială și de cadru natural din documentele de planificare ale UAT-urilor;
+2.
+analiza situației existente
+2.1.
+contextul socioeconomic cu identificarea densităților de populație și a activităților economice;
+2.2.
+rețeaua stradală;
+2.3.
+transport public;
+2.4.
+transport de marfă;
+2.5.
+mijloace alternative de mobilitate (deplasări cu bicicleta, mersul pe jos și deplasarea persoanelor cu mobilitate redusă);
+2.6.
+managementul traficului (staționarea, siguranța în trafic, sisteme inteligente de transport, signalistică, structuri de management existente la nivelul autorității planificatoare);
+2.7.
+identificarea zonelor cu nivel ridicat de complexitate (zone centrale protejate, zone logistice, poli ocazionali de atracție/generare de trafic, zone intermodale - gări, aerogări etc.);
+3.
+modelul de transport (obligatoriu pentru localitățile de rang 0 și I) 3.1.
+prezentare generală și definirea domeniului;
+3.2.
+colectarea de date;
+3.3.
+dezvoltarea rețelei de transport;
+3.4.
+cererea de transport;
+3.5.
+calibrarea și validarea datelor;
+3.6.
+prognoze;
+3.7.
+testarea modelului de transport în cadrul unui studiu de caz;
+4.
+evaluarea impactului actual al mobilității
+4.1.
+eficiență economică;
+4.2.
+impactul asupra mediului;
+4.3.
+accesibilitate;
+4.4.
+siguranță;
+4.5.
+calitatea vieții;
+5.
+viziunea de dezvoltare a mobilității urbane
+5.1.
+viziunea prezentată pentru cele 3 nivele teritoriale;
+5.2.
+cadrul/metodologia de selectare a proiectelor;
+6.
+direcții de acțiune și proiecte de dezvoltare a mobilității urbane
+6.1.
+direcții de acțiune și proiecte pentru infrastructura de transport;
+6.2.
+direcții de acțiune și proiecte operaționale;
+6.3.
+direcții de acțiune și proiecte organizaționale;
+6.4.
+direcții de acțiune și proiecte partajate pe nivele teritoriale:
+6.4.1.
+la scară periurbană/metropolitană;
+6.4.2.
+la scara localităților de referință;
+6.4.3.
+la nivelul cartierelor/zonelor cu nivel ridicat de complexitate;
+7.
+evaluarea impactului mobilității pentru cele 3 nivele teritoriale
+7.1.
+eficiență economică;
+7.2.
+impactul asupra mediului;
+7.3.
+accesibilitate;
+7.4.
+siguranță;
+7.5.
+calitatea vieții.
+(2) P.M.U. - componenta de nivel operațional (corespunzătoare etapei II) 1.
+cadrul pentru prioritizarea proiectelor pe termen scurt, mediu și lung
+1.1.
+cadrul de prioritizare;
+1.2.
+prioritățile stabilite;
+2.
+planul de acțiune
+2.1.
+intervenții majore asupra rețelei stradale;
+2.2.
+transport public;
+2.3.
+transport de marfă;
+2.4.
+mijloace alternative de mobilitate (deplasări cu bicicleta, mersul pe jos și persoane cu mobilitate redusă);
+2.5.
+managementul traficului (staționarea, siguranța în trafic, sisteme inteligente de transport, signalistică, protecția împotriva zgomotului/sonoră);
+2.6.
+zonele cu nivel ridicat de complexitate (zone centrale protejate, zone logistice, poli ocazionali de atracție/generare de trafic, zone intermodale - gări, aerogări etc.);
+2.7.
+structura intermodală și operațiuni urbanistice necesare;
+2.8.
+aspecte instituționale.
+(3) Monitorizarea implementării Planului de mobilitate urbană (corespunzătoare etapei III) 1.
+stabilire proceduri de evaluare a implementării P.M.U.;
+2.
+stabilire actori responsabili cu monitorizarea.
+Secţiunea a 5-a
+ Planul urbanistic general (P.U.G.) Articolul 17
+(1) Conform prevederilor art. 46 alin. (3) lit. g) din Lege, Planul urbanistic general cuprinde prevederi pe termen mediu și lung cu privire la delimitarea zonelor în care se preconizează operațiuni de regenerare urbană. Aceste zone vor fi delimitate pe limite cadastrale și vor cuprinde zone omogene din punct de vedere funcțional, ce necesită implementarea unor operațiuni integrate, caracterizate de una sau mai multe dintre următoarele situații:
+a) zone centrale;
+b) zone istorice;
+c) zone construite protejate;
+d) zone din mari ansambluri de locuit;
+e) zone locuite de comunități defavorizate, inclusiv așezări informale;
+f) zone de reconversie funcțională:
+– 
+situri industriale dezafectate;
+– 
+situri militare dezafectate;
+– 
+situri cu infrastructuri majore dezafectate.
+(2) Planul de acțiune pentru implementare și programul de investiții publice propuse prin planul de urbanism general evidențiază acțiunile, denumirea investițiilor, valoarea estimată a acestora, sursele posibile de finanțare, etapizarea realizării investițiilor, stadiul implementării acestora la momentul realizării programului și părțile responsabile de implementare.
+(3) Conținutul planurilor urbanistice generale este format din piese obligatorii și opționale și este diferențiat în funcție de complexitatea problematicii generată de categoria unităților administrativ-teritoriale, respectiv urbane sau rurale, numărul de locuitori și încadrarea în rețeaua de localități, stabilită prin Legea nr. 351/2001 privind aprobarea Planului de amenajare a teritoriului național Secțiunea a IV-a Rețeaua de localități, cu modificările și completările ulterioare.
+(4) În 
+anexa nr. 2
+a) municipii de rang 0 și I;
+b) municipii de rang II;
+c) orașe - rang III;
+d) comune - rang IV.
+(5) Planul urbanistic general se elaborează în format analog și digital (piese scrise și desenate) pe suport topografic realizat în sistem de proiecție stereografică 1970, actualizat pe baza ortofotoplanurilor sau pe baza unor măsurători la teren.
+Secţiunea a 6-a
+ Planul urbanistic zonal
+Articolul 18
+(1) Planul urbanistic zonal (P.U.Z.) cuprinde reglementări specifice detaliate pentru zona studiată, conform prevederilor legii, structurate în piese scrise și desenate. Piesele scrise sunt formate, cel puțin, din memoriul general și regulamentul local de urbanism.
+(2) Memoriul general are următorul conținut-cadru:
+a) descrierea situației existente;
+b) concluziile studiilor de fundamentare privind disfuncționalitățile rezultate din analiza critică a situației existente;
+c) soluțiile propuse pentru eliminarea sau diminuarea acestora.
+(3) Planul de acțiune pentru implementarea investițiilor propuse prin planul de urbanism zonal, conform avizului de oportunitate prevăzut la art. 32 alin. (3) din Lege, evidențiază categoriile de costuri ce vor fi suportate de investitorii privați și categoriile de costuri ce vor cădea în sarcina autorității publice locale, precum și etapizarea realizării investițiilor.
+(4) Regulamentul local de urbanism detaliază sub formă de prescripții (permisivități și restricții) reglementările P.U.Z.
+(5) Piesele desenate sunt planșe realizate pe suport topografic actualizat și cuprind:
+a) încadrarea în localitate a zonei ce face obiectul P.U.Z. (relaționarea cu prevederile P.U.G.), stabilită după caz, prin avizul de oportunitate. Scara recomandată este 1:2.000 sau 1:5.000;
+b) analiza situației existente, pentru zona ce face obiectul P.U.Z., cu evidențierea disfuncționalităților din punct de vedere al funcțiunilor, fondului construit, circulațiilor, sistemului de spații publice, regimului juridic, echipării tehnico-edilitare. Scara recomandată este 1:500 sau 1:1000, fiind aleasă în raport cu teritoriul studiat;
+c) propuneri de reglementări urbanistice, zonificare funcțională și echipare edilitară pentru zona ce face obiectul P.U.Z., la aceeași scară cu planșa analizei situației existente;
+d) propuneri privind circulația juridică a terenurilor și obiectivele de utilitate publică;
+e) propuneri de ilustrare urbanistică a zonei studiate, la aceeași scară cu planșa situației existente sau la scară redusă.
+(6) Piesele desenate pot fi completate cu cartograme, scheme, grafice etc. editate în format A2, A3 sau A4, care însoțesc părțile scrise și care au rol de susținere a propunerilor din P.U.Z. Acestea pot ilustra concluzii ale studiilor de fundamentare ce stau la baza propunerilor de reglementare pentru dezvoltarea zonei studiate.
+(7) P.U.Z. și regulamentul local de urbanism aferent acestuia, odată aprobate, devin acte de autoritate ale administrației publice locale, opozabile în justiție. După aprobare, P.U.Z. și regulamentul local de urbanism aferent acestuia sunt utilizate la:
+a) eliberarea certificatelor de urbanism și emiterea autorizațiilor de construire pentru obiective din zona ce face obiectul P.U.Z.;
+b) fundamentarea solicitărilor unor fonduri europene sau de la bugetul de stat pentru realizarea obiectivelor de utilitate publică;
+c) declanșarea procedurilor legale pentru realizarea de investiții ce implică exproprieri pentru cauză de utilitate publică;
+d) respingerea unor solicitări de construire neconforme cu prevederile P.U.Z. și ale regulamentului local de urbanism aferent acestuia, aprobate;
+e) alte operațiuni ale compartimentelor de specialitate ale autorităților administrației publice locale.
+(8) Planurile de urbanism zonale pentru zone construite protejate, ca tipologie distinctă de documentație de urbanism ce se realizează în aplicarea Legii nr. 5/2000 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a iii-a, zone protejate, se elaborează în conformitate cu Reglementarea tehnică "Metodologie de elaborare și conținutul-cadru al documentațiilor de urbanism pentru zone construite protejate (PUZ)", aprobată prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 562/2003.
+(9) Planul de urbanism zonal se elaborează în format analog și digital (piese scrise și desenate) pe suport topografic actualizat, realizat în sistem de proiecție stereografică 1970.
+Secţiunea a 7-a
+ Planul urbanistic de detaliu
+Articolul 19
+(1) Conform prevederilor art. 48 alin. (1) din Lege, Planul urbanistic de detaliu (P.U.D.) are exclusiv caracter de reglementare specifică pentru o parcelă în relație cu parcelele învecinate. Planul de urbanism de detaliu nu poate modifica planurile de nivel superior, ci poate doar detalia modul specific de construire în raport cu funcționarea zonei și cu identitatea arhitecturală a acesteia, în baza unui studiu de specialitate.
+(2) Planul urbanistic de detaliu este instrumentul de proiectare urbană care, în limita indicatorilor urbanistici stabiliți de documentațiile de urbanism de rang superior, reglementează retragerile față de limitele laterale și posterioare ale parcelei, procentul de ocupare a terenului, accese auto și pietonale, conformarea arhitectural-volumetrică în raport cu funcționarea zonei și cu identitatea arhitecturală a acesteia, în baza unui studiu de specialitate, modul de ocupare a terenului cu stabilirea zonei edificabile, conformarea spațiilor publice.
+(3) Planul urbanistic de detaliu trebuie să cuprindă reglementări urbanistice privind:
+a) asigurarea accesibilității pietonale și auto la noul obiectiv și racordarea la rețelele edilitare existente/propuse;
+b) permisivități și/sau constrângeri urbanistice (densități, distanțe, retrageri, aliniamente, alinierea construcțiilor, suprafețe maxim edificabile, regim de înălțime, volumetrie etc.) privind volumele construite și amenajările acestora;
+c) relațiile funcționale și estetice cu vecinătatea, respectiv înscrierea obiectivului și tratarea lui arhitecturală în raport cu cadrul construit și natural învecinat;
+d) designul spațiilor publice;
+e) compatibilitatea funcțiunilor și conformarea construcțiilor, amenajărilor și plantațiilor, prin continuitatea funcțiunilor sau înscrierea obiectivului într-o funcțiune compatibilă;
+f) regimul juridic al proprietăților și circulația terenurilor;
+g) ilustrarea urbanistică a soluției propuse.
+(4) Planul de urbanism de detaliu se elaborează în format analog și digital (piese scrise și desenate) pe suport topografic actualizat, realizat în sistem de proiecție stereografică 1970.
+Capitolul III
+ Fundamentarea și elaborarea documentațiilor de amenajare a teritoriului și de urbanism
+Articolul 20
+(1) Fundamentarea propunerilor din cadrul documentațiilor se realizează pe baza studiilor de fundamentare, care sunt lucrări de specialitate prin care se realizează analize și propuneri de soluționare a problemelor teritoriului și localităților, pe domenii, rezultatele acestora având drept scop susținerea propunerilor de reglementare a modului de dezvoltare a unităților administrativ-teritoriale, care se formulează prin documentația de bază.
+(2) Studiile de fundamentare trebuie să prezinte concluzii pe bază de analiză de date actualizate, cu o vechime de maximum 3 ani față de data elaborării. Pot fi folosite studii, cercetări și proiecte anterioare numai în situația în care informațiile oferite de acestea nu și-au pierdut valabilitatea.
+(3) După specificul lor, studiile de fundamentare sunt:
+a) studii de fundamentare cu caracter analitic, care privesc evoluția teritoriului și localităților, caracteristicile acestora și propuneri de dezvoltare în domeniul realizat:
+(i) evoluția teritoriului și localității din punct de vedere istoric, cultural, demografic, economic, etnografic, urbanistic și arhitectural;
+(ii) organizarea circulației și transporturilor;
+(iii) condiții geotehnice și hidrogeologice;
+(iv) studii climatice, pedologice și ecologice;
+(v) stabilirea și delimitarea zonelor de risc natural și antropic;
+(vi) stabilirea zonelor protejate naturale și construite;
+(vii) tipuri de proprietate asupra imobilelor;
+(viii) echiparea tehnico-edilitară;
+(ix) valorificarea potențialului turistic sau balnear;
+b) studiile de fundamentare cu caracter prospectiv reprezintă elaborarea unor prognoze, scenarii sau alternative pentru diferitele domenii sectoriale, privind evoluția populației, evoluția activităților, evoluția mișcării în teritoriu a activilor, reconversia forței de muncă etc.
+(4) Pentru toate categoriile de studii de fundamentare, demersul elaborării va fi structurat astfel:
+a) delimitarea obiectivului studiat;
+b) analiza critică a situației existente;
+c) evidențierea disfuncționalităților și priorități de intervenție;
+d) propuneri de eliminare/diminuare a disfuncționalităților;
+e) prognoze, scenarii sau alternative de dezvoltare.
+(5) Fiecare studiu de fundamentare se finalizează cu o sinteză, axată în principal pe diagnosticarea disfuncționalităților și pe formularea propunerilor de eliminare/diminuare a acestora și de valorificare a potențialului.
+(6) Elaboratorul documentației de amenajare a teritoriului sau de urbanism are obligația de a corela toate concluziile studiilor de fundamentare și de a genera o concepție unitară de amenajare a teritoriului și dezvoltare durabilă și competitivă a unităților administrativ-teritoriale.
+Articolul 21
+(1) Procesul elaborării documentațiilor de amenajare a teritoriului și de urbanism implică parcurgerea următoarelor etape:
+a) inițierea elaborării documentațiilor de amenajare a teritoriului sau de urbanism;
+b) contractarea elaborării documentației în condițiile legii;
+c) elaborarea studiilor de fundamentare;
+d) elaborarea analizei diagnostic multicriteriale integrate;
+e) elaborarea formei preliminare a documentației de amenajare a teritoriului sau de urbanism;
+f) obținerea de avize și/sau acorduri;
+g) redactarea finală a documentației de amenajare a teritoriului sau de urbanism - cu introducerea tuturor observațiilor din avize și/sau acorduri;
+h) aprobarea propunerii de documentație de amenajare a teritoriului sau de urbanism de către autoritatea administrației publice locale competente;
+i) asigurarea caracterului public al documentației de amenajare a teritoriului sau de urbanism aprobate, conform legii.
+(2) Informarea și consultarea populației se realizează potrivit cap. IV secțiunea a 6-a din Lege și Metodologiei de informare și consultare a publicului cu privire la elaborarea sau revizuirea planurilor de amenajare a teritoriului și de urbanism, aprobate prin Ordinul ministrului dezvoltării regionale și turismului nr. 2.701/2010, cu modificările ulterioare.
+Capitolul IV
+ Avizarea documentațiilor de amenajare a teritoriului și de urbanism
+Articolul 22
+Avizele și acordurile cu privire la documentațiile de amenajare a teritoriului și de urbanism se emit în scopul realizării concordanței dintre propunerile de dezvoltare a teritoriului cu politicile de dezvoltare și strategiile sectoriale la nivel național, regional, județean și local, precum și cu prevederile legale specifice.
+Articolul 23
+(1) Lista avizelor și acordurilor necesare în vederea aprobării documentațiilor de amenajarea teritoriului se stabilește cu respectarea prevederilor legale în vigoare din domeniul amenajării teritoriului și urbanismului și domeniile conexe, în concordanță cu specificul teritoriului care face obiectul documentației de amenajare a teritoriului. Pentru documentațiile de tip P.U.G. lista avizelor și acordurilor necesare în vederea aprobării se stabilește prin consultarea structurii de specialitate de la nivel județean.
+(2) Propunerea de actualizare sau de prelungire a valabilității planului urbanistic general se avizează de către autoritățile publice de la nivel central sau județean, după caz, în baza referatului întocmit de către unitățile administrativ-teritoriale, care va cuprinde analiza informațiilor statistice disponibile privind dinamica economică, socială și teritorială, respectiv tendințele de dezvoltare identificate în baza studiilor de specialitate existente, precum și în raport cu strategiile și programele de dezvoltare de la nivel local, județean și/sau național aprobate. Pentru actualizarea documentației de tip P.U.G., referatul va mai cuprinde prevederile din documentația existentă ce necesită a fi modificate/completate și graficul de elaborare a documentației de actualizare.
+Articolul 24
+Întrucât documentațiile de amenajare a teritoriului au caracter strategic și director, care nu implică detalieri tehnice și nu se referă la investiții localizate precis în teritoriu, în procedura de avizare a acestei categorii de documentații, se interzice solicitarea de detalieri care nu sunt expres prevăzute de lege, precum detalieri tehnice și condiționarea avizării de elaborarea de studii nespecifice domeniului amenajării teritoriului.
+Articolul 25
+Avizele și acordurile pentru documentațiile de amenajarea teritoriului sau de urbanism se pot obține prin intermediul biroului unic, care poate fi organizat la nivelul autorităților administrației publice locale, în conformitate cu legislația în vigoare.
+Articolul 26
+(1) Propunerea de avizare a Comisiei tehnice de amenajare a teritoriului și urbanism de la nivel județean sau local, după caz, care fundamentează avizul arhitectului-șef, se emite în condițiile legii, pe baza analizei documentației complete, părți scrise și desenate, inclusiv acorduri/avize/studii de fundamentare.
+(2) Propunerea de avizare a Comisiei tehnice de amenajare a teritoriului și urbanism din cadrul consiliului județean, pentru unitățile administrativ-teritoriale în care nu funcționează comisii tehnice de amenajare a teritoriului și urbanism din cadrul aparatului propriu al consiliilor locale, până la înființarea în cadrul aparatului propriu al consiliilor locale a Comisiei tehnice de amenajare a teritoriului și urbanism, se emite în condițiile legii, pe baza analizei documentației complete/părți scrise și desenate.
+Articolul 27
+Planurile urbanistice zonale pentru investiții care se realizează pe teritoriul a două sau mai multe unități administrativ-teritoriale reprezintă o documentație de urbanism unitară, dar care se aprobă de către fiecare dintre consiliile locale interesate. În aceste cazuri este obligatorie consultarea reciprocă a structurilor de specialitate din cadrul unităților administrativ-teritoriale interesate care propun emiterea avizului de oportunitate și aprobarea documentațiilor, pe tot parcursul elaborării documentației, de la faza de inițiere până la propunerea spre aprobare.
+Capitolul V
+ Perioada de valabilitate a documentațiilor de amenajare a teritoriului și de urbanism
+Articolul 28
+(1) Perioada de valabilitate a documentațiilor de amenajare a teritoriului și de urbanism se stabilește de către autoritatea administrației publice locale abilitată să aprobe documentația, în conformitate cu gradul de complexitate și cu prevederile acesteia.
+(2) Conform art. 56 alin. (5) din Lege, valabilitatea prevederilor documentațiilor de amenajare a teritoriului și urbanism se extinde de drept pentru acele investiții care au început în timpul perioadei de valabilitate, respectiv a fost demarat procesul de autorizare și/sau executare a lucrărilor de construcții, până la finalizarea acestora.
+(3) Pentru planurile urbanistice aflate în termenul de valabilitate stabilit prin hotărârea de aprobare a acestora, valabilitatea poate fi prelungită tot prin hotărâre a consiliului local, pe baza analizei de specialitate, dacă se mențin reglementările urbanistice prevăzute și dacă acestea nu contrazic alte reglementări conexe sau acte normative apărute între timp.
+Articolul 29
+(1) Planul de amenajare a teritoriului național (P.A.T.N.) care, potrivit Legii, este compus din secțiuni specializate aprobate prin lege, este valabil până în momentul modificării acestora prin alte acte normative.
+(2) Planul de amenajare a teritoriului județean (P.A.T.J.) are valabilitatea stabilită prin hotărâre a consiliului județean conform dispozițiilor legale, dar trebuie actualizat în concordanță cu politicile și programele de dezvoltare ale județului și cu modificările de legislație, la o perioadă de 5-10 ani.
+(3) Planurile de amenajare a teritoriului zonal - de toate categoriile: interjudețean, interorășenesc, intercomunal, frontalier, metropolitan și periurban - elaborate în scopul realizării unor obiective de interes comun au ca durată de valabilitate perioada necesară realizării scopului lor, stabilită la momentul aprobării.
+Articolul 30
+(1) Planul urbanistic general (P.U.G.) se analizează în vederea actualizării la cel mult zece ani. Termenul de valabilitate a Planului urbanistic general se prelungește o singură dată, pe bază de hotărâre a Consiliului local/Consiliului General al Municipiului București, până la intrarea în vigoare a noului plan urbanistic general, dar nu mai mult de 10 ani de la data depășirii termenului de valabilitate.
+(2) Durata de valabilitate a planurilor urbanistice zonale (P.U.Z.) se stabilește prin hotărâre a consiliului local de aprobare a acestora în raport cu scopul elaborării sau cu complexitatea obiectivelor de investiții care le-au generat.
+(3) Durata de valabilitate a planurilor urbanistice de detaliu (P.U.D.) se stabilește prin hotărârea consiliului local de aprobare a acestora, în corelare cu condițiile de amplasare și de conformare a construcțiilor, precum și cu importanța și complexitatea obiectivelor de investiții.
+Capitolul VI
+ Actualizarea și monitorizarea documentațiilor de amenajare a teritoriului și de urbanism
+Articolul 31
+(1) Actualizarea documentațiilor de amenajare a teritoriului și de urbanism este obligatorie în situația în care:
+a) expiră termenul de valabilitate al documentației;
+b) ulterior aprobării au apărut schimbări importante ale elementelor care au stat la baza elaborării documentației: noi elemente cu caracter director ce decurg din strategii naționale sau regionale, oportunitatea realizării unei/unor investiții majore cu implicații asupra unor părți determinante ale teritoriului reglementat prin planurile de amenajare a teritoriului sau de urbanism;
+c) se produc modificări importante în cadrul legislativ de specialitate și/sau general, modificări care fac inoperante prevederile documentațiilor aprobate, în vigoare.
+(2) Actualizarea P.U.G. reprezintă revizuirea reglementărilor urbanistice, a indicatorilor urbanistici propuși și a prevederilor planului inițial prin aducerea acestora în acord cu legislația în vigoare, tendințele de dezvoltare și cerințele de dezvoltare durabilă socioeconomice și de mediu actuale, precum și actualizarea listei de proiecte de investiții necesare pentru implementarea viziunii de dezvoltare, realizată în baza unor studii de specialitate și a analizei gradului de implementare a planurilor urbanistice în vigoare și a impactului acestora la nivelul unității administrativ-teritoriale, dacă este cazul.
+(3) Planul de urbanism general se actualizează integral dacă în urma analizei de specialitate se constată că reglementările existente și lista de investiții publice nu mai corespund cu tendințele de dezvoltare sau dacă acestea contrazic acte normative intrate în vigoare după aprobarea planului.
+(4) Inițierea demersurilor de actualizare a planului de urbanism general sau de prelungire a valabilității documentației în vigoare se aprobă prin hotărâre a Consiliului local/Consiliul General al Municipiului București, la propunerea primarului/primarului general al municipiului București, pe baza referatului de specialitate al arhitectului-șef, elaborat pe baza consultării comisiei tehnice de urbanism organizate conform legii.
+(5) În cadrul structurii documentațiilor de amenajare a teritoriului sau de urbanism ce face obiectul actualizării, este obligatorie elaborarea unei secțiuni care să cuprindă o evaluare a modului de implementare a prevederilor documentației anterioare.
+Articolul 32
+(1) Monitorizarea aplicării strategiilor, politicilor și programelor de dezvoltare teritorială, precum și a prevederilor documentațiilor de amenajare a teritoriului și de urbanism, aprobate potrivit Legii, se face de către autoritățile administrației publice centrale și locale, prin evidențierea operațiunilor efectuate, precum și revizuirea permanentă a datelor și prevederilor din respectivele documentații. Monitorizarea implementării prevederilor documentațiilor de amenajare a teritoriului și de urbanism se realizează de către structura de specialitate din domeniul amenajării teritoriului și urbanismului, din cadrul autorităților administrației publice.
+(2) Revizuirea permanentă a datelor și prevederilor din documentațiile privind activitatea de amenajare a teritoriului și de urbanism constituie una dintre metodele de monitorizare a aplicării documentațiilor aprobate și este în sarcina compartimentelor de specialitate ale autorităților administrației publice de specialitate. Revizuirea documentațiilor urmărește marcarea sistematică, atât în format electronic, cât și în piesele scrise și desenate ale documentațiilor, a modului de realizare a propunerilor, în special a obiectivelor de utilitate publică, a restricțiilor impuse pentru protecția împotriva riscurilor naturale, precum și a eventualelor modificări sau detalieri prin planuri urbanistice aprobate.
+(3) În vederea corelării prevederilor cu dinamica de dezvoltare, precum și cu nevoile și aspirațiile comunității, structura de specialitate din cadrul autorităților administrației publice locale realizează un raport de evaluare intermediară și formulează recomandări de optimizare și/sau modificare a documentațiilor de amenajare a teritoriului sau de urbanism și, după caz, planul de măsuri de implementare a acestora, care se prezintă spre aprobare Consiliului județean/Consiliului General al Municipiului București/Consiliului local.
+Capitolul VII
+ Atribuțiile administrației publice
+Articolul 33
+(1) Atribuțiile administrației publice centrale și locale în domeniul amenajării teritoriului și urbanismului sunt cele prevăzute în art. 17-27 din Lege.
+(2) Conform prevederilor art. 22 din Lege, consiliile județene au ca atribuții asigurarea elaborării și aprobarea planurilor de amenajare a teritoriului județean (P.A.T.J.) și zonal (P.A.T.Z.), avizarea documentațiilor de urbanism conform Legii și stabilirea orientărilor generale privind amenajarea teritoriului, precum și organizarea și dezvoltarea urbanistică a localităților din componența județului/zonei.
+(3) Consiliul județean asigură preluarea, în condițiile legii, în documentațiile de amenajarea teritoriului și de urbanism elaborate la nivel local, a prevederilor cuprinse în planurile de amenajare a teritoriului național, regional și/sau zonal, după caz, cu privire la amplasarea investițiilor prioritare de interes național, regional sau județean.
+(4) Proiectele de investiții prioritare de interes național, regional, județean sau metropolitan ce trebuie luate în considerare în cadrul documentațiilor de amenajare a teritoriului și de urbanism se notifică autorităților administrației publice locale, prin grija consiliilor județene, în scopul respectării lor în situația inițierii elaborării sau actualizării documentațiilor de amenajare a teritoriului sau de urbanism.
+(5) Consiliile județene urmăresc asigurarea preluării prevederilor menționate la 
+alin. (2) (3) Articolul 34
+(1) Consiliile județene acordă, la cerere, asistență tehnică de specialitate consiliilor locale, în scopul asigurării transpunerii coerente și uniforme, la nivelul localităților, a prevederilor documentațiilor de amenajare a teritoriului și de urbanism aprobate. Asistența tehnică de specialitate cuprinde acțiuni și activități destinate asistării și/sau acordării sprijinului necesar consiliilor locale, în exercitarea atribuțiilor care le revin cu privire la activitatea de amenajare a teritoriului și la activitatea de urbanism.
+(2) Mijloacele de acordare a asistenței tehnice prevăzute la 
+alin. (1) a) consultanța tehnică de specialitate în derularea activităților prevăzute de Lege;
+b) organizarea sau facilitarea organizării de cursuri de formare continuă a personalului primăriilor și consiliilor locale;
+c) organizarea sau facilitarea organizării de conferințe, grupuri de lucru, grupuri de acțiune sau altele asemenea, cu tematici specifice domeniului amenajării teritoriului și urbanismului, sau cu tematici relaționate cu anumite prevederi specifice ale documentațiilor de amenajare a teritoriului aprobate.
+(3) Activitățile prevăzute la 
+alin. (2) Articolul 35
+(1) Conform prevederilor art. 36 alin. (12) lit. e^1) din Lege, structurile de specialitate din cadrul autorităților administrației publice județene și din cadrul Primăriei Municipiului București au obligația de a transmite semestrial autorității administrației publice centrale cu atribuții în domeniul amenajării teritoriului și urbanismului, sau la solicitarea scrisă a acesteia, lista centralizatoare a documentațiilor de amenajarea teritoriului și de urbanism, actualizată la data raportării. De asemenea, autoritățile publice locale au obligația de a transmite către structura de specialitate din cadrul consiliului județean informații cu privire la documentațiile de amenajare a teritoriului și urbanism aprobate.
+(2) Lista centralizatoare prevăzută la 
+alin. (1) anexa nr. 3
+(3) Conform prevederilor art. 48^1 alin. (4), din Lege, în termen de 15 zile de la aprobarea de către consiliul local/Consiliul General al Municipiului București, un exemplar din documentația de amenajare a teritoriului sau de urbanism aprobată se transmite de către inițiatorul documentației, în format tipărit, și, după caz, în format digital Ministerului Dezvoltării Regionale și Administrației Publice, pentru preluarea în Observatorul Teritorial Național.
+(4) Piesele desenate aferente documentațiilor de amenajarea teritoriului și de urbanism aprobate se transmit pentru preluarea în Observatorul Teritorial Național în formate digitale.
+Articolul 36
+(1) Autoritățile administrației publice locale au obligația să verifice, prin structurile de specialitate din domeniul amenajării teritoriului și urbanismului, următoarele:
+a) la solicitarea avizului de oportunitate - conformitatea documentației depuse cu conținutul specific stabilit în prevederile art. 32 alin. (6) din Lege;
+b) la solicitarea avizului arhitectului-șef - conformitatea documentației depuse cu prevederile Legii și a prezentelor norme metodologice, precum și a actelor normative conexe în vigoare;
+c) la depunerea documentației de către beneficiar spre aprobarea prin hotărâre de consiliul județean/local/Consiliul General al Municipiului București, conformitatea documentației, în ceea ce privește:
+– 
+elaborarea și semnarea documentației de către specialiști atestați conform Legii;
+– 
+achitarea taxelor și tarifelor prevăzute de lege;
+– 
+conținutul documentației de amenajare a teritoriului sau de urbanism în raport cu legislația în vigoare, respectiv existența tuturor pieselor scrise și desenate, semnate și ștampilate de către specialiști atestați potrivit legii în ceea ce privește coordonarea și în privința secțiunilor specializate/sectoriale. Pentru documentațiile depuse în format electronic și semnate cu semnătură digitală, dovedirea dreptului de semnătură se face prin anexare la documentația digitală a copiilor de pe certificatele de atestare; 
+– 
+existența avizelor sau acordurilor favorabile necesare, aflate în termen de valabilitate;
+– 
+respectarea, în forma finală a documentației, a condițiilor prevăzute în avizele sau acordurile obținute;
+– 
+existența raportului informării și consultării publicului, conform legislației în vigoare.
+ (la 04-08-2020, 
+ Litera c) din Alineatul (1) , Articolul 36 , Capitolul VII  a fost modificată de Punctul 1, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) (2) În situația neîndeplinirii condițiilor de conformitate, autoritățile administrației publice locale au obligația returnării documentației sau solicitării de completare/modificare potrivit legii.
+Articolul 37
+(1) Conform prevederilor art. 36 alin. (9) din Lege, comunele care nu pot asigura organizarea structurii de specialitate în domeniul amenajării teritoriului și urbanismului în cadrul aparatului pot forma asociații de dezvoltare intercomunitară, constituite în condițiile legii, împreună cu alte comune sau cu orașe, în vederea asigurării furnizării în comun a serviciilor publice privind planificarea urbană și teritorială, eliberarea certificatelor de urbanism și a autorizațiilor de construire.
+(2) Asociațiile de dezvoltare comunitară (A.D.I.) pot furniza, prin aparatul tehnic al acestora, compus din specialiști având formația profesională de arhitect diplomat, urbanist diplomat sau de conductor arhitect, inginer sau subinginer în domeniul construcțiilor, absolvent al unor cursuri de specializare postuniversitară sau master în domeniul amenajării teritoriului și urbanismului, specialiști atestați de Registrul Urbaniștilor din România, servicii de consiliere de specialitate care să asigure fundamentarea deciziilor administrației publice locale privind planificarea urbană și teritorială în vederea gestionării coerente și eficiente a teritoriului, inclusiv a emiterii certificatelor de urbanism și autorizațiilor de construire.
+(3) Aparatul tehnic al A.D.I. va întocmi, la solicitarea scrisă a primarului interesat, rapoarte tehnice care să fundamenteze emiterea de către primarul comunei a certificatelor de urbanism și a autorizațiilor de construire/desființare din competența acestuia. Rapoartele vor certifica faptul că documentația transmisă de primarul comunei a fost verificată de către aparatul tehnic și întrunește toate condițiile legale pentru a fi emis certificatul de urbanism sau autorizația de construire/desființare de către autoritatea administrației publice locale, în condițiile legii.
+Capitolul VIII
+ Certificatul de urbanism
+Articolul 38
+(1) Certificatul de urbanism este redactat și emis de către autoritatea administrației publice competente, județeană sau locală, după caz, în deplină concordanță cu reglementările cuprinse în documentațiile de urbanism și prevederile cu caracter director ale documentațiilor de amenajare a teritoriului aprobate, în condițiile legii.
+(2) Formularele referitoare la Certificatul de urbanism sunt cele cuprinse în anexa nr. 1 la Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009, cu modificările și completările ulterioare, respectiv "F.1 - Cerere pentru emiterea certificatului de urbanism" și "F.6 - Certificat de urbanism".
+(3) Regimul de actualizare/modificare a documentațiilor de urbanism și a regulamentelor locale aferente, în cazul în care intenția de construire nu se încadrează în prevederile documentațiilor de urbanism aprobate, prevăzut la art. 31 lit. d) din Lege, se completează în formularul "F.6 - Certificat de urbanism" din anexa nr. 1 la Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009, cu modificările și completările ulterioare, la rubrica referitoare la regimul tehnic.
+(4) Necesitatea obținerii unui aviz de oportunitate se include în lista de avize necesare aprobării documentațiilor de urbanism în situațiile prevăzute la art. 32 alin. (1) lit. c) din Lege.
+Capitolul VIII^1
+ Măsurile de identificare și gestionare a așezărilor informale
+ (la 04-08-2020, 
+ Capitolul VIII ^1 a fost introdus de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^1
+Prezentele prevederi se referă la:
+a) stabilirea mecanismelor de colectare periodică a informațiilor statistice și a datelor care să stea la baza analizei nevoilor și problemelor asociate locuirii în așezări informale, precum și la monitorizarea evoluției situației populației din așezările informale;
+b) stabilirea prin documentațiile de urbanism a modului de ocupare a terenurilor, precum și a unor tipuri de intervenții care să conducă la creșterea calității vieții și la reducerea riscurilor la care este expusă populația care locuiește în așezări informale, precum și populația din unitățile administrativ-teritoriale în care există astfel de așezări.
+ (la 04-08-2020, 
+ Capitolul VIII ^1 a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^2
+Prezentele prevederi se aplică în conformitate cu prevederile art. 19^1 din Lege, în scopul:
+a) stabilirii criteriilor minimale pentru identificarea așezărilor informale, precum și a măsurilor privind monitorizarea și îmbunătățirea condițiilor de locuire a populației;
+b) implementării următoarelor tipuri de măsuri prioritare: identificarea așezărilor informale, identificarea regimului juridic și economic al terenurilor, identificarea riscurilor la care sunt expuși locuitorii din așezările informale, stabilirea unor măsuri privind îmbunătățirea condițiilor de locuire și a calității vieții, informarea și implicarea locuitorilor din așezările informale și a celor din comunitățile învecinate în procesul de planificare și reglementare;
+c) corelării măsurilor destinate așezărilor informale cu programele de incluziune socială și cu programele de investiții publice aferente documentațiilor de urbanism.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^3
+(1)  În vederea identificării așezărilor informale, evaluării situației acestora și stabilirii măsurilor necesare, în coordonarea primarului/primarului general al municipiului București, autoritățile administrației publice locale organizează grupuri de lucru proprii, aprobate prin hotărâre a consiliului local/Consiliului General al Municipiului București, din care fac parte, după caz, conform organigramei, serviciile/persoanele responsabile cu: urbanismul și autorizarea construcțiilor, control și disciplină în construcții, registrul agricol, asistență socială, sănătate publică, investiții, asistență și reprezentare juridică, poliția locală, experți locali pentru romi. În grupurile de lucru sunt incluși și reprezentanți ai societății civile.
+(2)  Grupul de lucru de la nivelul local se organizează în vederea identificării așezărilor informale și luării în evidență la nivelul unităților administrativ-teritoriale a acestora, stabilirii situației persoanelor și imobilelor cuprinse în acestea și stabilirii măsurilor de intervenție pentru îmbunătățirea condițiilor de locuit și asigurarea unor condiții decente de viață pentru persoanele vulnerabile.
+(3)  Așezările informale sunt identificate pe baza îndeplinirii simultane a următoarelor criterii:
+a) grupează minimum 3 unități destinate locuirii dezvoltate spontan, realizate fără respectarea normelor de construcție, igienă și sănătate publică și protecție a mediului;
+b) populația care locuiește în aceste unități nu are niciun drept asupra imobilelor (terenuri și/sau construcții) pe care le ocupă; 
+c) populația se află în situația de excluziune, segregare și marginalizare socială, respectiv persoanele care locuiesc în acele așezări sunt persoane sau familii care sunt în risc de a-și pierde capacitatea de satisfacere a nevoilor zilnice de trai din cauza unor situații de boală, dizabilitate, sărăcie, dependență de droguri sau de alcool ori a altor situații care conduc la vulnerabilitate economică și socială.
+(4)  Într-o primă etapă de analiză, grupul de lucru constituit la nivel local potrivit 
+alin. (1) a) organizarea de vizite pe teren; 
+b) reprezentarea grafică prin suprapunerea ridicării topografice a așezării informale cu documentațiile de urbanism în vigoare, în vederea identificării și relaționării cu reglementările urbanistice;
+c) evaluarea preliminară a regimului economic și juridic al imobilelor (terenuri și construcții), prin cercetare de teren și documentare;
+d) evaluarea preliminară privind expunerea la riscuri naturale, biologice și antropice, în raport cu zonele de protecție existente în documentațiile de urbanism, hărțile de risc și cu informațiile disponibile în domeniul mediului; 
+e) stabilirea măsurilor ce se impun în raport cu regimul de construibilitate și servituțile de utilitate publică;
+f) identificarea reprezentanților așezărilor informale care să facă parte din grupul de lucru și să participe la stabilirea măsurilor.
+(5)  În situația în care la nivelul unității administrativ-teritoriale nu există specialiști în domeniu pentru a realiza acțiunile de la 
+alin. (4) (6)  În vederea identificării situațiilor care pot genera marginalizarea sau excluziunea socială, serviciul public de asistență socială de la nivel local realizează o evaluare socioeconomică a fiecărui locuitor al așezărilor informale și o pune la dispoziția grupului de lucru.
+(7)  Ca urmare a analizelor de mai sus, grupul de lucru realizează un diagnostic preliminar al așezării informale și stabilește un prim set de măsuri. 
+(8)  În urma identificării așezărilor informale, autoritățile administrației publice locale, prin grupurile de lucru constituite, completează fișa de date cu scopul de a colecta informații în vederea cunoașterii, cuantificării și monitorizării situației așezărilor informale și fundamentării unor politici, programe și proiecte adresate acestora.
+(9)  Fișa de date cuprinde atât informații privind localizarea așezării informale, date statistice privind populația, gospodăriile și condițiile de locuire, precum și tipurile de intervenții stabilite la nivel local pentru fiecare așezare informală.
+(10)  În vederea constituirii unei baze de date care să sprijine coordonarea măsurilor la nivel județean, autoritatea administrației publice locale transmite comisiei județene anual, în format electronic, până la data de 31 iulie, fișa de date, prevăzută în anexa nr. 4 la prezentele norme metodologice.
+(11)  Pentru fundamentarea politicilor publice la nivel național, bazele de date județene se transmit la Ministerul Lucrărilor Publice, Dezvoltării și Administrației pentru integrarea în Observatorul teritorial național.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^4
+(1)  Pe baza evaluării din teren cu privire la situația socioeconomică a populației vizate, a regimului juridic, economic și tehnic al imobilelor, a expunerii la riscuri naturale, biologice și antropice și a prevederilor din documentațiile de urbanism în vigoare, grupul de lucru constituit la nivel local propune măsuri specifice de intervenție, pe care le supune procesului de consultare publică.
+(2)  Măsurile propuse sunt adaptate nevoilor populației din așezarea informală, precum și comunităților din vecinătate, în vederea asigurării cerințelor de siguranță și dezvoltare durabilă.
+(3)  Măsurile pot fi implementate in situ, pe teritoriul ocupat de așezarea informală, sau, în situația în care regimul juridic, economic și tehnic nu permit această abordare, pot viza relocarea populației.
+(4)  În situația în care așezarea informală este situată în zone ce impun relocarea, autoritățile administrației publice locale, împreună cu reprezentanți ai populației afectate de măsurile propuse la 
+alin. (3) (5)  Măsurile vor fi corelate cu programele de acțiuni comunitare privind combaterea sărăciei și excluziunea socială prevăzute la art. 35 din Legea asistenței sociale nr. 292/2011, cu modificările și completările ulterioare, și planurile județene de incluziune socială aprobate de comisiile județene de incluziune socială și cea a municipiului București prevăzute la art. 117 alin. (3) din Legea asistenței sociale nr. 292/2011, cu modificările și completările ulterioare, ce conțin soluții pentru prevenirea marginalizării și segregării spațiale.
+(6)  În procesul de stabilire a măsurilor, populația din așezările informale este informată permanent cu privire la drepturile și obligațiile pe care le are conform legii, riscurile la care este expusă, măsurile pe care autoritatea locală le propune și modul de implementare.
+(7)  Autoritatea administrației publice locale consultă populația din așezările informale cu privire la măsurile identificate și analizează propunerile formulate de reprezentanții comunității din așezarea informală.
+(8)  După procesul de consultare a populației, măsurile se constituie într-un plan de acțiune ce este propus avizării comisiei județene constituite conform 
+art. 38^7
+(9)  În maximum 30 de zile de la data aprobării, măsurile sunt comunicate persoanelor vizate și se demarează implementarea lor.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^5
+(1)  Măsurile in situ se stabilesc dacă în urma evaluării situației așezării informale se constată că aceasta nu este localizată în zone cu interdicție de construire ca urmare a situării în zone de riscuri naturale, tehnologice, în zone de protecție a unor infrastructuri sau că există unele funcțiuni incompatibile cu funcțiunea de locuire.
+(2)  În situația în care măsurile vizează reglementarea așezării informale existente in situ, autoritățile administrației publice locale iau măsuri financiare și tehnice:
+a) de asigurare a accesului la o sursă de apă potabilă, evacuare a apelor uzate, colectare și evacuare a deșeurilor, în scopul asigurării sănătății populației și protecției mediului;
+b) de conectare a așezării prin infrastructura de drumuri astfel încât să fie asigurat accesul la servicii publice locale;
+c) de întocmire a unor note tehnice de constatare pentru fiecare unitate destinată locuirii, în vederea stabilirii măsurilor ce se impun din punct de vedere tehnic și juridic.
+(3)  Măsurile in situ se corelează cu strategiile de dezvoltare locală și planurile de acțiuni aferente documentațiilor de urbanism și cu planurile de investiții ale autorităților administrației publice, prin care se urmărește îmbunătățirea condițiilor de locuire a populației din așezări informale, în concordanță cu prioritizarea investițiilor.
+(4)  În funcție de situația particulară a fiecărei gospodării și a fiecărei unități destinate locuirii din cadrul așezării informale se vor stabili măsuri care vizează clarificarea situației juridice a terenului și a construcției, în conformitate cu legislația în vigoare, posibilitatea de legalizare a acestora, precum și măsuri de integrare socială adecvate.
+(5)  În cazul inițierii reglementării in situ, inclusiv demarării de operațiuni de regenerare sau restructurare urbană pentru zonele care cuprind așezări informale, autoritățile administrației publice  locale vor lua măsuri pentru elaborarea sau actualizarea documentațiilor de urbanism pentru zona ce cuprinde așezarea informală.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^6
+(1)  Relocarea populației și alocarea de locuințe în altă zonă din unitatea administrativ-teritorială se impun:
+a) în cazul în care unitățile destinate locuirii, dezvoltate spontan, sunt amplasate pe terenuri cu funcțiuni incompatibile cu funcțiunea de locuire, zone de risc natural, tehnologic sau de altă natură și care pun în pericol sănătatea și siguranța populației, pajiști permanente aflate în extravilan a căror funcțiune nu poate fi modificată conform legii, terenuri cu regim specific de protecție, conservare și utilizare, precum zone construite protejate, zone de protecție a monumentelor istorice, pe situri arheologice, în arii naturale protejate de interes local, conform Ordonanței de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice, aprobată cu modificări și completări prin Legea nr. 49/2011, cu modificările și completările ulterioare, în situri Natura 2000, în afara zonelor de dezvoltare durabilă a activităților umane, reglementarea acestora in situ nefiind posibilă;
+b) în cazul ocupării unor construcții localizate pe terenuri proprietate privată a unor persoane fizice sau juridice, pentru care populația din așezarea informală nu deține drept de proprietate sau de posesie și nu există posibilitatea de obținere a unui drept real asupra imobilului.
+(2)  În cazul luării deciziei de relocare se va urmări integrarea spațială și socială a populației, prin acordarea de locuințe sociale sau alte tipuri de locuințe, conform legii. Repartiția locuințelor sociale la nivelul unității administrativ-teritoriale se reglementează prin hotărâri ale consiliului local/Consiliului General al Municipiului București, cu respectarea prevederilor Legii locuinței nr. 114/1996, republicată, cu modificările și completările ulterioare.
+(3)  Pentru așezările din extravilan și pentru așezările informale aflate într-o zonă unde nu este reglementată funcțiunea de locuire, dar care nu este incompatibilă cu locuirea, reglementarea urbanistică se realizează prin elaborarea și aprobarea de către autoritatea administrației publice locale a unui plan urbanistic zonal, inițiat după obținerea prealabilă a avizului de principiu al Comisiei județene constituite conform 
+art. 38^7
+(4)  Elaborarea și aprobarea planului urbanistic zonal sunt necesare și pentru situația unităților teritoriale de referință unde nu este prevăzută funcțiunea de locuire.
+(5)  În situația în care autoritatea locală nu deține fondul de locuințe sociale necesar relocării, până la realizarea acestuia, poate să asigure locuirea:
+a) în unități de locuire provizorii, care să fie amplasate pe terenuri situate în afara ariei expuse riscurilor naturale, biologice și antropice și să se asigure protecția populației și accesul locuitorilor la servicii de interes public general;
+b) în centre rezidențiale, conform Legii asistenței sociale nr. 292/2011, cu modificările și completările ulterioare;
+c) în locuințe de necesitate, conform Legii locuinței nr. 114/1996, republicată, cu modificările și completările ulterioare.
+(6)  Zonele ocupate de așezările informale din care populația a fost relocată se aduc la starea funcțională inițială sau se includ în proiecte de dezvoltare locală.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^7
+(1)  Potrivit art. 22^1 din Lege, consiliul județean, respectiv Consiliul General al Municipiului București, prin instituția arhitectului-șef, asigură organizarea și funcționarea unei comisii pentru coordonarea la nivelul județului a implementării măsurilor necesare pentru identificarea și reglementarea urbanistică a așezărilor informale și stabilirea măsurilor necesare pentru îmbunătățirea condițiilor de viață a locuitorilor din așezările informale, sprijinul metodologic și operațional pentru autoritățile administrației publice locale, precum și monitorizarea îndeplinirii responsabilităților și implementării acțiunilor stabilite la nivel local, denumită și comisia județeană. 
+(2)  Consiliul județean, respectiv Consiliul General al Municipiului București asigură participarea reprezentanților comunităților din așezările informale în cadrul comisiei județene prevăzute la art. 22^1 din Lege.
+(3)  În aplicarea prevederilor Legii nr. 151/2019 pentru completarea Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul, comisia județeană desfășoară următoarele activități:
+a) coordonează implementarea măsurilor aprobate la nivel local și monitorizează impactul acestora asupra situației așezărilor informale, prin urmărirea anuală a informațiilor din fișa de date, prevăzută în 
+anexa nr. 4
+b) centralizează fișele de date, completate de către autoritățile administrației publice locale pentru fiecare așezare informală identificată;
+c) colaborează cu comisia județeană de fond funciar, comisiile locale de fond funciar și oficiul de cadastru și publicitate imobiliară pentru identificarea situațiilor în care poate fi atribuit un drept real;
+d) sprijină cu expertiză de specialitate autoritățile locale în identificarea așezărilor informale și stabilirea măsurilor necesare pentru îmbunătățirea condițiilor de viață a locuitorilor din așezările informale.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Articolul 38^8
+Comisia pentru coordonarea la nivelul județului și al municipiului București emite următoarele categorii de avize:
+a) aviz de principiu al comisiei - actul care conține soluția de principiu adoptată de membrii comisiei cu privire la unul sau mai multe aspecte prevăzute la art. 27^1 alin. (2) lit. a)-e) din Lege;
+b) aviz final al comisiei - actul adoptat de comisie după finalizarea tuturor etapelor derulate în vederea reglementării din punct de vedere urbanistic a situației așezării informale, care conține soluția adoptată, pașii de urmat și responsabilitățile autorităților implicate în vederea reglementării din punct de vedere urbanistic;
+c) recomandare - actul emis de comisie prin care se propune una sau mai multe soluții posibile, în conformitate cu dispozițiile legale, în vederea soluționării unei situații prealabile care trebuie rezolvată pentru derularea în continuare a procedurii de reglementare urbanistică.
+ (la 04-08-2020, 
+ Capitolul VIII^1  a fost completat de Punctul 2, Articolul I din ORDINUL nr. 3.494 din 27 iulie 2020, publicat în MONITORUL OFICIAL nr. 696 din 04 august 2020
+ ) Capitolul IX
+ Dispoziții finale
+Articolul 39
+Disciplina în domeniul amenajării teritoriului și urbanismului se referă la următoarele categorii de probleme:
+a) elaborarea, avizarea și aprobarea, în condițiile legii, a documentațiilor de amenajare a teritoriului și de urbanism;
+b) existența documentațiilor de amenajare a teritoriului și de urbanism prevăzute de lege, aflate în termen de valabilitate;
+c) aplicarea întocmai a prevederilor acestora în activitatea curentă;
+d) asigurarea condițiilor legale prin emiterea certificatelor de urbanism, avizelor și autorizațiilor de construire numai cu respectarea prevederilor documentațiilor de urbanism legal aprobate.
+Articolul 40
+(1) În conformitate cu art. 35 din Lege, controlul statului privind aplicarea prevederilor cuprinse în documentațiile de amenajare a teritoriului și de urbanism, avizate și aprobate conform legii, este asigurat de instituția arhitectului-șef de la nivel județean, precum și de Inspectoratul de Stat în Construcții (ISC). În acest sens, direcțiile de specialitate din cadrul Ministerului Dezvoltării Regionale și Administrației Publice, Inspectoratului de Stat în Construcții și arhitecții-șefi ai județelor colaborează permanent.
+(2) Potrivit prevederilor art. 64 din Lege și în conformitate cu prevederile Ordonanței Guvernului nr. 63/2001 privind înființarea Inspectoratului de Stat în Construcții - ISC, aprobată cu modificări și completări prin Legea nr. 707/2001, cu modificările și completările ulterioare, controlul statului în amenajarea teritoriului și urbanism se exercită de către acesta, pe întreg teritoriul țării. ISC poate dispune controale tematice, măsuri și sancțiuni, potrivit prevederilor legale în vigoare.
+(3) Autoritățile administrației publice locale, prin organele proprii cu atribuții în acest scop, potrivit Legii, au obligația de a organiza și de a efectua permanent acțiuni de monitorizare și control vizând disciplina în amenajarea teritoriului și urbanism pe raza unității administrativ-teritoriale.
+Articolul 41
+În vederea simplificării procedurilor administrative și a reducerii costurilor aferente planificării teritoriale și dezvoltării investițiilor, depunerea spre avizare și/sau aprobare a documentațiilor de amenajare a teritoriului sau de urbanism se poate face și prin sistemul de e-guvernare implementat prin punctul unic de contact electronic (PCU) organizat conform Directivei 2006/123/CE a Parlamentului European și a Consiliului din 12 decembrie 2006 privind serviciile în cadrul pieței interne, prin portalul aflat la adresa http://www.edirect.e-guvernare.ro/, pentru autoritățile administrației publice locale și instituțiile care sunt înscrise în sistem și au proceduri operaționale specifice adecvate.
+Articolul 42
+Autoritatea publică centrală cu atribuții în domeniul amenajării teritoriului și urbanismului va emite specificații tehnice de întocmire a documentațiilor de amenajare a teritoriului și de urbanism în format digital și a metadatelor aferente, în conformitate cu ghidurile tehnice și regulamentele Comisiei Europene, prevăzute în anexa nr. 7 din Hotărârea Guvernului nr. 579/2015 privind stabilirea responsabilităților specifice ale autorităților publice, precum și a structurilor tehnice pentru realizarea temelor de date spațiale și aprobarea măsurilor necesare pentru punerea în comun a acestora.
+Articolul 43
+(1) În vederea asigurării transparenței privind accesul la informații de interes public în domeniul amenajării teritoriului și urbanismului, autoritățile administrației publice locale pun la dispoziția publicului documentațiile aprobate prin afișarea integrală pe pagina proprie de internet (cu acces gratuit la acestea pentru descărcare și cu obligativitatea menționării sursei la fiecare utilizare a informațiilor respective) și prin furnizarea acestora spre consultare, la sediul autorității administrației publice locale sau la punctele de informare organizate la nivel local.
+(2) Pentru documentațiile de urbanism, autoritățile administrației publice locale au obligația de a pune la dispoziția publicului cel puțin următoarele: planșa de reglementări, regulamentul local de urbanism, raportul de consultare publică și raportul arhitectului-șef.

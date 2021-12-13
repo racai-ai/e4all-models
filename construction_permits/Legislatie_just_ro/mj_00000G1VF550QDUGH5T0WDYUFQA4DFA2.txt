@@ -1,0 +1,1309 @@
+REGLEMENTARE TEHNICĂ din 8 mai 2007
+"Metodologie privind investigarea de urgență a siguranței postseism a clădirilor și stabilirea soluțiilor-cadru de intervenție", indicativ ME 003-2007
+Publicate în MONITORUL OFICIAL nr. 562 bis din 16 august 2007
+Notă 
+Aprobată prin Ordinul nr. 127 din 8 mai 2007, publicat în Monitorul Oficial al României, Partea I, nr. 562 bis din 16 august 2007.
+ Memoriu de prezentare
+    Obiectul prezentei metodologii îl constituie precizarea modului de organizare și desfășurare al activităților tehnice menite să asigure utilizarea în condiții de siguranță a construcțiilor în cazul producerii unui seism de mare intensitate.
+    Prin seism de mare intensitate se înțelege acel eveniment care produce în mediul construit prăbușiri generale sau locale, avarii și degradări semnificative pe arii întinse.
+    Activitățile prezentei metodologii se referă, în principal, la următoarele aspecte:
+a)evaluarea stării tehnice a construcțiilor în vederea luării de decizii privind condițiile de utilizare în continuare sau de dezafectare (evacuare, demolare) a acestora, cu aplicarea de placarde colorate, specifice fiecărei categorii;
+b)luarea de măsuri pentru punerea în siguranță provizorie a construcțiilor afectate de seism.
+    Metodologia de față își limitează domeniul de aplicabilitate la clădirile de locuințe, social culturale și administrative, precum și la clădiri cu alte funcțiuni, după caz.
+    În cadrul metodologiei s-a păstrat linia de bază a Manualului pentru investigarea de urgență post-seism și stabilirea soluțiilor cadru de intervenție imediată pentru punerea în siguranță provizorie a construcțiilor avariate, aprobat de MLPAT, indicativ ME-003-99, publicat în Buletinul Construcțiilor nr. 2/1999), dar cuprinsul a structurat mai eficient modalitățile de triere primară, competențele pe calificări profesionale și categorii de clădiri, pentru a se evita aglomerarea experților și verificatorilor atestați.
+    A fost parțial reformulat textul placardelor, în funcție de starea fizică a clădirilor inspectate și semnificația privind modul de acces sau utilizare.
+    Prevederile au fost actualizate, completate și corelate cu date din aplicarea Normelor ATC 20 din SUA, Ghidul din Noua Zeelandă, Italia, Ghidul japonez privind evaluarea rapidă după seisme, elaborat și aplicat de specialiștii JICA în Turcia în 1999, date din Taiwan etc., în perioada 1999-2005.
+    S-a accentuat rolul și modul de aplicare a inspecției și evaluării anticipate a clădirilor adăpostind funcțiuni vitale, și s-au inclus pentru clasa A din Manual și clădirile din clasa I și II de importanță din Codul P100-1/2006, inclusiv cele care prezintă pericol public, recomandându-se pre-certificarea stării acestora.
+    Au fost precizate mai atent rolul și competențele unităților de cercetare-proiectare publice care au atribuții și specialiști competenți, precum și utilizarea adecvată a specialiștilor din institutele de proiectare privatizate dar care au realizat proiecte tipizate sau repetitive de largă aplicare.
+    Cu privire la relația dintre prezenta metodologie și Ghidul JICA, colaborarea cu Centrul Național de Reducerea Riscului Seismic și experții japonezi a pus în evidență că principiile generale de inspecție, evaluare și aplicare a placardelor sunt similare.
+    În actuala etapă a fost posibil să se preia din acest ghid unele exemple și imagini orientative de situații (stări de avariere prezentate cantitativ și calitativ, schițe și imagini) (potrivit practicilor din SUA, Japonia, Italia, Grecia și Turcia).
+    Au fost introduse prevederi care fac legătura cu planurile de gestionare a situațiilor de urgență și alte acte ale autorităților administrației locale, cu referire la:
+– statutul legal și tehnic-administrativ al relațiilor specialiștilor, inspectorilor, voluntarilor cu administrația publică locală și al remunerării activității profesionale în perioada de urgență, a relațiilor cu celelalte autorități (poliție, jandarmerie);
+– problemele de protecție personală și a muncii (căști de protecție și instruire privind modul de acces în clădirile avariate și comportarea la replici post-seismice pe durata investigațiilor de teren, a problemei cazării inspectorilor oaspeți și a altor cheltuieli conexe);
+– instruirea unui număr de specialiști cu rol de formatori legal abilitați pentru cursurile de instruire din teritoriu la diferite niveluri, în vederea aplicării unitare a metodologiei;
+– instruirea și reinstruirea periodică a unui număr de inspectori, tehnicieni etc. de la nivelul consiliilor locale și al altor unități din teritoriu și a unor ingineri calificați, informați cu anticipație despre numărul, localizarea și tipul structurilor din zona în care vor efectua investigațiile de teren prevăzute, ținând seama de numărul structurilor existente în localitate/județ și vulnerabilitatea acestora;
+– mediatizarea și explicarea acestor activități pentru a se asigura cooperarea populației la respectarea interdicțiilor de utilizare a unor construcții periculoase;
+– asigurarea logistică pentru activitățile de intervenție imediată de către autorități (Prefectură, Primăria generală), prin corelarea măsurilor cu prevederile concrete din bugetul local și Planul de intervenție la situații de urgență.
+    Au fost reformulate unele prevederi care au implicații asupra altor activități ulterioare, cum ar fi relația dintre inspecția post-seism și etapele ulterioare de efectuare a expertizării, proiectării și execuției consolidărilor la construcțiile existente, pe clase de risc, conform Ordonanței Guvernului nr. 20/1994 republicată, cu extinderea aplicării sale pentru toate tipurile de construcții cu vulnerabilitate ridicată, constituind pericol public, în etapele de revenire la normal.
+ Cuprins
+1.
+PREVEDERI GENERALE
+1.1.
+Obiect și domeniu de aplicare. Scopul metodologiei
+1.2.
+Reglementări tehnice complementare
+2.
+ORGANIZAREA ȘI PREGĂTIREA ACTIVITĂȚILOR TEHNICE ÎN VEDEREA ASIGURĂRII CAPACITĂȚII DE INVESTIGARE POST-SEISMICĂ
+2.1.
+Structuri responsabile, competențe și referințe legislative specifice pentru managementul măsurilor de reacție post-seism, la nivel central și local.
+2.2.
+Resurse informaționale. Colectarea și stocarea informațiilor referitoare la fondul construit existent. Baze de date informatizate - crearea, întreținerea și gestionarea informațiilor. Organizarea păstrării documentelor primare ale investigațiilor.
+2.3.
+Resurse umane. Pregătirea inspectorilor și cadrelor tehnice.
+2.4.
+Resurse materiale.
+2.4.1.
+Dotarea - logistica pentru investigații și evaluări. Stocuri de formulare și placarde.
+2.4.2.
+Dotarea - logistica pentru punerea în siguranță provizorie a clădirilor avariate. Stocuri de materiale strict necesare în caz de seism pentru punerea în aplicare a măsurilor de intervenție urgentă.
+2.4.3.
+Spații tampon pentru adăpostirea persoanelor evacuate din clădirile care nu prezintă siguranță
+    ORGANIZAREA ACTIVITĂȚILOR TEHNICE ÎN PERIOADA DE DUPĂ PRODUCEREA CUTREMURULUI
+3.1.
+Organizarea activităților post-seism. Personal abilitat
+3.2.
+Schema logică a etapelor și corelațiilor activităților de urgență post-seism
+4.
+INSPECȚIA POST-SEISM
+4.1.
+Organizarea inspecției post-seism. Personal abilitat
+4.2.
+Obiectul, scopul și fazele inspecției post-seism
+4.3.
+Modul de efectuare al inspecției post-seism
+5.
+EVALUAREA RAPIDĂ POST-SEISM
+5.1.
+Obiectul evaluării rapide
+5.2.
+Criterii și procedee de evaluare tehnică rapidă post-seism.
+5.3.
+Criterii pentru marcarea clădirilor
+6.
+MĂSURI DE INTERVENȚIE URGENTĂ ASUPRA CONSTRUCȚIILOR AVARIATE
+6.1.
+Date generale
+6.2.
+Reguli pentru realizarea sprijinirilor provizorii
+6.3.
+Reparații locale
+ COMENTARII
+ Anexe
+ Anexa A.0. Legislație și reglementări cu referire la managementul măsurilor de reacție post-seism, la nivel central și local, cerințe specifice privind calitatea în construcții și investigarea imediată după cutremur a construcțiilor
+ Anexa A.1. Inspecția rapidă și evaluarea tehnică rapidă a unor tipuri de structuri specifice
+ Anexa A.2. Probleme speciale pentru clădiri adăpostind funcțiuni vitale și/sau care prezintă pericol public.
+ Pre-certificarea stării clădirilor
+ Anexa A.3. Soluții cadru pentru sprijiniri provizorii, materiale, scule, echipamente.
+ Anexa A.4. Soluții cadru pentru reparații rapide locale la structuri din zidărie, beton, metal, lemn etc.
+ Anexa A.5. Formulare pentru inspecția rapidă post-seism
+ Anexa A.6. Formulare pentru evaluarea tehnică rapidă
+ Anexa A.7. Placarde pentru marcarea clădirilor
+ Anexa A.8. Lista dotării minime a inspectorilor și inginerilor structuriști pentru investigarea pe teren
+ BIBLIOGRAFIE
+1.
+PREVEDERI GENERALE
+1.1.
+Obiect și domeniu de aplicare. Scopul metodologiei
+ Obiectul prezentei metodologii îl constituie precizarea modului de organizare și desfășurare al activităților tehnice menite să asigure utilizarea în condiții de siguranță a construcțiilor în cazul producerii unui seism de mare intensitate.
+ Prin seism de mare intensitate se înțelege acel eveniment care produce în mediul construit prăbușiri generale sau locale, avarii și degradări semnificative pe arii întinse.
+ Activitățile prezentei metodologii se referă, în principal, la următoarele aspecte:
+a)
+evaluarea stării tehnice a construcțiilor în vederea luării de decizii privind condițiile de utilizare în continuare sau de dezafectare (evacuare, demolare) a acestora, cu aplicarea de placarde colorate, specifice fiecărei categorii;
+b)
+luarea de măsuri pentru punerea în siguranță provizorie a construcțiilor afectate de seism.
+ Metodologia de față își limitează domeniul de aplicabilitate la clădirile de locuințe, social culturale și administrative, precum și la clădiri cu alte funcțiuni, după caz.
+ Pentru o tratare diferențiată, în prezenta metodologie, aceste clădiri se clasifică în următoarele clase:
+ Clasa A: Clădiri adăpostind funcțiuni vitale (administrația centrală și locală, telecomunicații, poliție, pompieri, spitale), indiferent de numărul de niveluri și de sistemul constructiv;
+ Clasa B: Clădiri curente cu mai mult de P+4 niveluri;
+ Clasa C: Clădiri curente cu P  P+4 niveluri.
+ Pentru clădiri și dotări cu alte funcțiuni, se aplică reglementări specifice iar în lipsa acestora se pot prelua orientativ prevederi din această reglementare.
+ Comentariu: Această clasificare, pe criterii simple, se aplică numai pentru activitățile tehnice post-seism. Ea are ca scop o ierarhizare, rapidă și ușor de înțeles și de aplicat, a gradului de importanță și de dificultate al problemelor tehnice de rezolvat, permițând o utilizare rațională a specialiștilor disponibili cu diferite grade de pregătire și de experiență.
+ Scopul prezentei metodologii este, în principal, de a defini și exemplifica procedee care să se aplice în mod cât mai uniform, asigurând construcțiilor un grad apropiat de siguranță. Se are în vedere, de asemenea, ca printr-o ierarhizare, bazată pe criterii simple, a problemelor tehnice ridicate de cele două tipuri de activități, să se realizeze utilizarea diferențiată, eficace, a specialiștilor disponibili, cu diverse grade de pregătire.
+1.2.
+Reglementări tehnice complementare
+ În corelație cu această metodologie, vor fi utilizate prevederi specifice din reglementările în vigoare privind aspectele și tipurile de materiale, clădiri și structuri de locuit și social-culturale din România, cu referire minimă la:
+– Cod de proiectare seismică Partea I - "Prevederi de proiectare pentru clădiri", indicativ P100-1/2006, aprobat de MTCT cu ordinul nr. 1711/19.09.2006, publicat în Monitorul Oficial Partea I, anul 174 (XVIII) - Nr. 803 din 25 septembrie 2006 și în Buletinul Construcțiilor vol. 12-13/2006;
+– Normativ pentru proiectarea antiseismică a construcțiilor de locuințe, social-culturale, agrozootehnice și industriale. Indicativ P 100-92, cap. 11 și 12;
+– Cod de proiectare pentru structuri din zidărie, indicativ CR6-2006, aprobat de MTCT cu ordinul ~nr. 1712~/19.09.2006. publicat în Monitorul Oficial, Partea I nr. 807 din 26 septembrie 2006 și în Buletinul Construcțiilor vol. 11/2006.
+– Cod pentru proiectarea construcțiilor cu pereți structurali de beton armat - CR 2-1-1.1/2005 - B.C. nr. 4/2006 - înlocuiește P - 85 -1996
+– Cod de proiectare pentru structuri în cadre din beton armat - NP 007 - 1997 - B.C. nr. 10/1997
+– Metodologie de investigare a zidăriilor vechi - MP 007 -1999 - B.C. Nr. 8/2000
+– Normativ privind comportarea în timp a construcțiilor - P 130 - 1999 - B.C. nr. 1/2000 - Înlocuiește P 130 -1997
+– Ghid pentru expertizarea tehnică a clădirilor de locuit amplasate în zona seismică A și stabilirea soluțiilor cadru de intervenție (consolidare) pentru asigurarea cerințelor de rezistență și stabilitate executate pe baza proiectelor tip numărul 944 și 1400, S+P+3E- panouri mari prefabricate - GT 045 - 2002 - B.C. nr. 10/2004
+– Ghid pentru expertizarea tehnică a clădirilor de locuit amplasate în zona seismică A și stabilirea soluțiilor cadru de intervenție (consolidare) pentru asigurarea cerințelor de rezistență și stabilitate executate pe baza proiectelor tip T 320, S+P+4E- și seriile T 836, T 835, S+P+8E - GT 047 - 2002 - B.C. nr. 17-18/2004
+– Ghid cuprinzând soluții cadru de intervenție (consolidare) pentru asigurarea cerințelor de rezistență și stabilitate la clădiri de locuit cu S+P+4E executate pe bază de proiecte tip (cu pereți structurali din beton armat turnat monolit) amplasate în zona seismică A - GT 046- 2002 - B.C. nr. 11-12/2004.
+2.
+ORGANIZAREA ȘI PREGĂTIREA ACTIVITĂȚILOR TEHNICE ÎN VEDEREA ASIGURĂRII CAPACITĂȚII DE INVESTIGARE POST-SEISMICĂ
+2.1.
+Structuri responsabile, competențe și referințe legislative specifice pentru managementul măsurilor de reacție post-seism, la nivel central și local.
+ În perioada de prevenire a unei situații de urgență specifice, se desfășoară activități specifice potrivit legilor, regulamentelor, planurilor și reglementărilor tehnice în vigoare, la nivelul autorităților publice centrale și locale.
+ În Anexa A.0. se redau principalele acte legislative și reglementări cu referire la managementul măsurilor de reacție post-seism, la nivel central și local, cerințe specifice privind calitatea în construcții și investigarea imediată după cutremur a construcțiilor.
+ În domeniul acestei metodologii, reglementarea, organizarea, coordonarea, punerea în aplicare și controlul legal-administrativ al acțiunilor și măsurilor privind investigarea post-seismică în cadrul gestionării unei situații de urgență specifică revine:
+– la nivel național, Comitetului Național pentru situații de urgență;
+– la nivel central, Comitetului ministerial pentru situații de urgență, organizat la Ministerul Transporturilor, Construcțiilor și Turismului;
+– în teritoriu, Comitetelor județene/Comitetului municipiului București și comitetelor locale ale sectoarelor acestuia, municipale, orășenești și comunale pentru situații de urgență;
+ Coordonarea, din punct de vedere tehnic, a investigării de urgență a construcțiilor, inclusiv a dotărilor, se va face după cum urmează:
+– la nivel central, prin Comitetul ministerial pentru situații de urgență, din cadrul Ministerului Transporturilor, Construcțiilor și Turismului și Inspectoratul de Stat în Construcții, prin Inspectorul general de stat
+– la nivel teritorial, de către Comitetele județene/Comitetul municipiului București și comitetele locale ale sectoarelor acestuia, municipale, orășenești și comunale pentru situații de urgență, prin:
+– prefect, primari și personalul propriu și/sau din Inspectoratul pentru situații de urgență;
+– Inspectorul șef al Inspectoratului teritorial/județean/al municipiului București în construcții și personalul desemnat de aceștia.
+2.2.
+Resurse informaționale. Colectarea și stocarea informațiilor referitoare la fondul construit existent. Baze de date informatizate - crearea, întreținerea și gestionarea informațiilor. Organizarea păstrării documentelor primare ale investigațiilor.
+ Potrivit regulamentelor și planurilor, autoritățile naționale și locale, administrative și tehnice, primesc imediat după seism rapoarte operative referitoare la amploarea pagubelor și efectelor produse, care includ date din investigații de teren. Acestea constituie baza pentru aplicarea atât a măsurilor de intervenție imediată cât și a măsurilor de reducere a riscului seismic potrivit Ordonanței nr. 20/1994, pentru efectuarea unor expertize tehnice și proiecte de consolidare.
+ Pentru a îndeplini activitățile de investigare post-seismică a construcțiilor, mai sus, autoritățile locale sunt obligate:
+– să pregătească și să implementeze la primării sisteme informatizate și baze de date pentru păstrarea datelor primare rezultate din investigarea anticipată, respectiv post-seism, a clădirilor de către inspectori și ingineri;
+– să asigure introducerea și stocarea informatizată a datelor din formularele de investigare prevăzute în anexele A.5, A.6, ca și a tabelelor centralizatoare privind categoriile de clădiri la care s-au aplicat placarde în funcție de concluzia evaluărilor;
+– să asigure sisteme și rețele de calculatoare, cu perifericele necesare (scanere, plotere, printere) ale instituției legal desemnată responsabilă cu investigațiile, un program performant de baze de date;
+– să prevadă în buget fonduri pentru efectuarea de inventarieri, studii și cercetări privind numărul, localizarea și tipul structurilor din zona în care vor efectua investigațiile de teren prevăzute în metodologie, în județ/localitate, privind vulnerabilitatea acestora.
+– să înregistreze în bazele de date datele furnizate de studiile anticipate și de echipele de specialiști care lucrează pe teren după seisme; toate intrările de date pentru o anumită clădire cuprind adresa acesteia și orice altă caracteristică ce poate identifica cu precizie clădirea;
+– să păstreze în bazele de date ale instituției care coordonează activitățile respective informațiile culese în etapele de Inspecție post-seism și de Evaluare tehnică rapidă, pe toată durata de readucere a zonelor afectate la normal și după aceea. Aceste informații se completează cu concluziile expertizelor tehnice care rezultă ca necesare și, după caz, fie cu prevederile proiectului de punere în siguranță și a execuției lucrărilor respective (până la terminarea acestora) fie cu decizia de demolare recomandată. Informațiile cuprind în consecință toate informațiile importante privind "istoria" acțiunilor și deciziilor luate privind fiecare clădire.
+ Autoritățile locale iau măsuri și introduc în bazele de date orice alte informații disponibile, cu privire la construcții, dotări și terenuri, a căror avariere poate pune în pericol populația, precum și mediul natural și construit, pentru care, potrivit regulamentelor în vigoare, deținătorii, cu orice titlu, au obligații speciale privind:
+– starea de supraveghere, întreținere-reparații și reabilitare, modul de exploatare;
+– dotarea construcțiilor cu aparatură de măsură și control necesară pentru urmărirea comportării în timp a acestora;
+– instalarea de sisteme de avertizare-alarmare a populației în cazul iminenței producerii unei situații de urgență specifice.
+2.3.
+Resurse umane. Pregătirea inspectorilor și cadrelor tehnice.
+ Autoritățile locale stabilesc resursele umane necesare ținând cont că forțele tehnice pentru realizarea activităților post-seism sunt numeroase și implică un personal cu grade foarte diferite de pregătire și experiență, în general fiind constituit din următoarele surse:
+ ● verificatori de proiecte și experți atestați potrivit Legii nr. 10/1995 privind calitatea în construcții;
+ ● personal de specialitate angajat în cadrul consiliilor locale - primăriilor;
+ ● personal de specialitate din cadrul MTCT;
+ ● personal de specialitate din cadrul Inspectoratului de Stat în Construcții;
+ ● ingineri structuriști și tehnicieni din cadrul institutelor, firmelor și birourilor cu activitate de proiectare, a instituțiilor de învățământ superior, a institutelor și centrelor de cercetare în construcții, cu activitate recunoscută;
+ ● ingineri și tehnicieni implicați voluntar în desfășurarea activităților post-seism;
+ ● ingineri și/sau firme de construcții angajate pentru lucrări specifice (sprijiniri de urgență, demolări, etc.).
+ Autoritățile centrale și locale reglementează prin regulamente, planuri și dispoziții, potrivit cadrului legislativ în materie, următoarele aspecte:
+– estimarea numărului inspectorilor, inginerilor și experților necesari pe baza evaluărilor privind tipurile de clădiri, vulnerabilitatea și numărul de clădiri posibil să fie investigate de o echipă zilnic; în localitățile cu număr mare de ingineri trebuie pregătite cu anticipație echipe și zone care se preiau după seism, cu date cunoscute despre fondul construit existent;
+– precizarea în planuri a mecanismului de suplimentare, la necesitate, a numărului de inspectori și specialiști necesari în marile localități urbane, pentru eventualitatea unor efecte post-seismice excesive;
+– identificarea, recrutarea și gruparea anticipată a inspectorilor, cadrelor tehnice și prestatorilor de servicii aferente definite în această metodologie, pe categorii specifice, potrivit pregătirii pe care o au și atribuțiilor pe care le vor îndeplini;
+– emiterea de decizii ale autorităților competente pentru includerea în fișa posturilor funcționarilor publici și angajaților diferitelor instituții ale administrației centrale și locale a atribuțiilor de serviciu legate de investigarea post-seismică și obligația de a fi instruiți în acest domeniu;
+– pregătirea și avizarea listelor și convențiilor de colaborare cu resursele umane - persoanele autorizate pentru intervenție în caz de cutremur, potrivit categoriilor din această metodologie;
+– elaborarea/adaptarea și adoptarea, după caz, a normelor de protecție a muncii specifice activităților din prezenta metodologie;
+– efectuarea instructajului de protecție a muncii pentru condițiile specifice de lucru privind inspecția post - seism a clădirilor;
+– pregătirea și avizarea listelor cu clădiri adăpostind funcțiuni vitale și/sau care prezintă pericol public și la care proprietarii au aplicat sistemul de pre-certificare a stării acestora, conf. Anexei A.2;
+– emiterea anticipată pentru inspectorii și inginerii ce urmează a fi trimiși pe teren, a autorizațiilor necesare pentru a intra în clădirile proprietate publică și privată în situațiile de urgență și în cazul declarării stării de urgență;
+– stabilirea statutului legal și tehnic-administrativ al relațiilor specialiștilor, inspectorilor, voluntarilor cu administrația publică locală și al remunerării sau recunoașterii ca atare a activității profesionale a acestor specialiști în perioada de urgență, a relațiilor cu celelalte autorități cu care vor colabora (poliție, jandarmerie) pe durata și în legătură cu îndeplinirea atribuțiilor din metodologie.
+– înregistrarea în evidența centralizată la nivelul unității teritoriale a acestor persoane;
+– finanțarea din bugetul administrației publice locale a cursurilor pentru instruirea unui număr de specialiști cu rol de formatori legal abilitați pentru cursurile de instruire din teritoriu la diferite niveluri, în vederea aplicării unitare a metodologiei;
+– finanțarea din bugetul administrației publice locale a cursurilor pentru instruirea și reinstruirea periodică a unui număr de inspectori, tehnicieni etc. de la nivelul consiliilor locale și al altor unități din teritoriu și a inginerilor calificați;
+– pregătirea inspectorilor de teren cu privire la relațiile cu populația din clădirile și zonele afectate, aflată în stare de stress post-seismic și relațiile cu mass-media.
+2.4.
+Resurse materiale.
+2.4.1.
+Dotarea - logistica pentru investigații și evaluări. Stocuri de formulare și placarde.
+ Următoarele aspecte se reglementează prin regulamente, planuri, dispoziții administrative și prin includerea în bugetele proprii ale autorităților centrale și locale legal abilitate cu investigarea post-seism (prefecturi și primării), potrivit cadrului legislativ în materie privind:
+– achiziționarea anticipată a numărului de exemplare din prezenta Metodologie, precum și achiziționarea/tipărirea unui stoc de formulare (Anexele A.5-A.6) și placarde (Anexele A.7.1. - A.7.4.) necesare pentru primele zile de activitate, având în vedere necesitatea efectuării în termene scurte a operațiunilor de investigare;
+– asigurarea tipăririi placardelor la dimensiuni și în culori adecvate, nuanțe deschise, cu tuș tipografic sau toner care nu se deteriorează la apă, care să permită înscrierea datelor de către evaluatori, vizibilitatea și citirea de către cetățeni, în cazul textelor cu tuș negru peste aceste culori; asigurarea de markere cu cerneală rezistentă la apă pentru completarea placardelor; dimensiunea minimă a placardelor se recomandă să fie A4 (210 mm x 297 mm), cu caractere font 50 bold la titlu, respectându-se mărimea literelor și textele din anexele A.7.1 .. A.7.4.;
+– asigurarea unui sistem de fixare a placardelor, pe un suport stabil, în imediata vecinătate a clădirii sau intrărilor, necesar în situațiile în care clădirile prezintă pericole, și de protecție la intemperii (folie);
+– achiziționarea anticipată a unui număr adecvat de calculatoare, cu perifericele necesare (scanere, plotere, printere), software și consumabile, pentru a stoca datele;
+– reglementarea problemelor de legitimare și protecție personală și a muncii (legitimații, ecusoane); acestea includ cel puțin următoarele date:
+– Localitatea și Autoritatea emitentă (Prefectură-Primărie)
+– Număr înregistrare
+– Nume și prenume
+– Categoria de personal tehnic (expert tehnic/inginer/inspector), conf. cap. 3.1. din Metodologie
+– Ștampila și semnătura reprezentantului autorității emitente
+– Termen valabilitate/Loc de aplicat ștampile periodice (pe verso).
+– decizia autorității abilitate prin care personalul tehnic este nominalizat să efectueze inspecții postseism, cu menționarea competențelor și atribuțiilor;
+– instruire privind modul de acces în clădirile avariate și comportarea voluntarilor la replici postseismice pe durata investigațiilor de teren, a problemei cazării  inspectorilor oaspeți și a altor cheltuieli conexe;
+– asigurarea echipamentului de protecție pentru personalul trimis pe teren.
+ În Anexa A.8 se redă Lista dotării minime a inspectorilor și inginerilor structuriști pentru investigarea pe teren.
+2.4.2.
+Dotarea - logistica pentru punerea în siguranță provizorie a clădirilor avariate. Stocuri de materiale strict necesare în caz de seism pentru punerea în aplicare a măsurilor de intervenție urgentă.
+ Persoanele desemnate din Prefectură și Primărie, în colaborare cu specialiști din Inspectoratul de Stat în Construcții instruiesc anticipat inspectorii și inginerii structuriști cu privire la soluțiile-cadru recomandabile și fezabile în cazul tipurilor de structuri din localitate, prin aplicarea și detalierea Anexei A.3. Serviciile desemnate din primării asigură comunicarea și transmiterea deciziilor și soluțiilor tehnice către responsabilii și firmele care asigură logistica/stocurile de materiale pentru activitățile de intervenție imediată de către autorități prin corelarea măsurilor cu prevederile concrete din bugetul local și Planul de gestionarea a situațiilor de urgență.
+ Pregătirea stocurilor de materiale de intervenție se bazează pe evaluările privind numărul de clădiri vulnerabile, expertizate și considerate în clase de risc deosebit, precum și pe date din studii și scenarii de cutremur.
+2.4.3.
+Spații tampon pentru adăpostirea persoanelor evacuate din clădirile care nu prezintă siguranță
+ Autoritățile locale estimează și asigură anticipat, prin planul de apărare, precum și prin bugetele proprii, un număr de locuințe de necesitate, prin achiziții și/sau încheierea de convenții între autoritățile administrației publice locale și deținătorii acestor spații în vederea utilizării lor în caz de nevoie, pentru cazarea temporară a răniților și sinistraților sau a persoanelor în timpul executării consolidărilor, dacă situația o impune.
+ Autoritățile locale informează inspectorii și inginerii (care investighează clădirile) cu privire la modul de comunicare și conlucrare cu serviciile din primării asupra deciziilor referitor la clădirile care nu mai pot fi utilizate, corelându-le cu capacitățile reale de asigurare a spațiilor de adăpostire.
+3.
+ORGANIZAREA ACTIVITĂȚILOR TEHNICE ÎN PERIOADA DE DUPĂ PRODUCEREA CUTREMURULUI
+3.1.
+Organizarea activităților post-seism. Personal abilitat
+ În perioada imediat următoare producerii unui cutremur de mare intensitate este necesar a se stabili starea tehnică a construcțiilor, într-un interval de timp rezonabil, precizându-se dacă acestea pot fi sau nu utilizate în condiții de siguranță, dacă sunt necesare investigații mai amănunțite, dacă ele trebuie prevăzute cu mijloace tehnice de punere rapidă în siguranță (măsuri "de prim ajutor"), sau dacă trebuie demolate pentru a nu periclita vecinătățile.
+ Autoritățile locale repartizează în teren inspectorii și inginerii pe baza informațiilor sumare culese vizual în primele ore și/sau în prima zi după seism de funcționarii serviciilor primăriei, poliție etc. Prima evaluare este urmată de investigații mai complete și mai precise care, prin pași succesivi, să fundamenteze decizia finală de intervenție. Inspecția post-seism pentru a decide asupra siguranței clădirilor conduce, de regulă, la cerințe majore de specialiști, cu activitate într-o perioadă foarte scurtă (1-3 zile), sub presiunea populației, mass-media și autorităților, și cu consecințe deosebit de importante (evacuări). În cazul marilor localități urbane, operațiunile de teren pot dura 10 - 12 zile, până la 1-2 luni.
+ Având în vedere că într-o localitate există numeroase clădiri, în mod practic, se începe cu acele clădiri la care avariile sunt grave și/sau evidente și/sau despre care s-au primit solicitări.
+ Pentru a se evita evaluările dezordonate și a nu se bloca specialiștii numai cu acest gen de activități un interval de timp prea mare, autoritățile locale trebuie să prevadă o repartizare anticipată, o cunoaștere a zonelor arondate și o corelare a trimiterii de echipe în diferitele zone din localitate cu personalul tehnic disponibil, numărul de clădiri și avariile așteptate, având în vedere însă anumite priorități:
+– zonele/cvartalele cu clădiri înalte și cu număr mare de ocupanți, realizate fără aplicarea de normative de proiectare antiseismică (de ex. înainte de 1940), identificate ca vulnerabile din studii și expertize precedente;
+– zonele/cvartalele cu clădiri realizate după proiecte repetitive/tipizate, cu număr mare de ocupanți, cu aplicarea de normative de proiectare antiseismică înainte de 1977, susceptibile la anumite sensibilități și/sau avarii locale la solicitări seismice;
+– zonele/cvartalele cu clădiri realizate după proiecte repetitive/tipizate, cu număr mare de ocupanți, cu aplicarea de normative de proiectare antiseismică după 1977, la care nu se așteaptă avarii deosebite la solicitări seismice;
+– cartierele cu clădiri joase, tradiționale;
+– cartierele cu clădiri relativ noi, de înălțime medie și redusă.
+ În funcție de dispoziția pe teren a clădirilor, aceste priorități pot fi mai mult sau mai puțin respectate, dar având în vedere limitele de competență ale celor 3 categorii, anumite zone pot fi atacate simultan. În cazul în care în anumite zone starea clădirilor prezintă o anumită uniformitate, evaluarea se poate efectua luând la rând clădirile, în ordinea numerelor de străzi.
+ Dintre specialiștii cu calificare și experiență deosebită se va organiza un colectiv la sediul instituției locale coordonatoare care va răspunde de îndrumarea tehnică a echipelor de pe teren, va verifica raportările zilnice, va asigura sinteza informațiilor și se va deplasa la cazurile în care decizia este dificilă sau apar sesizări.
+ Pentru a se evita consecințele grave care pot fi cauzate de întreruperea activității și/sau a locuirii și a se relua cât mai grabnic activitatea/utilizarea în siguranță, se recomandă pre-certificarea stării clădirilor pentru o evaluare tehnică rapidă, pe baza unui contract cu o firmă și un expert atestat, potrivit Anexei A.2., în următoarele cazuri:
+– clădirile de importanță vitală din clasa A conf. pct. 1.1 și/sau clădirile din clasele de importanță și expunere 1 și 2 conform Codului P100-1/2006;
+– clădirile care prezintă pericol public;
+– clădirile care au fost proiectate, expertizate sau consolidate de specialiști înscriși în echipele de evaluatori ai autorității locale respective;
+– cvartale cu un număr mare de clădiri realizate de institute de proiectare locale după proiecte repetitive/tipizate;
+– orice clădire sau grup de clădiri din marile ansambluri.
+ În aceste cazuri, contractul și urmărirea activității pot fi încheiate, după caz, de instituția cu personalitate juridică din clădirea de importanță vitală, de primăria localității sau de asociațiile de proprietari. În cazul în care clădirile prezintă pericol public, încheierea unui astfel de contract este obligatorie.
+ Personalul tehnic care efectuează activitățile post-seism se grupează în următoarele categorii:
+(1)
+Inspectori - ingineri constructori, arhitecți și tehnicieni cu experiență medie în domeniul proiectării/evaluării construcțiilor. În timpul activității poartă ecuson de culoare albă pe care se menționează: numele și prenumele, calitatea de "inspector", numărul de înregistrare în evidența centralizată.
+(2)
+Ingineri proiectanți de structuri și cercetători în ingineria de structuri și/sau seismică, cu o experiență de cel puțin 5 ani. În timpul activității poartă ecuson de culoare albastru deschis.
+(3)
+Experți tehnici atestați de către forurile abilitate - poartă ecuson de culoare albastru închis.
+3.2.
+Schema logică a etapelor și corelațiilor activităților de urgență post-seism
+ Evaluarea post-seism
+ Etapele de evaluare se definesc după cum urmează:
+1.
+Inspecția post-seism - este menită a stabili, prin mijloace extrem de simple:
+(a)
+- construcțiile evident sigure, care pot fi utilizate în continuare fără restricții;
+(b)
+- construcțiile evident nesigure, care nu pot fi utilizate în continuare, trebuind a fi abandonate (evacuate), temporar sau definitiv;
+(c)
+- construcțiile a căror stare tehnică nu se încadrează în cele două categorii definite mai sus necesitând o investigație mai amănunțită.
+2.
+Evaluarea tehnică rapidă - este o investigație mai detaliată a construcțiilor care se încadrează, după inspecția post-seism, în categoria (c), investigație prin care se precizează dacă aceste construcții necesită sau nu luarea unor măsuri tehnice de punere în siguranță provizorie pentru a putea fi utilizate sau dacă trebuie abandonate (evacuate);
+3.
+Expertiza tehnică - este evaluarea care se efectuează în condițiile precizate prin prevederi din normative și coduri specifice.
+ Pentru monumentele istorice și de arhitectură, expertiza tehnică va fi executată de către specialiști nominalizați de ministerul de resort și instituțiile publice abilitate pe baza unor documente tehnice specifice, care pot avea la bază și prevederi din prezenta metodologie.
+ Prezenta metodologie include criterii și metode pentru inspecția post-seism și evaluarea tehnică rapidă.
+ Intervenția rapidă post-seism
+ Pentru a pune în siguranță ocupanții clădirilor afectate de seism, pentru a preveni avansarea avariilor deja produse, precum și pentru a proteja construcțiile învecinate, se iau măsuri de intervenție rapidă după cum urmează:
+– sprijiniri provizorii ale construcției avariate sau ale unor părți ale acesteia;
+– reparații locale ale elementelor deteriorate sau avariate;
+– demolare parțială sau completă a clădirii.
+ Organizarea, logistica și etapele investigării de urgență a siguranței post-seism a clădirilor și stabilirea soluțiilor cadru de intervenție sunt prezentate sintetic în schema logică din fig. 3.2.1
+4.
+INSPECȚIA POST-SEISM
+4.1.
+Organizarea inspecției post-seism. Personal abilitat
+ Personalul tehnic de diferite categorii, așa cum au fost definite la pct. 3.1 al prezentei metodologii, este abilitat cu efectuarea inspecției post-seism la clădirile de diferite clase, după cum urmează:
+ - Inspectorii sunt abilitați să efectueze inspecții post-seism ale construcțiilor din clasa C (clădiri curente cu până la P+4 niveluri), definite la pct. 1.1 al prezentei metodologii;
+ - Inginerii proiectanți de structuri și cercetătorii în ingineria de structuri și/sau seismică, cu o experiență de cel puțin 5 ani sunt abilitați să efectueze inspecția post-seism și evaluarea tehnică rapidă a construcțiilor din clasele B (clădiri curente cu mai mult de P+4 niveluri) și C (clădiri curente cu până la P+4 niveluri), definite la pct. 1.1 al prezentei metodologii;
+ - Experții tehnici atestați sunt abilitați cu efectuarea inspecției post-seism, a evaluării tehnice rapide și a expertizei tehnice ale construcțiilor din clasele A (clădiri adăpostind funcțiuni vitale), B (clădiri curente cu mai mult de P+4 niveluri) și C (clădiri curente cu până la P+4 niveluri), definite la pct. 1.1 al prezentei metodologii.
+ Deși obiectul principal al activităților se referă la clădiri și structuri, deoarece există componente nestructurale care constituie pericole pentru persoane dar sunt echipamente sau instalații, formularele de investigare se referă și la acestea.
+ În cazul în care în echipe pot fi incluși și inspectori/ingineri din specialitățile respective, aceștia pot asigura completarea secțiunilor de formular respective.
+ În caz contrar, constatările înscrise în formulare de aceștia sunt considerate doar o înștiințare pentru autoritățile locale spre a trimite inspectori autorizați (de ex. ISCIR, electricitate, apă, termice, canal etc.) la adresele respective.
+4.2.
+Obiectul, scopul și fazele inspecției post-seism
+ Obiectul inspecției post-seism este evaluarea aproximativă a stării tehnice a clădirilor din zona afectată cu un minim de forță umană și în condiții de urgență.
+ Inspecția post-seism are ca scop încadrarea clădirilor din zona afectată în categorii care exprimă gradul probabil de risc la care sunt supuse acestea la replicile ce pot urma șocului principal, în funcție de avariile observate.
+ După inspecție fiecare clădire este marcată prin placarde (însemne) colorate specifice fiecărei categorii. Inspecția post-seism se efectuează în două etape, după cum urmează:
+ ETAPA 1: Faza de urgență.
+ În timpul fazei de urgență, în primele ore ce urmează unui cutremur distrugător, se efectuează inspecția rapidă a clădirilor din zonele afectate, cu scop de recunoaștere pentru identificarea clădirilor grav avariate, posibilităților de acces în zonă, necesitatea unor măsuri de urgență.
+ În cazul în care se constată pericole majore pentru accesul în zonă, acesta se interzice.
+ ETAPA 2: Inspecția clădire cu clădire.
+ În faza a-II-a, care urmează fazei de urgență, se va examina fiecare clădire în parte pentru a se evalua mai precis starea lor și pentru a stabili, prin mijloace extrem de simple:
+(a)
+construcțiile evident sigure, care pot fi utilizate în continuare fără restricții;
+(b)
+construcțiile evident nesigure, care nu pot fi utilizate în continuare, trebuind a fi abandonate (evacuate);
+(c)
+construcțiile a căror stare tehnică nu se încadrează în cele două categorii definite mai sus necesitând o investigație mai amănunțită
+ Cele trei categorii de clădiri se marchează prin placarde după cum se va preciza în paragrafele următoare.
+ În evaluarea riscului potențial prezentat de construcții trebuie ținut cont și de condițiile de mediu cum ar fi: ploile, zăpezile etc. Ploile abundente pot provoca alunecări sau cedări ale terenului acolo unde acesta a prezentat instabilități în timpul seismului principal, ceea ce va duce la noi avarii. Creșterea greutății clădirii datorită unor căderi masive de zăpadă este în mod evident dezavantajoasă din punct de vedere al capacității clădirii avariate la încărcări gravitaționale și laterale.
+4.3.
+Modul de efectuare al inspecției post-seism
+ Se recomandă ca fiecare echipă de inspecție să fie însoțită de un reprezentant al autorităților locale să fie compusă din doi inspectori, având în vedere următoarele motive:
+– prin consultări reciproce se obțin evaluări rezonabile, rezultând o apreciere mai precisă a stării construcției.
+– aceștia se pot ajuta reciproc în cazul unor incidente și/sau accidente.
+ Inspecția post-seism va parcurge următoarele etape:
+a.
+Examinarea în întregime a exteriorului clădirii.
+b.
+Examinarea terenului din jurul clădirii pentru depistarea unor crăpături sau umflături ale pământului și a unor fenomene care să indice alunecări de teren.
+c.
+În mod curent se va realiza o inspecție și a interiorului clădirii în cazul în care structura nu poate fi cercetată suficient de bine din exterior sau când există suspiciuni sau sesizări privind avarii puternice ale elementelor nestructurale (de ex. pereți despărțitori puternic deteriorați, tavane căzute etc. ce pot fi văzute de la exterior). NU SE INTRĂ ÎN STRUCTURILE EVIDENT NESIGURE.
+d.
+Completarea FORMULARULUI PENTRU INSPECȚIA POST-SEISM (vezi Anexa A.1). Clădirile care prezintă anumite dubii privind siguranța în exploatare sunt recomandate pentru efectuarea unei Evaluări Tehnice Rapide. Se asigură eliberarea căilor de ieșire din clădire.
+e.
+Evaluarea generală a stării clădirii pe baza celor șase criterii prezentate în Tabelul 4.3.1
+ Tabelul 4.3.1. CRITERII DE BAZĂ PENTRU INSPECȚIA POST-SEISM
+ Notă:
+ (*) Clădirile complet prăbușite, care și-au pierdut identitatea structurală, și la care, de regulă, se iau imediat măsuri de căutare-salvare, înlăturarea ruinelor, etc. nu fac obiectul inspecției prevăzute în această metodologie și sunt etichetate separat de autorități (de ex. CLĂDIRE PRĂBUȘITĂ/RUINĂ), cu luarea măsurilor de interzicere a accesului persoanelor neabilitate. În cazul în care anumite părți dintr-un ansamblu nu s-au prăbușit complet, se încadrează la CLĂDIRE NESIGURĂ.
+f.
+Marcarea clădirii în concordanță cu rezultatele analizei. Se folosesc placarde colorate după cum urmează (vezi ANEXA A. 7):
+ - placarda verde inscripționată CLĂDIRE INSPECTATĂ - POATE FI UTILIZATĂ FĂRĂ RESTRICȚII (Anexa A.7.1)
+ - placarda galbenă inscripționată CLĂDIRE CU ACCES LIMITAT (ANEXA A.7.2)
+ - placarda albastră inscripționată CLĂDIRE CU ZONE NESIGURE (ANEXA A.7.3)
+ - placarda roșie inscripționată CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ (ANEXA A.7.4)
+ Pe placarda CLĂDIRE INSPECTATĂ se precizează dacă inspecția s-a realizat numai la "exterior" sau la "exterior și interior" prin marcarea căsuțelor corespunzătoare.   Placardele cu inscripția CLĂDIRE ACCES LIMITAT sau CLĂDIRE NESIGURĂ se plasează la toate intrările în clădire.
+ Se marchează corespunzător cu inscripția CLĂDIRE CU ZONE NESIGURE părțile din clădire sau imediata apropiere a acesteia, în care accesul este interzis, chiar dacă nu există pericol de prăbușire al întregii clădiri.
+g.
+Reprezentanții autorităților locale și personalul tehnic explică locatarilor clădirilor respective semnificația placardelor CLĂDIRE CU ACCES LIMITAT și CLĂDIRE NESIGURĂ și CLĂDIRE CU ZONE NESIGURE și iau măsurile necesare pentru evacuarea acestora.
+ Pentru siguranța vieții persoanelor care iau parte la inspecția post - seism a clădirilor, precum și a zonelor învecinate, este obligatoriu ca anterior inspecției, personalul tehnic să identifice căile de evacuare și/sau spațiile de refugiu pentru cazul în care au loc replici seismice în timpul inspecției (interioare sau exterioare).
+5.
+EVALUAREA RAPIDĂ POST-SEISM
+5.1.
+Obiectul evaluării rapide
+ Evaluarea rapidă post-seism se utilizează pentru aprecierea siguranței clădirilor marcate în urma inspecției post-seism cu placarda CLĂDIRE CU ACCES LIMITAT, precum și în toate cazurile în care există dubii asupra concluziilor inspecției post-seism
+ Principalul obiectiv al evaluării tehnice rapide este să stabilească dacă există pericolul producerii prăbușirii structurii precum și a unor elemente nestructurale iar, pe această bază, să se poată confirma sau reîncadra clădirea în una din categoriile precizate în capitolul 4.
+5.2.
+Criterii și procedee de evaluare tehnică rapidă post-seism.
+ În prezentul paragraf se prezintă criteriile generale pentru evaluarea clădirilor afectate de seism comune diferitelor tipuri de structuri atât din punct de vedere al materialelor din care sunt executate cât și al importanței și dimensiunilor.
+ Elemente și exemple specifice structurilor executate din diverse materiale sunt prezentate în cadrul anexei A.1, inclusiv prin imagini de la cutremure precedente.
+ Aplicarea criteriilor ce urmează trebuie făcută cu discernământ, experiența echipei de specialiști fiind esențială în adoptarea unei decizii corecte.
+A.
+Degradarea în ansamblu este un bun indicator pentru evaluarea rapidă a severității avariilor și degradărilor structurii. Următoarele efecte pun în evidență degradarea semnificativă a structurii: pereți puternic fisurați, etaje cu deplasări laterale mari, clădiri înclinate, fundații fracturate. Pe baza acestori indicatori marcarea clădiri se face după cum urmează:
+a.
+Colapsul clădirii sau a unei porțiuni a acesteia .. CLĂDIRE NESIGURĂ sau după caz CLĂDIRE PRĂBUȘITĂ (RUINĂ), care sunt etichetate separat de autorități.
+b.
+Înclinarea evidentă a clădirii sau a unuia din etaje .. CLĂDIRE NESIGURĂ
+c.
+Fundații fracturate CLĂDIRE NESIGURĂ
+B.
+Evaluarea structurii rezistente la încărcări verticale
+ Nu este permisă funcționarea unei clădiri dacă există dubii justificate privind capacitatea acesteia să suporte încărcări verticale: greutatea proprie precum și celelalte încărcări permanente și utile. Cedarea, fie și numai locală, a elementelor structurale ce preiau încărcări verticale reprezintă o justificare serioasă pentru categorisirea clădirii ca nesigură.
+a.
+Stâlpi vizibil înclinați CLĂDIRE NESIGURĂ
+b.
+Stâlpi flambați sau cu degradări puternice la capete CLĂDIRE NESIGURĂ
+c.
+Separarea planșeelor sau a elementelor de acoperiș de pereți sau alte elemente verticale portante CLĂDIRE NESIGURĂ
+d.
+Fisurarea pereților portanți, a stâlpilor sau a grinzilor ce suportă bovindouri care pun în pericol preluarea încărcărilor verticale . CLĂDIRE NESIGURĂ
+e.
+Alte degradări sau cedări incipiente ale elementelor principale ce preiau încărcări verticale sau ale zonelor de îmbinare .. CLĂDIRE NESIGURĂ
+C.
+Evaluarea structurii rezistente la încărcări laterale
+ Evaluarea trebuie să pornească cu identificarea și apoi evaluarea sistemului structural ce preia și transmite terenului acțiunile orizontale.
+ Pentru ca o clădire să poată rezista replicilor cutremurului ea trebuie să aibă o structură care să poată prelua încărcări orizontale. Pereți portanți puternic fisurați, existența unor articulații plastice la capetele stâlpilor, expulzarea puternică a betonului de acoperire, contravântuiri cedate, elemente orizontale (planșee) puternic degradate precum și alte asemenea defecțiuni pun în evidență că structura nu mai este capabilă să preia încărcări laterale. În aceste condiții, structura trebuie considerată ca nesigură până la efectuarea unei expertize tehnice care să dovedească contrariul.
+a.
+Pereți structurali puternic fisurați .. CLĂDIRE NESIGURĂ
+b.
+Cadre înclinate puternic, serios degradate sau cu fracturi CLĂDIRE NESIGURĂ
+c.
+Cedări sau degradări serioase ale planșeelor sau ale legăturilor orizontale . CLĂDIRE NESIGURĂ
+d.
+Alte cedări sau inițieri de cedări ale elementelor principale ale structurii ce preia încărcări orizontale sau ale îmbinărilor acestora . CLĂDIRE NESIGURĂ
+D.
+Efecte P-DELTA. Pentru structuri înalte în cadre orice înclinare remanentă a clădirii este în general importantă, greutatea porțiunii de structură de deasupra porțiunii înclinate generează momente suplimentare în stâlpi precum și în grinzile adiacente acestora datorită efectului P-DELTA. Orice clădire în cadre, în mod special cele foarte înalte, la care se constată înclinări semnificative ale unuia sau mai multor etaje va fi considerată ca nesigură până la efectuarea unei expertize tehnice.
+a.
+Clădiri multietajate cu înclinări remanente
+mai mari de 1,5 0/00 .. CLĂDIRE NESIGURĂ
+E.
+Elemente nestructurale. Parapetele, închiderile exterioare, ornamentele, firmele, nervurile în consolă, pereții despărțitori, tavanele suspendate, candelabrele sunt elemente în interiorul sau exteriorul clădirilor ce pot deveni periculoase deoarece se pot prăbuși datorită șocului inițial al cutremurului. Riscul post-seism îl reprezintă elementele afectate care se pot prăbuși din cauza forțelor statice sau a unei replici a seismului inițial. Suprafețele în care aceste elemente s-ar putea prăbuși trebuie interzise accesului și marcate în consecință.
+a.
+Existența unui pericol de prăbușire a unor elemente nestructurale .. CLĂDIRE CU ZONE NESIGURE
+F.
+Degradări ale fundațiilor și terenului
+ Evaluarea rapidă trebuie să includă examinarea terenului din imediata vecinătate a clădirii. Lichefierea terenului, alunecări de teren, apariția unor crăpături în teren sau asociate cu modificarea formei acestuia sau alte fenomene de teren ce pot fi asociate producerii cutremurului pot produce degradări clădirilor.
+ Deplasări mari pe verticală și pe orizontală ale terenului pot produce ruperea fundațiilor și în consecință să cauzeze degradări importante suprastructurii. Dacă se constată astfel de deteriorări ale fundațiilor, dacă se remarcă fisuri noi în fundații, dacă se înregistrează tasări diferite mai mari de 3-4 cm sau dacă s-au produs crăpături de 5-10 cm între clădire și terenul adiacent prezența unui inginer geotehnician sau geolog în cadrul echipei care efectuează evaluarea este absolut necesară. De obicei, pericolele legate de teren afectează suprafețe de teren mai mari care pot afecta un număr mai mare de clădiri.
+a.
+Infrastructura clădirii dizlocată, apariția unor tasări diferențiate cu fundații, pereți, planșee sau acoperiș, fracturate .. CLĂDIRE NESIGURĂ
+b.
+Clădirile din vecinătatea unor crăpături în teren formate în urma cutremurului sau a unor alunecări de teren suspectate .. CLĂDIRE NESIGURĂ
+c.
+Clădirile în pericol de a fi afectate de alunecări de teren sau lovite de diverse elemente provenite de la clădiri din amonte afectate de alunecările de teren CLĂDIRE NESIGURĂ
+G.
+Alte pericole. Dacă se observă condiții nesigure ca de exemplu conducte deteriorate de combustibil (lichid sau gazos), eliminări de substanțe chimice, cabluri de alimentare cu energie electrică rupte accesul în zonele respective va fi limitat.
+a.
+Împrăștierea unor substanțe periculoase sau necunoscute CLĂDIRE CU ZONE NESIGURE
+b.
+Alte pericole ca de exemplu cabluri electrice rupte și căzute CLĂDIRE CU ZONE NESIGURE
+5.3.
+Criterii pentru marcarea clădirii
+ În cele ce urmează se prezintă criterii suplimentare pentru marcarea clădirilor care trebuiesc utilizate împreună cu rezultatele investigațiilor efectuate în cadrul evaluării tehnice rapide.
+A.
+CLĂDIRE INSPECTATĂ - POATE FI UTILIZATĂ FĂRĂ RESTRICȚII. Pentru a marca o clădire cu acest însemn, care indică faptul că nu există restricții pentru utilizarea ei, următoarele condiții trebuiesc satisfăcute:
+a.
+capacitatea inițială a structurii de preluare a încărcărilor verticale nu a fost în mod semnificativ redusă și nu au fost identificate zone potențiale de instabilitate (de ex. separarea planșeului de pereți etc.);
+b.
+capacitatea inițială de preluare a unor încărcări orizontale nu a fost semnificativ redusă de acțiunea seismului;
+c.
+nu există pericolul prăbușirii locale a unor elemente nestructurale cu excepția zonelor marcate ca atare și înconjurate pentru a evidenția această posibilitate;
+d.
+nu există indicii evidente privind degradări ale fundațiilor și nici deplasări ale terenului;
+e.
+căile de evacuare sunt accesibile și nu sunt blocate;
+f.
+nu există alte indicii evidente de pericol.
+B.
+CLĂDIRE CU ACCES LIMITAT. Marcajul pune în evidență următoarele:
+a.
+specialiștii care au efectuat Evaluarea tehnică rapidă au dubii argumentate privind siguranța clădirii respective care pot fi rezolvate numai pe baza unei Expertize tehnice;
+b.
+există probabilitatea producerii unor degradări ulterioare datorate unor cauze legate de terenul de fundare.
+c.
+există nesiguranță privind prezența unor alte pericole ca de exemplu scurgerea unor substanțe toxice etc.
+C.
+CLĂDIRE CU ZONE NESIGURE. Marcajul arată că:
+a.
+s-au identificat unele degradări locale care ar putea provoca accidente asupra locatarilor;
+b.
+nu există pericol de cedare a structurii.
+D.
+CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ. Marcajul arată că:
+a.
+există pericole evidente de pierdere a siguranței clădirii;
+b.
+gradul de degradare al structurii este foarte puternic și clădirea poate intra în colaps fie numai din acțiunea încărcărilor verticale fie în urma producerii unei replici a seismului;
+c.
+există alte condiții de nesiguranță (de ex. scurgeri masive de substanțe toxice).
+ Rezultatele investigațiilor se consemnează în FORMULARUL PENTRU EVALUAREA TEHNICĂ RAPIDĂ prezentat în Anexa A.6.
+6.
+MĂSURI DE INTERVENȚIE URGENTĂ ASUPRA CONSTRUCȚIILOR AVARIATE
+6.1.
+Date generale
+ Măsurile de intervenție de urgență post-seism au ca scop:
+ - Prevenirea prăbușirilor locale ale elementelor din zonele evaluate ca fiind nesigure
+ - Asigurarea accesului și/sau a unei exploatări limitate a construcțiilor avariate de cutremur.
+ Măsurile de intervenție post-seism includ următoarele (lista nu este exhaustivă):
+a.
+Sprijinirea provizorie a elementelor avariate
+b.
+Reparații locale, de urgență
+c.
+Demolarea parțială sau totală a clădirii.
+ Măsurile de intervenție locale de urgență, efectuate în perioada imediat de după un seism de mare intensitate nu înlocuiesc măsurile definitive de intervenție (consolidare/demolare) care se realizează ulterior, conform prevederilor aplicabile din normativele și codurile în vigoare.
+ Măsurile de urgență sunt astfel concepute încât să nu stânjenească realizarea măsurilor definitive de intervenție. O atenție deosebită trebuie acordată instruirii privind procedurile, informațiile și justificările pentru propunerea deciziei de demolare a unor clădiri, atât pentru eventualele dispute de ordin legal cât și în cazul în care se va considera necesar să fie aplicate ca intervenție de salvare la monumente istorice, în care cercetările și analizele ce trebuiesc efectuate sunt, de regulă, extensive și aprofundate pentru a fundamenta adoptarea unor măsuri de reparare conform legislației în vigoare, fără a afecta aspectul acestora și reversibilitatea intervențiilor.
+ Schițele și notele de șantier se detaliază în corelație cu Anexele A.3 și A.4.
+6.2.
+Reguli pentru realizarea sprijinirilor provizorii
+ Sprijinirea elementelor construcțiilor avariate de cutremur are ca scop prevenirea unei eventuale prăbușiri și/sau asigurarea funcționalității acestora până la executarea măsurilor definitive de intervenție. În principiu, sprijinirile preiau încărcările verticale ale elementelor de susținere rupte (stâlpi, grinzi). De obicei, sprijinirile se fac cu lemn rotund, respectiv cu bile din lemn de brad având diametre cuprinse între 12-18 (20) cm cu popi metalici extensibili de inventar sau cu eșafodaje metalice de inventar. Sprijinirile constituie măsuri de "primă intervenție" și se execută pe baza unor schițe și a unor calcule sumare, efectuate la fața locului, neexistând timpul necesar întocmirii unor proiecte propriu-zise.
+ La proiectarea și executarea sprijinirilor trebuie avute în vedere o serie de reguli, după cum urmează:
+a)
+Punerea sub sarcină a sprijinirii se face prin împănare
+ Penele se execută din lemn de esență tare (stejar, fag). Se prevăd totdeauna două pene, astfel alese încât prin suprapunere să realizeze două fețe paralele. Penele se bat cu ciocanul, dar nu se forțează excesiv pentru a nu rupe elementele structurii. Periodic, penele se controlează și se bat din nou, pentru a se asigura punerea sub sarcină efectivă a popilor.
+b)
+Reacțiunea transmisă de popi terenului trebuie să se repartizeze pe o suprafață corespunzătoare
+ Popii nu trebuie rezemați direct pe pământ sau pe trotuare din asfalt sau din straturi subțiri de beton. Pentru transmiterea reacțiunii popului la teren se prevăd traverse din lemn de esență tare, (traverse pentru căi ferate) care, la terenuri slabe, se dispun în formă de rețea creând aria necesară.
+c)
+Popii trebuie solidarizați între ei prin contravântuiri
+ Contravântuirile sistemelor de sprijiniri au următoarele roluri:
+c.1)
+În situațiile în care clădirea nu poate asigura împiedicarea tendinței de deplasare laterală a întregului sistem, contravântuirile se asigură ca sistemul de popi să fie structuri stabile. În acest scop se leagă popii între ei cu scânduri sau șipci bătute în cuie dispuse astfel încât să închidă (împreună cu popii) triunghiuri nedeformabile (fig. A.3.4). În acest fel sistemul de popi și scânduri se transformă în grinzi cu zăbrele cu rigiditate mare la deplasări laterale.
+c.2)
+Împiedică tendința de flambaj a popilor lungi. Trebuie urmărit ca împiedicarea flambajului individual al popilor să se facă pe ambele direcții.
+d)
+Popii nu trebuie să rezeme pe elementele structurale orizontale, ci reacțiunea lor trebuie transmisă până la teren
+e)
+Greutatea etajelor superioare trebuie preluată treptat de către sprijinire și nu brusc, la un singur nivel.
+ Aceasta se realizează continuând sprijinirea pe încă cca. 2 nivele deasupra etajului deteriorat.
+f)
+Sprijinirea trebuie proporționată potrivit sarcinii care îi revine.
+ Regulile din prezentul paragraf sunt explicate și ilustrate cu figuri în Anexa A.3.
+6.3.
+Reparații locale
+ În perioada imediat următoare producerii unui cutremur de mare intensitate, poate să apară necesitatea realizării unor lucrări de intervenție locală (reparații) de urgență, fără a se putea urmări metodologia de evaluare, stabilire a deciziei de intervenție, proiectarea lucrărilor de intervenție, prevăzute în reglementările în vigoare.
+ Reparațiile locale de urgență, efectuate în asemenea situații nu înlocuiesc măsurile definitive de intervenție, care se realizează ulterior, în condițiile legal prevăzute în reglementări specifice. Reparațiile locale de urgență sunt astfel concepute încât să nu stânjenească realizarea măsurilor definitive de intervenție.
+ Soluții cadru și exemple de reparații locale la structuri cu pereți de zidărie, la structuri de beton armat, metalice, etc sunt date în Anexa A.4.
+  COMENTARII
+  - privind cap. 1., 3., 4. și 5 din metodologie -
+C.1.
+PREVEDERI GENERALE
+C.1.1.
+Obiect și domeniu de aplicare
+ Prezentele comentarii urmăresc completarea informațiilor din textul de bază al reglementării, fără a avea un caracter legal obligatoriu.
+După producerea unui cutremur de mare intensitate, comunitatea umană afectată este confruntată cu rezolvarea unei multitudini de probleme cum ar fi:
+a.
+Evacuarea răniților și a victimelor, activități de prim-ajutor, salvarea celor aflați sub dărâmături;
+b.
+Stingerea incendiilor, eliminarea scăpărilor de gaze și de noxe;
+c.
+Luarea de măsuri pentru asigurarea alimentării cu apă, energie, restabilirea sistemelor de comunicații;
+d.
+Luarea de măsuri pentru utilizarea în condiții de siguranță a construcțiilor.
+ Ultima categorie de probleme, cu conținut esențial tehnic, cuprinde, în principal, următoarele aspecte:
+A.
+Evaluarea stării tehnice a construcțiilor în vederea luării de decizii privind condițiile de utilizare în continuare sau de dezafectare (evacuare, demolare) a acestora;
+B.
+Luarea de măsuri pentru punerea în siguranță provizorie a construcțiilor afectate de seism.
+ Obiectul prezentei metodologii îl constituie precizarea modului de organizare și desfășurare a activităților tehnice legate de tipul (d) de activități, definit mai sus, sub ambele aspecte, respectiv evaluarea postseism a stării tehnice a construcțiilor și punerea lor în siguranță provizorie.
+ Expresia "punerea în siguranță provizorie" are în vedere luarea unor măsuri rapide, de obicei cu caracter provizoriu, pentru asigurarea exploatării construcțiilor, în condiții de siguranță, atât sub încărcări gravitaționale cât și sub acțiunile seismice generate de replicile cutremurului principal.
+ Atât evaluarea post-seism cât și măsurile de punere în siguranță provizorie se fac în condiții de urgență când este necesar a se acoperi un număr mare de construcții, aflate pe arii extinse, cu resurse umane și tehnice limitate. Potrivit acestei realității, activitățile respective se fac prin metode rapide, deseori cu caracter empiric și realizate de către un personal tehnic cu diferite grade de experiență și calificare.
+ Domeniul de aplicare a metodologiei
+ Toate tipurile de construcții sunt afectate de seismele de mare intensitate. Totuși impactul maxim asupra comunităților umane îl au efectele cutremurelor asupra clădirilor de locuințe și social culturale (construcții pentru învățământ, spitale, hoteluri, săli de festivități, birouri, etc). Numărul foarte mare de construcții de acest fel, personalul tehnic limitat ca număr și cu un grad de pregătire foarte divers implicat în activitățile tehnice post-seism referitoare la aceste construcții, numărul foarte mare de persoane afectate de acțiunea seismică exercitată asupra acestora, fac ca problema evaluării post-seism și a luării deciziilor de intervenție rapidă la aceste tipuri de construcții să fie de o deosebită importanță și amploare.
+ Construcțiile aferente ansamblurilor industriale (hale diverse, turnuri, estacade, etc.) sunt, în general, examinate post-seism și sunt luate măsuri pentru punerea lor în siguranță de către personalul tehnic de specialitate care există în aceste ansambluri, eventual făcându-se apel la proiectanții structuriști ai construcțiilor respective. În situații similare se află construcțiile pentru transporturi (poduri, viaducte, turnuri de control din aeroporturi, etc.), barajele, silozurile, castelele de apă, turnurile releelor de radio/TV, etc. Este de subliniat și faptul că aceste construcții, desemnate de obicei ca construcții speciale sau construcții inginerești, trebuie tratate prin metode specifice fiecărei categorii, aceste metode fiind familiare mai ales inginerilor constructori care le proiectează și exploatează.
+ Ținând cont de aceste considerente, metodologia de față își limitează domeniul de aplicabilitate la clădirile de locuințe, administrative, social culturale, precum și la clădiri cu alte funcțiuni a căror alcătuire este similară acestora, după caz.
+C.3.
+ORGANIZAREA ACTIVITĂȚILOR TEHNICE ÎN PERIOADA DE DUPĂ PRODUCEREA CUTREMURULUI
+C.3.1.
+Organizarea activităților post-seism. Persoane abilitate
+ Inspectorii sunt abilitați să efectueze inspecții post-seism ale construcțiilor din clasa C definită la pct. 1.1 al prezentei metodologii.
+ Inginerii proiectanți de structuri sunt abilități să efectueze evaluarea tehnică rapidă a construcțiilor din clasele B și C definite la pct. 1.1.
+ Experții tehnici sunt abilități cu efectuarea inspecției post-seism, a evaluării tehnice rapide și a expertizei tehnice ale construcțiilor din clasele A, B și C definite la pct. 1.1.
+C.4.
+INSPECȚIA POST-SEISM
+C.4.1.
+Organizarea inspecției post-seism. Persoane abilitate
+ După producerea unui cutremur puternic, nu există suficient personal calificat care să efectueze o inspecție atentă, clădire cu clădire. Este de așteptat, ca în primele momente după cutremur, autoritățile locale să delege și personal cu experiența tehnică medie inspectori, definiți la pct. 3.1, care să efectueze o primă inspecție a construcțiilor, să verifice planuri, să evalueze pericolele evidente etc. Ca regulă generală autoritățile locale trebuie să dispună de un număr mai mare de inspectori cu calificare medie decât ingineri structuriști și experți tehnici.
+ Inspecția post-seism se bazează pe utilizarea talentului și experienței inspectorilor și a altor categorii de personal cu oarecare experiență în construcții. Aceasta, desigur, nu exclude posibilitatea utilizării personalului calificat - ingineri structuriști, cercetători, arhitecți, experți tehnici - pentru efectuarea inspecției preliminare.
+ Deoarece există componente nestructurale care constituie pericole pentru persoane dar sunt echipamente sau instalații, formularele de investigare se referă și la acestea, în cazul în care în echipe pot fi incluși și inspectori/ingineri din specialitățile respective, aceștia pot asigura completarea secțiunilor de formular respective.
+ Dacă nu există în echipe astfel de parteneri, constatările înscrise în formulare de aceștia sunt considerate doar o înștiințare pentru autoritățile locale spre a trimite inspectori autorizați (de ex. ISCIR, electricitate, apă, termice, canal etc.) la adresele respective.
+ Deîndată ce într-o anumită zonă toate clădirile au fost inspectate și cele aparent sigure și cele evident nesigure au fost identificate și marcate în consecință, restul clădirilor trebuie supuse unei Evaluări tehnice de ingineri structuriști. În acest mod personalul cu calificare superioară este utilizat în mod rațional pentru evaluarea acelor clădiri care necesită o examinare mai detaliată care să se bazeze pe o experiență mai bogată și profundă în domeniul proiectării structurilor.
+C.4.3.
+Modul de efectuare al inspecției post-seism
+ Cele șase criterii selectate în tabelul 4.1 pentru efectuarea Inspecției post-seism au fost alese deoarece ele reprezintă modificări ușor observabile ale stării clădirilor sau degradări care, separat sau combinate, permit Inspectorilor să marcheze construcția ca o CLĂDIRE NESIGURĂ sau, în cazul pericolelor de prăbușire sau altor cauze, să marcheze CLĂDIRILE CU ZONE NESIGURE.
+ Deoarece efectuarea Inspecției post-seism se realizează cu Inspectori, în scopul utilizării judicioase a personalului cu calificare superioară pentru cazuri mai complexe, este evident că evaluarea degradărilor este grosieră. Inspectorii trebuie să semnaleze degradările structurale și nestructurale puternice și ușor observabile cum ar fi colapsuri parțiale, înclinarea clădirilor sau prăbușirea parțială a coșurilor sau altor elemente. În plus, modificarea unor condiții de teren, ca de exemplu alunecări ale acestuia, care pot pune în pericol siguranța construcțiilor reprezintă motive justificate pentru marcarea clădirii ca fiind CLĂDIRE NESIGURĂ. În cadrul Anexei A.5 se prezintă "Formularul pentru Inspecția post-seism".
+ Clădirile care aparent sunt în siguranță sunt marcate cu o placardă cu inscripția CLĂDIRE INSPECTATĂ - POATE FI UTILIZATĂ FĂRĂ RESTRICȚII pe care se va preciza dacă inspecția a fost realizată numai la exterior sau dacă s-a efectuat și la exterior și la interior. În general, Inspecția post-seism se realizează la început numai la exterior din motivele prezentate mai sus. Clădirile sunt inspectate și la interior dacă locatarii au semnalat unele probleme, dacă nu este posibil să fie examinată în întregime (întregul perimetru) la exterior sau dacă există anumite suspiciuni evidente privind starea acestora.
+ Clădirile nesigure trebuiesc marcate cât mai urgent cu placarda corespunzătoare iar locatarii informați că trebuie să le părăsească imediat. Se plasează placarde cu specificația CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ la toate intrările clădirii respective.
+ Deoarece unele clădiri nu pot fi apreciate și clasificate nici în categoria aparent sigure nici în nesigure și marcate în consecință cu placarde CLĂDIRE INSPECTATĂ sau CLĂDIRE NESIGURĂ, este necesară marcarea unei a treia categorii de clădiri cu placarde cu inscripția CLĂDIRE CU ACCES LIMITAT. Această marcare se face în cazul când nivelul de siguranță este îndoielnic iar starea fizică a structurii nu este nici aparent sigură nici evident nesigură.
+ Placarde cu CLĂDIRE CU ACCES LIMITAT se pun la toate intrările clădirii iar locatarii sunt informați în privința semnificației degradărilor.
+ În general, accesul în aceste clădiri va fi permis numai pentru cazuri de urgență și aceasta se specifică pe placardă. O structură marcată cu CLĂDIRE CU ACCES LIMITAT va fi supusă unei Evaluări Tehnice Rapide (vezi paragraf 5.1) această cerință trebuind să fie indicată de Inspector pe Formularul de Inspecție.
+ În cazul identificării unor degradări locale care ar putea provoca accidente asupra locatarilor, fără să reprezinte pericol pentru cedarea structurii, zona se marchează cu placardă CLĂDIRE CU ZONE NESIGURE.
+C.5.
+EVALUAREA RAPIDĂ POST-SEISM
+C.5.1.
+Obiectul evaluării rapide
+ În mod normal metoda evaluării rapide se efectuează cu ingineri structuriști care pot observa și identifica degradările și aprecia impactul acestora asupra siguranței în exploatare. În mod ideal, evaluarea trebuie realizată de o echipă formată din doi ingineri structuriști, ambii cu experiență în proiectarea antiseismică a a clădirilor similare cu cea inspectată. Desigur, în urma producerii unui cutremur puternic, este practic greu de format o astfel de echipă, caz în care, echipa ar putea fi formată dintr-un inginer structurist și un inspector.
+ Echipa de evaluare trebuie să examineze întreaga clădire - la exterior și în interior - și în special sistemul structural în măsura în care aceasta este posibil. În mod curent nu efectuează investigații distructive ca de exemplu îndepărtarea tencuielilor, tapetelor sau a placajelor pentru a examina sistemul structural, deși în unele cazuri proprietarul ar putea solicita astfel de operațiuni pentru a permite fundamentarea unei evaluări cât mai complete.
+ Scopul principal al Evaluării Tehnice Rapide este să evalueze siguranța construcției și să recomande încadrarea acesteia într-una din categoriile precizate în capitolul 4. Evaluarea trebuie să fundamenteze decizia de reintroducere a clădirii în circuitul normal funcțional, pe baza unor analize rezonabile care să ofere informații că sistemul structural precum și elementele nestructurale care prezintă pericol de prăbușire sunt suficient de sigure. Este desigur deosebit de importantă experiența echipei de evaluare deoarece aplicarea procedeelor de evaluare trebuie să fie făcută cu deosebită atenție.
+ Pentru cele mai multe din clădiri principalul obiectiv al Evaluării Tehnice Rapide este să stabilească dacă există pericolul producerii prăbușirii structurii precum și a unor elemente nestructurale iar, pe această bază, să se poată plasa clădirea în una din categoriile precizate mai sus. Prăbușirea (colapsul) structurii și a elementelor nestructurale reprezintă cele două aspecte ce trebuiesc luate în considerare pentru evaluarea degradărilor clădirii. Colapsul structurii poate proveni fie din cedarea însăși a structurii avariate fie din surse exterioare ca de exemplu alunecarea terenului sau colapsul unei clădiri adiacente. În anumite cazuri trebuiesc avute în vedere și alte surse de risc cum ar fi scurgeri de gaze, lichide toxice sau chiar uși și căi de evacuare blocate.
+ O ipoteză fundamentală în procesul de evaluare este cea potrivit căreia se consideră că structura trebuie să fie capabilă să suporte cel puțin repetarea șocului care a provocat degradările inițiale fără să intre în colaps și fără riscuri suplimentare de prăbușire a altor elemente. De subliniat că aceasta este o minimă cerință impusă structurii analizate.
+ Sistemul structural al oricărei clădiri îndeplinește două funcțiuni majore:
+1.
+Preluarea și transmiterea la teren a încărcărilor verticale.
+2.
+Preluarea și transmiterea încărcărilor orizontale.
+ Pentru ca o structură să fie considerată în siguranță, ambele funcțiuni trebuie realizate în deplină siguranță. Aceasta se poate stabili prin inspectarea directă a sistemului structural, acțiune care implică îndepărtarea unor eventuale tavane, pereți, sau alte finisaje arhitecturale pentru a putea avea acces la structură. Prin inspecția foarte atentă a zidăriilor, tencuielilor și a altor finisaje în cadrul căreia se constată că nu s-au produs deteriorări ale acestora, se poate concluziona, indirect, că nu au apărut degradări importante ale structurii.
+C.5.2.
+Criterii și procedee de evaluare tehnică rapidă post-seism.
+ Rezultatul practic al acestei evaluări îl reprezintă decizia de marcare a clădirii cu placarde cu specificațiile: CLĂDIRE INSPECTATĂ, CLĂDIRE CU ACCES LIMITAT, CLĂDIRE CU ZONE NESIGURE și CLĂDIRE NESIGURĂ. Pentru luarea unei decizii în acest sens echipa de specialiști trebuie să analizeze toate datele semnificative și pe baza corelării lor să adopte decizia care se impune. În plus față de cele prezentate mai sus, specialiștii vor mai avea în vedere următoarele:
+a.
+Intensitatea șocului seismic suportat. Producerea unor degradări structurale semnificative sub acțiunea unor șocuri moderate sau de intensitate redusă au o semnificație mai importantă decât dacă aceleași degradări s-au produs în urma unor șocuri seismice de intensitate mare.
+b.
+Condiții pre-existente. Este important de cunoscut degradările suferite de structura analizată înainte de seismul după care se face Evaluarea. De exemplu, în acest sens, fisurarea betonului și a zidăriei datorate tasărilor suplimentare ale fundațiilor precum și efectele eventualelor contracții trebuiesc avute în vedere.
+c.
+Ductilitatea sistemului structural. Acesta este probabil un factor deosebit de important atunci când se urmărește aprecierea performanțelor probabile ale unei structuri afectate de seism în cazul producerii unei replici ulterioare ale acestuia. Clădirile cu pereți portanți din zidărie simplă precum și cele cu cadre neductile din beton armat au ductilități reduse, iar în cazul când au suferit degradări mai importante au, de obicei, capacitate redusă de a suporta mișcări seismice ulterioare. Un cadru ductil din beton armat sau un perete structural din beton armat bine alcătuit au capacități de absorbție a energiei unui seism ulterior, chiar dacă au semne vizibile că au lucrat la seism.
+ În cazul structurilor care nu sunt inspectabile, sarcina echipei de Evaluare post-seism a degradărilor produse de seism ar fi mult ușurată dacă nu ar exista în clădire elemente arhitecturale ca de exemplu pereți, tapete, lambriuri, diverse finisaje, tavane false care acoperă sistemul structural. Din păcate în unele clădiri structurile sunt mai greu de identificat astfel că sarcina de evaluare a siguranței acestora este mai dificilă.
+ Pentru o clădire obișnuită, echipa de evaluare efectuează următoarele activități:
+– examinarea pereților nestructurali, la exteriorul și la interiorul clădirii;
+– estimarea deplasărilor induse de cutremur precum și eventualele mișcări de torsiune ale clădirii;
+– identificare eventualelor degradări ale elementelor orizontale ale planșeului. Aceste informații sunt completate prin examinarea sistemului structural acolo unde este vizibil ca de exemplu subsol, casa scărilor, poduri sau în alte zone ale clădirii.
+ În cazul în care se presupune că structura a suferit degradări puternice iar elementele structurale nu sunt accesibile pentru o analiză atentă, clădirea se marchează cu CLĂDIRE CU ACCES LIMITAT sau CLĂDIRE NESIGURĂ iar locatarii sunt informați de către autoritățile locale despre modul în care se evacuează clădirea. Proprietarul va fi informat că este necesar:
+a.
+să facă demersuri pentru demolarea sau îndepărtarea pereților, a tencuielilor, a tavanelor false etc. pentru a permite analiza stării structurii;
+b.
+să sesizeze autoritățile pentru efectuarea unei Expertize tehnice.
+Anexa A.0
+ Legislație și reglementări cu referire la măsurile de reacție
+ postseism, la nivel central și local, cerințe specifice privind
+ managementul situațiilor de urgență, calitatea în construcții și
+ investigarea imediată după cutremur a construcțiilor:
+ Anexa A.0.1. Legislație și reglementări:
+– Legea nr. 10/1995 privind calitatea în construcții. Monitorul Oficial al României, partea I nr. 12/24.I.1995, cu modificările ulterioare și regulamentele aferente
+– Ordonanța Guvernului României nr. 20/1994 privind reducerea riscului seismic al construcțiilor existente, cu modificările ulterioare.
+– Ordonanța de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență, aprobată cu modificări și completări prin Legea nr. 15/2005 și prin actele normative subsecvente
+– HG nr. 1.491/2004 pentru aprobarea Regulamentului cadru privind structura, organizarea, atribuțiile, funcționarea și dotarea Comitetelor ministeriale și Centrelor operative pentru situații de urgență
+– HG nr. 2.288/2004 pentru aprobarea repartizării principalelor funcții de sprijin pe care le asigură ministerele, celelalte organe centrale și organizațiile neguvernamentale privind prevenirea și gestionarea situațiilor de urgență
+– Ordinul MTCT nr. 403/2007 pentru constituirea Centrului operativ pentru situații de urgență cu activitate permanentă din cadrul MTCT
+– Ordinul MTCT nr. 404/2007 pentru constituirea Comitetului ministerial pentru situații de urgență din cadrul MTCT și pentru aprobarea Regulamentului comun privind structura organizatorică, atribuțiile, funcționarea și dotarea Comitetului ministerial și a Centrului operativ pentru situații de urgență și a listei consultanților în Comitetul ministerial
+– REGULAMENT privind prevenirea și gestionarea situațiilor de urgență specifice riscului la cutremure și/sau alunecări de teren. ANEXA la Ordinul comun MTCT/MAI nr. 1.995 - 1.160/2005-2006.
+ Anexa A.0.2. Extras din reglementările privind prevenirea și gestionarea situațiilor de urgență specifice riscului la cutremure, în vigoare la data avizării metodologiei
+ Notă: Selecția este orientativă, textul de referință fiind cel integral, din documentele și publicațiile oficiale, cu actualizările necesare.
+ Extras din REGULAMENTUL privind prevenirea și gestionarea situațiilor de urgență specifice riscului la cutremure și/sau alunecări de teren (ANEXA la Ordinul comun MTCT/MAI nr. 1995-1160/2005-2006:
+Capitolul II
+ Acțiuni și măsuri preventive,
+Secţiunea 1
+ Acțiuni și măsuri organizatorice
+Articolul 5
+(1)
+Organizarea, coordonarea și controlul acțiunilor și măsurilor privind prevenirea și gestionarea unei situații de urgență specifice revine Comitetului ministerial pentru situații de urgență, organizat la Ministerul Transporturilor, Construcțiilor și Turismului, denumit în continuare Comitet ministerial;
+(2)
+Președintele Comitetului ministerial este ministrul transporturilor, construcțiilor și turismului și din Comitetul ministerial fac parte persoane de decizie din conducerea ministerului, precum și specialiști din instituții și unități, reprezentanți ai societății civile, cu atribuții și responsabilități în gestionarea situațiilor de urgență specifice;
+(3)
+În teritoriu, acțiunile și măsurile de prevenire și gestionare a unei situații de urgență specifice se realizează prin comitetele județene/Comitetul municipiului București și comitetelor locale ale sectoarelor acestuia, municipale, orășenești și comunale pentru situații de urgență, denumite în continuare comitete județene/ municipiului București, municipale, orășenești, respectiv comunale din care vor face parte și câte un membru din partea ONG-urilor cu forțe specializate și voluntare. Deținătorii, cu orice titlu, de construcții, dotări și terenuri, a căror avariere în caz de situație de urgență specifică poate pune în pericol populația, precum și mediul natural și construit sunt obligați să le întrețină, să le repare și să le exploateze corespunzător, să doteze construcțiile cu aparatura de măsură și control necesară pentru urmărirea comportării în timp a acestora, să instaleze sisteme de avertizare-alarmare a populației în cazul iminenței producerii unei situații de urgență specifice și să organizeze activitatea de supraveghere, intervenție și reabilitare conform legislației în vigoare pentru fiecare domeniu.
+Secţiunea 4
+ Logistica intervenției
+Articolul 15
+(1)
+Sistemul forțelor și mijloacelor de intervenție în cazul producerii unei situații de urgență specifice se stabilește prin planurile de apărare specifice, de către autoritățile, instituțiile publice, societatea civilă, prin reprezentanții ei în Comitetul ministerial și operatorii economici cu atribuții în acest domeniu.
+(2)
+Forțele și mijloacele de intervenție se organizează, se stabilesc și se pregătesc din timp și acționează conform sarcinilor stabilite prin planurile de apărare specifice.
+(3)
+Pregătirea forțelor profesioniste de intervenție se realizează în cadrul instituțiilor abilitate prin lege, pe baza unor programe adecvate avizate de inspectoratele pentru situații de urgență județene și a municipiului București și aprobate de comitetele județene/municipiului București. Pregătirea forțelor specializate voluntare de intervenție se realizează în cadrul ONG-urilor cu scop similar.
+(4)
+Prefecții, primarii și conducerile tehnico-administrative ale operatorilor economici și instituțiilor au obligația de a asigura cunoașterea de către forțele destinate intervenției, precum și de către populație, a modalităților de acțiune conform planurilor de apărare specifice, aprobate.
+Articolul 16
+ Resursele financiare necesare acțiunilor și măsurilor pentru prevenirea și gestionarea unei situații de urgență specifice se suportă, potrivit legii, din bugetul de stat și/sau din bugetele locale, după caz, precum și din alte surse interne și internaționale, în scopul realizării acțiunilor și măsurilor de prevenire, intervenție operativă, recuperare și reabilitare, inclusiv pentru dotarea cu utilaje, echipamente, materiale și tehnica necesare și pentru întreținerea acestora, precum și pentru pregătirea efectivelor, atât pentru forțele profesioniste cât și pentru forțele specializate voluntare din cadrul societății civile.
+Capitolul III
+ Acțiuni și măsuri de intervenție operativă
+Articolul 17
+(1)
+Conducerea operațiunilor de intervenție operativă în cazul producerii unei situații de urgență specifice se realizează de autoritățile legal învestite cu atribuții și responsabilități privind concepția, planificarea, organizarea și controlul în domeniu, respectiv de către prefecți, primari și conducerile operatorilor economici și instituțiilor publice, conform legii.
+(2)
+Prefectul și subprefecții, primarii municipiilor, orașelor, sectoarelor municipiului București și comunelor, șefii serviciilor publice deconcentrate ale ministerelor și celorlalte organe centrale ale administrației publice, șefii serviciilor publice comunitare profesioniste pentru situații de urgență, precum și conducătorii regiilor autonome, societăților și administrațiilor/companiilor naționale cu atribuții și responsabilități în domeniu, precum și reprezentanții societății civile la nivel central și local se autosesizează și declanșează de la sediile instituțiilor respective acțiunile ce se impun privind alertarea și intervenția în caz de urgență potrivit Planului județean/municipiului București de apărare.
+ ..
+(6)
+Primarii municipiilor, orașelor și comunelor pe raza cărora s-a produs situația de urgență specifică, împreună cu membrii serviciilor publice comunitare profesioniste pentru situații de urgență constituite pe domenii, potrivit legii, procedează de urgență la inspecția zonelor din aria lor de autoritate constatând, după caz:
+a)
+zonele afectate și delimitarea acestora;
+b)
+necesitatea deblocării-salvării persoanelor și acordării primului ajutor;
+c)
+clădirile prăbușite sau în pragul colapsului;
+ ..
+Articolul 18
+ La acțiunile de inspecție participă și structurile specializate din cadrul serviciilor publice deconcentrate ale ministerelor și ale celorlalte organe ale administrației publice locale, precum și ale regiilor autonome, societăților și administrațiilor/companiilor naționale cu atribuții și responsabilități în domeniu, cât și ONG-urile.
+Articolul 20
+ Comitetul județean/municipiului București, întrunit de urgență, evaluează situația pe baza informărilor operative ale comitetelor locale și constatărilor structurilor specializate din subordinea serviciilor publice deconcentrate ale ministerelor și celorlalte organe ale administrației publice locale și stabilește măsuri de intervenție de urgență pentru:
+– deblocarea-salvarea persoanelor și acordarea primului ajutor;
+– inspectarea post situație de urgență specifică a construcțiilor avariate și evaluarea rapidă a acestora;
+– evacuarea clădirilor care nu mai prezintă siguranță în exploatare;
+– protecția-adăpostirea persoanelor sinistrate și acordarea asistenței necesare;
+– paza și protecția bunurilor materiale și restricționarea circulației în zonele afectate;
+– formularea, potrivit legii, a propunerilor cu privire la utilizarea rezervelor materiale și a mijloacelor pentru intervenție;
+– informarea populației prin mijloacele de comunicare în masă și asigurarea comunicării cu aceasta;
+ ..
+ Acțiuni și măsuri pentru recuperare și reabilitare
+Articolul 25
+ Pentru restabilirea stării de normalitate, comitetele județene/municipiului București și locale, precum și conducerile tehnico-administrative ale operatorilor economici, reprezentanții societății civile și instituțiilor, dispun aplicarea următoarelor acțiuni și măsuri:
+ ..
+– pregătirea condițiilor pentru repunerea în stare de funcționare a operatorilor economici și instituțiilor afectate, precum și pentru refacerea locuințelor și a celorlalte construcții cu caracter public sau privat avariate sau distruse din zona afectată;
+– continuarea investigării post situație de urgență specifică și stabilirea soluțiilor cadru de intervenție pentru punerea în siguranță provizorie a construcțiilor avariate;
+– stabilirea din punct de vedere valoric și cantitativ a pagubelor produse de situația de urgență specifică;
+– comunicarea operativă către factorii abilitați și permanentă către cetățeni a informațiilor specifice.
+ ..
+(2)
+Inspectoratul general al Poliției Române și structurile subordonate:
+a)
+Inspectoratele de poliție județene/municipiului București și unitățile de poliție din localitățile urbane și rurale:
+– execută, imediat după declanșarea situației de urgență specifice, prin personalul prezent în serviciul de menținere a ordinii publice, controlul, dirijarea și supravegherea circulației, recunoașterea zonelor din aria de competență, asigurând prioritar măsuri pentru prevenirea panicii în rândul populației, concomitent cu transmiterea către dispeceratele din punctele de comandă a datelor preliminare asupra amplorii efectelor;
+– asigură măsurile specifice pentru coordonarea circulației rutiere și pietonale, prin aplicarea interdicțiilor, devierilor și priorităților, în mod deosebit pentru mijloacele și formațiunile de intervenție specializate;
+b)
+Inspectoratul general al Jandarmeriei Române și structurile subordonate:
+– participă împreună cu organele de poliție la menținerea ordinii și liniștii publice în localitățile sau zonele afectate de situația de urgență specifică, concomitent cu intensificarea măsurilor specifice pentru continuarea îndeplinirii misiunilor permanente;
+– asigură paza punctelor de depozitare a valorilor recuperate și evacuate;
+– participă împreună cu organele de poliție la asigurarea măsurilor de ordine pe perimetrele cu restricții în circulația pietonală și rutieră, din zonele grav afectate, pentru prevenirea furturilor precum și pentru asigurarea desfășurării în condiții corespunzătoare a activităților de intervenție întreprinse de echipele specializate;
+ ..
+Articolul 31
+ Ministerul Transporturilor, Construcțiilor și Turismului:
+– asigură funcționarea Comitetului ministerial și a Centrului operativ, potrivit Regulamentelor de organizare și funcționare ale acestora;
+– inițiază și supune spre aprobare proiecte de acte normative și coordonează elaborarea de reglementări tehnice în domeniul reducerii riscului seismic al construcțiilor existente;
+– colaborează, prin serviciile sale publice deconcentrate, cu autoritățile administrației publice locale în acțiunea de reducere a riscului seismic al construcțiilor existente;
+– participă la stabilirea măsurilor organizatorice de acționare, pe plan central și local, în cazul producerii unei situații de urgență specifice, în cadrul sistemului național de apărare împotriva efectelor dezastrelor produse de o situație de urgență specifică;
+– inițiază și coordonează elaborarea de reglementări tehnice necesare acțiunii de investigare de urgență post-seism a construcțiilor avariate și de intervenție imediată pentru punerea în siguranță provizorie;
+ ..
+Articolul 32
+ Inspectoratul de Stat în Construcții:
+– dispune deținătorilor construcțiilor, indiferent de forma de proprietate, efectuarea de expertize tehnice privind asigurarea cerinței de rezistență și stabilitate a structurilor, în toate cazurile în care se constată necesitatea acesteia;
+– dispune, după caz, încetarea exploatării construcțiilor și retragerea autorizației de funcționare a acestora, în baza concluziilor fundamentate prin expertiză tehnică;
+– verifică respectarea, de către deținători, a planului de urmărire specială în exploatare a construcțiilor, în conformitate cu reglementările în vigoare;
+– asigură instruirea specialiștilor - nominalizați în planurile de apărare ale unităților administrativ teritoriale - privind inspecția post-seism a construcțiilor;
+– organizează inspecția post-seism și propune Grupului operativ acțiunile tehnico-organizatorice de intervenție imediată pentru punerea în siguranță provizorie a construcțiilor avariate și urmărește aplicarea măsurilor pentru limitarea și înlăturarea efectelor cutremurului."
+ Extras din NORMATIVUL PRIVIND PLANUL DE APĂRARE ÎN CAZUL PRODUCERII UNEI SITUAȚII DE URGENȚĂ SPECIFICE PROVOCATE DE CUTREMURE ȘI/SAU ALUNECĂRI DE TEREN (Anexa B la Regulament):
+ Conf. Anexei nr. 2 la Normativ, se prevede:
+ Structura și conținutul Planului de apărare al Comitetului ministerial
+Secţiunea B
+ Măsuri și acțiuni în perioada de incidență a unei situații de urgență specifice
+(14)
+Experții tehnici, verificatorii de proiecte și responsabilii tehnici cu execuția, atestați, sunt obligați să se autosesizeze și să se prezinte de urgență la sediul inspectoratelor județene în construcții, pentru a fi repartizați în vederea inspectării de urgență post-seism a construcțiilor, dotărilor și rețelelor tehnico-edilitare avariate și stabilirii soluțiilor cadru de intervenție pentru punerea în siguranță provizorie a construcțiilor avariate, potrivit legislației; raportarea se va face zilnic, sau ori de câte ori situația o impune, prin inspectorii șefi către Grupul operativ, asupra măsurilor întreprinse și a modului de îndeplinire a acestora.
+(15)
+Inspectorii șefi ai Inspectoratelor teritoriale în construcții avizează soluțiile de intervenție imediată pentru punerea în siguranță provizorie a construcțiilor avariate și urmăresc aplicarea măsurilor stabilite de comitetul județean/municipiului București în acțiunile de intervenție operativă și refacere.
+(16)
+Lista cu specialiști, experți tehnici atestați MTCT pentru cerința de rezistență și stabilitate a construcțiilor - conform Legii nr. 10/1995 privind calitatea în construcții, cu modificările ulterioare -, este actualizată periodic de către Secretariatul tehnic permanent al Comitetului ministerial, arhivată de acesta și publicată în Buletinul Construcțiilor
+Secţiunea C
+ Măsuri și acțiuni după producerea unei situații de urgență specifice
+1)
+Coordonarea, din punct de vedere tehnic, a investigării de urgență a construcțiilor, inclusiv a dotărilor, după cum urmează:
+– la nivel central, de către:
+– prim vicepreședintele Comitetului ministerial și
+– inspectorul general de stat al Inspectoratului de Stat în Construcții
+– la nivel teritorial, de către:
+– prefect și
+– inspectorul șef al Inspectoratului teritorial/județean/municipiului București în construcții
+2)
+Coordonarea investigării de urgență a construcțiilor și dotărilor din MTCT, precum și a instituțiilor din sistem.
+3)
+Asigurarea finanțării expertizelor tehnice a construcțiilor afectate de situația de urgență specifică.
+4)
+Coordonarea finanțării lucrărilor de proiectare și execuție pentru punerea în siguranță a construcțiilor și dotărilor din sistemul Ministerului Transporturilor, Construcțiilor și Turismului, precum și a clădirilor cu destinația de locuințe încadrate prin Raportul de expertiză tehnică în clasa I de risc seismic.
+5)
+Colaborarea la acțiunile generale pentru reabilitare și revenirea stării de normalitate;
+ 6) Evaluarea, pe baza datelor și informațiilor transmise de comitetele județene și al municipiului București, a pagubelor din punct de vedere cantitativ și valoric determinate de situația de urgență specifică; raportul de evaluare se înaintează Comitetului național în termen de cel mult 30 de zile de la producerea situației de urgență specifice. Conținutul cadru al raportului de sinteză privind evaluarea intervenției este prezentat în Anexa F la Regulament.
+7) Avizarea fundamentărilor comitetelor județene privind alocarea de sume din fondul de intervenție la dispoziția Guvernului, după producerea unui situații de urgență specifice. 
+Conținutul orientativ al Planului de apărare al Comitetelor județene/municipiului București
+A.
+Măsuri și acțiuni în perioada de prevenire a unei situații de urgență specifice
+Articolul 11
+(1)
+asigurarea spațiilor de adăpostire a răniților și sinistraților în cazul producerii unei situații de urgență specifice și actualizarea convențiilor încheiate între autoritățile administrației publice locale și deținătorii acestor spații în vederea utilizării lor în caz de nevoie;
+(2)
+monitorizarea, prin serviciile specializate, a acțiunilor de intervenție la clădiri de locuit, clădiri din domeniul sănătății, clădiri cu funcțiuni esențiale în Sistemul Național de Management al Situațiilor de Urgență, incluzând:
+– expertizarea tehnică, cu fundamentarea soluțiilor de intervenție și estimarea costurilor pentru clădiri de locuit, spitale, clădiri administrative, culturale, de învățământ etc;
+– proiectarea lucrărilor de intervenție;
+– execuția lucrărilor de consolidare;
+– asigurarea locuințelor de necesitate de către serviciile specializate pentru cazarea temporară a persoanelor în timpul executării consolidărilor dacă situația o impune;
+(3)
+asigurarea logistică a serviciilor publice descentralizate prezente în planul de apărare propriu: formulare și placarde, căști de protecție, mijloace de transport etc., precum și pregătirea și avizarea listelor și convențiilor de colaborare cu persoanele autorizate - fizice sau juridice - pentru intervenție în caz de cutremur: ingineri experți, ingineri verificatori de proiecte, inspectori de teren, diriginți de șantier, pentru activitățile prevăzute în "Manualul pentru investigarea de urgență post-seism și stabilirea soluțiilor cadru de intervenție imediată pentru punerea în siguranță provizorie a construcțiilor avariate" - publicat în Buletinul Construcțiilor nr. 2/1999, și pregătirea prin cursuri a personalului implicat în aceste activități;
+C.
+Măsuri și acțiuni după producerea unei situații de urgență specifice
+Articolul 4
+(1)
+aplicarea prevederilor din planul de apărare și a procedurilor acestuia pentru investigarea de urgență a construcțiilor, rețelelor de utilități etc., respectând reglementările în vigoare din diferite domenii și punerea în siguranță provizorie potrivit priorităților stabilite de specialiștii abilitați și luarea deciziilor de evacuare, după caz (.);
+(2)
+investigarea de urgență a dotărilor proprii ale administrației locale și ale altor instituții din sistem;
+(3)
+comunicarea permanentă între autorități și populație pe toată perioada de intervenție și refacere prin compartimente ale primăriilor și mass-media."
+Anexa A.1
+  Inspecția rapidă și evaluarea tehnică rapidă a unor tipuri
+  de structuri specifice
+A.1.1.
+Inspecția rapidă și criterii
+ Procedeul începe cu recunoașterea zonei afectate sau a zonei probabile să fie afectată. Se va nota nivelul general de degradări sau lipsa acestora, deoarece aceasta reprezintă o informație importantă pentru identificarea degradării și a severității acesteia.
+ Clădirea selectată pentru inspecție prin metoda propusă - este examinată într-o primă fază numai de la exterior; inspectorul trebuie, în cazul când este posibil, să cerceteze tot perimetrul clădirii. În mod obișnuit, în această fază, se examinează numai exteriorul clădirii cu excepția cazurilor în care sunt evidente anumite degradări sau există unele informații în acest sens.
+ Procedeul prezentat are drept scop maximizarea numărului de clădiri care se inspectează în perioada imediată după seism. Dacă, în mod evident, o clădire nu prezintă avarii puternice, inspecția se limitează la examinarea ei la exterior.
+ Fiecare clădire este evaluată cu ajutorul a șase criterii de bază prezentate în tabelul 4.3.1. din textul metodologiei. Acestea sunt utilizate pentru clasificarea clădirii privind starea ei fizică din punctul de vedere al siguranței ocupanților și a publicului.
+ Cele șase criterii selectate pentru efectuarea Inspecției post-seism au fost alese deoarece ele reprezintă modificări ușor observabile ale stării clădirilor sau degradări care, separat sau combinate, permit inspectorilor să marcheze construcția ca o CLĂDIRE NESIGURĂ sau, în cazul pericolelor de prăbușire sau altor cauze, să marcheze CLĂDIRILE CU ZONE NESIGURE.
+ Deoarece efectuarea Inspecției post-seism se realizează cu inspectori, în scopul utilizării judicioase a personalului cu calificare superioară pentru cazuri mai complexe, este evident că evaluarea degradărilor este grosieră. Inspectorii trebuie să semnaleze degradările structurale și nestructurale puternice și ușor observabile cum ar fi colapsuri parțiale, înclinarea clădirilor sau prăbușirea parțială a coșurilor sau altor elemente. În plus, modificarea unor condiții de teren, ca de exemplu alunecări ale acestuia, care pot pune în pericol siguranța construcțiilor reprezintă motive justificate pentru marcarea clădirii ca fiind CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ (ANEXA A.7.4).
+ În cadrul Anexei 5 se prezintă "Formularul pentru Inspecția post-seism".
+ Clădirile care aparent sunt în siguranță vor fi marcate cu o placardă cu inscripția CLĂDIRE INSPECTATĂ - POATE FI UTILIZATĂ FĂRĂ RESTRICȚII (vezi Anexa A.7.1) pe care se precizează dacă inspecția a fost realizată numai la exterior sau dacă s-a efectuat și la exterior și la interior. În general, Inspecția post-seism se realizează la început numai la exterior, din motivele prezentate mai sus. Clădirile sunt inspectate și la interior dacă locatarii au semnalat unele probleme, dacă nu este posibil să fie examinată în întregime (întregul perimetru) la exterior sau dacă există anumite suspiciuni evidente privind starea acestora.
+ Clădirile nesigure trebuiesc marcate cât mai urgent cu placarda corespunzătoare iar locatarii informați că trebuie să le părăsească imediat. Se plasează placarde cu specificația CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ (ANEXA A.7.4) la toate intrările clădirii respective.
+ Deoarece unele clădiri nu pot fi apreciate și clasificate nici în categoria aparent sigure nici în nesigure și marcate în consecință cu placarde CLĂDIRE INSPECTATĂ sau CLĂDIRE NESIGURĂ, este necesară marcarea unei a treia categorii de clădiri cu placarde cu inscripția CLĂDIRE CU ACCES LIMITAT (Anexa A.7.2.). Această marcare se face în cazul când nivelul de siguranță este îndoielnic iar starea fizică a structurii nu este nici aparent sigură nici evident nesigură. Placarde cu CLĂDIRE CU ACCES LIMITAT sunt plasate la toate intrările clădirii iar locatarii informați în privința semnificației degradărilor.
+ În general, accesul în aceste clădiri este permis numai pentru cazuri de urgență și acestea se specifică pe placardă. O structură marcată cu CLĂDIRE CU ACCES LIMITAT va fi supusă unei Evaluări Tehnice Rapide (vezi paragraf 4.1), această cerință trebuind să fie indicată de Inspector pe Formularul de Inspecție.
+ În cazul identificării unor degradări locale care ar putea provoca accidente asupra locatarilor, fără să reprezinte pericol pentru cedarea structurii, zona se marchează cu placarda CLĂDIRE CU ZONE NESIGURE Anexa A.7.3.).
+A.1.2.
+Inspecția clădirilor cu pereți structurali din zidărie
+ Clădiri cu pereți din zidărie s-au executat în România încă din secolele trecute, atât pentru realizarea locuințelor cât și pentru construcții social-culturale. Ele au fost executate într-o mare varietate de forme în plan și pe verticală, cu utilizarea unei game largi de materiale pentru realizarea diverselor elemente structurale. Alcătuirea de ansamblu și de detaliu a acestora poartă amprenta perioadei când ele au fost construite, atât din punctul de vedere al materialelor de construcție utilizate, cât și al concepției de bază.
+ Caracteristic pentru această categorie de structuri este că pereții structurali alcătuiți din zidărie au atât rolul de a transmite încărcările verticale - gravitaționale - terenului de fundare cât și rolul de a prelua încărcările orizontale provenite din acțiunea seismică. În marea majoritate a cazurilor, pereții structurali sunt din:
+– zidărie simplă executată cu cărămizi sau blocuri și un liant care de obicei este un mortar de var;
+– zidărie înrămată care este executată ca cea prezentată mai sus dar prevăzută pe contur cu stâlpișori și centuri din beton armat.
+ Structurile realizate cu pereți din zidărie simplă constituie cel mai vulnerabil tip de structură utilizat în zone seismice, datorită faptului că pereții sunt practic lipsiți de ductilitatea necesară asigurării unei bune comportări sub acțiunea seismelor. De altfel, în țări ca Statele Unite sau Noua Zeelandă, în zonele cu activitate seismică intensă nu este permisă execuția unor astfel de structuri.
+ Prevederea pe conturul pereților a unor elemente din beton armat - centuri orizontale și stâlpișori verticali - au ca efect o ameliorare a comportării pereților structurali sub acțiuni seismice, ductilitatea lor rămânând totuși redusă.
+A.1.3.
+Caracteristici ale structurilor și comportarea lor la cutremur
+ O posibilă clasificare a clădirilor cu pereți structurali din zidărie ar putea fi făcută prin corelarea sistemelor structurale cu perioada când acestea au fost executate. Astfel putem identifica:
+ - clădiri foarte vechi din zidărie, executate în secolul XIX dar și în primele decenii ale secolului XX. Acestea sunt în principal locuințe unifamiliale cu parter sau parter + etaj, cu ziduri groase și planșee din lemn, șarpante din lemn cu învelitoare din țigle sau olane sau tablă, uneori cu subsol parțial sau pe toată suprafața clădirii. Zidurile sunt groase, realizate cu cărămizi de argilă arsă și mortar de var, de obicei de calitate slabă. În localitățile cu fond construit tradițional se pot întâlni și clădiri tradiționale de vârste variabile, cu pereți portanți groși din materiale locale (chirpici, ceamur, pământ bătut etc.), asimilabile într-o anumită măsură cu zidăria. Planșeele sunt executate din lemn sau cu grinzi din profile metalice cu bolțișoare din cărămidă (de obicei peste subsol) sau cu podină de lemn. Clădirile au șarpante din lemn cu învelitoare din țigle sau olane sau tablă.
+ - clădiri vechi cu ziduri portante, executate aproximativ în prima jumătate a secolului XX. În această categorie putem include clădirile unifamiliale cu 1 sau 2 niveluri și cele de locuit colective și social-culturale cu 4-5 niveluri și chiar mai multe. În majoritatea cazurilor, planșeele acestor clădiri sunt realizate din beton armat, cu excepția ultimului nivel unde se pot întâlni planșee din lemn. Există de asemenea și clădiri din această categorie cu planșee alcătuite din grinzi de metal și bolțișoare din cărămidă. Aceste clădiri pot fi caracterizate, în majoritatea cazurilor, printr-o configurație neregulată, atât în plan cât și pe verticală, ele fiind concepute în perioada în care proiectarea construcțiilor se făcea numai pentru preluarea încărcărilor verticale. În anumite cazuri, pereții structurali pot fi asociați cu stâlpi din beton armat, plasându-le la limita cu structurile cu stâlpi și grinzi din beton armat (structuri mixte), alcătuite pentru preluarea numai a încărcărilor verticale, și pereți din zidărie.
+ - clădirile noi cu pereți structurali din zidărie, executate după anii 1950, care, în principiu, au beneficiat într-o măsură mai mare sau mai redusă de o concepție de alcătuire care ține seama de acțiunea seismică. În această categorie pot fi întâlnite blocurile de locuit cu P+4 niveluri executate în perioada 1955 - 1965 cu o varietate mare de soluții constructive, în special pentru planșee - beton armat monolit, fâșii prefabricate cu goluri, nervuri din beton armat și corpuri de umplutură etc. Deși aceste clădiri au avut alcătuiri mai ordonate din punctul de vedere al poziționării elementelor structurale, al existenței unor centuri și stâlpișori din beton armat etc., multe au avut de suferit în urma cutremurului din 1977 datorită nivelului conceptual limitat al normelor tehnice și al practicii de proiectare în România din perioada respectivă.
+ Caracteristic pentru toate clădirile din zidărie este comportarea cu ductilitate limitată a pereților structurali. Alcătuirile constructive utilizate în țară nu au asigurat, în general, pereților structurali capacitatea de a împiedica cedările din efectul forțelor tăietoare induse de seisme. În consecință, cel mai frecvent tip de avarie întâlnit la structurile de acest tip este fisurarea, de obicei înclinată, în X, a pereților structurali.
+A.1.4.
+Evaluarea clădirilor cu pereți structurali din zidărie
+ Aceste clădiri sunt relativ ușor de inspectat deoarece elementele structurale sunt în multe cazuri vizibile, fiind acoperite cu tencuială, care în cazul producerii unor seisme puternice se desprinde sau chiar cade, permițând accesul la elementul structural respectiv. Desigur, inspectarea clădirilor cu decorațiuni arhitecturale - cum este cazul unor clădiri social-culturale sau chiar locuințe - este dificilă, echipa de evaluare trebuind să analizeze cu atenție clădirile respective. În cele ce urmează se prezintă cele mai frecvente tipuri de avarii care pot fi întâlnite în cazul structurilor din zidărie sau clădirilor tradiționale asimilabile cu zidăria, afectate de seisme:
+– fisuri orizontale în lungul îmbinării planșeului cu pereții structurali;
+– fisuri înclinate, datorate eforturilor principale de întindere;
+– strivirea locală a zidăriei sub acțiunea unor sarcini concentrate (ca de ex. sub grinzile planșeului) datorită calității slabe a acesteia;
+– fisuri verticale sau înclinate la intersecția pereților, asociate sau nu cu dislocări ale zidăriei datorate eforturilor de întindere sau a țeserii defectuoase (sau inexistente) a pereților care se intersectează;
+– fisuri înclinate în zonele de rezemare ale buiandrugilor, pătrunse sau nepătrunse pe toată grosimea peretelui structural;
+– fisuri înclinate deasupra golurilor din pereți, ce pun în evidență descărcarea în boltă a zidăriei; uneori fisurile pot trece și prin buiandrugii din beton armat;
+– fisuri înclinate în șpaleții de zidărie dintre ferestrele pereților exteriori;
+– fisuri orizontale în șpaleții de zidărie, datorate momentelor încovoietoare provenite din acțiunea seismică.
+ Principiile pentru efectuarea inspecției ce se vor prezenta în cele ce urmează vor fi aplicate cu discernământ, utilizând judecăți inginerești care să permită adoptarea celei mai potrivite soluții pentru marcarea unei clădiri inspectate.
+a.
+Nivelul general de avariere. După identificarea pereților structurali se va examina cu atenție fiecare perete pentru evidențierea fisurilor. Pereții deviați de la verticală, fisuri diagonale cu deschideri mari, dislocarea unor zone majore pe care pot fi identificate, indică pericolul de prăbușire a clădirii.
+ - Colaps total sau parțial CLĂDIRE PRĂBUȘITĂ (RUINĂ), care se etichetează separat de autorități sau CLĂDIRE NESIGURĂ,
+ - Clădirea sau unul din niveluri cu înclinare accentuată .. CLĂDIRE NESIGURĂ
+b.
+Pereții structurali. Pereții structurali din zidărie sunt în general ușor de identificat, deoarece în cazul producerii unor seisme puternice finisajele se degradează și ele, permițând inspecția elementelor structurale. Se vor examina pereții structurali pentru identificarea atât a fisurilor înclinate, cât și a unor striviri și dislocări de zidărie, în special la intersecțiile lor. În cazul pereților înrămați, se vor cerceta elementele din beton armat - centuri și stâlpișori - pentru identificarea unor fisuri. Fisurarea înclinată puternică a pereților, asociată cu fisurarea elementelor din beton armat ce înrămează zidăria, evidențiază reducerea semnificativă a capacității peretelui respectiv de a prelua forțe tăietoare. Se vor examina cu atenție pereții fisurați care ar putea conduce la căderea șarpantei.
+ - Pereți structurali deviați de la verticală CLĂDIRE NESIGURĂ
+ - Fisuri diagonale pătrunse cu deschideri >= 3 mm . CLĂDIRE NESIGURĂ
+ - Dislocări de zidărie CLĂDIRE NESIGURĂ
+ - Fisuri ce pot provoca deteriorarea reazemelor grinzilor planșeului .. CLĂDIRE NESIGURĂ
+c.
+Stâlpii din beton armat. Se vor examina stâlpii pentru evidențierea degradărilor sau a unor deplasări accentuate care pot provoca cedarea reazemului vertical.
+ - Stâlpi vizibil deviați de la verticală CLĂDIRE NESIGURĂ
+ - Stâlpi flambați sau puternic degradați .. CLĂDIRE NESIGURĂ
+ - Stâlpi cu armătură flambată și beton strivit CLĂDIRE NESIGURĂ
+d.
+Planșeele. Avarierea planșeelor realizate din beton armat monolit este posibilă în cazul structurilor cu nesimetrii pronunțate, mai ales în zonele în care există reduceri de rigiditate casele scărilor, ascensoare, etc. În cazul clădirilor cu planșee din lemn, acestea nu asigură conlucrarea pereților pentru preluarea încărcărilor seismice cu care sunt solicitate structurile. Este posibilă degradarea reazemelor grinzilor care pune în pericol stabilitate planșeelor sub încărcări verticale. De obicei, dacă zidăria este puternic fisurată este de așteptat ca planșeele de lemn să fi suferit și ele degradări importante.
+ - Fisurarea puternică a planșeelor din beton în zonele caselor scărilor, fisuri ce pornesc din colțurile golurilor din planșee .. CLĂDIRE CU ACCES LIMITAT
+ - Deplasarea sau cedarea prin forfecare a îmbinării planșeului din lemn cu pereții structurali din zidărie .. CLĂDIRE CU ZONE NESIGURE
+e.
+Șarpanta. Se vor identifica fenomene de lunecare sau separare a șarpantei față de pereții pe care reazemă. Se vor examina cu atenție popii și alte elemente verticale și orizontale ale șarpantei care ar putea pune în pericol reazemele elementelor componente ale șarpantei. Se vor verifica în mod special elementele care suportă fermele șarpantelor.
+ - Separarea șarpantei de pereți . CLĂDIRE CU ZONE NESIGURE
+ - Fisurarea puternică/degradarea elementelor structurale ale șarpantei CLĂDIRE CU ZONE NESIGURE
+f.
+Fundații. Se vor examina fundațiile clădirilor, inclusiv eventualele subsoluri pentru identificarea unor fisuri importante cu deschideri mari, tasări diferențiate precum și orice alte indicii privind mișcări ale terenului provocate de acțiunea cutremurului.
+ - Fundații fracturate . CLĂDIRE NESIGURĂ
+g.
+Alte pericole. Parapetele, cornișele și placajele pereților reprezintă în mod frecvent elemente care pot să cadă în cazul unor clădiri din zidărie puternic afectate de cutremur. Deplasarea sau degradările evidente pot fi observate din exterior dar inspectarea podurilor, parapetelor sau cornișelor trebuie făcută din apropiere. Vezi și paragraful 4.6 pentru alte detalii.
+ - Parapete sau cornișe fisurate .. CLĂDIRE CU ZONE NESIGURE
+ Separarea, căderea parțială a placajelor .. CLĂDIRE CU ZONE NESIGURE
+A.1.5.
+Inspecția structurilor din beton armat
+ Structurile din beton armat sunt curent întâlnite în România la clădirile de locuit, birouri, social-culturale școli, spitale etc. Betonul armat a început să fie utilizat pe scară mai extinsă de la începutul anilor '30 pentru realizarea structurilor clădirilor ce fac obiectul prezentei metodologii. Structurile cu elemente din beton armat au avut de atunci o evoluție constantă pe măsura cunoștințelor specialiștilor privind atât calitățile și comportarea materialului propriu-zis cât și nivelul dezvoltării ingineriei seismice în general.
+ Având în vedere perioada mare de timp care a trecut de la începuturile utilizării betonului armat în construcții, este evident ca există o mare varietate de alcătuiri și rezolvări constructive, acestea reflectând atât nivelul cunoștințelor inginerilor structuriști în domeniu și deci a practicii de proiectare din țară cât și anumite elemente conjuncturale care au impus adoptarea unor soluții constructive particulare.
+ Astfel, în prezent, se pot întâlni în România o multitudine de tipuri de structuri din beton armat care ar putea fi categorisite după cum urmează:
+– construcții cu stâlpi și grinzi din beton armat proiectate numai pentru preluarea încărcărilor verticale;
+– structuri în cadre din beton armat;
+– structuri cu pereți structurali din beton armat;
+– structuri duale - alcătuite din cadre ce conlucrează cu pereți structurali din beton armat.
+ Practic, în toate cazurile elementele structurale orizontale care preiau în mod direct încărcările gravitaționale - plăcile - sunt din beton armat.
+ Din punctul de vedere al tehnologiilor de execuție, există în prezent în România:
+– structuri monolite - în care toate elementele structurale au fost executate din beton armat monolit;
+– structuri mixte - la care anumite elemente structurale (în special cele ale planșeului - plăci și/sau grinzi) au fost realizate cu elemente prefabricate, și
+– structuri integral prefabricate în care întreaga structură este alcătuită din elemente prefabricate a căror conlucrare a fost asigurată prin execuția unor îmbinări realizate cu beton turnat monolit.
+ În cadrul prezentei metodologii, care are drept scop evaluarea în regim de urgență a siguranței construcțiilor afectate de seism, s-a preferat abordarea în comun a principiilor și a procedurii de evaluare a siguranței construcțiilor cu structuri din beton armat, pentru toate tipurile precizate mai sus.
+ Se punctează în cele ce urmează caracteristicile fiecărui subsistem structural ce alcătuiește o structură din beton armat.
+A.1.6.
+Caracteristicile subsistemelor structurale
+a.
+Subsistemul planșeu, component al structurilor din beton armat, pe lângă rolul de a prelua direct încărcările gravitaționale, asigură, lucrând ca diafragme orizontale, de regulă, practic indeformabile, conlucrarea elementelor verticale pentru preluarea încărcărilor provenite din acțiunea seismică. Aportul structurii orizontale a planșeelor la comportarea întregii clădiri este deosebit de important asigurând formarea unei structuri spațiale care rezistă acțiunii seismice. Planșeele sunt alcătuite din:
+– grinzi și plăci ce lucrează pe o direcție;
+– grinzi și plăci ce lucrează pe două direcții;
+– grinzi și nervuri ce lucrează pe o direcție;
+– plăci rezemate direct pe pereți structurali ce lucrează pe una sau două direcții;
+– planșee tip dale.
+ Din punct de vedere tehnologic plăcile sunt monolite, formate din elemente prefabricate sau mixte din predale prefabricate cu suprabetonare.
+b.
+Structurile cu stâlpi și grinzi din beton armat executate pe o scară largă în perioada interbelică, până la cutremurul din 1940 și chiar ulterior producerii acestuia, au fost proiectate numai pentru preluarea încărcărilor gravitaționale. Structurile din această categorie sunt caracterizate prin alcătuirea lor dezordonată, prin existența unor stâlpi și grinzi care au numai rolul de a prelua încărcările verticale. Practic se poate afirma că structurile menționate au supraviețuit cutremurelor prin care au trecut datorită prezenței pereților din zidărie executați în ochiurile dintre stâlpi și grinzi. Aceste structuri au suferit degradări puternice atât ale elementelor din beton armat cât și ale pereților de zidărie. Proiectarea structurilor s-a făcut fără să se țină seama de probabilitatea producerii unor seisme. În majoritatea cazurilor se constată că elementele verticale din beton armat - stâlpii - sunt subdimensionate, chiar pentru preluarea încărcărilor gravitaționale aferente.
+c.
+Structuri în cadre din beton armat - sunt alcătuite din elemente structurale tip bară - stâlpi și grinzi - astfel îmbinate și dimensionate încât să fie capabile sa preia atât efectele încărcărilor gravitaționale cât și a celor orizontale provenite din acțiunea seismică. De obicei, structurile în cadre, au alcătuiri regulate, cu stâlpii poziționați pe o rețea mai mult sau mai puțin ordonată și cu grinzi plasate pe două direcții. Astfel clădirea dispune de o structura dispusă, în general, după două direcții care împreună cu planșeele formează o structură spațială.
+Desigur conceptele de alcătuire de ansamblu a cadrelor și de detaliu a elementelor componente - stâlpi și grinzi - precum și nivelul forțelor orizontale pentru care au fost dimensionate cadrele au evoluat în timp. Introducerea în normele tehnice de după seismul din 1977 a conceptului de asigurare a comportării ductile a structurilor în ansamblu a reprezentat un salt calitativ important în proiectarea antiseismică a acestora. Astfel structurile în cadre executate mai recent, au asigurate condițiile unei comportări ductile convenabile în cazul producerii unui cutremur puternic, fiind proiectate după normele în vigoare, cu elemente structurale având secțiuni din beton mai generoase precum și armături transversale mai puternice, capabile să confineze zonele de beton ale articulațiilor plastice potențiale.
+d.
+Structuri cu pereți structurali din beton armat sunt structurile la care preluarea încărcărilor orizontale provenite din acțiunea seismică se realizează practic integral de pereții structurali. Aceștia pot lucra individual (pereții plini) sau pot conlucra (doi sau mai mulți) prin prezența unor rigle de cuplare (pereți cu goluri) special alcătuite. Acești pereți asigură și preluarea și transmiterea la fundații a încărcărilor gravitaționale provenite din zonele aferente de planșee.
+ De obicei aceste structuri dispun și de stâlpi din beton armat care asigură transmiterea la fundații a încărcărilor gravitaționale care nu se descarcă prin pereții structurali.
+ Sistemul structural a fost aplicat pe scară foarte largă în România, începând de la sfârșitul anilor '50. A fost utilizat în diverse variante de dispunere în plan a pereților - în sistem fagure sau în sistem celular - și constructive de execuție: integral monolit, mixt - în care planșeele au fost realizate din elemente prefabricate pline sau predale prefabricate și suprabetonare - și integral prefabricate.
+ Principalul avantaj pe care acest tip de structură îl prezintă față de structurile în cadre este deformabilitatea lui redusă sub acțiunea încărcărilor orizontale provenite din seisme.
+ Desigur așa cum arătăm la structurile în cadre, conceptele de alcătuire generală și de detaliu a structurilor au evoluat foarte mult în special după seismul din 1977. Adoptarea explicită în normele tehnice a conceptelor de comportare ductilă a structurilor sub acțiunea seismică, de asigurare a formării unor anumite mecanisme favorabile de disipare a energiei seismice, conferă structurilor proiectate și executate în perioade mai recente, calități superioare de comportare în comparație cu cele proiectate la începutul perioadei. Am subliniat acest aspect deoarece este important pentru echipele de evaluare să cunoască perioada când structurile analizate au fost executate. Această cunoaștere le ușurează sarcina, concentrându-le atenția asupra anumitor aspecte cunoscute că pot reprezenta surse de risc pentru structura în ansamblu.
+e.
+Structurile din panouri mari prefabricate - se întâlnesc la clădiri de locuit cu număr mic și mediu de niveluri, includ o gamă variată de rezolvări constructive de detaliu, fiind structuri cu pereți structurali din beton armat, alcătuiți din panouri mari, suprapuse și/sau alăturate, elemente produse în serie, în fabrici specializate, transportate și montate pe șantier. Au fost des folosite la construcțiile de locuințe și în special la construcțiile de P+4, respectiv P+8, cămine de nefamiliști și internate, începând cu anii 1960, pe baza unor proiecte tip, realizate de IPCT, adaptate la condițiile locale și tehnologiile din teritoriu de institutele de proiectare județene.
+f.
+Caracterul de perete structural unitar (comparabil cu cel monolit) decurge din realizarea îmbinărilor orizontale și verticale, armate și monolitizate, între panourile respective.
+ Îmbinările verticale pot fi:
+– îmbinări deschise pe una sau pe ambele direcții
+– îmbinări închise, care se dezvoltă strict în spațiul creat de intersecția panourilor.
+ Îmbinările orizontale pot fi:
+– cu rezemare pe un strat de mortar
+– cu subbetonare
+ Panourile mari alcătuiesc structura de rezistență a clădirii; după rolul pe care îl au în structură pot fi panouri portante, auto-portante sau de umplutură. După poziția în clădire pot fi panouri mari pentru pereți interiori și panouri mari pentru pereți exteriori. Panourile de pereți interiori neportanți sunt folosiți la compartimentarea spațiilor limitând în general spațiile auxiliare. Unele compartimentări sunt din pereți despărțitori ușori (ziduri b.c.a., cărămidă, fâșii b.c.a. etc.).
+ Cele mai răspândite tipuri de clădiri sunt Proiectele IPCT 770 (P+4) și IPCT 772 (P+8), și Proiect 1340 - după 1984, cele executate corect prezentând o comportare foarte bună la cutremurul din 1977.
+ Deoarece au existat diferite serii și variante de adaptări la teren a unor structuri de acest tip, se recomandă ca investigarea lor să fie efectuată numai de personal tehnic care a fost instruit în mod specific cu privire la zonele care pot prezenta semnificație din punct de vedere al eventualelor avarieri vizibile.
+ Aceste structuri integral prefabricate nu trebuie confundate de evaluatori cu cele la care structura este monolită dar fațadele sunt executate din panouri prefabricate și care ajung la regim de înălțime P+9, P+10.
+g.
+Structurile duale - reprezintă o combinație între structurile cu cadre din beton armat și cele cu pereți structurali. Ele au început să fie utilizate în România în ultimii ani, alcătuirea și dimensionarea lor fiind deci marcată de conceptele moderne de alcătuire a structurilor antiseismice.
+ Aceste structuri au rezultat în urma unor necesități funcționale de obținere a unor spații libere mai ample, în special la parterul clădirilor cu pereții structurali. Din punct de vedere structural ele reprezintă o asociere a două tipuri total diferite de structuri care însă, constrânse de diafragmele orizontale realizate de planșee să conlucreze pentru preluarea încărcărilor seismice, își suplinesc punctele slabe. Structurile rezultate, în cazul în care sunt corect alcătuite și detaliate, au o comportare foarte bună sub acțiunea încărcărilor seismice, datorită faptului că elementele lor structurale sunt alcătuite în conformitate cu conceptele și principiile normelor actuale de proiectare.
+ Structuri cu caracteristici specifice de vulnerabilitate
+ Există o serie de structuri monolite realizate între 1960 și 1977, a căror alcătuire și comportare la seism s-a dovedit deficitară.
+ Structuri cu parter flexibil
+ Aceste structuri aveau 1-2 niveluri de rigiditate redusă, ca urmare a prevederii la parter sau la primele 2 etaje a spațiilor pentru magazine și servicii rezolvate cu stâlpi și grinzi (așa-numitele structuri cu parter flexibil), în timp ce restul etajelor erau cu pereți structurali (diafragme). La cutremurul din 4 martie 1977 suprasolicitările la care au fost supuse prin excitații apropiate de rezonanță, au produs la structurile cu parter flexibil avarii concentrate la parter, iar în cazuri specifice consecințele au fost grave, fiind înregistrat și un colaps parțial.
+ Structuri tip OD
+ Structurile tip OD (orientare dublă) sunt denumite astfel ca urmare a orientării camerelor dintr-un apartament pe ambele fețe ale blocului (pentru a avea iluminare naturală echilibrată), dar care au avut drept consecință o structură mai îngustă și zveltă, cu prevederea unui singur perete structural median longitudinal, suprasolicitat la cutremur. Acest tip de structură a înregistrat un caz extrem în 1977.
+A.1.7.
+Evaluarea clădirilor din beton armat monolit
+ Clădirile având structura din beton armat sunt, în multe cazuri, mai ușor de inspectat decât alte tipuri de construcții deoarece, elementele lor structurale: stâlpi, grinzi, pereți sunt de cele mai multe ori vizibile, nefiind acoperite cu finisaje arhitecturale. În consecință, eventualele avarii structurale ca de exemplu fisurarea și expulzarea betonului sau alt tip de deteriorare pot fi cu ușurință cercetate. Ceea ce este foarte important pentru evaluarea cu succes a siguranței unei clădiri este în primul rând identificarea sistemului structural, iar apoi inspectarea zonelor vulnerabile, specifice fiecărui tip de structură.
+ Ca urmare a variabilității sporite a tipurilor de alcătuiri și a dependenței sporite de condițiile de execuție pe șantier, clădirile monolite sunt mai susceptibile de a prezenta defecte locale care să se transforme în avarii la seism. În cele ce urmează se prezintă zonele cu degradări posibile care vor trebui inspectate.
+ DEGRADĂRI POSIBILE:
+ STRUCTURI CU CADRE DE BETON ARMAT
+– Fisurare în zona îmbinărilor grindă-stâlp.
+– Expulzarea betonului de acoperire la grinzi și stâlpi cu expunerea armăturii.
+– Stâlpi deviați de la verticalitate.
+– Avarierea prinderilor panourilor de închidere.
+– Devierea de la verticalitate a panourilor de închidere.
+– Fisurarea pereților din zidărie cu fisuri care se extind și în elementele componente ale cadrelor.
+– Deteriorarea șaibei (planșeului).
+– Fisurarea pereților despărțitori.
+ STRUCTURI CU PEREȚI DIN BETON ARMAT
+– Etaj cu deplasări relative de nivel remanente.
+– Pereți structurali fisurați, fisuri diagonale pătrunse.
+– Fisuri înclinate la colțurile golurilor (a riglelor de cuplare).
+– Fisurarea pereților despărțitori.
+– Deteriorarea șaibelor (planșeelor).
+– Avarierea parapeților.
+– Dislocarea șarpantei de structura de beton.
+– Expulzarea betonului de acoperire cu punere în evidență a armăturilor.
+ Principiile pentru efectuarea inspecției se aplică pe baza unor judecăți inginerești care să permită adoptarea soluției celei mai potrivite pentru marcarea unei clădiri inspectate. În anumite condiții, utilizarea marcajului de CLĂDIRE NESIGURĂ ar putea fi uneori exagerată, utilizarea unui marcaj mai puțin restrictiv ca de ex. CLĂDIRE CU ACCES LIMITAT sau CLĂDIRE CU ZONE NESIGURE ar putea fi mai potrivită. De subliniat că lista degradărilor posibile nu este exhaustivă, putând exista și alte zone vulnerabile ale structurii.
+a.
+Nivelul general de degradare. Într-o primă etapă se inspectează în totalitate exteriorul clădirii/structurii pentru a depista eventuale degradări, incluzând colapsul parțial, înclinarea semnificativă a clădirii sau a unuia din niveluri, sau expulzarea masivă a betonului din pereții, stâlpii și grinzile structurii.
+ - Colaps total sau parțial CLĂDIRE NESIGURĂ, sau după caz CLĂDIRE PRĂBUȘITĂ (RUINĂ), care se etichetează separat de autorități.
+ - Înclinare semnificativă a clădirii sau a unuia din etaje CLĂDIRE NESIGURĂ
+b.
+Plăci și grinzi. Se examinează plăcile și grinzile pentru depistarea eventualelor avarii în zonele de rezemare ale acestora.
+ - Separarea de reazemul vertical CLĂDIRE NESIGURĂ
+ - Alte defecțiuni sau suspiciuni privind pierderea capacității de rezistență a zonelor de rezemare .. CLĂDIRE NESIGURĂ
+c.
+Stâlpi. Stâlpii pot face parte dintr-un sistem structural pe cadre sau pot fi doar elemente portante supuse la încărcări verticale. Prima grijă în evaluarea siguranței stâlpilor individuali este pierderea capacității de preluare a încărcărilor verticale, caz în care poate să apară colapsul. Stâlpii care fac parte dintr-un sistem structural pe cadre pot avea articulații plastice la extremități, care apar în cazul unor mișcări seismice puternice. Aceasta are ca efect atât pierderea rezistenței lor la încovoiere, cât și o pierdere apreciabilă, dacă nu chiar totală, a capacității de preluare a încărcării verticale. Pot apărea de asemenea cedări din forță tăietoare, în special la stâlpii cu secțiuni mari, fenomen care poate conduce la pierderea capacității de preluare a încărcărilor verticale. Stâlpii de beton armat ai etajelor flexibile constituie zone vulnerabile. Stâlpii scurți sunt de asemenea frecvent avariați.
+ - Flambaj local al armăturii cu expulzarea betonului în zone de articulații plastice la stâlpi sau chiar fracturarea acestora CLĂDIRE NESIGURĂ
+ - Expulzarea masivă și expunerea armăturii verticale . CLĂDIRE NESIGURĂ
+ - Fisură mare înclinată care traversează stâlpul .. CLĂDIRE NESIGURĂ
+d.
+Cadre. Se examinează elementele componente ale cadrelor pentru identificarea fisurării, expulzării și distrugerii betonului. O fisură amplă, în X, în zona îmbinării grindă-stâlp (nodurile cadrelor) indică o deteriorare importantă. Lipsa armăturii continue în partea de jos a grinzilor prin zona nodurilor poate conduce la formarea timpurie a articulației plastice în timpul încărcărilor ciclice.
+ O importanță deosebită la cadre, o are atât valoarea absolută a deplasării relative de nivel cât și valoarea remanentă a acesteia. Cadre cu elemente puternic fisurate la care s-au constatat expulzarea sau distrugerea locală a betonului au rezistența și rigiditatea serios afectate. În această situație, ele nu mai sunt capabile să preia în condiții de siguranță încărcările verticale sau să reziste unor replici ulterioare ale seismului. De asemenea, deplasările relative de nivel remanente sunt foarte importante deoarece efectele P-D asupra stâlpilor slăbiți sau avariați pot conduce la cedarea acestora.
+ - Cadre cu degradări importante CLĂDIRE NESIGURĂ
+ - Fisurarea severă a zonei de îmbinare grindă-stâlp .. CLĂDIRE NESIGURĂ
+ - Deplasarea relativă de nivel remanentă, sesizabilă la orice nivel CLĂDIRE NESIGURĂ
+e.
+Diafragme orizontale. Zonele care trebuiesc inventariate includ îmbinările dintre planșee și pereți și locurile unde există fie deschideri mari, fie planșeele prezintă o variație mare de rigiditate în plan. Atenția cea mai mare trebuie acordată îmbinării dintre planșee și pereți pentru identificarea unor cedări sau reduceri ale capacității de transfer a forței orizontale la elementele de pe contur. Problemele legate de deschiderile mari includ ruperea plăcii în două sau mai multe părți.
+ - Legături rupte între planșee și pereți . CLĂDIRE NESIGURĂ
+ - Șaiba ruptă sau serios avariată .. CLĂDIRE NESIGURĂ
+f.
+Pereți structurali plini. Trei zone importante ar trebui examinate la pereții structurali ai unei structuri. Aceste zone sunt: zonele din câmpul pereților structurali cuprinse între etaje, elementele verticale de pe contur în care sunt concentrate armăturile verticale pentru preluarea efectelor compresiunii excentrice și îmbinările pereților cu planșeele structurii.
+ Cedările în oricare din aceste zone se pot concretiza în cedarea peretelui structural respectiv.
+ - Fisuri diagonale (din forță tăietoare) mai mari de 3 mm lățime, extinse pe toată înălțimea dintre planșee .. CLĂDIRE NESIGURĂ sau CLĂDIRE CU ACCES LIMITAT
+ - Lunecarea cu mai mult de 5 mm la nivelul rosturilor orizontale ale pereților CLĂDIRE NESIGURĂ
+ - Expulzarea betonului și evidențierea armăturii verticale la elementele verticale de pe contur .. CLĂDIRE NESIGURĂ
+ - Fisuri orizontale cu grosime >= 3 mm extinse prin elementele verticale de pe contur CLĂDIRE NESIGURĂ
+g.
+Pereți structurali cuplați. Inspectarea pereților cuplați trebuie să includă cele două tipuri de elemente structurale componente. Astfel, pereții se vor cerceta în zonele și pentru identificarea avariilor posibile prezentate la paragraful anterior. O atenție deosebită se acordă inspecției riglelor de cuplare care, în majoritatea cazurilor, sunt primele elemente care intră în lucru în cazul producerii unui seism, fiind deseori puternic degradate. Aceste rigle sunt cercetate în scopul depistării fisurării lor puternice - în X. Fisuri cu deschideri mai mari de 2-3 mm, pătrunse pe toată grosimea riglelor reprezintă indicii că riglele au fost puternic afectate de seism.
+ - Fisurarea puternică a riglelor de cuplare . CLĂDIRE CU ACCES LIMITAT
+ - Fisurarea puternică a riglelor asociată cu strivirea și expulzarea betonului din montanți . CLĂDIRE NESIGURĂ
+h.
+Pereți de umplutură din zidărie. Aceștia sunt examinați pentru identificarea fisurării lor diagonale. Se urmărește dacă fisurile trec și prin elementele de beton armat de care sunt mărginite. Acțiunile seismice puternice pot produce, prin degradarea la colțuri a panourilor din zidărie, efecte de "stâlpi scurți" care au ca rezultat cedarea fragilă a acestora. De obicei pereții din zidărie sunt tencuiți, fapt care face uneori dificilă inspectarea acestora.
+ În cazul pereților puternic fisurați, se urmăresc bucățile de pereți care se pot desprinde din structură și ar putea să cadă, provocând accidentarea oamenilor.
+ În marea majoritate a cazurilor, chiar în cazul producerii unor mișcări seismice cu intensitate redusă, se produce o desprindere (fisurare) a panoului din zidărie față de elementele din beton armat situate pe contur.
+ - Fisurarea puternică a majorității panourilor de zidărie . CLĂDIRE CU ACCES LIMITAT
+ - Fisuri puternice ale panourilor de zidărie ce se extind și în elementele din beton CLĂDIRE NESIGURĂ
+ - Desprinderea-fisurarea panourilor de zidărie față de elementele din beton armat de pe contur . CLĂDIRE CU ACCES LIMITAT
+A.1.8.
+Evaluarea structurilor metalice și din lemn
+ Structuri metalice și structuri din beton cu armătură rigidă
+ Structurile metalice clasice precum și cele din beton cu armătură rigidă - b.a.r. - au fost utilizate pe o scară foarte redusă până la sfârșitul anilor '80 la construcțiile de locuințe și social-culturale. Utilizarea acestui tip de structură s-a limitat în perioada respectivă la clădiri înalte cu destinația de birouri ca de exemplu Palatul Telefoanelor, Palatul C.F.R. (structuri metalice) și Casa Presei Libere (b.a.r.), Palatul Parlamentului.
+ După anul 1990, s-a reluat utilizarea acestor tipuri de structuri la clădiri înalte și foarte înalte.
+ În cazul cutremurelor de mare intensitate, clădirile cu structura metalică sau din beton cu armătură rigidă care aparțin clasei A, potrivit pct. 1.1 din Metodologie, vor fi cercetate de echipe de specialiști formate din Experți Tehnici care cunosc în detaliu aceste tipuri de structuri. Se vor respecta principiile din cap. 3.1 și Anexa A.2, din Metodologie "Probleme speciale pentru clădiri ce adăpostesc funcțiuni vitale sau care prezintă pericol public".
+ Structuri din lemn și materiale locale
+ Aceste tipuri de structuri sunt relativ rare și se pot întâlni la săli de sport, hale cu diferite destinații, biserici, sau alte construcții similare intrând în categoria construcțiilor speciale. După cutremurele de mare intensitate, aceste construcții vor fi examinate și evaluate de către experți tehnici atestați pentru exigența A3.
+ Se întâlnesc, structuri din lemn și pentru clădiri de locuit cu puține niveluri (parter sau P+1 niveluri și/sau pod), mai ales în mediul rural sau pentru case de vacanță. Ele pot fi realizate din lemn ecarisat și/sau panouri fibrolemnoase. Degradările și avariile posibile în cazul cutremurelor de mare intensitate ale structurilor din lemn ale acestor clădiri sunt:
+– desprinderea de pe fundații și deplasarea clădirii;
+– avarierea sau distrugerea îmbinărilor dintre elemente, în special atunci când au fost defectuos realizate sau acolo unde s-au produs degradări în timp prin ruginirea pieselor metalice de legătură, fungi ori suprasolicitare;
+– deformarea generală cauzată de insuficiența elementelor de contravântuire.
+ Degradări posibile în cazul clădirilor din paiantă de tip rural:
+– deformarea generală cauzată de alunecarea terenului, lipsa unei fundații sau încastrări eficiente;
+– ruperea unor montanți, diagonale sau îmbinări
+– prăbușiri locale, cu deformarea și căderea umpluturii și tencuielii.
+ În cazul prezenței într-o localitate a unui mare număr de clădiri din lemn și/sau a structurilor din lemn de mari dimensiuni și/sau cu grad mare de ocupare, având în vedere caracteristicile particulare de alcătuire și comportare, aceste clădiri trebuiesc evaluate de echipe de specialiști care să cunoască în detaliu structurile respective.
+ Construcțiile protejate sau cu caracter de monument istoric se vor evalua cu respectarea reglementărilor din domeniu.
+A.1.9.
+Elemente nestructurale
+ În afară de degradările structurale pe care o clădire le poate suferi în timpul unui cutremur și care pun în pericol stabilitatea construcției în ansamblu, deteriorarea elementelor nestructurale poate reprezenta o sursă de risc pentru viața oamenilor. Având în vedere scopul prezentei metodologii, vom prezenta în cele de urmează riscurile pe care le prezintă avarierea în timpul seismelor a elementelor nestructurale asupra ocupanților, după producerea unui cutremur puternic.
+ Următoarele elemente nestructurale vor fi cercetate în cadrul Evaluării tehnice rapide:
+1.
+Parapete, atice, ornamente arhitecturale, console, copertine etc.
+2.
+Pereți exteriori de închidere, placare ale acestora.
+3.
+Pereți despărțitori neportanți.
+4.
+Tavane suspendate și corpuri de iluminat.
+5.
+Instalații și echipamente de gaze, pentru încălzire, electrice.
+6.
+Ascensoare.
+ Inspectarea elementelor menționate se face pe baza precizărilor ce urmează, analizând din punct de vedere ingineresc fiecare situație concretă. Degradările elementelor nestructurale pot avea grade diferite de afectare, semnificația lor trebuind să fie decisă de la caz la caz. În anumite cazuri, echipa de evaluare poate decide, pe baza unei analize atente, că marcarea recomandată anterior - de exemplu CLĂDIRE CU ZONE NESIGURE - nu este justificată. În acest caz, dacă se ajunge la concluzia că un șoc seismic ulterior ar putea pune în pericol viața oamenilor, evident marcarea trebuie modificată.
+A.1.10.
+Parapete, atice, ornamente arhitecturale, console, copertine etc.
+ Un pericol mare în zonele urbane îl reprezintă prăbușirea (căderea) parapeților, aticelor și consolelor și chiar a firmelor. Desigur majoritatea acestor elemente care nu au fost suficient asigurate vor cădea în timpul cutremurului principal, există un pericol real ca parapete, atice și alte asemenea elemente să cadă în urma unui șoc ulterior sau chiar din acțiunea greutății lor proprii. Rezultă deci absolut necesar ca acele clădiri care au suferit degradări evidente la exterior să fie atent examinate.
+a.
+Parapete din zidărie. Multe din clădirile vechi cu structură din zidărie portantă au balcoanele executate din zidărie, neancorate suficient de structura principală a clădirii, devenind astfel surse importante de risc dacă sunt puternic fisurate. În aceste cazuri, specialiștii vor examina parapetele cu atenție - din exterior sau de pe acoperișul clădirii - eventual cu un binoclu. Dacă nu se constată prezența unor tiranți, centuri etc. care să asigure legătura parapetelor de structura de rezistență a clădirii orice fisură identificată reprezintă un motiv care pune sub semnul întrebării și stabilitatea acestora.
+ Parapete parțial dislocate .. CLĂDIRE CU ZONE NESIGURE
+ Parapete fisurate (fără evidențierea unor legături) . CLĂDIRE CU ZONE NESIGURE
+b.
+Parapete din beton. La construcțiile executate mai recent majoritatea parapetelor sunt realizate din beton armat. Acestea pot fi periculoase numai dacă au suferit deteriorări majore puse în evidență prin înclinarea lor evidentă precum și prin exfolierea și fisurarea betonului la bază.
+ Înclinarea puternică CLĂDIRE CU ZONE NESIGURE
+ Exfolieri extinse CLĂDIRE CU ZONE NESIGURE
+c.
+Atice, pereți de calcan la pod, coșuri de fum, ornamente arhitecturale, firme etc. La clădirile mai vechi aceste elemente nu sunt corect și suficient ancorate de structură. Orice indiciu de fisurare, de separare a acestora de structură precum și existența oricărui element voluminos și greu ancorat de clădire reprezintă surse importante de risc.
+ Dislocare parțială CLĂDIRE CU ZONE NESIGURE
+ Defecțiuni grave în zona de ancorare/rezemare CLĂDIRE CU ZONE NESIGURE
+d.
+Acoperișuri cu învelitori cu țigle sau olane. Învelitorile cu țigle sau olane, rezemate pe șarpante de lemn pot prezenta pericol de cădere în special din cauza unor avarii ale structurii șarpantelor de lemn cât și a unor rezemări și ancorări incorecte.
+ Pericol de cădere a țiglelor/olanelor . CLĂDIRE CU ZONE NESIGURE
+e.
+Copertine, console. Acestea sunt de obicei prevăzute pentru acoperirea zonelor de la intrarea clădirilor și pentru susținerea unor elemente decorative. Pericolul principal pe care îl reprezintă pentru viața oamenilor îl reprezintă fie căderea lor, fie deteriorarea zonelor de ancorare/rezemare pe structură.
+ Înclinarea/căderea parțială a elementelor CLĂDIRE CU ZONE NESIGURE
+ Degradarea zonelor de rezemare/ancorare .. CLĂDIRE CU ZONE NESIGURE
+A.1.11.
+Pereți exteriori de închidere, placaje
+ Structurile din beton armat sunt în general prevăzute cu închideri din zidărie din cărămidă sau blocuri din b.c.a. precum și cu panouri prefabricate neportante. De asemenea, pereții exteriori, în anumite cazuri, sunt prevăzuți cu placaje ceramice care uneori pot reprezenta pericole pentru viața oamenilor.
+a.
+Majoritatea clădirilor cu structuri în cadre sau cu pereți structurali din beton armat monolit au prevăzute închideri exterioare din zidărie de cărămidă sau blocuri b.c.a. Datorită deplasărilor mari impuse structurilor de cutremurele puternice închiderile exterioare din zidărie pot suferi degradări importante cum ar fi fisurare puternică, dislocarea pereților care poate fi favorizată și de o defectuoasă ancorare a acestora de structură.
+ Pereți din zidărie dislocați, puternic fisurați .. CLĂDIRE CU ZONE NESIGURE
+ Pereți înclinați spre exterior . CLĂDIRE CU ZONE NESIGURE
+b.
+Panouri prefabricate de închidere. Aceste panouri au fost utilizate în anii '80 pe o scară relativ extinsă pentru realizarea închiderilor exterioare ale clădirilor multietajate cu structuri din beton armat. Ele au fost realizate din panouri tristrat din beton armat cu termoizolație sau fâșii din b.c.a. și ancorate de structură prin diverse sisteme. De obicei ele includ și ferestre. Principalul risc pe care acestea îl prezintă aceste elemente este pericolul ca acestea să se desprindă și eventual să cadă, să se spargă geamurile datorită, în special, deplasărilor laterale mari ale structurii precum și unor forțe perpendiculare pe acestea. Șocuri seismice ulterioare sau chiar greutatea proprie acestor elemente pot provoca dislocarea totală și căderea acestor elemente.
+ - Nivelul general de degradare. Dacă se constată fenomene de dislocare a panourilor, fisurare a acestora, spargerea geamurilor etc. pe o scară extinsă nivelul de avariere pune în evidență că întregul sistem de închidere reprezintă un risc pentru viața oamenilor. În acest caz întreaga zonă din jurul clădirii trebuie să fie declarată . CLĂDIRE CU ZONE NESIGURE.
+ - sistemele de ancorare ale pereților. Dacă de la exterior nu se constată avarii importante, este recomandabil, în cazul în care structura prezintă semne evidente de degradare, să se cerceteze zonele și detaliile de ancorare ale panourilor. De asemenea, se vor examina nivelurile care au suportat deplasări importante. Atât în cazul pereților căzuți cât și în cel în care s-au constatat legături ale acestora deteriorate sau rupte zona se va marca cu . CLĂDIRE CU ZONE NESIGURE
+c.
+Placaje ceramice. Placajele ceramice executate în special pe pereții plini de capăt ai clădirilor multietajate sunt în numeroase cazuri incorect executate, sau insuficient prinse de elementele suport. În multe cazuri, acțiunile climatice au deteriorat prinderea acestor placaje de suprafețele pe care le acoperă, accentuând pericolul de cădere a acestor placaje în cazul deplasărilor impuse clădirilor de acțiunea seismelor. Placajele ceramice, dacă nu au căzut în timpul producerii cutremurelor, prezintă un risc important de cădere fie datorită unor șocuri seismice ulterioare fie din greutatea lor proprie. Astfel, în cazul constatării dislocărilor sau a căderii placajelor, zona se va marca cu . CLĂDIRE CU ZONE NESIGURE
+A.1.12.
+Pereții despărțitori neportanți
+ Principala grijă care trebuie avută este ca acești pereți, degradați în timpul cutremurelor, să nu cadă ulterior, prezentând deci un pericol important pentru viața oamenilor.
+a.
+Nivelul general de degradare. În cazul în care seismul a avut ca efect prăbușirea unor pereți despărțitori sau aceștia au suferit degradări majore datorită fie deplasărilor relative de nivel excesive ale structurilor fie unor forțe de inerție perpendiculare pe planul acestora, în general, este recomandabil să se evacueze zona.
+ Pereți despărțitori prăbușiți, parțial prăbușiți sau puternic avariați CLĂDIRE CU ZONE NESIGURE
+b.
+Degradarea pereților din zidărie sau fâșii.
+ În clădirile cu structuri din beton armat pereții despărțitori sunt deseori afectați de acțiunea seismică. Pereții grei poziționați de obicei la casa scărilor, la ascensoare sau între două apartamente reprezintă un pericol important pentru viața oamenilor. Aceștia sunt tencuiți, fapt care face mai dificilă uneori identificarea lor iar, de obicei, după un seism chiar moderat apar fisuri și desprinderi ale acestora pe contur, la contactul lor cu structura de rezistență. Echipele de evaluare vor căuta să identifice fisurarea în X a pereților despărțitori, dislocarea acestora sau ieșirea lor din plan.
+ Pereți despărțitori fisurați, dislocați cu desprinderi puternice pe contur .. CLĂDIRE CU ZONE NESIGURE
+A.1.13.
+Tavane suspendate, corpuri de iluminat
+ De obicei cele mai importante avarii ale tavanelor suspendate apar în timpul cutremurului; se pot produce însă prăbușiri ale acestora și în perioada de după seism. Avariile pot afecta atât plăcile de tavan propriu-zise, rețeaua de susținere a acestora precum și elementele - corpurile de iluminat - atașate. În cadrul inspecției se va urmări în principal starea rețelei de susținere a tavanelor, a elementelor de prindere a acestei rețele de tavan și pereți etc.
+ Prăbușirea sau inițierea prăbușirii tavanelor .. CLĂDIRE CU ZONE NESIGURE
+A.1.14.
+Echipamente pentru instalații de gaze, încălzire, electrice
+ În cele mai multe cazuri echipamentele pentru instalații sunt afectate de acțiunea seismică datorită rezemării și ancorării lor incorecte. Elementele cu înălțime mare, grele sunt în mod special afectate. De asemenea, ele pot fi lovite sau deteriorate prin căderea unor alte echipamente insuficient ancorate.
+a.
+Echipamente pentru încălzire. Cazanele și boilerele pentru încălzirea clădirilor sunt alimentate cu combustibil lichid sau gaze naturale.
+ În cazul unor evenimente seismice severe lunecarea sau chiar răsturnarea unor echipamente neancorate sau slab ancorate sunt fenomene posibile. Se vor examina elementele de ancorare pentru identificarea unor indicii de lunecare, smulgere a ancorajelor precum și deteriorări datorită unor echipamente căzute în vecinătate. Se vor cerceta conductele de alimentare pentru identificarea unor zone sparte care să permită scurgerea combustibilului în special dacă s-au constatat lunecări sau deplasări ale echipamentului propriu-zis. De asemeni se vor cerceta coșurile de fum deoarece în cazul când acestea au fost fisurate sau deteriorate ele prezintă pericol de incendiu sau intoxicații cu oxid de carbon.
+ Echipamente răsturnate sau deplasate . CLĂDIRE CU ZONE NESIGURE
+ Conducte de alimentare cu combustibil rupte sau fisurate .. CLĂDIRE CU ZONE NESIGURE
+ Coșuri de fum sparte CLĂDIRE CU ZONE NESIGURE
+ În toate cazurile echipamentele respective nu vor fi utilizate.
+b.
+Conducte suspendate. Se vor cerceta elementele de rezemare ale acestora pentru identificarea eventualelor degradări.
+ Suporți care au cedat pot provoca ruperea în lanț a altora și uneori pot produce colapsul întregii rețele de conducte.
+ Serie de suporți cedați .. CLĂDIRE CU ZONE NESIGURE
+ Suporți cedați (în număr limitat și nu apropiat) .. CLĂDIRE CU ACCES LIMITAT
+c.
+Alte echipamente. Având în vedere că scopul principal al Evaluării tehnice post-seism este prevenirea accidentării oamenilor și a pierderii vieții acestora orice echipament de instalații va fi cercetat din punct de vedere al probabilității de a se răsturna și a accidenta oameni aflați în vecinătate. Se vor cerceta suporții pentru rezervoare/vase de expansiune suspendate sau alte elemente care ar putea să cadă în cazul producerii unei replici ulterioare a seismului.
+ Pericol de cădere . CLĂDIRE CU ZONE NESIGURE
+A.1.15.
+Ascensoare.
+ În cazul producerii unor cutremure severe ascensoarele sunt elemente care în majoritatea cazurilor vor fi afectate. În cadrul inspecției se vor cerceta: ancorajele și elementele de prindere ale motoarelor, poziția cablelor de tracțiune pe roțile tractoare, poziționarea corectă a cabinei pe șinele de ghidare, integritatea acestor șine și a prinderilor de structură, poziția contragreutății pe șinele de ghidare, funcționarea ușilor cabinei.
+a.
+În general ca o regulă generală ascensoarele nu vor fi utilizate după un cutremur. Dacă se presupun degradări, zona cu ascensoarele va fi marcată cu CLĂDIRE CU ZONE NESIGURE până când întreaga instalație va fi verificată de o întreprindere specializată. Ușile și butoanele de acționare vor fi marcate ca NESIGURE.
+ Degradări posibile .. CLĂDIRE CU ZONE NESIGURE
+b.
+Contragreutăți. Cel mai mare pericol pentru oameni îl reprezintă ieșirea contragreutății de pe șine. Principalul pericol îl reprezintă lovirea cabinei ascensorului cu contragreutatea și accidentarea în consecință a ocupanților acesteia. De asemeni, o contragreutate "deraiată" poate provoca degradarea șinelor de ghidare, a prinderii acestora și chiar a cablurilor de tracțiune.
+ Contragreutate "deraiată" . CLĂDIRE CU ZONE NESIGURE
+c.
+șinele de ghidare. La clădirile care au suferit deplasări puternice în timpul seismului șinele de ghidare se pot desface de ancoraje. De asemenea, ele nu își mai păstrează pozițiile permițând contragreutății să "deraieze".
+ Șine de ghidare deteriorate .. CLĂDIRE CU ZONE NESIGURE
+ Ancoraje rupte CLĂDIRE CU ZONE NESIGURE
+d.
+Motorul. Se va cerceta motorul propriu-zis, rolele de antrenare, și alte accesorii pentru depistarea unor eventuale ruperi ale ancorajelor a întregului echipament. Se va cerceta poziția cablelor de ridicare.
+ Cedarea ancorării motorului .. CLĂDIRE CU ZONE NESIGURE
+ Ieșirea cablelor din ghidaje . CLĂDIRE CU ZONE NESIGURE
+e.
+Uși. Uneori ușile ascensoarelor se blochează din cauza deplasării excesive a structurii. Se va cerceta fiecare ușă pentru a evidenția defecțiuni.
+ Defecțiuni ale ușilor CLĂDIRE CU ZONE NESIGURE
+ IMAGINI PRIVIND UNELE SITUAȚII CONSTATATE DUPĂ CUTREMURE DE MARE INTENSITATE
+ Preluate selectiv din "Documentare privind investigarea de urgență a siguranței post-seism a clădirilor și stabilirea soluțiilor cadru de intervenție", CNRRS, 2005, colaborare la elaborarea acestei metodologii
+Colapsul parțial și înclinarea pronunțată a tronsonului de colț al blocului 30 din Șoseaua Ștefan cel Mare 33, 
+structură de tip "parter flexibil" sau "slab". Demolarea tronsonului afectat a fost obligatorie (București, 1977)
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Colapsul total al tronsonului central al Centrului de Calcul Electronic al MTTc din strada Gării de Nord, București.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ "Scufundarea" și înclinarea unei întregi clădiri.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Înclinarea clădirii datorită zdrobirii stâlpilor de la primul nivel.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+Prăbușirea parțială a unei clădiri din centrul București. Construcția era un potențial pericol 
+atât pentru utilizatorii ei, cât și pentru trecători și pentru clădirile învecinate.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Colapsul construcției la primele două niveluri. Se impune demolarea ei.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Încercuirea zonei periculoase.
+Prăbușirea totală a unui tronson al blocului OD16 din Bulevardul Păcii 16. 
+Este necesară încercuirea ariei afectate până la înlăturarea resturilor construcției.
+ (București, 1977). CLĂDIRE CU ZONE NESIGURE
+ Clădire vizibil înclinată.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Bloc de apartamente înclinat datorită tasărilor diferențiate.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Clădire înclinată datorită lichefierii terenului de sub fundații.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+Construcția centrală grav avariată reprezintă un real pericol 
+pentru cele două clădiri adiacente. Se impune demolarea ei.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ Prăbușire de teren.
+ CLĂDIRE CU ZONE NESIGURE.
+ Tasarea construcției datorită cedării terenului.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ.
+ Tasarea construcției și ridicarea trotuarului ca urmare a lichefierii terenului.
+ CLĂDIRE NESIGURĂ - INTRAREA INTERZISĂ
+ IMAGINI PRELUATE DIN BAZA DE DATE ÎNCERC
+ Prăbușirea parțială a unei clădiri cu structura din zidărie și beton armat în 1977.
+ CLĂDIRE CU ZONE NESIGURE.
+Cedarea stâlpilor de la parter și prăbușirea fațadei unei structuri 
+pre-1940 cu schelet de beton armat în 1977.
+ CLĂDIRE NESIGURĂ-INTRAREA INTERZISĂ.
+ După seism, fațada și zona vecină deteriorată au fost a fost înlăturate, efectuând-se reparații locale.
+ Consolidarea finală s-a efectuat în 2004-2005
+Clădire care, aparent, nu prezintă avarii majore vizibile la exterior la cutremurul din 1977. 
+Examinarea detaliată în interior a arătat că betonul carbonatat era măcinat și zdrobit, 
+armătura grav afectată, astfel încât clădirea a fost condamnată și demolată.
+ CLĂDIRE NESIGURĂ-INTRAREA INTERZISĂ.
+Clădiri construite înainte de 1940 distruse la cutremurul din 1977. 
+Fiecare ansamblu construit s-a separat prin avariere în câteva părți. 
+Părțile din prim-plan și-au pierdut caracteristicile de structură sau clădire propriu-zisă, 
+fiind evident ruine și ar putea fi etichetate special de autorități 
+ca niște CLĂDIRI PRĂBUȘITE - RUINE, fără a se efectua inspecții post-seismice.
+ Părțile din fundal, din care s-au rupt secțiunile distruse, sunt parțial avariate dar ar fi putut fi inspectate, urmând a fi aplicate placarde, de ex. de "Clădiri nesigure". În fapt, la data respectivă părțile de clădire neprăbușite au fost demolate.
+Anexa A.2
+  Probleme speciale pentru clădiri adăpostind funcțiuni vitale
+  și/sau care prezintă pericol public.
+   Pre-certificarea stării clădirilor
+ Această abordare permite accesul anticipat la documentația privind structura și starea acesteia înainte de seism, inspectarea imediată în situații de urgență cu o evaluare rapidă și amănunțită a avariilor, prin persoane calificate, familiare cu proiectarea structurală și siguranța sistemelor vitale ale clădirii respective.
+ Pre-certificarea stării clădirilor pentru o evaluare tehnică rapidă are în vedere evitarea consecințelor grave care pot fi cauzate de întreruperea activității și/sau a locuirii și a se relua cât mai grabnic activitatea/utilizarea în siguranță, în următoarele cazuri:
+– clădirile de importanță vitală din clasa A conf. pct. 1.1 și/sau clădirile din clasele de importanță și expunere 1 și 2 potrivit Cod de proiectare seismică Partea I - "Prevederi de proiectare pentru clădiri", indicativ P100-1/2006;
+– clădirile care prezintă pericol public;
+– clădiri care au fost proiectate, expertizate sau consolidate de specialiști înscriși în echipele de evaluatori ai autorității locale respective;
+– cvartale cu un număr mare de clădiri realizate de institute de proiectare locale după proiecte repetitive/tipizate;
+– orice clădire sau grup de clădiri din marile ansambluri.
+ Acest tip de inspecție privată de urgență poate facilita luarea unor decizii rapide privind închiderea sau reocuparea unor zone/clădiri locuite (reducerea întârzierii inspectării, mai ales din cauza lipsei de personal care este trimis în zonele cel mai grav avariate, care nu cuprinde și zona în cauză)
+ În acest scop este necesar un contract cu o firmă și un expert atestat, încheiate, după caz, de instituția cu personalitate juridică din clădirea de importanță vitală, de primăria localității sau de asociațiile de proprietari.
+ În cazul în care aceste contracte și programe de inspecție sunt încheiate cu consultarea tehnică a Primăriei localității și a Inspectoratului de Stat în Construcții, deciziile luate de experți, măsurile și placardele aplicate pot avea aceeași valabilitate cu cele aplicate de inspectorii și inginerii delegați de autoritățile locale.
+ Proprietarul pune la dispoziția expertului cartea construcției și orice altă documentație potrivit Legii 10/1995 privind calitate în construcții și Normativului privind comportarea în timp a construcțiilor - P 130 - 1999, expertul urmând a completa datele prin investigații preseismice, identificând zonele semnificative și/sau critice din construcție care vor fi inspectate după cutremur spre a evalua imediat siguranța construcției.
+ Proprietarii persoane juridice și fizice care doresc să aplice acest sistem trebuie să parcurgă următoarele etape:
+– încheierea unui contract cu un expert atestat și/sau a o firmă pentru expertizare anticipată și inspectare în caz de urgență, pentru structură, instalații/echipamente etc., după caz;
+– pregătirea proiectului/planurilor clădirii; planșe structurale, arhitecturale și cu sistemele mecanice, de instalații vitale, descrierea oricăror defecte și avarii precedente; informații despre clădire (fotografia clădirii, adresa, descrierea clădirii - vechime, număr de etaje, dimensiuni, materiale), valoarea curentă estimată a clădirii, numărul de intrări în clădire, lista de utilizări clădire- birouri, apartamente etc.
+– pregătirea planului de expertizare /inspectare anticipată, obținerea de informații referitoare la clădire;
+– pregătirea documentației de precertificare pentru a fi comparată cu cea de la inspecția post-seism;
+– urmărirea periodică/anuală a stării clădirii;
+– consultarea tehnică a Primăriei localității și a Inspectoratului de Stat în Construcții; inspecția imediată după cutremur.
+ În cazul unui seism puternic, potrivit contractului, se inițiază programul de inspectare în decursul unui interval redus de timp (8.24 ore), se anunță proprietarul și se aplică placarde potrivit prezentei metodologii. Prezentarea raportului de evaluare detaliată se face în 72 de ore de la producerea situației de urgență și se aduce la cunoștința autorităților locale.
+ În cazul clădirilor proiectate conform unor normative recente, având proiect și documente pe faze specifice de execuție vizate de Inspectoratul de Stat în Construcții, procedura de evaluare va fi mai simplă și există premisele pentru a se lua rapid decizia de aplicare a placardei adecvate.
+Anexa A.3
+ Soluții cadru pentru sprijiniri provizorii, materiale, scule, echipamente.
+ Reguli de realizare a sprijinirilor provizorii
+ Sprijinirea structurilor avariate de cutremur are ca scop asigurarea funcționalității acestora și prevenirea unei eventuale prăbușiri, până la executarea consolidării.
+ În principiu, sprijinirile preiau încărcările verticale ale elementelor de susținere rupte (stâlpi, grinzi).
+ De obicei, sprijinirile se fac cu lemn rotund, respectiv cu bile din lemn de brad având diametre cuprinse între 12-18 (20) cm - Fig. A.3.1.a, cu popi metalici extensibili de inventar - Fig. A.3.1.b sau cu eșafodaje metalice de inventar Fig. A.3.1.c.
+ Sprijinirile constituie măsuri de "prim ajutor" și se execută pe baza unor schițe și a unor calcule sumare, efectuate la fața locului, neexistând timpul necesar întocmirii unor proiecte propriu-zise.
+ La executarea sprijinirilor trebuie avute în vedere o serie de reguli, după cum urmează:
+a)
+Punerea sub sarcină a sprijinirii se face prin împănare (fig. A.3.2)
+ Penele se execută din lemn de esență tare (stejar, fag) având în vedere că ele sunt încărcate perpendicular pe fibră, spre deosebire de popi care sunt încărcați în lungul fibrelor. Se prevăd totdeauna două pene, astfel alese încât prin suprapunere să realizeze două fețe paralele.
+ Penele se bat cu ciocanul, dar nu se forțează excesiv pentru a nu rupe elementele structurii. Periodic, penele se controlează și se bat din nou, pentru a se asigura lucrul efectiv al popilor.
+b)
+Reacțiunea transmisă de popi trebuie să se repartizeze pe o suprafață corespunzătoare
+ Popii nu trebuie rezemați direct pe pământ sau pe trotuare din asfalt sau din straturi subțiri de beton (fig. A.3.3). Pentru transmiterea reacțiunii popului la teren se prevăd traverse din lemn de esență tare, (traverse pentru căi ferate) care, la terenuri slabe, se dispun în formă de rețea creând aria necesară (fig. A.3.3 b și c).
+ Pentru a calcula forța capabilă pe care o poate transmite popul, se poate conta pe o rezistență admisibilă medie a acestora de cca. 120 daN/cm2. Rezultă o forță capabilă a unui pop cu diametrul de 20 cm de cca. 30 tf.
+c)
+Popii trebuie solidarizați între ei prin contravântuiri
+ Contravântuirile au următoarele roluri:
+c.1)
+În situațiile în care clădirea nu poate asigura împiedicarea tendinței de deplasare laterală a întregului sistem, contravântuirile vor asigura ca sistemul de popi să fie structuri stabile.
+ În acest scop se leagă popii între ei cu scânduri sau șipci bătute în cuie dispuse astfel încât să închidă (împreună cu popii) triunghiuri nedeformabile (fig.5.4). În acest fel sistemul de popi și scânduri se transformă în grinzi cu zăbrele cu rigiditate mare la deplasări laterale.
+c.2)
+Împiedică tendința de flambaj a popilor lungi (fig. A.3.4.b). Trebuie urmărit ca împiedicarea flambajului individual al popilor să se facă pe ambele direcții.
+ Distanța "d" între punctele de fixare a popilor cu secțiunea circulară cu diametrul "a" se poate lua:
+ d ≤ 15 a
+ admițându-se la popii care suportă încărcări mici:
+ d ≤ 30 a.
+d)
+Popii nu trebuie să rezeme pe elementele structurale orizontale, ci reacțiunea lor trebuie transmisă până la teren
+ În cazul avarierii unui element structural vertical (stâlp, perete) de la parter, sprijinirea se va realiza conform Fig. A.3.5.a.
+ Să presupunem însă că, la o structură s-au rupt stâlpii la etajul II, astfel încât aceasta trebuie sprijinită. Dacă popii s-ar rezema pe grinzile etajului inferior (fig. A.3.5.b) greutatea etajelor superioare ar supraîncărca aceste grinzi care ar putea să se rupă. Soluția corectă este de a continua sprijinirea până la pământ (fig. A.3.5.c).
+ Sprijinirea lucrează în totalitatea ei atunci când popii sunt bine împănați, la toate etajele. Împănarea trebuie făcută treptat, altfel se rup grinzile structurii fixate prin popi. Împănarea se începe de la etajele inferioare către cele superioare. Trebuie urmărită coliniaritatea cât mai exactă a popilor.
+e)
+Greutatea etajelor superioare trebuie preluată treptat de către sprijinire și nu brusc, la un singur nivel.
+ Aceasta se realizează continuând sprijinirea pe încă cca. 2 nivele deasupra etajului deteriorat (fig. A.3.6).
+ Dacă s-ar sprijini numai etajul la care stâlpul este rupt (fig. A.3.5.b), grinda acelui etaj ar trebui să transmită sprijinirii toată forța axială care revenea stâlpului rupt. Ea ar fi astfel în pericol de a se rupe, mai ales că reacțiunea popului (forța concentrată în apropierea reazemului, dirijată de jos în sus), constituie o încărcare cu totul diferită de cele la care a fost proiectată grinda. Continuând sprijinirea și deasupra nivelului la care s-a rupt stâlpul, forța axială se transmite treptat sprijinirii prin grinzile mai multor etaje, (fig. A.3.5.c).
+f)
+Sprijinirea trebuie proporționată potrivit sarcinii care îi revine. Nu trebuie risipit material lemnos, atât de necesar după cutremure, sprijinind excesiv elemente ușoare (balcoane, grinzi rupte local), sau care își găsesc echilibrul chiar și fără sprijiniri, cum ar fi scările în mai multe rampe sau scările în spirală. În schimb stâlpii etajelor inferioare, care suportă încărcări importante și sunt elemente vitale pentru stabilitatea și rezistența structurii, trebuie asigurați - atunci când sunt rupți - prin sprijiniri adecvate.
+g)
+Sprijiniri diagonale
+ Sprijinirea provizorie a unui element structural vertical (stâlp, perete) se poate realiza cu diagonale de lemn sau metalice, îmbinate fest, pentru a acționa ca elemente comprimate - vezi fig. A.3.7.
+h)
+Sprijinirea grinzilor avariate
+ Grinzile avariate se pot sprijini provizoriu cu popi de lemn sau metalici, verticali sau înclinați poziționați în zonele afectate - vezi fig. A.3.8.
+i)
+Sprijinirea pereților din zidărie
+ În Fig. A.3.9 este arătat un exemplu de sprijinire provizorie a unui perete din zidărie pentru cazul avarierii unui șpalet iar în Fig. A.3.10 se prezintă un detaliu de sprijinire a unei bolți.
+j)
+Sprijinirea pereților dizlocați, care tind să se răstoarne odată cu peretele
+ Un exemplu de rezolvare greșită a unei astfel de sprijiniri este dat în fig. A.3.11.
+ În Fig. A.3.12 se prezintă exemplificări de sprijiniri orizontale ale pereților iar în Fig. A.3.13 de sprijiniri orizontale și verticale ale acestora.
+ Figura A.3.1
+ Figura A.3.2
+ Figura A.3.3
+ Figura A.3.4
+ Figura A.3.5
+ Figura A.3.6
+ Figura A.3.7
+ Figura A.3.8
+ Figura A.3.9
+ Figura A.3.10
+ Figura A.3.11
+ Figura A.3.12
+ Figura A.3.13
+ Exemple de consolidări de urgență și de consolidări temporare
+ Susținerea etajelor superioare utilizând cricuri și profile metalice dublu T.
+ Susținerea cu ajutorul unor straturi încrucișate de grinzi de lemn.
+ Susținerea etajelor superioare utilizând cricuri și profile metalice.
+ Susținerea prin introducerea unor stâlpi sau pereți adiționali din beton.
+ Susținerea cu popi metalici în jurul stâlpilor puternic degradați.
+ Susținerea cu elemente metalice lângă un stâlp degradat prin sfărâmarea betonului
+ Susținerea cu popi și contravântuiri de lemn în jurul stâlpilor puternic degradați. (București, 1977)
+Anexa A.4
+  Soluții cadru pentru reparații rapide locale la structuri
+   din zidărie, beton, metal, lemn etc.
+A.4.1.
+Reparații locale
+ Realizarea unor niveluri de protecție antiseismică adecvată construcțiilor expuse acțiunilor seismice de mare intensitate se face prin operațiile de expertizare tehnică, prin proiectarea și execuția măsurilor de intervenție în condițiile definite în reglementările în vigoare. Ele presupun un efort tehnic și financiar considerabil, precum și o perioadă de timp corespunzătoare. În anumite situații particulare, poate să apară necesitatea realizării unor lucrări de intervenție locală (reparații) de urgență, în perioada imediat următoare producerii unui cutremur de mare intensitate, fără a se putea urmări metodologia de evaluare, stabilirea deciziei de intervenție, proiectarea lucrărilor de intervenție, inclusiv de avizare, prevăzute în reglementările în vigoare.
+ Reparațiile locale de urgență, efectuate în asemenea situații nu înlocuiesc măsurile definitive de intervenție, care vor trebui realizate ulterior, în condițiile prevăzute în reglementările în vigoare.
+ Reparațiile locale de urgență vor fi astfel concepute încât să nu stânjenească realizarea măsurilor definitive de intervenție.
+A.4.2.
+Repararea structurilor cu pereți structurali din zidărie
+a.
+Tipuri de construcții cu pereți structurali
+ Construcțiile cu pereți structurali din zidărie de cărămidă au fost mult folosite înainte de anul 1940. În ultimii 30 de ani acest sistem constructiv a fost relativ puțin folosit, iar pereții structurali au fost asociați de obicei - cu planșee, centuri și sâmburi din beton armat rezultând astfel structuri cu o comportare la cutremur sensibil îmbunătățită.
+ Atenția capitolului de față este îndreptată, în primul rând, către construcțiile vechi din zidărie care sunt în mai mare măsură vulnerabile la acțiuni seismice.
+ Sistemele constructive ale acestor construcții sunt corelate, de obicei, cu numărul de niveluri. Distingem astfel:
+(1)
+Construcții cu P P+2 niveluri - sunt realizate cu planșee din lemn iar pereții pot fi lipsiți de centuri;
+(2)
+Construcții cu până la P+4 niveluri - planșeele pot fi realizate din bolțișoare de cărămidă rezemate pe grinzi metalice; pereții sunt uneori întăriți cu centuri din beton armat; scările sunt din lemn, piatră cioplită sau din beton armat.
+(3)
+Construcții cu până la P+7 niveluri - pereții structurali din zidărie pot fi asociați cu stâlpi din beton armat; planșeele pot fi din bolțișoare de cărămidă și grinzi metalice sau din beton armat; pereții sunt de obicei întăriți cu centuri din beton armat; scările sunt din beton armat.
+ Sistemele constructive descrise sunt cele mai caracteristice pentru construcțiile respective; există, desigur și alte combinații de elemente structurale pentru aceste construcții, mai ales la construcțiile mai noi, la care betonul armat a fost din ce în ce mai mult utilizat.
+b.
+Degradări caracteristice la construcțiile vechi cu pereți structurali
+ Degradările construcțiilor cu pereți structurali în urma cutremurelor de mare intensitate se diferențiază funcție de sistemul lor constructiv.
+ Construcțiile joase, descrise la punctul (1) al paragrafului precedent, prezintă următoarele tipuri de degradări:
+ Planșeele de lemn sunt solicitate în planul lor ceea ce face să se constate (fig. A.4.1).
+– o rețea de fisuri neregulate, foarte caracteristice, în tencuiala tavanului;
+– desprinderea scafei de perete;
+– mișcarea grinzilor de lemn din reazemele lor (pereții structurali).
+ La pereți se constată:
+– o tendință de desfacere, mai pronunțată la etajele superioare, manifestată prin crăpături puternice în lungul intersecțiilor (fig. A.4.2). Această tendință se datorează lipsei de legături sigure ale pereților prin centuri sau prin pereți transversali suficienți de deși și bine țesuți. Tendința este accentuată de prezența bovindourilor (prelungiri în consolă ale încăperilor etajelor superioare) care tind să se smulgă (fig. A.4.3);
+– la nivelele inferioare, crăpături diagonale în pereți mai ales în șpaleții pereților de fațadă (fig. A.4.4.a).
+ Aceste crăpături se datorează acțiunii forțelor tăietoare provocate de încărcările seismice orizontale. Fisurile oblice în șpaleți sunt periculoase; ele crează un plan de lunecare, zidăria pierzându-și astfel capacitatea de a prelua încărcări verticale (fig. A.4.4.b).
+ La construcțiile din categoriile (2) și (3) definite în paragraful precedent este mai puțin marcată tendința de desfacere a pereților arătată în fig. A.4.2. În schimb sunt foarte frecvente crăpăturile în diagonală în pereți, atât în șpaleții pereților de fațadă cât și în pereții interiori. Aceste crăpături sunt mai puternice la nivelele inferioare, acolo unde forțele tăietoare generate de încărcările orizontale seismice sunt maxime.
+c.
+Remedierea degradărilor construcțiilor cu pereți structurali
+ La planșeele de lemn fisurile din tencuiala tavanelor, deși spectaculoase, sunt lipsite de importanță, cu condiția ca grinzile să nu fie putrezite la reazeme. Ele se repară prin chituire sau prin retencuirea porțiunilor cu tencuială căzută.
+ Repararea pereților trebuie să aibă în vedere:
+– asigurarea împotriva desfaceri pereților;
+– asigurarea preluării încărcărilor verticale, mai ales în situațiile cu cele din fig. A.4.4;
+– crearea unor planuri verticale rezistente la forțe orizontale.
+ Asigurarea împotriva dizlocării (desfacerii) pereților se face prin executarea de tiranți metalici sau prin centuri de beton armat.
+ Tiranții se fac de obicei din oțel beton cu diametrul de 18 32 mm, funcție de grosimea peretelui și de încărcările ce revin acestuia. De preferință tiranții se dispun cât mai distribuit pe înălțimea clădirii (fig. A.4.5) și a peretelui (fig. A.4.6). De obicei tiranții se pun perechi de o parte și de alta a pereților transversal pe planul peretelui dizlocat. Peretele dizlocat este fixat de către tiranți prin intermediul unor plăci de repartiție care este bine să fie cu dimensiuni cât mai mari și cât mai rigide. Plăcile de repartiție se pot îngloba în centuri din beton armat ca în fig. A.4.7. În aceste cazuri tirantul se întinde cu ajutorul unor manșoane dublu filetate. Centurile astfel realizate constituie o bună legătură a pereților.
+ Șpaleții crăpați diagonal ca în fig. A.4.4 se repară cel mai sigur prin rezidire. Se execută sprijiniri pe lățimea ferestrelor - vezi fig. A.3.9, se demolează șpaletul degradat și apoi se rezidește.
+ Pereții plini puternic crăpați se consolidează prin placare cu beton armat, preferabil torcretat. Placarea se face pe ambele fețe, prevăzându-se legături din beton armat ("dopuri") între cele două placaje. Pe această cale se obțin planuri rezistente atât la forțe verticale cât și la forțe orizontale.
+ Fisurile mai puțin extinse pot fi reparate local prin tencuire cu mortar de ciment aplicat peste o plasă din bare de oțel beton (fig. A.4.8).
+ Fisurile locale, în pereți cu rol secundar în asigurarea rezistenței ansamblului, pot fi reparate prin injectare cu mortar de ciment.
+ În cazul avarierilor extinse la clădirile din materiale locale (chirpici, ceamur, pământ bătut), este în general dificil și nerentabil să se aplice soluții inginerești, optându-se pentru reconstrucție.
+A.4.3.
+Repararea elementelor cadrelor din beton armat
+ STÂLPII avariați datorită eforturilor de compresiune mari (fig. A.4.9.a), a compresiunii excentrice (fig. A.4.9.b) sau a forțelor tăietoare (fig. A.4.9.c) pot fi reparați, în principiu, prin două procedee:
+– tăierea completă a stâlpului (demolare) și returnare, după ce s-au luat măsuri pentru asigurarea continuității armăturii, cu porțiunile de stâlp rămase. Când este necesar, porțiunea de construcție care a suferit deplasări pe verticală datorită ruperii stâlpului se readuce în poziția inițială prin ridicare cu ajutorul unor prese hidraulice. Printre procedeele de returnare a stâlpilor demolați care au dat rezultate bune este și procedeul PREPAKT care constă, în principiu, în introducerea în cofraj numai a agregatelor, care se injectează apoi cu mortar de ciment sub presiune; returnarea stâlpilor se poate executa, de asemenea, cu betoane realizate cu cimenturi cu întărire rapidă;
+– cămășuirea stâlpului rupt cu beton armat sau cu o cămașă metalică;
+– o măsură de intervenție provizorie eficientă este și prevederea unor sprijiniri metalice capabile să preia încărcările verticale ce revin stâlpului în cauză.
+ Cămășuirea este un procedeu larg folosit în consolidarea structurilor de beton armat, de aceea ne oprim mai atent asupra ei.
+ Cămășuirea propriu-zisă este precedată de înlăturarea porțiunilor de beton avariate (care cedează ușor la lovituri de ciocan) și curățirea elementului de tencuieli, ornamente etc. De obicei nu este necesar a sparge betonul nedegradat, nici a-l ciopli pentru a-i da rugozitate, operații dificile și costisitoare și care nu influențează calitatea cămășuirii. De asemenea, nu este nevoie - de obicei - să se dezvelească armăturile vechi.
+ Atunci când cămășuirea traversează planșee, întinzându-se pe mai multe nivele, asigurarea continuității se realizează fie prin spargerea și returnarea capetelor de grindă, fie prin trecerea armăturilor prin găuri sparte în plăci și cămășuirea în zona nodului. După montarea armăturilor și a cofrajelor, betonul vechi se udă abundent cu apă (intermitent, timp de 24 ore) pentru a nu sorbi laptele de ciment din betonul nou.
+ Cămășuirea constă dintr-o coajă de beton armat cu grosimea minimă de 8 cm (beton turnat), respectiv 5 cm (beton torcretat), grosimea curentă fiind de 12-15 cm. Se prevăd armături transversale sub formă de etrieri și agrafe pentru stabilizarea armăturilor longitudinale.
+ Un exemplu de cămășuire cu beton a stâlpilor este prezentat în fig. A.4.9.a.
+ Cămășuirea metalică se realizează cu profile laminate (corniere) solidarizate cu plăcuțe sau zăbreluțe vezi fig. A.4.10.b..
+ Problema principală la acest tip de cămășuire o constituie asigurarea conlucrării profilelor metalice cu structura din beton armat. În principiu, există următoarele posibilități pentru realizarea conlucrării:
+– aplicarea unei cămășuieli suplimentare, ușoare, din beton armat, pe toată înălțimea stâlpului; în acest caz se lasă un anumit spațiu între profile și betonul vechi care să permită intrarea unui strat de beton care să asigure conlucrarea;
+– injectarea cu rășini epoxidice a spațiului dintre profile și beton;
+– executarea unei cămășuieli locale, sub forma unui guler de beton armat, în dreptul nodului cadrului.
+b)
+Grinzile avariate - vezi fig. A.4.11.a, b, c - se repară, în mod curent, prin cămășuire
+ Soluția cea mai severă de remediere o constituie cămășuirea. Un exemplu de cămășuire simplă este dat în fig. A.4.12. Operațiile sunt similare cu cele de la cămășuirea stâlpilor. Se prevăd, la cca. 80 cm găuri în placă pentru betonare. Este bine ca turnarea să se facă pe o parte a grinzii, urmărind umplerea totală a cofrajului și apariția betonului în găurile de pe cealaltă parte a grinzii (fig. A.4.12). Se folosește beton cu o foarte bună lucrabilitate, cu agregate cu granulometrie bine studiată și cu dozaj sporit de ciment. Prin găurile pentru betonare se trec etrieri închiși care îmbunătățesc conlucrarea între coaja de beton și ansamblul placă-grindă. În același scop se poate face și o suprabetonare a plăcii chiar dacă aceasta nu este deteriorată.
+ S-au utilizat și cămășuieli de grinzi la care s-a evitat perforarea plăcii, betonarea făcându-se prin introducere de beton sub presiune în cofrajul bine etanșat și prevăzut cu orificii pentru aerisire și pentru controlul bunei betonări.
+ Atunci când se urmărește refacerea sau sporirea capacității portante numai la încovoiere (forțele tăietoare sunt preluate fără dificultăți) se poate executa o soluție ca în fig. A.4.13. Această soluție este deosebit de avantajoasă la grinzile înalte sau în cazul plăcilor groase, dificil de perforat.
+ Indiferent de tipul de cămășuire, o problemă de bază o constituie asigurarea conlucrării cămășuielii cu stâlpii structurii. Pentru aceasta, armăturile longitudinale, nu se opresc la fața stâlpului ci trebuie luate măsuri pentru legarea acestora de stâlp. O soluție recomandabilă o constituie amenajarea unui capitel în jurul stâlpului, în care să se ancoreze armăturile și să se asigure continuitatea transmiterii eforturilor (fig. A.4.14). Armăturile longitudinale în cămășuire se termină la fața stâlpului, prin ciocuri puternice dezvoltate în plan orizontal. Continuitatea este asigurată prin armăturile din capitel.
+ Fisurile care nu diminuează sensibil capacitatea portantă a grinzilor pot fi tratate prin injectare cu rășini epoxidice. Aceste rășini, în cazul grinzilor, servesc mai ales pentru asigurarea continuității materialului (beton) și pentru protecția armăturilor. Ele nu restabilesc aderența între oțel și beton (dacă aceasta s-a deteriorat în urma lunecării armăturilor).
+A.4.4.
+Repararea sistemelor cu pereți structurali din beton armat
+a)
+Pereți plini
+ Soluția cea mai sigură de reparare a pereților plini o constituie placarea cu beton armat. Rezultatele cele mai bune se obțin atunci când placajul se execută pe ambele fețe ale elementelor. Grosimea minimă a placajului este de 8 cm la beton turnat și 5 cm la beton torcretat. Armăturilor verticale li se asigură continuitatea prin mustăți care trec prin găuri practicate în planșee la distanțe de cca. 80-100 cm.
+ Deteriorarea zonei comprimate de beton (fig. A.4.15-2) este o avarie foarte periculoasă: ea precede cu puțin ruperea totală a peretelui structural și prăbușirea structurii. Măsurile care se iau atunci când se constată asemenea avarii trebuie să fie foarte severe. Pe lângă placarea peretelui respectiv trebuie luate măsuri pentru întărirea zonei comprimate prin amenajarea de bulbi armați corespunzător longitudinal și transversal.
+ Fisurile înclinate provocate de forțele tăietoare (fig. A.4.15-3) se tratează diferit, funcție de importanța peretelui în asigurarea rezistenței și stabilității ansamblului. Pereții cu rol hotărâtor pentru siguranța sistemului structural se repară sau se consolidează prin placare. În cazurile în care pe direcția peretelui avariat există suficiente elemente capabile să preia forțe orizontale, iar peretele în cauză își păstrează capacitatea de a prelua momente încovoietoare, fisurile înclinate se pot repara prin injectare cu rășini epoxidice restabilind astfel continuitatea betonului din inimă.
+ Fisurile orizontale de sub planșee (după direcția rostului de turnare fig. A.4.15-4) sunt, în general, puțin periculoase și pot fi reparate prin injectare.
+b)
+Rigle de cuplare
+ Grinzile de cuplare sunt elemente specifice ale pereților cu goluri; ele constituie "prima linie de rezistență" a peretelui, respectiv, sunt primele elemente care se plastifică la suprasolicitările generate de un cutremur de mare intensitate. Ele pot fi avariate din încovoiere (fig. A.4.16-1) sau din acțiunea forțelor tăietoare (fig. A.4.16-2).
+ Restabilirea rezistenței și rigidității riglelor de cuplare este de mare importanță pentru comportarea ulterioară a structurii. Riglele puternic avariate pot fi reparate prin demolare și rebetonare. Operația reușește atunci când betonul este de calitate slabă și poate fi înlăturat fără a afecta prea mult armăturile. De obicei, armăturile existente trebuie completate cu armături noi (armături longitudinale și etrieri). Problema care se pune în acest caz este asigurarea ancorajului armăturilor longitudinale. Ea poate conduce la necesitatea prevederii unei lățimi mai mari a riglei decât grosimea peretelui și prelungirea ei pe cei doi șpaleți învecinați sub formă de placaj.
+ Riglele care nu pot fi ușor demolate se consolidează prin placare, procedeul fiind asemănător celui utilizat la consolidarea pereților plini.
+A.4.5.
+Repararea structurilor metalice și a celor combinate cu beton armat
+ Potrivit precizărilor din Anexa A.1, pct. A.1.8, se recomandă ca structurile de acest tip să fie evaluate de specialiști la nivel de expert tehnic, care vor stabili și măsurile de intervenție, iar dacă este cazul se vor aplica prevederile din cap. 3.1 și Anexa A.2, din Metodologie "Probleme speciale pentru clădiri ce adăpostesc funcțiuni vitale sau care prezintă pericol public".
+ În cazul structurilor vechi, cu elemente de metal înglobate în zidărie sau beton armat, se vor analiza starea fiecărui material și posibilitățile efective de conlucrare viitoare, optându-se, de la caz la caz, pentru reparare-refacere sau înlocuire a structurii portante.
+A.4.6.
+Repararea structurilor din lemn
+ În cazul structurilor pentru clădiri importante sau cu grad mare de ocupare cum ar fi: biserici, săli de sport, clădiri cu destinație comercială, etc., precum și în cazul clădirilor realizate industrial de firme de construcții, soluția de reparare va fi dată de specialiști la nivel de expert tehnic, cu experiență în acest tip de clădiri, cu participarea proiectanților soluțiilor respective, potrivit precizărilor din cap. 3.1 și Anexa A.2, din Metodologie "Probleme speciale pentru clădiri ce adăpostesc funcțiuni vitale sau care prezintă pericol public".
+Ordonanța de Urgență a Guvernului nr. 21/2004 privind Sistemul național de management al situațiilor de urgență
+2.
+HG nr. 1.491/2004 pentru aprobarea Regulamentului cadru privind structura, organizarea, atribuțiile, funcționarea și dotarea Comitetelor ministeriale și Centrelor operative pentru situații de urgență
+3.
+HG nr. 2.289/2004 privind funcțiile de sprijin în cadrul privind Sistemului național de management al situațiilor de urgență
+4.
+Ordinul MTCT 2289/2004 pentru aprobarea Regulamentului privind structura, organigrama, atribuțiile, funcționarea, dotarea și constituirea Comitetului ministerial și Centrului operativ din cadrul MTCT
+5.
+REGULAMENT privind prevenirea și gestionarea situațiilor de urgență specifice riscului la cutremure și/sau alunecări de teren. ANEXA la Ordinul comun MTCT/MAI nr. 1.995 - 1.160/2005-2006;
+6.
+NORMATIV privind planul de apărare în cazul producerii unei situații de urgență specifice provocate de cutremure și/sau alunecări de teren. Anexa B la Regulament
+7.
+Ordonanța Guvernului României privind reducerea riscului seismic al construcțiilor existente, nr. 20/1994.
+8.
+Legea nr. 10/1995 privind calitatea în construcții. Monitorul Oficial al României, partea I nr. 12/24.I.1995.
+9.
+Cod de proiectare seismică Partea I - "Prevederi de proiectare pentru clădiri", indicativ P100-1/2006, aprobat de MTCT cu ordinul nr. 1711/19.09.2006, publicat în Monitorul Oficial Partea I, anul 174 (XVIII) - Nr. 803 din 25 septembrie 2006 și în Buletinul Construcțiilor vol. 12-13/2006.
+10.
+Normativ pentru proiectarea antiseismică a construcțiilor de locuințe, social-culturale, agrozootehnice și industriale. Indicativ P 100-92, cap. 11 și 12;
+11.
+Cod de proiectare pentru structuri din zidărie, indicativ CR6-2006, aprobat de MTCT cu ordinul ~nr. 1.712~/19.09.2006. publicat în Monitorul Oficial.
+12.
+Manualul pentru investigarea de urgență post-seism și stabilirea soluțiilor cadru de intervenție imediată pentru punerea în siguranță provizorie a construcțiilor avariate, indicativ ME-003-99, Buletinul Construcțiilor nr. 2/1999. MLPAT, 1999
+ 

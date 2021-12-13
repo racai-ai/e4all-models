@@ -1,0 +1,134 @@
+
+ORDIN nr. 577 din 29 aprilie 2008
+privind aprobarea reglementării tehnice "Normativ pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2007"
+Publicat în 
+ 
+MONITORUL OFICIAL nr. 374 din 16 mai 2008
+În conformitate cu prevederile art. 38 alin. (2) din Legea nr. 10/1995 privind calitatea în construcţii, cu modificările ulterioare, ale art. 2 alin. (4) din Regulamentul privind tipurile de reglementări tehnice şi de cheltuieli aferente activităţii de reglementare în construcţii, urbanism, amenajarea teritoriului şi habitat, aprobat prin Hotărârea Guvernului nr. 203/2003, cu modificările şi completările ulterioare, şi ale Hotărârii Guvernului nr. 1.016/2004 privind măsurile pentru organizarea şi realizarea schimbului de informaţii în domeniul standardelor şi reglementărilor tehnice, precum şi al regulilor referitoare la serviciile societăţii informaţionale între România şi statele membre ale Uniunii Europene, precum şi Comisia Europeană,
+având în vedere Procesul-verbal de avizare nr. 1 din 21 aprilie 2008 al Comitetului tehnic de coordonare generală al Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor,
+în temeiul art. 1 alin. (1) şi alin. (2) lit. d), al art. 4 pct. 22 şi al art. 10 alin. (5) din Hotărârea Guvernului nr. 361/2007 privind organizarea şi funcţionarea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, cu modificările şi completările ulterioare,
+ministrul dezvoltării, lucrărilor publice şi locuinţelor emite următorul ordin:
+Articolul 1
+Se aprobă reglementarea tehnică "Normativ pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2007", elaborată de Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti, prevăzută în anexa care face parte integrantă din prezentul ordin.
+Articolul 2
+Prezentul ordin se publică în Monitorul Oficial al României, Partea I, şi intră în vigoare la 60 de zile de la data publicării.
+Articolul 3
+La data intrării în vigoare a prezentului ordin, orice dispoziţii contrare privind producerea betonului, inclusiv cele precizate în reglementarea tehnică "Cod de practică pentru executarea lucrărilor din beton, beton armat şi beton precomprimat, indicativ NE 012-1999", îşi încetează aplicabilitatea.
+Articolul 4
+ 
+(1) Până la data intrării în vigoare a prezentului ordin, Direcţia generală tehnică în construcţii va coordona elaborarea codului de practică pentru producerea betonului, rezultat prin comasarea textelor următoarelor documente tehnice:
+  
+- reglementarea tehnică "Normativ pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat - Partea 1: Producerea betonului, indicativ NE 012/1-2007";
+- standardul SR EN 206-1:2002 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate", cu amendamentele SR EN 206-1:2002/A1:2005 şi SR EN 206-1:2002/A2:2005 şi erata SR EN 206-1:2002/C91:2008; şi
+- standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002", cu erata SR 13510:2006/C91:2008.
+ 
+(2) Documentul tehnic unificat, rezultat prin comasarea textelor documentelor tehnice prevăzute la alin. (1), se publică sub denumirea "Cod de practică pentru producerea betonului, indicativ CP 012/1-2007", în condiţiile legii şi cu avizul Comitetului tehnic de coordonare generală al Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, în:
+  
+- Buletinul standardizării, editat de Asociaţia de Standardizare din România, depozitarul standardelor menţionate la alin. (1); şi
+- Buletinul Construcţiilor, editat de Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti, unitate aflată în coordonarea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, cu respectarea prevederilor art. 22 din Ordonanţa Guvernului nr. 39/1998 privind activitatea de standardizare naţională, aprobată cu modificări şi completări prin Legea nr. 355/2002, cu completările ulterioare.
+Ministrul dezvoltării,
+lucrărilor publice şi locuinţelor,
+Laszlo Borbely
+Bucureşti, 29 aprilie 2008.
+Nr. 577.
+Anexa 
+ 
+NORMATIV
+pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat
+Partea 1: PRODUCEREA BETONULUI
+ Indicativ NE 012/1-2007
+Articolul 1
+Reglementarea tehnică "Normativ pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat" cuprinde două părţi, şi anume:
+- Partea 1: Producerea betonului;
+- Partea 2: Executarea lucrărilor din beton.
+Prezenta reglementare tehnică reprezintă prima parte a documentului "Normativ pentru producerea betonului şi executarea lucrărilor din beton, beton armat şi beton precomprimat", respectiv "Partea 1: Producerea betonului", indicativ NE 012/1-2007".
+Articolul 2
+Producerea betonului pe teritoriul României se realizează în baza şi cu respectarea prevederilor standardelor:
+- SR EN 206-1:2002 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate", cu amendamentele SR EN 206-1:2002/A1:2005 şi SR EN 206-1:2002/A2:2005 şi erata SR EN 206-1:2002/C91:2008;
+- SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002", cu erata SR 13510:2006/C91:2008, şi a următoarelor precizări:
+ 
+a) La capitolul 4 punctul 4.1, subpunctul 4.1.1 "Semnificaţia claselor de expunere" din standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002", Tabelul 1 "Clase de expunere" se completează cu o nouă notă, nota 2, cu următorul cuprins:
+  
+"NOTA 2 - Când betonul este expus la atac chimic care provine din atmosfera cu agenţi agresivi în stare gazoasă şi solidă, clasificarea se face după cum se indică în anexa I la prezentul normativ. În acest caz, cerinţele privind materialele componente şi betonul sunt prevăzute în "Instrucţiunile tehnice pentru protecţia elementelor din beton armat şi beton precomprimat supraterane în medii agresive naturale şi industriale", indicativ C170."
+ 
+b) La capitolul 5 punctul 5.1, subpunctul 5.1.3 "Agregate" din standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002", nota se completează după cum urmează:
+  
+"NOTĂ - Utilizarea agregatelor din betonul reciclat se face conform SR EN 13242 "Agregate din materiale nelegate sau legate hidraulic pentru utilizare în ingineria civilă şi în construcţii de drumuri" şi pe baza agrementelor tehnice pentru domenii de utilizare a agregatelor care nu fac obiectul standardului."
+ 
+c) La capitolul 9 "Controlul producţiei", punctul 9.6, subpunctul 9.6.1 "Personal" din standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002" se completează cu o nouă notă, nota 2, cu următorul cuprins:
+  
+"NOTA 2 - Cerinţele privind calificarea şi experienţa profesională ale responsabilului pentru controlul producţiei sunt prezentate în anexa O la prezentul normativ."
+ 
+d) După anexa H la standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002" se introduce o nouă anexă, anexa I (normativă), cu următorul cuprins:
+  
+"ANEXA I
+────────
+(normativă)
+────────────
+Clasificarea mediilor atmosferice agresive asupra elementelor din beton armat şi beton precomprimat supraterane
+Mediile atmosferice agresive luate în considerare în prezentul normativ se clasifică în 4 clase de agresivitate asupra elementelor din beton armat şi beton precomprimat:
+XA 1b - medii cu agresivitate foarte slabă;
+XA 2b - medii cu agresivitate slabă;
+XA 3b - medii cu agresivitate medie;
+XA 4b - medii cu agresivitate puternică.
+Clasa de agresivitate se stabileşte în funcţie de starea fizică şi de natura factorilor agresivi.
+Agenţii agresivi pot fi în stare:
+- gazoasă (gaze agresive de diferite feluri, ceaţă provenită din condensul vaporilor ce apar în urma variaţiei umidităţii sau datorită caracteristicilor de exploatare a instalaţiilor tehnologice);
+- solidă (săruri, cenuşi, praf, pământ etc.).
+Clasa de agresivitate a mediilor atmosferice cu agenţi agresivi în stare gazoasă se stabileşte în funcţie de umiditatea relativă a aerului, de temperatura mediului şi de caracteristica gazelor agresive, conform tabelului I.1.
+Tabelul I.1 - Determinarea clasei de agresivitate a mediilor atmosferice cu agenţi agresivi în stare gazoasă în funcţie de umiditatea relativă a aerului, de temperatura mediului şi de caracteristica gazelor agresive
+La stabilirea clasei de agresivitate a mediului în stare gazoasă se vor avea în vedere următoarele:
+ 
+a) la temperaturi ale mediului cuprinse între 50°C şi 80°C, clasa de agresivitate din tabelul I.1 se măreşte cu o clasă;
+  
+ 
+b) în cazul în care pe suprafaţa elementelor de construcţii este posibilă formarea condensului, agresivitatea se măreşte cu o clasă, dacă mediul conţine gaze agresive;
+  
+ 
+c) în cazul în care concentraţiile de gaze agresive sunt mai mari decât la gazele din grupa C şi umiditatea relativă a aerului este mai mică decât 60%, mediile respective se consideră în clasa XA 4b;
+  
+ 
+d) în cazul în care gazele agresive sunt din grupa C şi umiditatea relativă a aerului este mai mare de 75%, în cazurile în care după aplicarea corecţiilor precizate la lit. a), b) şi c) rezultă o clasă de agresivitate mai mare de XA 4b, precum şi în cazul în care concentraţiile de gaze agresive sunt mai mari decât la gazele din grupa C şi umiditatea relativă a aerului este mai mare de 60%, mediile respective se consideră cazuri speciale şi se analizează fiecare în parte;
+  
+ 
+e) în cazul prezenţei mai multor gaze agresive din grupe diferite, clasa de agresivitate se stabileşte pentru gazul cel mai agresiv.
+  
+Încadrarea gazelor agresive în grupele A, B şi C specificate în tabelul I.1 se face conform tabelului I.2.
+
+Observaţie: Determinarea concentraţiei se face pentru:
+- dioxid de sulf, conform SR ISO 4221;
+- hidrogen sulfurat, conform STAS 10814;
+- acid fluorhidric, conform reglementărilor tehnice specifice;
+- clor gazos, conform STAS 10946;
+- acid clorhidric, conform STAS 10943;
+- oxizi de azot, conform STAS 10329;
+- amoniac, conform STAS 10812.
+Clasa de agresivitate a mediilor atmosferice cu agenţi agresivi în stare solidă se stabileşte în funcţie de umiditatea relativă a aerului şi de caracteristica solidului, conform tabelului I.3, în interiorul construcţiilor, şi, conform tabelului I.4, în aer liber.
+Caracteristica solidului se ia în considerare conform tabelului I.5.
+ 
+e) După anexa N la standardul SR 13510:2006 "Beton. Partea 1: Specificaţie, performanţă, producţie şi conformitate. Document naţional de aplicare a SR EN 206-1:2002" se introduce o nouă anexă, anexa O (normativă), cu următorul cuprins:
+  
+"ANEXA O
+(normativă)
+Cerinţe minime privind calificarea şi experienţa profesională ale responsabilului pentru controlul producţiei
+Responsabilul pentru controlul producţiei va avea cunoştinţele necesare în domeniul producerii betonului şi al standardelor specifice materialelor componente şi betonului pentru a putea asigura controlul producţiei în ceea ce priveşte:
+ 
+a) materialele componente, inclusiv selectarea acestora:
+  
+- recepţionarea, depozitarea şi gospodărirea materialelor componente: agregate, ciment, aditivi, apă (când nu se utilizează o sursă de apă potabilă), în vederea asigurării caracteristicilor calitative impuse;
+- aplicarea, după caz, a măsurilor ce se impun pentru pregătirea agregatelor: sortare, spălare, încălzirea sau răcirea componenţilor betonului;
+ 
+b) proiectarea şi producerea betonului;
+  
+- respectarea caracteristicilor sortimentului de beton comandat;
+ 
+c) inspecţiile, încercările şi utilizarea rezultatelor acestora pentru materialele componente, pentru betonul proaspăt şi întărit şi pentru echipamente;
+  
+ 
+d) inspecţia echipamentului de transport al betonului proaspăt;
+  
+- efectuarea, în condiţii corespunzătoare, a transportului betonului;
+ 
+e) procedurile privind evaluarea conformităţii.
+  
+Responsabilul pentru controlul producţiei trebuie să fie absolvent de studii superioare în domeniul construcţiilor sau materialelor de construcţii. În cazul staţiilor de betoane de capacitate sub 35 mc/oră, se poate accepta şi o pregătire profesională de maistru/tehnician constructor. Experienţa profesională în producerea betonului va fi de minimum 3 ani pentru maistru/tehnician şi de minimum 2 ani pentru inginer/inginer colegiu (subinginer)."

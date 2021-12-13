@@ -1,0 +1,297 @@
+
+NORME METODOLOGICE din 10 august 2007
+privind performanţa energetică a clădirilor
+Publicat în 
+ 
+MONITORUL OFICIAL nr. 695 din 12 octombrie 2007
+Capitolul I
+ Dispoziţii generale
+Articolul 1
+Prezentele norme metodologice, denumite în continuare norme metodologice, sunt elaborate în aplicarea prevederilor art. 22 din Legea nr. 372/2005 privind performanţa energetică a clădirilor şi reglementează cu privire la:
+ 
+a) cerinţele de performanţă energetică a clădirilor;
+  
+ 
+b) auditul energetic şi certificatul de performanţă energetică a clădirilor;
+  
+ 
+c) inspecţia energetică a cazanelor, a centralelor termice şi a instalaţiilor de încălzire;
+  
+ 
+d) inspecţia energetică a sistemelor de climatizare.
+  
+Articolul 2
+În cuprinsul prezentelor norme metodologice, prin clădire se înţelege categoriile de clădiri definite la art. 7 alin. (1) din Legea nr. 372/2005, inclusiv instalaţiile aferente acestora.
+Capitolul II
+ Cerinţele de performanţă energetică a clădirilor
+Articolul 3
+ 
+(1) Cerinţele de performanţă energetică a clădirilor, denumite în continuare cerinţe, obligatorii pentru realizarea confortului termic şi fiziologic în spaţiile interioare ale clădirilor, locuite/ocupate, sunt:
+  
+ 
+a) asigurarea rezistenţelor termice corectate, minim admisibile, ale elementelor de construcţie ale clădirii;
+  
+ 
+b) asigurarea temperaturilor minime pe suprafaţa interioară a elementelor de construcţie pentru evitarea riscului de condens;
+  
+ 
+c) asigurarea valorilor normate pentru iluminatul interior natural/artificial;
+  
+ 
+d) asigurarea temperaturilor interioare şi a debitului minim de aer proaspăt;
+  
+ 
+e) utilizarea de cazane şi/sau aparate de condiţionare a aerului, inclusiv instalaţiile aferente clădirilor, cu încadrarea în valorile randamentelor minime admisibile şi cu respectarea condiţiilor de mediu privind emisiile.
+  
+ 
+(2) Valorile minime ale cerinţelor pentru categoriile de clădiri prevăzute de Legea nr. 372/2005 sunt stabilite prin Metodologia de calcul al performanţei energetice a clădirilor, denumită în continuare metodologie, aprobată prin Ordinul ministrului transporturilor, construcţiilor şi turismului nr. 157/2007, publicat în Monitorul Oficial al României, Partea I, nr. 126 din 21 februarie 2007.
+  
+Capitolul III
+ Auditul energetic al clădirii
+Articolul 4
+ 
+(1) Auditul energetic al clădirii reprezintă o procedură specifică, având ca scop obţinerea datelor privind:
+  
+ 
+a) profilul consumului energetic al clădirii;
+  
+ 
+b) identificarea şi cuantificarea măsurilor pentru realizarea unor economii de energie;
+  
+ 
+c) raportarea rezultatelor.
+  
+ 
+(2) Auditul energetic al clădirii se realizează, după caz, pe baza datelor extrase din cartea tehnică a construcţiei sau, în lipsa acesteia, în baza releveului clădirii.
+  
+ 
+(3) Auditul energetic al clădirii cuprinde:
+  
+ 
+a) analiza termică şi energetică a clădirii, pe baza căreia se elaborează certificatul de performanţă energetică a clădirii, denumit în continuare certificat;
+  
+ 
+b) stabilirea măsurilor în vederea creşterii performanţei energetice a clădirii, cu estimarea costurilor, a economiei de energie, precum şi a duratei de recuperare a investiţiei. Auditul energetic al clădirii se finalizează cu raport de audit energetic.
+  
+ 
+(4) Modul de efectuare a auditului energetic al clădirii este stabilit prin metodologie.
+  
+Articolul 5
+Auditul energetic al unei clădiri existente care a fost supusă unei operaţiuni de extindere se efectuează pentru întreaga clădire.
+Capitolul IV
+ Inspecţia energetică a cazanelor, a centralelor termice şi a instalaţiilor de încălzire, a centralelor termice şi a instalaţiilor de încălzire
+Articolul 6
+Inspecţia energetică a cazanelor, a centralelor termice şi a instalaţiilor de încălzire ale clădirii are ca scop determinarea performanţelor energetice ale acestora, precum şi stabilirea măsurilor ce trebuie luate în vederea reducerii consumului de energie şi a limitării emisiilor de dioxid de carbon, a gazelor şi/sau compuşilor chimici pentru încadrarea în valorile prescrise privind protecţia mediului, în conformitate cu reglementările tehnice şi legislaţia specifică în vigoare.
+Articolul 7
+ 
+(1) Inspecţia energetică a cazanelor, a centralelor termice şi a instalaţiilor de încălzire ale clădirii se efectuează de către experţi tehnici atestaţi, în conformitate cu prevederile Legii nr. 10/1995 privind calitatea în construcţii, cu modificările ulterioare, şi ale actelor normative subsecvente acesteia, pentru specialitatea instalaţii termice şi ventilare - It.
+  
+ 
+(2) Inspecţia energetică a cazanelor, a centralelor termice şi a instalaţiilor de încălzire ale clădirii se face pe baza documentaţiei existente în cartea tehnică a construcţiei, a documentelor de agrementare ale echipamentelor, dispozitivelor şi armăturilor utilizate şi/sau prin măsurători specifice.
+  
+ 
+(3) În lipsa cărţii tehnice a construcţiei se efectuează releveul echipamentelor şi al instalaţiilor.
+  
+Articolul 8
+ 
+(1) Inspecţia energetică a centralelor termice şi a instalaţiilor de încălzire se efectuează în conformitate cu reglementările tehnice specifice şi are în vedere:
+  
+ 
+a) sistemul de încălzire adoptat, puterea termică instalată, suprafaţa de încălzire, datele privind caracteristicile constructive ale clădirii - structură, anvelopă, materiale -, tipul de folosinţă al clădirii - rezidenţial/nerezidenţial - etc.;
+  
+ 
+b) determinarea eficienţei energetice a sistemului de încălzire, prin colectarea datelor privind diagrama de funcţionare a sistemului de încălzire, modul de exploatare a sistemului de încălzire proiectat şi cel utilizat, tipul de control al sistemului de încălzire;
+  
+ 
+c) analiza capabilităţii sistemului de încălzire de a satisface serviciile prevăzute în proiectul instalaţiei, menţionarea diferenţelor dintre prevederile proiectului şi situaţia constatată, consemnarea cazurilor de nefuncţionare;
+  
+ 
+d) colectarea de date privind contorizarea sistemului de încălzire la sursă şi la consumator, existenţa înregistratoarelor şi a robinetelor termostatice la corpurile de încălzire;
+  
+ 
+e) stadiul fizic de conservare/degradare a termoizolaţiei cazanului şi a conductelor de transport al agentului termic.
+  
+ 
+(2) După efectuarea inspecţiei energetice a centralelor termice şi a instalaţiilor de încălzire, se elaborează un raport de inspecţie, cu recomandări care:
+  
+ 
+a) vor ţine seama de costurile efective şi de posibilitatea aplicării lor;
+  
+ 
+b) vor cuprinde acţiuni posibile imediat -înlocuiri - şi alte acţiuni care se au în vedere în caz de reabilitare/renovare;
+  
+ 
+c) vor indica opţiunile posibile în vederea utilizării energiilor obţinute din resurse regenerabile.
+  
+Articolul 9
+ 
+(1) Procedura de inspecţie energetică a cazanelor cuprinde prevederi referitoare la:
+  
+ 
+a) identificarea cazanelor prin colectarea de date tehnice referitoare la caracteristicile tehnice, felul combustibilului, puterea minimă şi maximă, data fabricaţiei, clasa cazanului, precum şi date privind emisiile de CO(2) şi alte emisii poluante, felul arzătoarelor, modularea puterii arzătoarelor etc.;
+  
+ 
+b) colectarea de date privind: instrucţiuni de exploatare, rapoarte de inspecţii anterioare, rapoarte de exploatare, facturi de combustibil, diagrame de funcţionare, stabilirea consumului de energie, stabilirea pierderilor de căldură a cazanului etc.;
+  
+ 
+c) analiza modului de exploatare a cazanului de către personal calificat şi/sau autorizat, cu menţionarea oricărui caz de nefuncţionare;
+  
+ 
+d) verificarea aparatelor de măsură şi control, a senzorilor şi aparatelor indicatoare ale cazanului, precum şi a sistemului de automatizare a funcţionării cazanului;
+  
+ 
+e) estimarea performanţei energetice a cazanelor în momentul inspecţiei;
+  
+ 
+f) recomandări privind posibilitatea de creştere a performanţei energetice a cazanelor.
+  
+ 
+(2) După efectuarea inspecţiei energetice a cazanului se elaborează un raport de inspecţie, cu recomandări privind creşterea performanţei energetice a acestuia, care:
+  
+ 
+a) vor ţine seama de costurile efective şi posibilitatea aplicării lor;
+  
+ 
+b) vor cuprinde acţiuni posibile cu aplicabilitate imediată - înlocuiri - şi/sau alte acţiuni cu aplicabilitate pe termen mediu care au în vedere reabilitarea/renovarea;
+  
+ 
+c) vor indica opţiunile posibile asupra schimbării combustibilului sau a tipului cazanului.
+  
+Capitolul V
+ Inspecţia energetică a sistemelor de climatizare în clădiri
+Articolul 10
+ 
+(1) Inspecţia energetică a sistemelor de climatizare se efectuează în conformitate cu reglementările tehnice specifice şi are în vedere:
+  
+ 
+a) sistemul de climatizare adoptat, debitul de aer de introducere şi de evacuare, datele privind caracteristicile constructive ale clădirii - structură, anvelopă, materiale -, tipul de folosinţă al clădirii - rezidenţial/nerezidenţial - etc.;
+  
+ 
+b) identificarea sistemului de climatizare, prin colectarea datelor privind diagrama de funcţionare: necesarul de căldură şi frig, modul de exploatare proiectat şi cel utilizat, tipul de control al sistemului de climatizare;
+  
+ 
+c) evaluarea randamentului şi dimensionării acestora în raport cu necesităţile de climatizare ale clădirii;
+  
+ 
+d) analiza capabilităţii sistemului de climatizare de a satisface serviciile prevăzute în proiect, menţionarea diferenţelor dintre prevederile proiectului şi situaţia constatată, consemnarea cazurilor de nefuncţionare, sistemul de automatizare adoptat;
+  
+ 
+e) colectarea de date privind contorizarea consumului de căldură şi frig, de apă şi energie electrică;
+  
+ 
+f) stadiul fizic de conservare/degradare a termoizolaţiei aparatelor de climatizare şi a canalelor de transport al aerului;
+  
+ 
+g) stadiul fizic privind modul de amplasare şi de reglaj al gurilor de introducere şi de evacuare a aerului;
+  
+ 
+h) existenţa sistemelor de atenuare a zgomotului, verificarea nivelului de zgomot;
+  
+ 
+i) datele cu privire la tipul de agent frigorific utilizat şi încadrarea acestuia în categoria acceptată din punctul de vedere al poluării mediului;
+  
+ 
+(2) După efectuarea inspecţiei energetice a sistemelor de climatizare se elaborează un raport de inspecţie, cu recomandări privind îmbunătăţirea sau înlocuirea sistemului de climatizare şi alte soluţii posibile care:
+  
+ 
+a) vor ţine seama de costurile efective şi de posibilitatea aplicării lor;
+  
+ 
+b) vor cuprinde acţiuni posibile cu aplicabilitate imediată - înlocuiri - şi/sau alte acţiuni cu aplicabilitate pe termen mediu care au în vedere reabilitarea/renovarea;
+  
+ 
+c) vor indica opţiunile posibile şi indicaţii asupra posibilităţii utilizării energiilor refolosibile sau a unor sisteme de climatizare cu eficienţă crescută.
+  
+Capitolul VI
+ Certificatul de performanţă energetică a clădirii
+Articolul 11
+ 
+(1) Certificatul se elaborează prin grija investitorului/proprietarului, pentru categoriile de clădiri definite la art. 7 alin. (1) din Legea nr. 372/2005, şi se păstrează la cartea tehnică a construcţiei. În lipsa cărţii tehnice a construcţiei, până la constituire, certificatul se păstrează de către proprietar.
+  
+ 
+(2) Certificatul este un document tehnic cu caracter informativ, care atestă performanţa energetică a clădirii prin compararea acesteia cu clădirea de referinţă stabilită prin metodologie, precum şi încadrarea clădirii într-o clasă de performanţă energetică.
+  
+ 
+(3) Conţinutul-cadru al certificatului şi modul de elaborare al acestuia sunt stabilite prin metodologie.
+  
+Articolul 12
+ 
+(1) Pentru categoriile de clădiri care se construiesc, certificatul se elaborează prin grija investitorului/ proprietarului şi se cuprinde în documentaţia pentru recepţia la terminarea lucrărilor.
+  
+ 
+(2) Pentru categoriile de clădiri care se vând sau se închiriază, certificatul se elaborează prin grija proprietarului şi se prezintă la încheierea contractului de vânzare-cumpărare, respectiv a contractului de închiriere.
+  
+Capitolul VII
+ Auditori energetici pentru clădiri
+Articolul 13
+Certificatul se întocmeşte de către auditori energetici pentru clădiri, atestaţi tehnico-profesional în condiţiile legii, denumiţi în continuare auditori.
+Articolul 14
+ 
+(1) Atestarea tehnico-profesională a specialiştilor cu activitate în construcţii ca auditori energetici pentru clădiri în specialităţile construcţii şi/sau instalaţii se face sub autoritatea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, în conformitate cu prevederile art. 4 alin. (1) pct. 23 din Hotărârea Guvernului nr. 361/2007 privind organizarea şi funcţionarea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, publicată în Monitorul Oficial al României, Partea I, nr. 285 din 27 aprilie 2007.
+  
+ 
+(2) În funcţie de felul activităţilor pe care le desfăşoară, auditorii sunt atestaţi după cum urmează:
+  
+ 
+a) auditori gradul I, care pot realiza auditul energetic al clădirilor, precum şi elaborarea certificatului pentru toate categoriile de clădiri definite la art. 7 alin. (1) din Legea nr. 372/2005, care se construiesc, sunt vândute sau închiriate;
+  
+ 
+b) auditori gradul II, care pot elabora certificatul pentru clădirile unifamiliale şi apartamentele din blocurile de locuinţe, care se construiesc, sunt vândute sau închiriate.
+  
+ 
+(3) Procedura pentru atestarea tehnico-profesională a specialiştilor ca auditori se elaborează ca reglementare tehnică în domeniul construcţiilor, se aprobă prin ordin al ministrului dezvoltării, lucrărilor publice şi locuinţelor şi conţine în principal:
+  
+ 
+a) condiţiile pe care trebuie să le îndeplinească specialiştii care solicită atestarea ca auditori;
+  
+ 
+b) componenţa comisiilor, modul de numire a acestora şi modul de examinare a specialiştilor;
+  
+ 
+c) forma şi conţinutul certificatului de atestare tehnico-profesională, ale legitimaţiei şi ale ştampilei;
+  
+ 
+d) perioada de valabilitate a atestării şi condiţiile ce trebuie îndeplinite pentru prelungirea acesteia.
+  
+Articolul 15
+Lista auditorilor se gestionează şi se actualizează semestrial şi poate fi consultată pe pagina de web a Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor.
+Capitolul VIII
+ Dispoziţii tranzitorii şi finale
+Articolul 16
+ 
+(1) Prevederile art. 12 alin. (1) şi (2) din prezentele norme metodologice se aplică de la data de 1 ianuarie 2007 pentru clădirile care se construiesc, sunt vândute sau închiriate. Prin clădire care se construieşte se înţelege clădirea pentru care autorizaţia de construire a fost emisă după data de 1 ianuarie 2007, data intrării în vigoare a Legii nr. 372/2005.
+  
+ 
+(2) Prin excepţie de la prevederile alin. (1), pentru clădirile de locuit unifamiliale şi apartamentele din blocurile de locuinţe pentru care se încheie contracte de vânzare-cumpărare sau de închiriere, prevederile art. 12 alin. (2) din prezentele norme metodologice se aplică de la data de 1 ianuarie 2010.
+  
+Articolul 17
+ 
+(1) Auditorii întocmesc şi completează registrul propriu de evidenţă a certificatelor şi rapoartelor de audit, denumit în continuare registru, în baza documentelor tehnice elaborate şi arhivate. Modelul de registru este prevăzut în anexa la prezentele norme metodologice.
+  
+ 
+(2) Auditorii răspund, în condiţiile legii, pentru datele înscrise în certificat, pentru conţinutul raportului de audit şi pentru întocmirea corectă şi completă a registrului.
+  
+Articolul 18
+Pentru clădirile existente care necesită lucrări de reabilitare termică, finanţate din fonduri publice şi/sau credite externe contractate sau garantate de stat, raportul de audit fundamentează oportunitatea şi necesitatea intervenţiei şi este parte componentă a studiului de fezabilitate.
+Articolul 19
+ 
+(1) Prin grija auditorului, certificatul se editează pe suport hârtie şi în format electronic.
+  
+ 
+(2) Certificatul editat pe suport hârtie, înregistrat în registru, se gestionează după cum urmează:
+  
+ 
+a) un exemplar se predă beneficiarului;
+  
+ 
+b) un exemplar se păstrează în arhiva auditorului, pe perioada de valabilitate a certificatului.
+  
+ 
+(3) Certificatul în format electronic se transmite, în termen de 5 zile de la data înregistrării, la Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti, unitate aflată în coordonarea Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor.
+  
+Articolul 20
+ 
+(1) Institutul Naţional de Cercetare-Dezvoltare în Construcţii şi Economia Construcţiilor - INCERC Bucureşti centralizează şi prelucrează statistic datele cuprinse în certificate, în vederea constituirii bazei de date specifice domeniului eficienţei energetice a clădirilor.
+  
+ 
+(2) Cheltuielile pentru proiectarea, realizarea, exploatarea şi întreţinerea bazei de date prevăzute la alin. (1) se suportă din veniturile proprii ale Ministerului Dezvoltării, Lucrărilor Publice şi Locuinţelor, constituite în baza prevederilor art. 40 din Legea nr. 10/1995, cu modificările ulterioare.

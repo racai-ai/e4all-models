@@ -1,0 +1,75 @@
+Certificat de Urbanism
+2019-07-31 4167 0
+certificat de urbanism infografic cu birou si cladire
+Ce este și ce ar trebui putea fi un Certificat de Urbanism (C.U.) în condițiile în care nu avem informații actualizate în timp real cu fiecare teren, vecinătățile lui, profile străzi, extinderi de străzi, rețele, etc.
+
+Când este important sau mai puțin important un Certificat de Urbanism pentru o amenajare interioară, un gard, o casă sau un ansamblu rezidențial cu zeci de apartamente.
+
+
+Pașii principali de la C.U. la Autorizația de Construire (A.C):
+Întocmire și depunere documentație pentru obținere C.U.
+Obținere C.U.
+Obținere Avize și alte cerințe din C.U.
+Depunerea tuturor avizelor și cerințelor din CU la Primărie pentru A.C.
+Obținerea Autorizației de Construire (A.C.)
+În cadrul prezentului articol voi scrie despre Certificatul de Urbanism și, doar pe scurt, despre avizele solicitate în acesta.
+
+Documentația depusă pentru obținerea C.U.
+Certificatul de Urbanism poate fi obținut “direct” sau “indirect”:
+
+La solicitarea dumneavoastră direct la primărie sau
+Cu ajutorul unui Arhitect sau Urbanist.
+În funcție de complexitatea proiectului, încadrarea în planurile locale de urbanism, în zone protejate, în anumite zone de protecție sau de forma obișnuită sau neregulată a terenului și a vecinătăților, puteți alege prima sau a doua variantă.
+
+În varianta simplă (1), pentru obținerea Certificatul de Urbanism se va întocmi o cerere cu completarea numărului cadastral. În funcție de suportul / solicitărilor primăriei, trebuie să atașați plan/planurile de încadrare în zonă și extrasele de carte Funciară actualizate.
+
+Pentru varianta complexă (2), pe lângă cerere și extras de Carte Funciară, responsabilul din primărie sau Arhitectul Șef vă pot solicita planuri de situație întocmite de arhitect sau urbanist pe care să apară clădirile vecine, clădirea nouă, zonele propuse spre demolare, consolidare sau extindere. Se poate solicita Ridicare Topografică Stereo 70 avizata OCPI dacă proiectul se referă la extinderi, corpuri noi de clădiri sau terenuri libere pe care se amplasează clădiri noi. În acest caz, planul de situație va fi întocmit suprapus cu ridicarea Stereo 70. Pot fi solicitate chiar și prezentări tridimensionale ale proiectului.
+
+Pentru Amenajări Interioare
+Pentru amenajări interioare, planul de amplasament este orientativ privind contururile interioare și accesele în spațiile aferente amenajate, în acest caz ridicarea topo nu este relevantă, după cum am scris și în articolul de aici: https://www.urbanambition.ro/cadastru/.
+
+Le depuneți dvs sau un specialist?
+Pentru ambele variante puteți apela sau nu la un specialist pentru întocmirea documentației. Riscul este ca, atunci când nu apelați la un specialist, să nu transmiteți clar informația prin această documentație de obținere C.U. Este posibil să se elibereze un Certificat de Urbanism incomplet sau care a fost interpretat greșit dar cu bună credință de către funcționarul responsabil sau Arhitectul Șef.
+
+Dacă sunteți undeva “la Țară” și vreți să construiți un gard, o anexă, o terasă acoperită, o magazie, un garaj riscul este mic de eroare sau interpretare. Dacă vreți să construiți o extindere la o casă sau două camere noi lângă casa veche, e bine să apelați la un specialist încă din prima fază (faza întocmirea documentației pentru obținerea C.U.).
+
+Ce e important în Certificatul de Urbanism Obținut
+Specificații urbanistice despre amplasament
+Avizele și alte studii pe care trebuie să le obținem
+Specificațiile urbanistice fac referire la planurile urbanistice în care se încadrează terenul sau imobilul. În majoritatea cazurilor, specificațiile sunt cele din Planurile de Urbanism Generale și regulamentele acestora, după cum am scris și în acest articol despre Planurile de Urbanism https://www.urbanambition.ro/pug-puz-pud/. Pot fi trecute în certificat retragerile minime impuse de regulamentele locale de Urbanism, după cum am scris în articolul despre ce sunt Retragerile minime https://www.urbanambition.ro/aliniament-aliniere-retragere/.
+Avizele și alte studii pe care trebuie să le obținem
+În Certificatul de Urbanism, dacă ați furnizat toate informațiile în documentația pe care ați depus-o, o să vi se ceară tot felul de avize, puncte de vedere, studii și expertize. Mare atenție la anumite cazuri în care prin C.U. nu s-au cerut anumite avize, mai apoi la Depunerea dosarului pentru Autorizația de Construire s-au cerut anumite avize care nu au fost specificate în C.U.
+De ce durează atât de mult obținerea unor avize
+Lipsa unei situații urbanistice actualizate centralizat, privind situația terenurilor, face ca la fiecare solicitare sa se analizeze redundant același teren sau terenuri vecine privind: Situația rețelelor, încadrarea în zone protejate sau de protecție, și situația actuală a clădirilor/terenurilor vecine. Din această cauză, a lipsei situației centralizate a fiecărui teren în parte, se solicită anumite avize care încarcă aparatul birocratic cu răspunsuri între șase luni și chiar un an.
+
+Exemplu cu ce se întâmplă la Ministerul Culturii
+De exemplu, pentru avizul de Cultură, dacă ar exista o inventariere in sistem GIS interconectat cu bază de date cu fiecare adresă/imobil, s-ar face o triere în trei secunde a locațiilor care nu necesită aviz de la Ministerul Culturii și nu s-ar încărca cu analize manuale redundante de dosare pentru locații care nu necesită aviz de la acest minister. Din păcate, toată această muncă enormă de analiză și inventariere nu este bugetată și nici discutată în cadrele autorităților. Nu avem de ales decât să luam la mână de fiecare dată fiecare teren și dosar de aviz în parte.
+
+Anumite avize nu sunt cerute în CU dar tot trebuie să le obținem
+În anumite Certificate de Urbanism o să observați că nu se cere aviz ISU, deși, conform legii, proiectul clădirii nu poate fi autorizat fără acest aviz de la ISU.
+
+Câte Certificate trebuie să depun pentru un proiect
+Certificat de Urbanism pentru desființare/demolare (dacă aveți clădire sau părți din clădire de demolat)
+Separat – Certificat de Urbanism pentru consolidare, construire (extindere, corp independent sau pe teren liber de construcții)
+Pentru A.C. nu se poate obține un Certificat pentru două proprietăți diferite, este nevoie de alipire și apoi obținere C.U.
+
+Pentru Planuri de Urbanism Zonale PUG, PUZ se poate obține un singur Certificat de Urbanism pentru mai multe loturi de teren. https://www.urbanambition.ro/pug-puz-pud/
+
+Avize și acorduri importante cerute prin CU
+Mediu, DSP, ISC, ISU, Cultură, Apele Române
+
+Alte studii cerute prin CU
+Studii de Urbanism PUZ sau PUD, Studii Circulații, Profile extinderi – lărgiri Drumuri, Brigada Poliția Rutieră, expertize tehnice, Studiu de Însorire, Studiu Istoric, Studiu Amenajare peisagistică, raport audit energetic, Certificat de performanță energetică.
+
+Atenție la Magistrale de Curent, Apă și Gaze
+În zonele de protecție este interzisă construirea. Dacă aveți în proximitatea terenului dvs stâlpi de medie și înaltă tensiune, apeducte, conducte de gaze, consultați planurile de rețele din zonă și zonele lor de protecție. Relocarea, devierea rețelelor este costisitoare și de lungă durată.
+
+Drumuri principale, căi ferate, râuri și păduri
+Majoritatea drumurilor principale au zone de protecție extinse dar și planuri pentru lărgiri, pasaje supraterane sau subterane. Căile ferate, râurile și pădurile au zone extinse de protecție în care nu se poate construi.
+
+Cimitire, Benzinării și zone Agro-Zootehnice
+Și aceste funcțiuni au zone de protecție care nu se limitează in propria incintă. Aceste zone depășesc limita lor de proprietate și încalcă actualele zone de țesut urban existent. Atenție sporita la terenurile în preajma acestor funcțiuni.
+
+Concluzia privind felul în care există și funcționează aceste Certificate de Urbanism este că nu avem ce să facem ca îmbunătățire birocratică până nu avem o bază de date integrate GIS actualizată în permanență a terenurilor și imobilelor cu proiectele și clădirile aferente acestora.
+
+Nu avem cum să știm rapid sau eficient ce și cum să facem mai bine în viitor dacă nu știm clar, dintr-un click sau o privire, ce avem în prezent.
