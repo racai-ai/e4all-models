@@ -27,13 +27,22 @@ def parse_args():
     """Parses Command line arguments
     """
     parser = argparse.ArgumentParser(description='Training script for e4a')
-    parser.add_argument('-g', '--regen', action='store_true', help='Regenerate data from --source folder')
-    parser.add_argument('-s', '--source')
+    parser.add_argument('-g', '--generate', action='store_true', help='Generate data from --source folder')
+    parser.add_argument('-s', '--source', help='Source folder for corpus data')
     return parser.parse_args()
 
 
-def get_lines():
-    files = [os.path.join(dirpath, filename) for dirpath, dirnames, filenames in os.walk(args.source)
+def retrieve_all_lines(path:str):
+    r"""Retrieving all data from path and return it as array.
+
+    Arguments:
+
+        path_data (:obj:`str`):
+          Path to the covid or authorization folder
+
+
+    """
+    files = [os.path.join(dirpath, filename) for dirpath, dirnames, filenames in os.walk(path)
              for filename in filenames]
     all_lines = []
     for file in files:
@@ -43,21 +52,26 @@ def get_lines():
             all_lines.append(lines)
     return all_lines
 
+def create_dataset_files():
+    r""" Create train tet eval split and save it in separate files
+
+    """
+    text = [item for sublist in retrieve_all_lines(args.source) for item in sublist]
+    X_train, X_test = train_test_split(text, random_state=42, test_size=TEST_RATIO)
+    X_train, X_eval = train_test_split(X_train, random_state=42, test_size=EVAL_RATIO)
+    files = ['train', 'test', 'eval']
+    dataset = [X_train, X_test, X_eval]
+    for file, dataset in list(zip(files, dataset)):
+        with open(file, 'w', encoding="utf-8") as f_output:
+            f_output.write("\n".join(dataset))
 
 if __name__ == '__main__':
     args = parse_args()
     tokenizer = AutoTokenizer.from_pretrained("racai/distilbert-base-romanian-cased")
     model = AutoModelForMaskedLM.from_pretrained("racai/distilbert-base-romanian-cased")
 
-    if args.regen:
-        text = [item for sublist in get_lines() for item in sublist]
-        X_train, X_test = train_test_split(text, random_state=42, test_size=TEST_RATIO)
-        X_train, X_eval = train_test_split(X_train, random_state=42, test_size=EVAL_RATIO)
-        files = ['train', 'test', 'eval']
-        dataset = [X_train, X_test, X_eval]
-        for file, dataset in list(zip(files, dataset)):
-            with open(file, 'w', encoding="utf-8") as f_output:
-                f_output.write("\n".join(dataset))
+    if args.generate:
+        create_dataset_files()
 
     data_collator = DataCollatorForLanguageModeling(
         tokenizer=tokenizer, mlm=True, mlm_probability=0.15
@@ -106,29 +120,19 @@ if __name__ == '__main__':
     perplexity = math.exp(eval_output["eval_loss"])
     print('\nInitial Perplexity: {:10,.2f}'.format(perplexity))
 
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        data_collator=data_collator,
-        train_dataset=train_data,
-        eval_dataset=eval_data
-    )
+    # set eval_data to train
+    trainer.eval_dataset = eval_data
 
     # Start training
     trainer.train()
 
     # Save
-    trainer.save_model(TRAINED+args.source)
-    tokenizer.save_pretrained(TRAINED+args.source)
-    print('Finished training all...', TRAINED+args.source)
+    trainer.save_model(TRAINED + args.source)
+    tokenizer.save_pretrained(TRAINED + args.source)
+    print('Finished training all...', TRAINED + args.source)
 
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        data_collator=data_collator,
-        train_dataset=train_data,
-        eval_dataset=test_data
-    )
+    # prepare to evaluate the trained model
+    trainer.eval_dataset = test_data
 
     eval_output = trainer.evaluate()
     # compute perplexity from model loss.
