@@ -29,10 +29,11 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Training script for e4a')
     parser.add_argument('-g', '--generate', action='store_true', help='Generate data from --source folder')
     parser.add_argument('-s', '--source', help='Source folder for corpus data')
+    parser.add_argument('-m', '--model', default="racai/distilbert-base-romanian-cased", help='Model to train')
     return parser.parse_args()
 
 
-def retrieve_all_lines(path:str):
+def retrieve_all_lines(path: str):
     r"""Retrieving all data from path and return it as array.
 
     Arguments:
@@ -52,6 +53,7 @@ def retrieve_all_lines(path:str):
             all_lines.append(lines)
     return all_lines
 
+
 def create_dataset_files():
     r""" Create train tet eval split and save it in separate files
 
@@ -65,10 +67,11 @@ def create_dataset_files():
         with open(file, 'w', encoding="utf-8") as f_output:
             f_output.write("\n".join(dataset))
 
+
 if __name__ == '__main__':
     args = parse_args()
-    tokenizer = AutoTokenizer.from_pretrained("racai/distilbert-base-romanian-cased")
-    model = AutoModelForMaskedLM.from_pretrained("racai/distilbert-base-romanian-cased")
+    tokenizer = AutoTokenizer.from_pretrained(args.model)
+    model = AutoModelForMaskedLM.from_pretrained(args.model)
 
     if args.generate:
         create_dataset_files()
