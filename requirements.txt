@@ -1,6 +1,4 @@
 transformers
 torch
-nltk
-datasests
-scikit-lean
-numpy
+datasets
+scikit-learn
