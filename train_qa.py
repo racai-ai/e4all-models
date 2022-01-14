@@ -32,7 +32,8 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Training script for e4a')
     parser.add_argument('-qa', '--qa_set', help='Generate data from --source folder')
     parser.add_argument('-s', '--source', help='Source folder for corpus data')
-    parser.add_argument('-c', '--comment', default="model", help='Comment for training data')
+    parser.add_argument('-m', '--model', default="racai/distilbert-base-romanian-cased", help='Model to train')
+    parser.add_argument('-c', '--comment', default="empty", help='Comment for training data')
 
     return parser.parse_args()
 
@@ -66,7 +67,7 @@ def tokenize(data):
 
 def compute_metrics(pred):
     labels = pred.label_ids
-    preds = pred.predictions[0].argmax(-1)
+    preds = pred.predictions.argmax(-1)
     acc = accuracy_score(labels, preds)
     return {
         'accuracy': acc,
@@ -83,22 +84,21 @@ if __name__ == '__main__':
     label2id = {raw_labels[k]: k for k in range(len(raw_labels))}
     id2label = {k: raw_labels[k] for k in range(len(raw_labels))}
 
-    tokenizer = AutoTokenizer.from_pretrained(TRAINED + args.source)
-    config = AutoConfig.from_pretrained(TRAINED + args.source, label2id=label2id, id2label=id2label)
-
-    model = AutoModelForSequenceClassification.from_pretrained(TRAINED + args.source, config=config)
-    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-    data_encoded = list(map(tokenize, data))
-
-    X_train, X_eval = train_test_split(data_encoded, random_state=42, test_size=EVAL_RATIO)
-
-    epochs = [20, 30, 40, 50]
-    b_sizes = [8, 16, 32]
+    epochs = [3, 5, 10]
+    b_sizes = [4, 8, 16, 32]
     for epoch in epochs:
         for b_size in b_sizes:
-            NAME = args.comment + "-epochs-" + str(epoch) + "-b_size-" + str(b_size)
+            tokenizer = AutoTokenizer.from_pretrained(args.model)
+            config = AutoConfig.from_pretrained(args.model, label2id=label2id, id2label=id2label)
+            model = AutoModelForSequenceClassification.from_pretrained(args.model, config=config)
+            data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+
+            data_encoded = list(map(tokenize, data))
+            X_train, X_eval = train_test_split(data_encoded, random_state=42, test_size=EVAL_RATIO)
+
+            NAME = args.model.split("/")[1] + "-epochs-" + str(epoch) + "-b_size-" + str(b_size)
             training_args = TrainingArguments(
-                output_dir='./results' + NAME,
+                output_dir='./results/' + NAME,
                 learning_rate=2e-5,
                 per_device_train_batch_size=b_size,
                 per_device_eval_batch_size=b_size,
