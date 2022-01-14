@@ -1,0 +1,1156 @@
+{"data":[
+    {
+        "qid": 1,
+        "label": "gemeng",
+        "question": "Wat sinn d'Ouvertureszäiten vun der Gemeng?",
+        "answer": [
+            "D'Ouvertureszäiten sinn [Zäit].\n"
+        ]
+    },
+    {
+        "qid": 1,
+        "label": "gemeng",
+        "question": "Wat sinn d'Ëffnungszäiten vun der Gemeng?",
+        "answer": [
+            "D'Ouvertureszäiten sinn [Zäit].\n"
+        ]
+    },
+    {
+        "qid": 1,
+        "label": "gemeng",
+        "question": "Wéini ass d'Gemeng op?",
+        "answer": [
+            "D'Ouvertureszäiten sinn [Zäit].\n"
+        ]
+    },
+    {
+        "qid": 2,
+        "label": "gemeng",
+        "question": "Ech wëll gären op d'Gemeng uruffen",
+        "answer": [
+            "D'Telefonsnummer ass [Nummer].\n"
+        ]
+    },
+    {
+        "qid": 2,
+        "label": "gemeng",
+        "question": "Wéi ass d'Telefonsnummer vun der Gemeng?",
+        "answer": [
+            "D'Telefonsnummer ass [Nummer].\n"
+        ]
+    },
+    {
+        "qid": 2,
+        "label": "gemeng",
+        "question": "Wéi ass der Gemeng hier Nummer?",
+        "answer": [
+            "D'Telefonsnummer ass [Nummer].\n"
+        ]
+    },
+    {
+        "qid": 3,
+        "label": "gemeng",
+        "question": "Wéi ass d'E -Mailsadress vun der Gemeng?",
+        "answer": [
+            "D'E -Mail ass [Zäit]\n"
+        ]
+    },
+    {
+        "qid": 4,
+        "label": "stadkaart",
+        "question": "Wou kann ech eng Kaart vun der Stad Esch kréien?",
+        "answer": [
+            "Eng Kaart ass hei verfügbar : https://map.geoportail.lu/communes/Esch-sur-Alzette/topo_20k?lang=de. Dir kënnt och den nationale Geoportal vum Grand-Duché de Luxembourg besichen https://www.geoportail.lu/\n"
+        ]
+    },
+    {
+        "qid": 5,
+        "label": "asyl",
+        "question": "Wéi kann ech Asyl ufroen?",
+        "answer": [
+            "Dir fannt d'Applikatioun fir den internationale Schutz op https://guichet.public.lu/fr/citoyens/immigration/cas-specifiques/protection-internationale/demande-protection-internationale.html.\n"
+        ]
+    },
+    {
+        "qid": 6,
+        "label": "nationaliteit",
+        "question": "Ech hun 2 Kanner. Wéi kënnen se Lëtzebuergesch ginn?",
+        "answer": [
+            "Informatiounen iwwer déi lëtzebuergesch Nationalitéit fannt Dir hei: https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/option.html\n"
+        ]
+    },
+    {
+        "qid": 6,
+        "label": "nationaliteit",
+        "question": "Ech si franséisch, wat sinn d'Schrëtt fir d'Lëtzebuerger Nationalitéit ze kréien?",
+        "answer": [
+            "Informatiounen iwwer déi lëtzebuergesch Nationalitéit fannt Dir hei: https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/option.html\n"
+        ]
+    },
+    {
+        "qid": 6,
+        "label": "nationaliteit",
+        "question": "Wéini kréien meng Kanner d’Lëtzebuerger Nationalitéit?",
+        "answer": [
+            "Informatiounen iwwer déi lëtzebuergesch Nationalitéit fannt Dir hei: https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/option.html\n"
+        ]
+    },
+    {
+        "qid": 7,
+        "label": "scheedung",
+        "question": "Ech sinn gescheed, wou kann ech mäin Numm änneren?",
+        "answer": [
+            "All Prozeduren iwwer PACS, Hochzäit, Trennung/Scheedung fannt Dir hei: https://guichet.public.lu/fr/citoyens/famille.html\n"
+        ]
+    },
+    {
+        "qid": 8,
+        "label": "bus",
+        "question": "Wou fannen ech e Busplang?",
+        "answer": [
+            "E Busplang fir d'Stad Lëtzebuerg fënnt een op https://www.vdl.lu/sites/default/files/media/document/Plan%20Sch%C3%A9matique%202020%20Novembre_6.pdf\n"
+        ]
+    },
+    {
+        "qid": 9,
+        "label": "baugeneemegung",
+        "question": "Firwat brauch ech eng Baugeneemegung?",
+        "answer": [
+            "Den Inhalt vun der Demande ka vun enger Gemeng an déi aner variéieren. Dir kënnt d'Direktorat fir Gemengesplanung an Urban Entwécklung kontaktéieren, Telefon: (+352) 247 84600/247 74629\n"
+        ]
+    },
+    {
+        "qid": 10,
+        "label": "sport",
+        "question": "Ech wëll gären Sport man?",
+        "answer": [
+            "Dir fannt Informatiounen fir Senioren- a fir Jugendsport op https://administration.esch.lu/services-au-citoyen/\n"
+        ]
+    },
+    {
+        "qid": 10,
+        "label": "sport",
+        "question": "Wou kann ech Sportsinformatiounen fannen?",
+        "answer": [
+            "Dir fannt Informatiounen fir Senioren- a fir Jugendsport op https://administration.esch.lu/services-au-citoyen/\n"
+        ]
+    },
+    {
+        "qid": 11,
+        "label": "identiteitskaart",
+        "question": "Wéini soll d'Identitéitskaart erneiert ginn?",
+        "answer": [
+            "D'Erneierung vun der ID Kaart ass néideg an de folgende Fäll:\n",
+            "- Verfall vun der Validitéitsperiod op der Kaart uginn;\n",
+            "- dem Titulaire seng ID-Foto entsprécht net méi hirem aktuellen Erscheinungsbild;\n",
+            "- Verloscht, Vol oder Schued un der ID Kaart;\n",
+            "- Ännerung vum Familljen- oder Virnumm(en) an am Fall vun der Ergänzung oder der Läschung vum Numm vun engem liewege oder verstuerwenen Ehepartner;\n",
+            "- Ännerung vun der nationaler Identifikatiounsnummer.\n"
+        ]
+    },
+    {
+        "qid": 12,
+        "label": "identiteitskaart",
+        "question": "Kann ech eng lëtzebuergesch ID Kaart kréien?",
+        "answer": [
+            "De Besëtz vun enger Identitéitskaart ass obligatoresch fir jiddereen deen:\n",
+            "- déi Lëtzebuerger Nationalitéit huet; an\n",
+            "- op d'mannst 15 Joer al ass; an\n",
+            "- zu Lëtzebuerg wunnt. Méi Informationen ginn et hei: https://guichet.public.lu/de/citoyens/citoyennete/papiers-identite/carte-identite/nouv-carte-identite-adulte-resident.html\n"
+        ]
+    },
+    {
+        "qid": 13,
+        "label": "cheque-service",
+        "question": "Wou kann ech de Cheque Service ufroen?",
+        "answer": [
+            "Dir fannt all Informatiounen iwwer de Chèque-Service op www.men.public.lu/fr/enfance/02-cheque-service/index.html\n"
+        ]
+    },
+    {
+        "qid": 13,
+        "label": "cheque-service",
+        "question": "Wéi kann ech vum Cheque Service profitéieren?",
+        "answer": [
+            "Dir fannt all Informatiounen iwwer de Chèque-Service op www.men.public.lu/fr/enfance/02-cheque-service/index.html\n"
+        ]
+    },
+    {
+        "qid": 14,
+        "label": "medizinesch-zenteren",
+        "question": "Wou fannen ech en Dokter zu Esch-Uelzecht?",
+        "answer": [
+            "All Maisons medicales fannt Dir op https://sante.public.lu/fr/urgences-gardes/services-garde/maisons-medicales/index.html\n"
+        ]
+    },
+    {
+        "qid": 14,
+        "label": "medizinesch-zenteren",
+        "question": "Wou sinn déi Medizinesch Zenteren zu Esch-Uelzecht?",
+        "answer": [
+            "All Maisons medicales fannt Dir op https://sante.public.lu/fr/urgences-gardes/services-garde/maisons-medicales/index.html\n"
+        ]
+    },
+    {
+        "qid": 15,
+        "label": "medizinesch-zenteren",
+        "question": "Wéi kann ech e Lëtzebuerger Pass ufroen?",
+        "answer": [
+            "De ganze Prozess gëtt erkläert op https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/passeport-biometrique-resident.html\n"
+        ]
+    },
+    {
+        "qid": 16,
+        "label": "biergerzenter",
+        "question": "Muss ech e Rendez -vous am Biergerzenter huelen?",
+        "answer": [
+            "Dëst hänkt vun der Ufro of. Et ass besser am Gemengebüro unzeruffen fir nozefroen.\n"
+        ]
+    },
+    {
+        "qid": 17,
+        "label": "steieren",
+        "question": "Wéi gëtt d'Waassersteier berechent?",
+        "answer": [
+            "De fixe Bestanddeel baséiert op der Metergréisst an ass 2 EUR pro mm Duerchmiesser. Fir Kompositmetere gëtt de Präis ëm 38,10 € erhéicht. Op https://www.vdl.lu/en/living/your-home/water-connecting-your-home kënnt Dier liesen wéi Dir d'Waasser an Ärem Haus berechent kritt.\n"
+        ]
+    },
+    {
+        "qid": 17,
+        "label": "steieren",
+        "question": "Wéi vill ass d'Waassersteier?",
+        "answer": [
+            "De fixe Bestanddeel baséiert op der Metergréisst an ass 2 EUR pro mm Duerchmiesser. Fir Kompositmetere gëtt de Präis ëm 38,10 € erhéicht. Op https://www.vdl.lu/en/living/your-home/water-connecting-your-home kënnt Dier liesen wéi Dir d'Waasser an Ärem Haus berechent kritt.\n"
+        ]
+    },
+    {
+        "qid": 18,
+        "label": "steieren",
+        "question": "Muss ech meng Steieren zu Lëtzebuerg oder a Frankräich deklaréieren?",
+        "answer": [
+            "Eng Persoun déi eng Aarbecht zu Lëtzebuerg mécht, fir eng bestëmmten oder onbestëmmten Zäit, andeems si sech engem Patron entgéint Bezuelung zur Verfügung stellt, kann a Fro kommen seng Pai zu Lëtzebuerg mussen ze besteieren.\n",
+            "Méi spezifesch sinn déi folgend betraff:\n",
+            "- Mataarbechter;\n",
+            "- Beamten;\n",
+            "- Gemengebeamten;\n",
+            "- Studenten;\n",
+            "- Stagiairen, etc.\n",
+            "Méi Informationen hei: https://guichet.public.lu/fr/citoyens/impots-taxes/activite-salariee-non-resident/perception-salaire/revenu-occupation-salariee.html\n"
+        ]
+    },
+    {
+        "qid": 18,
+        "label": "steieren",
+        "question": "Soll ech a Frankräich Steiere op meng Lëtzebuerger Pai bezuelen?",
+        "answer": [
+            "Eng Persoun déi eng Aarbecht zu Lëtzebuerg mécht, fir eng bestëmmten oder onbestëmmten Zäit, andeems si sech engem Patron entgéint Bezuelung zur Verfügung stellt, kann a Fro kommen seng Pai zu Lëtzebuerg mussen ze besteieren.\n",
+            "Méi spezifesch sinn déi folgend betraff:\n",
+            "- Mataarbechter;\n",
+            "- Beamten;\n",
+            "- Gemengebeamten;\n",
+            "- Studenten;\n",
+            "- Stagiairen, etc.\n",
+            "Méi Informationen hei: https://guichet.public.lu/fr/citoyens/impots-taxes/activite-salariee-non-resident/perception-salaire/revenu-occupation-salariee.html\n"
+        ]
+    },
+    {
+        "qid": 19,
+        "label": "behennerungs-prioriteitskaart",
+        "question": "Wou kann ech eng Behënnerungs a Prioritéitskaart ufroen?",
+        "answer": [
+            "Dir kënnt dës Kaart hei ufroen: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-commun/cartes-transports/carte-invalidite.html#bloub-3\n"
+        ]
+    },
+    {
+        "qid": 20,
+        "label": "behennerungs-prioriteitskaart",
+        "question": "Wou fannen ech de Formulaire fir eng Behënnerungs a Prioritéitskaart?",
+        "answer": [
+            "Dir fannt de Formulaire um Enn vun der Säit: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-commun/cartes-transports/carte-invalidite.html#bloub-3\n"
+        ]
+    },
+    {
+        "qid": 21,
+        "label": "generalkonsulat",
+        "question": "Wou ass de portugisesche Generalkonsulat/Ambassade vu Portugal zu Lëtzebuerg?",
+        "answer": [
+            "Adress: 282, Route de Longwy L-1940 Luxembourg Dir kënnt méi Informatiounen hei fannen: https://luxemburgo.embaixadaportugal.mne.gov.pt/pt/\n"
+        ]
+    },
+    {
+        "qid": 22,
+        "label": "bibliotheik",
+        "question": "Wat sinn d'Ouvertureszäiten vun der Gemengebibliothéik?",
+        "answer": [
+            "D'Ouvertureszäiten sinn [Zäit].\n"
+        ]
+    },
+    {
+        "qid": 23,
+        "label": "wieder",
+        "question": "Wéi gëtt d'Wieder muer?",
+        "answer": [
+            "Dir kënnt d'Wieder op https://today.rtl.lu/info/weather kucken.\n"
+        ]
+    },
+    {
+        "qid": 24,
+        "label": "police",
+        "question": "Ech kruut eppes geklaut. Wou muss ech mech mellen?",
+        "answer": [
+            "D'Telefonsnummer vun der Police ass 113. All Noutfallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 24,
+        "label": "police",
+        "question": "Wéi kann ech mat der Police telephonéieren?",
+        "answer": [
+            "D'Telefonsnummer vun der Police ass 113. All Noutfallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 24,
+        "label": "police",
+        "question": "Ënnert wéi enger Nummer ereechen ech d'Police zu Lëtzebuerg?",
+        "answer": [
+            "D'Telefonsnummer vun der Police ass 113. All Noutfallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 25,
+        "label": "pompjeee",
+        "question": "Ech brauch Hëllef. Wou kann ech uruffen?",
+        "answer": [
+            "D'Telefonsnummer vun de Pomjeeën ass 112. All Noufallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 25,
+        "label": "pompjeee",
+        "question": "Wéi kann ech d'Pomjeen uruffen?",
+        "answer": [
+            "D'Telefonsnummer vun de Pomjeeën ass 112. All Noufallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 25,
+        "label": "pompjeee",
+        "question": "Ënner wéi enger Nummer ereechen ech d'Pompjeeë zu Lëtzebuerg?",
+        "answer": [
+            "D'Telefonsnummer vun de Pomjeeën ass 112. All Noufallnummeren zu Lëtzebuerg fannt Dir op https://www.editus.lu/en.\n"
+        ]
+    },
+    {
+        "qid": 26,
+        "label": "dokteren",
+        "question": "Wou kann ech Dokteren an dëser Gemeng fannen?",
+        "answer": [
+            "Dir kënnt op https://www.editus.lu/en no engem Spezialist an Ärer Géigend sichen.\n"
+        ]
+    },
+    {
+        "qid": 27,
+        "label": "educatioun",
+        "question": "Wou fannen ech Coursen fir Lëtzebuergesch?",
+        "answer": [
+            "Dir kënnt Lëtzebuergesch am staatlech unerkannten Institut National des Langues léieren. Et ginn och Asbl hei ernimmt: https://www.expatica.com/lu/education/language-learning/language-courses-in-luxembourg-106622/\n"
+        ]
+    },
+    {
+        "qid": 27,
+        "label": "educatioun",
+        "question": "Wou kann ech Lëtzebuergesch léieren?",
+        "answer": [
+            "Dir kënnt Lëtzebuergesch am staatlech unerkannten Institut National des Langues léieren. Et ginn och Asbl hei ernimmt: https://www.expatica.com/lu/education/language-learning/language-courses-in-luxembourg-106622/\n"
+        ]
+    },
+    {
+        "qid": 28,
+        "label": "educatioun",
+        "question": "Wou kann ech Friemsproochen zu Lëtzebuerg léieren?",
+        "answer": [
+            "Informatiounen iwwer d'Léiere vu Franséisch, Däitsch oder Lëtzebuergesch fannt Dir op: https://www.expatica.com/lu/education/language-learning/language-courses-in-luxembourg-106622/\n"
+        ]
+    },
+    {
+        "qid": 29,
+        "label": "wunnen",
+        "question": "Wou kann ech en Appartement an dëser Géigend fannen?",
+        "answer": [
+            "Informatiounen iwwer Immobilien zu Lëtzebuerg an an der Groussregioun fannt der op https://www.athome.lu/\n"
+        ]
+    },
+    {
+        "qid": 30,
+        "label": "aarbecht",
+        "question": "Ech sichen eng Aarbecht zu Lëtzebuerg. Wee ka mer dobäi hëllefen?",
+        "answer": [
+            "D'Organisatiounen iwwert Aarbecht zu Lëtzebuerg sinn: https://www.justarrived.lu/en/working-in-luxembourg/how-to-find-a-job-in-luxembourg/\n"
+        ]
+    },
+    {
+        "qid": 30,
+        "label": "aarbecht",
+        "question": "Wou kann ech eng Aarbecht zu Lëtzebuerg fannen?",
+        "answer": [
+            "D'Organisatiounen iwwert Aarbecht zu Lëtzebuerg sinn: https://www.justarrived.lu/en/working-in-luxembourg/how-to-find-a-job-in-luxembourg/\n"
+        ]
+    },
+    {
+        "qid": 31,
+        "label": "chomage",
+        "question": "Ech si Chômeur. Wat soll ech maachen?",
+        "answer": [
+            "Dir kënnt d'ADEM Websäit besichen: https://adem.public.lu/de/demandeurs-demploi/demander-indemnites-chomage.html\n"
+        ]
+    },
+    {
+        "qid": 32,
+        "label": "chomage",
+        "question": "Kann ech a Frankräich vum Chômagegeld profitéieren, wann ech zu Lëtzebuerg geschafft hunn?",
+        "answer": [
+            "All Chômage gëtt vum zoustännegen Organ vum Residenzland bezuelt an net vun der ADEM, och wann de Chômeur als Zousaz bei der ADEM ugemellt ass. Hei fannt Dir Information: https://guichet.public.lu/fr/citoyens/travail-emploi/chomage/indemnite-chomage/indemnite-chomage-frontalier.html\n"
+        ]
+    },
+    {
+        "qid": 33,
+        "label": "aarbecht",
+        "question": "Ech wëll e Betrib zu Lëtzebuerg grënnen. Wou soll ech goen?",
+        "answer": [
+            "Informatiounen zum Start-up an Entwécklung fannt Dir hei: https://guichet.public.lu/fr/entreprises/creation-developpement.html\n"
+        ]
+    },
+    {
+        "qid": 34,
+        "label": "restaurant",
+        "question": "Ech sichen e Restaurant an der Géigend.",
+        "answer": [
+            "Hei fannt Dir Restauranten zu Lëtzebuerg: https://www.visitluxembourg.com/en/eat-sleep/restaurants\n"
+        ]
+    },
+    {
+        "qid": 34,
+        "label": "restaurant",
+        "question": "Wou kann ech Restauranten an der Ëmgéigend fannen?",
+        "answer": [
+            "Hei fannt Dir Restauranten zu Lëtzebuerg: https://www.visitluxembourg.com/en/eat-sleep/restaurants\n"
+        ]
+    },
+    {
+        "qid": 35,
+        "label": "letzebuerg",
+        "question": "Wou kann ech d'Verfassung vu Lëtzebuerg fannen?",
+        "answer": [
+            "D'Verfassung ass op Franséisch verfügbar op: https://legilux.public.lu/eli/etat/leg/recueil/constitution/20191214\n"
+        ]
+    },
+    {
+        "qid": 35,
+        "label": "letzebuerg",
+        "question": "Wou kann ech déi Lëtzebuerger Verfaassung fannen?",
+        "answer": [
+            "D'Verfassung ass op Franséisch verfügbar op: https://legilux.public.lu/eli/etat/leg/recueil/constitution/20191214\n"
+        ]
+    },
+    {
+        "qid": 36,
+        "label": "educatioun",
+        "question": "Wou kann ech Informatiounen iwwer de Schoulsystem zu Lëtzebuerg fannen?",
+        "answer": [
+            "Informatiounen fir nei ukomm Schüler an hir Elteren fannt Dir op: https://men.public.lu/dam-assets/catalogue-publications/scolarisation-des-eleves-etrangers/informations-generales/welcome-to-luxembourgish-schools.pdf\n"
+        ]
+    },
+    {
+        "qid": 36,
+        "label": "educatioun",
+        "question": "Wéi eng Schoule ginn et fir méng Kanner?",
+        "answer": [
+            "Informatiounen fir nei ukomm Schüler an hir Elteren fannt Dir op: https://men.public.lu/dam-assets/catalogue-publications/scolarisation-des-eleves-etrangers/informations-generales/welcome-to-luxembourgish-schools.pdf\n"
+        ]
+    },
+    {
+        "qid": 37,
+        "label": "educatioun",
+        "question": "Wou kann ech Informatiounen iwwer Liewenslaang Léieren fannen?",
+        "answer": [
+            "Informatiounen fannt Dir op https://www.lifelong-learning.lu/Accueil/en\n"
+        ]
+    },
+    {
+        "qid": 38,
+        "label": "educatioun",
+        "question": "Ass d'Schoul obligatoresch zu Lëtzebuerg?",
+        "answer": [
+            "D’Schoul ass zu Lëtzebuerg obligatoresch fir Jonker bis 16 Joer.\n"
+        ]
+    },
+    {
+        "qid": 38,
+        "label": "educatioun",
+        "question": "Bis wivill Joer mussen d'Kanner an d'Schoul goen?",
+        "answer": [
+            "D’Schoul ass zu Lëtzebuerg obligatoresch fir Jonker bis 16 Joer.\n"
+        ]
+    },
+    {
+        "qid": 39,
+        "label": "steiererklarung",
+        "question": "Bis wéini muss ech méng Steierklärung oofginn?",
+        "answer": [
+            "D'Steiererklärung (Form 100) soll am léifsten bis den 31. Mäerz vum Joer no deem betreffendste Steierjoer beim zoustännege Steierbüro agereecht ginn: https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente /declaration-revenu-resident/declaration-impot.html\n"
+        ]
+    },
+    {
+        "qid": 39,
+        "label": "steiererklarung",
+        "question": "Wéini ass d'Deadline fir d'Steiererklärung?",
+        "answer": [
+            "D'Steiererklärung (Form 100) soll am léifsten bis den 31. Mäerz vum Joer no deem betreffendste Steierjoer beim zoustännege Steierbüro agereecht ginn: https://guichet.public.lu/en/citoyens/impots-taxes/pension-rente /declaration-revenu-resident/declaration-impot.html\n"
+        ]
+    },
+    {
+        "qid": 40,
+        "label": "deieren",
+        "question": "Muss ech mäin Hond deklaréieren?",
+        "answer": [
+            "Jo, um Site https://guichet.public.lu/en/citoyens/famille/animaux-domestiques/acquisition-chien/identifier-declarer-chien.html#bloub-11\n"
+        ]
+    },
+    {
+        "qid": 41,
+        "label": "nationaliteit",
+        "question": "Wéi kann ech déi lëtzebuergesch Nationalitéit kréien?",
+        "answer": [
+            "Dir kënnt d'lëtzebuerger Nationalitéit duerch Optioun kréien op: https://guichet.public.lu/fr/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/option.html\n"
+        ]
+    },
+    {
+        "qid": 42,
+        "label": "sproochen",
+        "question": "Wat sinn déi offiziell Sproochen zu Lëtzebuerg?",
+        "answer": [
+            "Zu Lëtzebuerg ginn et dräi offiziell Sproochen: Lëtzebuergesch, Franséisch an Däitsch. Informatiounen iwwer Méisproochegkeet fannt Dir op: https://luxembourg.public.lu/en/society-and-culture/languages/languages-spoken-luxembourg.html\n"
+        ]
+    },
+    {
+        "qid": 43,
+        "label": "sproochen",
+        "question": "Wou kann ech fir e Liewenskäschte Benefice Service ufroen?",
+        "answer": [
+            "Dës Informatioun fannt Dir op https://guichet.public.lu/en/citoyens/famille/mesures-action-sociale/aide-menages-revenus-modestes/allocation-vie-chere.html#bloub-5\n"
+        ]
+    },
+    {
+        "qid": 44,
+        "label": "offall",
+        "question": "Wou kann ech de Offallkalenner fannen?",
+        "answer": [
+            "Kuckt den Offallplang op https://www.vdl.lu/fr/living/your-home/waste-collection-and-sorting/collection-schedule/2\n"
+        ]
+    },
+    {
+        "qid": 44,
+        "label": "offall",
+        "question": "Wéini ginn d'Poubellen eidel gemaach?",
+        "answer": [
+            "Kuckt den Offallplang op https://www.vdl.lu/fr/living/your-home/waste-collection-and-sorting/collection-schedule/2\n"
+        ]
+    },
+    {
+        "qid": 45,
+        "label": "offall",
+        "question": "Wéi gëtt den Offall getrennt?",
+        "answer": [
+            "Informatioun iwwer Recycling fannt Dir op https://www.vdl.lu/de/living/your-home/waste-collection-and-sorting/recycling-z\n"
+        ]
+    },
+    {
+        "qid": 45,
+        "label": "offall",
+        "question": "Wéi kann ech recycléieren?",
+        "answer": [
+            "Informatioun iwwer Recycling fannt Dir op https://www.vdl.lu/de/living/your-home/waste-collection-and-sorting/recycling-z\n"
+        ]
+    },
+    {
+        "qid": 46,
+        "label": "chomage",
+        "question": "Wéi ass de Chômage haut zu Lëtzebuerg?",
+        "answer": [
+            "De Chômagetaux zu Lëtzebuerg louch 2020 bei ronn 6,96%.\n"
+        ]
+    },
+    {
+        "qid": 47,
+        "label": "chomage",
+        "question": "Ech sichen d'Telefonsnummer vun der ADEM?",
+        "answer": [
+            "D'Telefonsnummer ass 24 78 88 88.\n"
+        ]
+    },
+    {
+        "qid": 47,
+        "label": "chomage",
+        "question": "Kann ech d'Telefonsnummer vun der ADEM kréien?",
+        "answer": [
+            "D'Telefonsnummer ass 24 78 88 88.\n"
+        ]
+    },
+    {
+        "qid": 48,
+        "label": "letzebuerg",
+        "question": "Wien ass de Premier vu Lëtzebuerg?",
+        "answer": [
+            "De Premier ass de Xavier Bettel. Dir fannt all Ministeren hei: https://gouvernement.lu/de/gouvernement.html\n"
+        ]
+    },
+    {
+        "qid": 49,
+        "label": "letzebuerg",
+        "question": "Wéivill Ministèren ginn et?",
+        "answer": [
+            "Et gi 14 Ministèren zu Lëtzebuerg an déi sinn hei opgelëscht: https://gouvernement.lu/de/ministeres.html\n"
+        ]
+    },
+    {
+        "qid": 50,
+        "label": "aarbecht",
+        "question": "Wat ass de Mindestloun zu Lëtzebuerg?",
+        "answer": [
+            "De soziale Mindestloun am Moment zu Lëtzebuerg läit bei 2.256,95 EUR (am Index 855,62 den 1. Oktober 2021). Méi Informatiounen fannt Dir hei: https://guichet.public.lu/en/entreprises/ressources-humaines/remuneration/paiement-remunerations/salaire.html\n"
+        ]
+    },
+    {
+        "qid": 50,
+        "label": "aarbecht",
+        "question": "Wat ass de soziale Mindestloun zu Lëtzebuerg?",
+        "answer": [
+            "De soziale Mindestloun am Moment zu Lëtzebuerg läit bei 2.256,95 EUR (am Index 855,62 den 1. Oktober 2021). Méi Informatiounen fannt Dir hei: https://guichet.public.lu/en/entreprises/ressources-humaines/remuneration/paiement-remunerations/salaire.html\n"
+        ]
+    },
+    {
+        "qid": 51,
+        "label": "famill",
+        "question": "Wéi ass et mat der Adoptioun zu Lëtzebuerg?",
+        "answer": [
+            "All Informatioun iwwer Ufuerderungen a Prozedure fannt Dir hei: https://guichet.public.lu/en/citoyens/famille/parents/adoption/adoption-pleniere.html\n"
+        ]
+    },
+    {
+        "qid": 51,
+        "label": "famill",
+        "question": "Wéi kann ech e Kand adoptéieren?",
+        "answer": [
+            "All Informatioun iwwer Ufuerderungen a Prozedure fannt Dir hei: https://guichet.public.lu/en/citoyens/famille/parents/adoption/adoption-pleniere.html\n"
+        ]
+    },
+    {
+        "qid": 52,
+        "label": "antwert",
+        "question": "Wéini kréien ech eng Äntwert op meng Demande?",
+        "answer": [
+            "Op wéieng Demande bezitt der iech? Kënnt Dir beschreiwen wat Dir ugefroot hutt.\n"
+        ]
+    },
+    {
+        "qid": 53,
+        "label": "letzebuerg",
+        "question": "Wat ass de PIB vu Lëtzebuerg?",
+        "answer": [
+            "De Bruttoinlandsprodukt (PIB) zu Lëtzebuerg war 2020 73,26 Milliarden US-Dollar wäert, laut offiziellen Donnéeë vun der Weltbank.\n"
+        ]
+    },
+    {
+        "qid": 54,
+        "label": "letzebuerg",
+        "question": "Wéi vill Banken ginn et zu Lëtzebuerg?",
+        "answer": [
+            "Et ginn 147 Banken zu Lëtzebuerg.\n"
+        ]
+    },
+    {
+        "qid": 55,
+        "label": "letzebuerg",
+        "question": "Muss ech als Lëtzebuerger Employé e Bankkonto zu Lëtzebuerg hunn, wann ech a Frankräich wunnen?",
+        "answer": [
+            "Wann Dir legal an engem EU-Land wunnt, hutt Dir d'Recht e \"Basisbezuelungskonto\" opzemaachen. Banken kënnen Är Demande net refuséieren op de Grond datt Dir net am Land wunnt wou se etabléiert sinn. Mei Informationen hei: https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_fr.htm.\n"
+        ]
+    },
+    {
+        "qid": 56,
+        "label": "letzebuerg",
+        "question": "Huet Lëtzebuerg e Fluchhafen?",
+        "answer": [
+            "Jo, Lëtzebuerg huet ee Fluchhafen um Findel: https://www.lux-airport.lu/\n"
+        ]
+    },
+    {
+        "qid": 57,
+        "label": "letzebuerg",
+        "question": "Wat ass de Lännercode vu Lëtzebuerg?",
+        "answer": [
+            "De Lännercode vu Lëtzebuerg ass +352.\n"
+        ]
+    },
+    {
+        "qid": 58,
+        "label": "letzebuerg",
+        "question": "Wien ass de Groussherzog vu Lëtzebuerg?",
+        "answer": [
+            "De Groussherzog Henri vu Lëtzebuerg ass den aktuelle Groussherzog vu Lëtzebuerg. Méi Informatiounen iwwert d'Groussherzoglech Famill fannt Dir op https://sip.gouvernement.lu/dam-assets/publications/brochure-livre/minist-etat/sip/livre/famille_grand-ducale/La_famille_grand-ducale-EN.pdf.\n"
+        ]
+    },
+    {
+        "qid": 59,
+        "label": "gebuert",
+        "question": "Ech wëll eng Gebuert deklaréieren.",
+        "answer": [
+            "Déi administrativ Prozedur iwwer d'Déclaratioun vun enger Gebuert fannt der hei: https://guichet.public.lu/de/citoyens/famille/parents/obligation-naissance/declarer-naissance.html#bloub-1\n"
+        ]
+    },
+    {
+        "qid": 59,
+        "label": "gebuert",
+        "question": "Wou muss ech d'Gebuert vu méngem Bebé umellen?",
+        "answer": [
+            "Déi administrativ Prozedur iwwer d'Déclaratioun vun enger Gebuert fannt der hei: https://guichet.public.lu/de/citoyens/famille/parents/obligation-naissance/declarer-naissance.html#bloub-1\n"
+        ]
+    },
+    {
+        "qid": 60,
+        "label": "famill",
+        "question": "Ech hunn e Kand, wat sinn d'Prozedure fir Familljegeld ze kréien?",
+        "answer": [
+            "Informatiounen iwwer d'Demande fir d'Familljenzoulag fannt Dir hei: https://guichet.public.lu/fr/citoyens/brexit/allocations-familiales/allocations-familiales.html#bloub-1\n"
+        ]
+    },
+    {
+        "qid": 60,
+        "label": "famill",
+        "question": "Wéi profitéiert een als franséischen Awunner vun de Lëtzebuerger Familljenzoulagen?",
+        "answer": [
+            "Informatiounen iwwer d'Demande fir d'Familljenzoulag fannt Dir hei: https://guichet.public.lu/fr/citoyens/brexit/allocations-familiales/allocations-familiales.html#bloub-1\n"
+        ]
+    },
+    {
+        "qid": 60,
+        "label": "famill",
+        "question": "Wéieng Familljenzoulagen ginn et zu Lëtzebuerg?",
+        "answer": [
+            "Informatiounen iwwer d'Demande fir d'Familljenzoulag fannt Dir hei: https://guichet.public.lu/fr/citoyens/brexit/allocations-familiales/allocations-familiales.html#bloub-1\n"
+        ]
+    },
+    {
+        "qid": 61,
+        "label": "passport",
+        "question": "Wéi vill kascht e Pass?",
+        "answer": [
+            "De Betrag, dee fir d'Ausstelle vun engem Pass gëlteg fir 5 Joer ass, ass: 50 EUR ënner der Standardprozedur; 150 EUR ënner der Schnellverfahren; fir 2 Joer (nëmme fir Kanner ënner XXX)\n"
+        ]
+    },
+    {
+        "qid": 62,
+        "label": "passport",
+        "question": "Ech wëll fir e Pass rembourséiert ze kréien.",
+        "answer": [
+            "De Formulaire fir rembourséiert ze kréien fannt Dir um Enn vun dëser Säit: https://guichet.public.lu/fr/citoyens/citoyennete/papiers-identite/titre-voyage/passeport-biometrique-resident.html#bloub-15\n"
+        ]
+    },
+    {
+        "qid": 63,
+        "label": "letzebuerg",
+        "question": "Wéini sinn d'Schoulvakanzen zu Lëtzebuerg?",
+        "answer": [
+            "D'Schoulvakanzen fannt Dir hei: https://www.vdl.lu/de/living/education-and-training/enrolling-your-child-school/school-holidays-and-breaks\n"
+        ]
+    },
+    {
+        "qid": 64,
+        "label": "bus",
+        "question": "Wat ass Adapto?",
+        "answer": [
+            "Adapto Transport ass e spezifeschen Transport, deen als individuellen kollektiven Transport fonctionnéiert, fir Bierger mat engem irreversibelen Behënnerung oder engem kierperlechen, geeschtege, sensoreschen oder psychesche Behënnerung geduecht, wann dës Behënnerung eng staark reduzéiert Mobilitéit verursaacht. Méi Informatiounen hei: https://transports.public.lu/fr/services/dossier-services/adapto.html/\n"
+        ]
+    },
+    {
+        "qid": 65,
+        "label": "bus",
+        "question": "Wat ass de Ruff Bus?",
+        "answer": [
+            "De Ruff Bus ass e modernt Passagéier Transportkonzept am ëffentlechen Transport. De Prinzip ass ganz einfach: Op Ufro kënnt de Ruff Bus Iech virun Ärer Hausdier sichen a bréngt Iech op déi vun Iech gewënschten Adress a wann Dir wëllt, duerno och nees Heem. All Gemeng huet esou e Ruffbus.\n"
+        ]
+    },
+    {
+        "qid": 66,
+        "label": "matrikelnummer",
+        "question": "Wat ass méng Matrikelnummer?",
+        "answer": [
+            "L guichet.lu\n",
+            "Maacht de Browser op Ärem Computer op a mellt Iech mat Ärem LuxTrust Produkt oder Är elektronescher Identitéitskaart (eID) op Äre MyGuichet.lu Kont un. Klickt op de Pair \"Mobilgerät koppeln\" uewen op der Säit.\n",
+            "Dir kënnt Är 13-Stelleg Identifikatiounsnummer hei erausfannen: https://guichet.public.lu/fr/outils/matricule.html.\n"
+        ]
+    },
+    {
+        "qid": 66,
+        "label": "matrikelnummer",
+        "question": "Wou kann ech meng Identifikationsnummer fannen?",
+        "answer": [
+            "L guichet.lu\n",
+            "Maacht de Browser op Ärem Computer op a mellt Iech mat Ärem LuxTrust Produkt oder Är elektronescher Identitéitskaart (eID) op Äre MyGuichet.lu Kont un. Klickt op de Pair \"Mobilgerät koppeln\" uewen op der Säit.\n",
+            "Dir kënnt Är 13-Stelleg Identifikatiounsnummer hei erausfannen: https://guichet.public.lu/fr/outils/matricule.html.\n"
+        ]
+    },
+    {
+        "qid": 66,
+        "label": "matrikelnummer",
+        "question": "Wou kann ech meng Matrikelnummer fannen?",
+        "answer": [
+            "L guichet.lu\n",
+            "Maacht de Browser op Ärem Computer op a mellt Iech mat Ärem LuxTrust Produkt oder Är elektronescher Identitéitskaart (eID) op Äre MyGuichet.lu Kont un. Klickt op de Pair \"Mobilgerät koppeln\" uewen op der Säit.\n",
+            "Dir kënnt Är 13-Stelleg Identifikatiounsnummer hei erausfannen: https://guichet.public.lu/fr/outils/matricule.html.\n"
+        ]
+    },
+    {
+        "qid": 66,
+        "label": "matrikelnummer",
+        "question": "Wéi kann ech d'guichet.lu App mat méngem MyGuichet.lu-Konto koppeln?",
+        "answer": [
+            "L guichet.lu\n",
+            "Maacht de Browser op Ärem Computer op a mellt Iech mat Ärem LuxTrust Produkt oder Är elektronescher Identitéitskaart (eID) op Äre MyGuichet.lu Kont un. Klickt op de Pair \"Mobilgerät koppeln\" uewen op der Säit.\n",
+            "Dir kënnt Är 13-Stelleg Identifikatiounsnummer hei erausfannen: https://guichet.public.lu/fr/outils/matricule.html.\n"
+        ]
+    },
+    {
+        "qid": 67,
+        "label": "baugeneemegung",
+        "question": "Ech wëll mäin Haus renovéieren. Braucht ech eng Baugenehmegung?",
+        "answer": [
+            "Déi folgend Aarbechten erfuerderen eng Baugenehmegung:\n",
+            "- all neit Gebai;\n",
+            "- all Renovatioun (z.B. eng Erhéijung vun der Unzuel vun Appartementer);\n",
+            "- all Ännerung vun der Notzung vun engem Gebai (zum Beispill, Ëmwandlung vun engem kommerziellen Gebai an Wunnengen);\n",
+            "- all Ofbau;\n",
+            "- Ausgruewung an Ausgruewungsaarbechten;\n",
+            "- All opteschen Apparat fir Reklammzwecker, onofhängeg vum Objet vun der Reklamm an der Plaz vum Apparat, mat Ausnam vu Reklammen déi nëmmen am Gebai benotzt gëtt. Information fannt Dir hei: https://guichet.public.lu/fr/entreprises/urbanisme-environnement/construction-amenagement-site/construction-transformation-demolition/permis-construire.html\"\n"
+        ]
+    },
+    {
+        "qid": 67,
+        "label": "baugeneemegung",
+        "question": "Fir wat brauch ech eng Baugenehmegung?",
+        "answer": [
+            "Déi folgend Aarbechten erfuerderen eng Baugenehmegung:\n",
+            "- all neit Gebai;\n",
+            "- all Renovatioun (z.B. eng Erhéijung vun der Unzuel vun Appartementer);\n",
+            "- all Ännerung vun der Notzung vun engem Gebai (zum Beispill, Ëmwandlung vun engem kommerziellen Gebai an Wunnengen);\n",
+            "- all Ofbau;\n",
+            "- Ausgruewung an Ausgruewungsaarbechten;\n",
+            "- All opteschen Apparat fir Reklammzwecker, onofhängeg vum Objet vun der Reklamm an der Plaz vum Apparat, mat Ausnam vu Reklammen déi nëmmen am Gebai benotzt gëtt. Information fannt Dir hei: https://guichet.public.lu/fr/entreprises/urbanisme-environnement/construction-amenagement-site/construction-transformation-demolition/permis-construire.html\"\n"
+        ]
+    },
+    {
+        "qid": 68,
+        "label": "versecherung",
+        "question": "Ech britesch a wunnen zu Lëtzebuerg. Hunn ech eng Krankeversécherung?",
+        "answer": [
+            "Ënnert dem Handels- a Kooperatiounsofkommes tëscht der EU a Groussbritannien, kënnt Dir all Betreiung kréien, déi Dir braucht, während Dir zu Lëtzebuerg sidd. Fir dëst ze maachen, musst Dir d'Krankenkeesversécherungskaart presentéieren, déi Iech vun Ärem britesche Versécherer ausgestallt gëtt ofhängeg vun Ärer Situatioun:\n",
+            "- EHIC (European Health Insurance Card);\n",
+            "- CRA EHIC;\n",
+            "- Student EHIC;\n",
+            "- GHIC (Global Gesondheetsversécherungskaart);\n",
+            "dem Gesondheetsversuerger zu Lëtzebuerg. Mei Information hei: https://guichet.public.lu/fr/support/faq-brexit/brexit-citoyens/brexit-citoyens-brit/sejour-travail.html.\n"
+        ]
+    },
+    {
+        "qid": 69,
+        "label": "auto",
+        "question": "Wou kann ech e Führerschäin zu Lëtzebuerg kréien?",
+        "answer": [
+            "All genehmegt Fahrschoulen fannt Dir hei: https://snca.public.lu/fr/permis/autos-ecoles-agrees.html\n"
+        ]
+    },
+    {
+        "qid": 70,
+        "label": "nei-ukomm",
+        "question": "Ech sinn grad zu Lëtzebuerg ukomm. Wat sinn déi éischt Schrëtt?",
+        "answer": [
+            "Dir fannt e praktesche Guide fir nei Residenten hei: https://luxembourg.public.lu/dam-assets/publications/just-arrived/just-arrived-en.pdf.\n"
+        ]
+    },
+    {
+        "qid": 71,
+        "label": "auto",
+        "question": "Kann ech en Auto op Lëtzebuerg importéieren?",
+        "answer": [
+            "Jiddereen, dee sech permanent zu Lëtzebuerg niddergelooss huet, ass verpflicht säin Gefier bannent 6 Méint vum Datum vun der Aschreiwung an der Residenzgemeng do ze registréieren. Mei Information hei: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/vehicule-demenagement-transfrontalier.html.\n"
+        ]
+    },
+    {
+        "qid": 71,
+        "label": "auto",
+        "question": "Kann ech en Auto, deen ech an Däitschland kaaft hunn, op Lëtzebuerg bréngen?",
+        "answer": [
+            "Jiddereen, dee sech permanent zu Lëtzebuerg niddergelooss huet, ass verpflicht säin Gefier bannent 6 Méint vum Datum vun der Aschreiwung an der Residenzgemeng do ze registréieren. Mei Information hei: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-individuels/achat-importation-vehicule-etranger/vehicule-demenagement-transfrontalier.html.\n"
+        ]
+    },
+    {
+        "qid": 72,
+        "label": "deieren",
+        "question": "Muss ech méngem Hond en Chip maachen?",
+        "answer": [
+            "D'Identifikatioun vum Hond mat Hëllef vun engem elektroneschen Chip muss spéitstens 4 Méint no der Gebuert vum Hond geschéien.\n"
+        ]
+    },
+    {
+        "qid": 73,
+        "label": "letzebuerg",
+        "question": "Wat ass den allgemengen Bebauungsplang?",
+        "answer": [
+            "Den allgemenge Bebauungsplang (\"Plan d'aménagement géneral\" - PAG) ass eng Rei vu reglementaresche Viraussetzungen a grafesch a schrëftlecher Form, déi an enger bestëmmter Gemeng gëllen. Méi Informatiounen hei: https://guichet.public.lu/de/entreprises/urbanisme-environnement/construction-amenagement-site/construction-transformation-demolition/plan-amenagement-general.html\n"
+        ]
+    },
+    {
+        "qid": 74,
+        "label": "mobiliteit",
+        "question": "Wéi kann ech e Parkschäin/Vignette kréien?",
+        "answer": [
+            "D'Demande fir eng Awunnerparksgenehmegung an der Stad Lëtzebuerg fannt Dir hei: https://form-server.vdl.lu/CIRCULATION_de/Controler?action=submit&documentId=form_vignette_fr&mediaType=ji_html&layout=normal&jsysCSRFToken=d117e0be-55ed-425f-8dfe-80b25a9fd7cc\n"
+        ]
+    },
+    {
+        "qid": 75,
+        "label": "aarbecht",
+        "question": "Wéi gi meng Aarbechtsjoer zu Lëtzebuerg fir meng Pensioun a Frankräich gezielt ginn?",
+        "answer": [
+            "D'Frontalieren bezuelen hir Contributiounen am Aarbechtsland a genéissen dofir déiselwecht Rechter wéi d'Residentaarbechter, mat Ausnam vu bestëmmten net iwwerdrobaren Virdeeler. Wat d'Sozialversécherung ugeet, gëllt d'Gesetzgebung vum Land vun der Aarbechtsplaz. Mei Informationen hei: https://guichet.public.lu/fr/citoyens/travail-emploi/preretraite-retraite/assurance-pension/demander-pension-vieillesse-frontaliers.html.\n"
+        ]
+    },
+    {
+        "qid": 76,
+        "label": "conge-parental",
+        "question": "Ech hunn e Puppelchen vun 8 Méint. Ech wëll de Congé parental ufroen.",
+        "answer": [
+            "Een Elterendeel kann ufroen:\n",
+            "- entweder den 1. Congé parental, deen direkt nom Congé de maternité oder der Adoptioun soll ofgeholl ginn;\n",
+            "- oder den 2. Congé parental virum 6. Gebuertsdag vum Kand (12. Gebuertsdag am Fall vun der Adoptioun). Méi Informatiounen hei: https://guichet.public.lu/fr/entreprises/ressources-humaines/conges/situation-perso/conge-parental.html\n"
+        ]
+    },
+    {
+        "qid": 76,
+        "label": "conge-parental",
+        "question": "Wéi kann ech de Congé parental ufroen?",
+        "answer": [
+            "Een Elterendeel kann ufroen:\n",
+            "- entweder den 1. Congé parental, deen direkt nom Congé de maternité oder der Adoptioun soll ofgeholl ginn;\n",
+            "- oder den 2. Congé parental virum 6. Gebuertsdag vum Kand (12. Gebuertsdag am Fall vun der Adoptioun). Méi Informatiounen hei: https://guichet.public.lu/fr/entreprises/ressources-humaines/conges/situation-perso/conge-parental.html\n"
+        ]
+    },
+    {
+        "qid": 77,
+        "label": "haus",
+        "question": "Mir hu Schimmel am Haus. De Proprietaire wëll net bezuelen, wat soll ech maachen?",
+        "answer": [
+            "Informatiounen iwwer Meenungsverschiddenheeten tëscht Locataire a Besëtzer an Zesummenhang mam Loyer an / oder d'Niewekäschten kënnt Dir hei uginn: https://guichet.public.lu/fr/citoyens/logement/location/litige/regler-litige-fixation-loyer.html\n"
+        ]
+    },
+    {
+        "qid": 78,
+        "label": "haus",
+        "question": "Ech wëll mäin Haus verkafen, weem muss ech dat mellen?",
+        "answer": [
+            "De Verkaf oder den Austausch muss vun enger Immobilie ëmmer un der Steierverwaltung gemellt ginn (Administration des Contributions directes - ACD). Méi Informatiounen hei: https://guichet.public.lu/de/citoyens/impots-taxes/bien-immobilier/vente/declaration-vente.html#bloub-5\n"
+        ]
+    },
+    {
+        "qid": 79,
+        "label": "haus",
+        "question": "Kréien ech eng Prime fir mäin AAA Heem ze finanzéieren?",
+        "answer": [
+            "Finanziell Hëllef fir de Bau vun engem neie Wunnhaus (Eenzel- oder Méifamilljenhaus) mat héijer Energieeffizienz ka vun de folgende Leit ugefrot ginn:\n",
+            "- natierlech Persounen;\n",
+            "- Asbl (Asbl);\n",
+            "- Immobiliengesellschaften no Zivilrecht (sociétés civiles immobilières);\n",
+            "- privat an ëffentlech Promoteuren. Méi Informatiounen hei: https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/aide-financiere-maison-passive.html#bloub-6\"\n"
+        ]
+    },
+    {
+        "qid": 80,
+        "label": "haus",
+        "question": "Ech hunn d'lescht Joer eng Wärmepompel installéiert. Kann ech Sue vum Staat kréien.",
+        "answer": [
+            "Jo. Dir kënnt hei liesen wéi der eng Demande kënnt man: https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/aide-financiere-maison-passive.html#bloub-4\n"
+        ]
+    },
+    {
+        "qid": 80,
+        "label": "haus",
+        "question": "Ech wëll Photovoltaik op méngem Haus installéieren. Gëtt et dofier e Bonus?",
+        "answer": [
+            "Jo. Dir kënnt hei liesen wéi der eng Demande kënnt man: https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/aide-financiere-maison-passive.html#bloub-4\n"
+        ]
+    },
+    {
+        "qid": 80,
+        "label": "haus",
+        "question": "Ech wëll e Solarsystem installéieren.",
+        "answer": [
+            "Jo. Dir kënnt hei liesen wéi der eng Demande kënnt man: https://guichet.public.lu/de/citoyens/logement/construction/performances-energie/aide-financiere-maison-passive.html#bloub-4\n"
+        ]
+    },
+    {
+        "qid": 81,
+        "label": "euthanasie",
+        "question": "Ass Euthanasie zu Lëtzebuerg erlaabt?",
+        "answer": [
+            "Fir datt eng Demande no Euthanasie oder Suizidhëllef zu Lëtzebuerg legal ass, musse folgend Konditiounen erfëllt sinn:\n",
+            "- Dir musst am Moment vun der Demande bewosst sinn.\n",
+            "- Dir musst am legalen Alter sinn: Dat heescht, Dir däerft net vum Geriicht als onfäheg beurteelt ginn fir Är eegen Entscheedungen ze treffen.\n",
+            "- Dir musst Är Entscheedung ouni externen Drock gemaach hunn.\n",
+            "- Dir musst an enger hoffnungsloser medizinescher Situatioun sinn, ouni Perspektiv op Verbesserung, no engem Accident oder medizinesche Zoustand, an dës Situatioun ass irreversibel am aktuellen Zoustand vun der Wëssenschaft.\n",
+            "- Dir musst kierperlech oder psychologesch un Ärer Gesondheetssituatioun leiden.\n",
+            "- Är Ufro muss schrëftlech opgeholl ginn, Är Kontaktdetailer enthalen, datéiert an ënnerschriwwen.\n",
+            "- Dir kënnt Är Demande zu all Moment zréckzéien. Et gëtt dann aus Ärem medizinesche Fichier geläscht an Dir kënnt et recuperéieren. Méi Informatiounen hei: https://sante.public.lu/fr/droits/fin-vie/euthanasie/index.html\n"
+        ]
+    },
+    {
+        "qid": 82,
+        "label": "palliativ",
+        "question": "Wéi geet et mat der palliativer Betreiung zu Lëtzebuerg?",
+        "answer": [
+            "D’Recht op palliativ Betreiung gëtt festgeluecht duerch eng Deklaratioun, déi vum behandelenden Dokter un de Service medezinesch Kontroll vun der Sécurité Sociale (Contrôle médical de la sécurité sociale) mat engem speziellen Formulaire agereecht gëtt.\n",
+            "Wann d'palliativ Betreiung guttgeheescht gëtt, huet de Stierwenden 35 Deeg laang drop Usproch. Ausnahmsweis kann dës Period duerch eng oder méi zousätzlech Periode vu jee 35 Deeg op gerechtfäerdegt Ufro vum behandelenden Dokter verlängert ginn. Méi Informatiounen ginn et hei: https://guichet.public.lu/de/citoyens/famille/euthanasie-soins-palliatifs/fin-de-vie/beneficier-soins-palliatifs.html\n"
+        ]
+    },
+    {
+        "qid": 83,
+        "label": "insolvenz",
+        "question": "Ech hunn Scholden. Wéi kann ech eng Insolvenz maachen?",
+        "answer": [
+            "Insolvenzverfahren kënnen op déi folgend Manéier initiéiert ginn:\n",
+            "- andeems de Schuldner d'Insolvenz umellt, well hien dozou gesetzlech verpflicht ass;\n",
+            "- andeems de Schuldner op d'Geriicht geruff gett, op Demande vun engem oder méi Gläubiger;\n",
+            "- d'office vum Geriicht. Méi Informatiounen hei: https://guichet.public.lu/de/entreprises/sauvegarde-cessation-activite/faillite/faillite-entreprise/effets-jugement-declar-faillite.html\n"
+        ]
+    },
+    {
+        "qid": 84,
+        "label": "altersheemer",
+        "question": "Wéi vill Altersheemer ginn et zu Lëtzebuerg?",
+        "answer": [
+            "D'Lëscht an d'Kontaktdaten vun de Fleegeheemer fannt Dir hei: http://www.luxsenior.lu/online/www/nav_content/15/172/DEU/index.html\n"
+        ]
+    },
+    {
+        "qid": 85,
+        "label": "CNS",
+        "question": "Ech wëll eng CNS Kaart ufroen.",
+        "answer": [
+            "Dir musst Är Kaart hei bestellen: https://ccss.public.lu/fr/commandes-certificats/particuliers/commande-carte.html\n"
+        ]
+    },
+    {
+        "qid": 85,
+        "label": "CNS",
+        "question": "Wéi kréien ech eng CNS Kaart?",
+        "answer": [
+            "Dir musst Är Kaart hei bestellen: https://ccss.public.lu/fr/commandes-certificats/particuliers/commande-carte.html\n"
+        ]
+    },
+    {
+        "qid": 86,
+        "label": "CNS",
+        "question": "Meng CNS Kaart leeft oof. Wat muss ech man?",
+        "answer": [
+            "Dir kritt automatesch eng nei Kaart an dat zwee Méint am Viraus. Dir musst d'Kaart net selwer ufroen.\n"
+        ]
+    },
+    {
+        "qid": 87,
+        "label": "gebuert",
+        "question": "Wou ginn ech de Gebuertsschäin vun mengem Puppelchen of?",
+        "answer": [
+            "Unknown.\n"
+        ]
+    },
+    {
+        "qid": 88,
+        "label": "doud",
+        "question": "Meng Fra ass d'lescht Woch gestuerwen. Wat muss ech man?",
+        "answer": [
+            "Fir eng Kopie vum Doudescertificat oder en Extrait aus dësem Certificat ze kréien, kann de Kandidat seng Demande wéi follegt ofginn, je no Gemeng:\n",
+            "-  perséinlech am zoustännegen Departement vum Standesamt op Presentatioun vun enger gülteger Identitéitskaart;\n",
+            "-  iwwer Internet andeems Dir eng Online Demande ofgidd;\n",
+            "-  per Post;\n",
+            "-  iwwer Telefon (an den Ëffnungszäite vun der Gemengeverwaltung). Méi Informatiounen hei: https://guichet.public.lu/de/citoyens/citoyennete/certificat-casier-judiciaire/certificat-copie/acte-deces.html#bloub-3\n"
+        ]
+    },
+    {
+        "qid": 89,
+        "label": "BILAN-30",
+        "question": "Wat ass de BILAN 30?",
+        "answer": [
+            "De Programm \"Bilan 30\" ass e Programm fir Elteren a Saache Sproochentwécklung fir hir Kanner z'ënnerstëtzen. Den Hörgerätsservice (Service audiophonologique) vun der Gesondheetsautoritéit (Direction de la santé) invitéiert automatesch all Eltere fir um Programm „Bilan 30“ matzemaachen, wann hiert Kand den Alter vun 30 Méint (2,5 Joer) erreecht. Méi Informatiounen hei: https://guichet.public.lu/de/citoyens/famille/parents/assistance-enfance/bilan-30.html\n"
+        ]
+    },
+    {
+        "qid": 90,
+        "label": "conge-parental",
+        "question": "Ech wëll de Congé aus familiäre Grënn ufroen.",
+        "answer": [
+            "Dir fannt de Formulaire hei: https://guichet.public.lu/de/citoyens/travail-emploi/conges-jours-feries/situation-personnelle/covid-conge-quarantaine-isolement-enfant.html#bloub-9 Dir kënnt et entweder elektronesch oder per Post ofginn. \n"
+        ]
+    },
+    {
+        "qid": 91,
+        "label": "vakanzdeeg",
+        "question": "Ech brauch eng Telefonsnummer fir meng Fro ze stellen.",
+        "answer": [
+            "All Employé huet d'Recht op mindestens 26 Aarbechtsdeeg bezuelte Congé pro Joer. Méi Informatiounen fannt der hei: https://guichet.public.lu/fr/entreprises/ressources-humaines/conges/annuel/conge-annuel.html\n"
+        ]
+    },
+    {
+        "qid": 91,
+        "label": "vakanzdeeg",
+        "question": "Wéivill Vakanzdeeg hues du zu Lëtzebuerg?",
+        "answer": [
+            "All Employé huet d'Recht op mindestens 26 Aarbechtsdeeg bezuelte Congé pro Joer. Méi Informatiounen fannt der hei: https://guichet.public.lu/fr/entreprises/ressources-humaines/conges/annuel/conge-annuel.html\n"
+        ]
+    },
+    {
+        "qid": 92,
+        "label": "auto",
+        "question": "Wéi kann ech mäin Auto umellen?",
+        "answer": [
+            "Fir dësen Zweck musse verschidde Formalitéiten a verschiddene Kontaktpunkten an dëser Reienfolleg ofgeschloss ginn:\n",
+            "Demande fir eng Plackenummer (wann néideg);\n",
+            "Oofschloss vun enger Kfz-Haftpflichtversicherung;\n",
+            "Bezuelen vum Timber;\n",
+            "Areechen vun den administrativen Dokumenter bei der SNCA. Méi Informatiounen fanne der hei: https://guichet.public.lu/de/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/acheter-vehicule-luxembourg.html\"\n"
+        ]
+    },
+    {
+        "qid": 93,
+        "label": "auto",
+        "question": "Brauch ech Wanterpneuen?",
+        "answer": [
+            "Zu Lëtzebuerg mussen all Gefierer, déi op den ëffentleche Stroossen a Wanterstroossebedéngungen benotzt ginn, mat 4 richtege Wanterpneuen ausgestatt sinn. D'Reglement gëllt fir all Chauffeuren, onofhängeg vum Land an deem d'Gefier registréiert ass. Wann dës Regel net respektéiert gëtt, gëtt eng Warngebühr an der Héicht vun 74 EUR. Méi Informatiounen hei: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/pneus-hiver.html\n"
+        ]
+    },
+    {
+        "qid": 93,
+        "label": "auto",
+        "question": "Muss ech d'Pneuen vum Auto am Wanter wiesselen?",
+        "answer": [
+            "Zu Lëtzebuerg mussen all Gefierer, déi op den ëffentleche Stroossen a Wanterstroossebedéngungen benotzt ginn, mat 4 richtege Wanterpneuen ausgestatt sinn. D'Reglement gëllt fir all Chauffeuren, onofhängeg vum Land an deem d'Gefier registréiert ass. Wann dës Regel net respektéiert gëtt, gëtt eng Warngebühr an der Héicht vun 74 EUR. Méi Informatiounen hei: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/pneus-hiver.html\n"
+        ]
+    },
+    {
+        "qid": 93,
+        "label": "auto",
+        "question": "Si Wanterpneuen zu Lëtzebuerg obligatoresch?",
+        "answer": [
+            "Zu Lëtzebuerg mussen all Gefierer, déi op den ëffentleche Stroossen a Wanterstroossebedéngungen benotzt ginn, mat 4 richtege Wanterpneuen ausgestatt sinn. D'Reglement gëllt fir all Chauffeuren, onofhängeg vum Land an deem d'Gefier registréiert ass. Wann dës Regel net respektéiert gëtt, gëtt eng Warngebühr an der Héicht vun 74 EUR. Méi Informatiounen hei: https://guichet.public.lu/fr/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/pneus-hiver.html\n"
+        ]
+    }]
+}
